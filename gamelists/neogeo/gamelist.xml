@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./sonicwi2.zip</path>
+		<name>Aero Fighters 2 / Sonic Wings 2</name>
+		<desc>The game is played with two buttons, with the A button firing bullets from the plane and the B button launching a special bomb attack which uses a bomb from a limited stock of bombs. Power bullets can be obtained by destroying buildings and armored enemy planes. There are 2 types of Power bullets: "P" Power bullets, that increases the plane's firepower by one level, and "F" Power bullets, that increases the plane's firepower to the maximum level instantly. The maximum level only lasts for a limited amount of shots.
+When certain ground enemies and buildings are destroyed, money bonuses appear which give a random amount of points each. When the player reaches the end of the stage, the player has to face a boss ship.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/sonicwi2-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Action</genre>
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20170210T021444</lastplayed>
+	</game>
+	<game>
+		<path>./sonicwi3.zip</path>
+		<name>Aero Fighters 3 / Sonic Wings 3</name>
+		<desc>The world seems to be free from the menace of the evil alien forces. However, they are not willing to give up and launch a surprise attack against the Aero Fighters' base, effectively destroying their aircraft. Unable to counter the attack, they must use old WWII-era warplanes with strange modifications, in a desperate scramble for victory.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/sonicwi3-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./aof.zip</path>
+		<name>Art Of Fighting</name>
+		<desc>Yuri Sakazaki has been kidnapped! Her big brother Ryo Sakazaki and Robert Garcia, his best friend, go search for her on the streets of South Town. As they go deeper and deeper they will find clues as to who ordered the kidnapping, the Sakazaki family's relation to the mob, and a person from their past.
+
+This fighting game is a coin-op conversion of the Neo-Geo hit of the same name, and has all characters, stages, and moves featured in the arcade unit. Unlike the original arcade version, players can now play as Mr. Big and the elusive Mr. Karate.
+
+The gameplay differs from most fighting games. In this game, you have a Spirit meter. A Spirit meter is in the game and will decrease as you perform special moves. It can be recharged, but doing so leaves you open to attack. When your health is almost gone, you can perform a secret combination that will unleash a deadly attack on your opponent - provided you have a full Spirit meter.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/aof-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19920924T000000</releasedate>
+		<developer>SNK Corporation</developer>
+		<publisher>SNK of America</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170210T012647</lastplayed>
+	</game>
+	<game>
+		<path>./ganryu.zip</path>
+		<name>Ganryu</name>
+		<desc>On April 14, 1612, Musashi Miyamoto and Sasaki Kojirō dueled. Musashi had an opportunity to see Kojiro's sword sometime before the duel and knew of its long length, so Musashi made his sword even longer. When Musashi arrived on the beach for the duel, he jumped over a low strike of Kojiro's, reaching about a meter off the ground and came down on Kojiro's head with his heavy wooden sword. Kojiro lay dying on the sand and Musashi left without killing him. Some of Musashi's critics called Musashi a coward for not killing Kojiro, but Musashi was satisfied that Kojiro had been defeated, but Kojiro comes back from the dead to try to kill Musashi.
+
+The game's selectable characters are swordsman Ganryu and his female counterpart Suzume. The mission of the game is to rescue Ganryu's girlfriend from an evil ninja. Players are armed with a sword and a grappling claw.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/ganryu-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170206T064048</lastplayed>
+	</game>
+	<game>
+		<path>./garou.zip</path>
+		<name>Garou: Mark of the Wolves</name>
+		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
+
+Now Rock is a teenager, and Terry is a man in his 30s, and both are about to come together in a new clash...new faces and old come together for the greatest battle yet!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/garou-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20000225T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170206T175110</lastplayed>
+	</game>
+	<game>
+		<path>./lastblad.zip</path>
+		<name>Last Blade</name>
+		<desc>1863. History's hidden secret is revealed. During the age known as "Bakumatsu", 135 years ago, chaos rules! It's all yours: A new type of weapon fighting game in which Power and Speed weapons, in addition to various Repel moves can be used to experience a new sensation in video game thrills!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/lastblad-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19971205T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T020655</lastplayed>
+	</game>
+	<game>
+		<path>./lastbld2.zip</path>
+		<name>Last Blade 2</name>
+		<desc>The Last Blade 2 picks up where the previous title left off and takes the story of battling at the gates of hell to its climax. This time around, there are 16 unique swordsmen from which to choose. Choose from 2 sword types (Strength and Attack). Deflect your enemy's attacks with "Repel". You can also cancel game-changing special moves like "Super Secret Slice" or "Hidden Secret Slice" with a "Sublime Slash", which connects to Super Secret Slice - just like in the previous title. And there are even some new features like aerial repels, aerial guards and knockdown recovery. Take your battles to a whole 'nother level!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/lastbld2-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19981125T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20170207T232748</lastplayed>
+	</game>
+	<game>
+		<path>./maglord.zip</path>
+		<name>Magician Lord</name>
+		<desc>Magician Lord puts you in charge of Elta, a wizard who has the task of collecting eight books of wisdom from the clutches of Az Atorse, the god of destruction. By collecting the right power-ups along the way, you can transform into different characters, including the Rajin, Samurai, Waterman, Shinobi, Poseidon, and Dragon Warrior. Each character has different abilities. There are eight areas in the game, and each stage ends with you trying to defeat both a guardian and the end-of-area boss (which are basically Atorse's incarnations). One of the first games that demonstrated the graphical abilities of the Neo-Geo.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/maglord-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910702T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./mslug.zip</path>
+		<name>Metal Slug</name>
+		<desc>Players control Marco and Tarma, both members of the special-ops force Team Peregrine Falcon (commonly known as Team PF), and battle their way through stage after stage of intense action. The goal is to try to overthrow General Morden and win back the stolen weapon, the Metal Slug. Players must blast through waves of enemies and machines (while also jumping over any obstacles in the way) to advance through the stages. It's not as hopeless as it might sound, though - weapons such as heavy machine guns, shotguns, rocket launchers and flamethrowers, as well as the Metal Slug itself (which appears frequently in the game), will make the battle easier.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19960418T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170210T055928</lastplayed>
+	</game>
+	<game>
+		<path>./mslug2.zip</path>
+		<name>Metal Slug 2</name>
+		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslug3.zip</path>
+		<name>Metal Slug 3</name>
+		<desc>The rebellion orchestrated by General Morden to bring about a new global regime is now ancient history, and order and peace has begun to return to the world. Morden, brought back into power, was attempting another coup d'état, but government forces got wind of the plot beforehand and pre-empted the impending assault.
+Instrumental in squashing Morden's rebel forces, Marco and Tarma of the Peregrine Falcon Strike Force are ordered to lead the team after their earlier requests for resignation were denied. Although General Morden has been written off as "missing" by his followers, they have hidden themselves throughout the world, and Marco and Tarma's abilities and experience are seen as a necessity to destroy remaining rebel strongholds, one by one. Throughout the furious fighting against the holdouts, Marco and Tarma cannot help but suspect Morden's involvement in this new evil plan for world domination.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20000601T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslug4.zip</path>
+		<name>Metal Slug 4</name>
+		<desc>One year after the events of Metal Slug 3, the world is trembling under the new threat of a mysterious but deadly cyber virus that threatens to attack and destroy any nation's military computer system. With Tarma and Eri unable to help due to their own assignments in the matter, Marco and Fio are called in to investigate the situation and are joined by two newcomers, Nadia and Trevor. In their investigation, the group discovers that a terrorist organization known as Amadeus is behind the nefarious plot and that they head into battle against Amadeus' forces, hoping to destroy the cyber virus before it gets the chance to wipe out the entire world's military computer system</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug4-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>20020719T000000</releasedate>
+		<developer>Mega Enterprise</developer>
+		<publisher>Mega Enterprise</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslug5.zip</path>
+		<name>Metal Slug 5</name>
+		<desc>A special disc that contains deep and intricate secrets about the Metal Slug project is stolen by a mysterious group called the Ptolemaic Army, whose specialty lies from within archaeological excavation and espionage. Marco and Tarma of the Peregrine Falcon Strike Force follow in hot pursuit against the group and in the process are joined by Eri and Fio of SPARROWS. Together once more, the quartet investigate the shrouded objective of the Ptolemaic Army.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslug5-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20031101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X</name>
+		<desc>Metal Slug X is a modified version of Metal Slug 2 released in 1999 for the Neo-Geo console/arcade platform by SNK. It introduces some new features like new weapons, rearranged enemy replacement and greater difficulty.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/mslugx-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170302T011413</lastplayed>
+	</game>
+	<game>
+		<path>./samsho.zip</path>
+		<name>Samurai Shodown</name>
+		<desc>The game is set in the late 18th century and all the characters wield weapons. The game uses comparatively authentic music from the time period, rife with sounds of traditional Japanese instruments, such as the shakuhachi and shamisen, and a refined version of the camera zoom first found in Art of Fighting. True to its use of bladed weapons, the game also included copious amounts of blood.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/samsho-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930811T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./samsho2.zip</path>
+		<name>Samurai Shodown II</name>
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/samsho2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941028T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./samsho4.zip</path>
+		<name>Samurai Shodown IV</name>
+		<desc>Samurai Shodown IV: Amakusa's Revenge, also known as Samurai Spirits: Amakusa's Descent (サムライスピリッツ天草降臨 Samurai Supirittsu Amakusa Kōrin, TenSamu in short) in Japan, is the fourth in SNK's flagship Samurai Shodown series of fighting games. Chronologically, it is the second and final chapter of a story between Samurai Shodown and Samurai Shodown II, with Samurai Shodown III being the first chapter.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/samsho4-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20031010T000000</releasedate>
+		<developer>Yuki Enterprise</developer>
+		<publisher>SNK Playmore</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./shocktro.zip</path>
+		<name>Shock Troopers</name>
+		<desc>Shock Troopers is an arcade game developed by Saurus. Gameplay involves taking command of one or three commandos in an 8-way shooter through 6 stages of opposing forces, weaponry, and power-ups.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/shocktro-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>DIO, a terrorist organization led by a man called Nakatomi, has threatened the world's leaders to submit to their will. After DIO completely eradicates a city, a squad of Shock Troopers are sent to deal with the threat.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/shocktr2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990402T000000</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./spinmast.zip</path>
+		<name>Spin Master</name>
+		<desc>Many years ago, a large treasure was hidden by a mysterious guy on an uncharted island. The guy of mystery drew the location of the treasure on a map and hid it deep in the forest of the island. Days turned to weeks, weeks turned to years, and years turned to decades. The guy who hid the map disappeared, never to be seen again. During this time, the map became dirty and weathered, eventually tearing into five pieces which were scattered about the corners of the world. One of these pieces wafted its way into the possession of the young treasure seeker name Johnny. Living with his girlfriend Mary and his rugged sidekick name Tom, Johnny dreamed of the day when he would some day find the ancient treasure on the hidden island of the mysterious guy.
+
+Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared in Johnny's little town. Seizing Johnny's piece of the treasure map and kidnapping Mary, Dr. De Playne set out to find the treasure and buy up all the toys and candy of the world, plunging the children of earth into a bitter darkness of continuous study and well-balanced meals. Johnny and Tom pursued the mad Dr. De Playne with their yo-yos to save Mary and the world.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/spinmast-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19930218T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kof98.zip</path>
+		<name>The King of Fighters '98</name>
+		<desc>The All-Star dream battle is here at last: It's King of Fighters '98! Here come 38 of your favorite characters from the King of Fighters series. Your favorite characters and teams are back! Filled with new surprises like the Roulette Team Edit and Advantage System, King '98 will pop your cork with unrelenting excitement!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof98-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980923T000000</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>5</playcount>
+		<lastplayed>20170219T023652</lastplayed>
+	</game>
+	<game>
+		<path>./kof2000.zip</path>
+		<name>The King of Fighters 2000</name>
+		<desc>After the incident at the previous tournament, the commander of the Ikari Team, Heidern, is determined to figure out the objective of the NESTS cartel so that he can stop them from achieving their ruthless ambition. A fellow commander and long-time friend of Heidern, named Ling, tells the veteran fighter that K′ and Maxima were once operatives of NESTS and that they may hold the key to locating the whereabouts of the mysterious organization. Using this information, Heidern decides to focus his efforts in using the next KOF tournament as a way to lure both K′ and Maxima out so that they can be captured and interrogated into telling the authorities about the NESTS cartel. Unknown to Heidern, however, Ling has his own agenda.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof2000-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>20000726T000000</releasedate>
+		<developer>Snk</developer>
+		<publisher>Snk</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170215T003414</lastplayed>
+	</game>
+	<game>
+		<path>./kof2002.zip</path>
+		<name>The King of Fighters 2002</name>
+		<desc>The game brings back the team play composed by three characters each that was a tradition in previous games. The game has also several important changes in the gameplay, like the "Free Cancel System" or "Max Mode System", the "Quick Emergency Evasion" and "Quick MAX Mode Activation", aside from the countless changes in each character's special moves and their properties.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof2002-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20021010T000000</releasedate>
+		<developer>Eolith</developer>
+		<publisher>Playmore</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>6</playcount>
+		<lastplayed>20170216T012341</lastplayed>
+	</game>
+	<game>
+		<path>./tophuntr.zip</path>
+		<name>Top Hunter</name>
+		<desc>Top Hunter: Roddy &amp; Cathy es un videojuego de plataformas de desplazamiento lateral desarrollado por SNK para su sistema Arcade Neo Geo, que fue lanzado en el año 1994. posteriormente salió para Neo Geo CD, y mucho después para la consola virtual de Wii. El juego ha sido re-editado más tarde en la compilación SNK Arcade Classics Vol. 1, que salió a la venta el 1 de mayo de 2008.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/tophuntr-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19940601T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170206T065439</lastplayed>
+	</game>
+	<game>
+		<path>./garouo.zip</path>
+		<name>garouo</name>
+		<rating>0</rating>
+		<hidden>1</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20170206T175117</lastplayed>
+	</game>
+	<game>
+		<path>./lastbldh.zip</path>
+		<name>lastbldh</name>
+		<rating>0</rating>
+		<hidden>1</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20170206T174727</lastplayed>
+	</game>
+	<game>
+		<path>./neogeo.zip</path>
+		<name>NeoGeo BIOS</name>
+		<desc>Neo Geo Bios</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/neogeo/neogeo-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<hidden>1</hidden>
+	</game>
+	<game>
+		<path>./kof96.zip</path>
+		<name>The King of Fighters '96</name>
+		<desc>A new King of Fighters tournament was announced, though the letters of invitation sent out to the fighters were no longer sent by Rugal Bernstein. The letters also announced many changes, the first of which being a massive overhaul of the tournament's approach. During the time that had passed between the tournaments since the previous year, the King of Fighters tournament's fame had grown immensely, to the point that it turned into a major international event, which had not happened before. Huge corporations transformed the King of Fighters tournament into something widely televised, commercialized, and celebrated, drawing in many crowds from around the world. The tournament is now held by Chizuru Kagura: a descendant of the ancient Yata Clan responsible for sealing the Orochi demon along with the Kusanagi and Yasanaki clan (the clans from Kyo Kusanagi and Iori Yagami, respectively). Chizuru uses the tournament in hopes of finding and recruiting Kyo and Iori in order to stop the upcoming Orochi threat, but Kyo and Iori aren't exactly willing to work together on friendly terms.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/neogeo/kof96-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19960730T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kof97.zip</path>
+		<name>The King of Fighters '97</name>
+		<desc>Despite the events at the end of the previous game, the KOF tournament was a huge commercial success and sparked a worldwide fighting craze. Within a few months of the tournament ending, various large corporations had held smaller KOF tournament qualifiers and constructed special KOF stadiums around the world, building the excitement up for the next tournament. News of the tournament spread through every form of media and fans and new fighters from across the globe come to watch the preliminary matches.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/neogeo/kof97-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19970727T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+</gameList>

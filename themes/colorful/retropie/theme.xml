@@ -1,0 +1,35 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>Retropie system configuration menu.</text>
+		</text>
+	</view>
+	
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+
+		<!-- Put them outside of sight!-->
+		<text name="md_playcount, md_rating, md_developer, md_publisher, md_genre, md_players, lbl_players, lbl_publisher, lbl_playcount, md_lbl_lastplayed">
+			<pos>1 1</pos>
+		</text>
+		
+		<datetime name="md_lastplayed, md_releasedate">
+			<pos>1 1</pos>
+		</datetime>
+	</view>
+</theme>

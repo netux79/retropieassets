@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Master System (SMS) is a third-generation video game console that was manufactured and released by Sega in 1985 in Japan (as the Sega Mark III), 1986 in North America and 1987 in Europe. The SMS featured accessories such as a light gun and 3D glasses which were designed to work with a range of games. The Master System was released as a direct competitor to the Nintendo Entertainment System. The SMS was technically superior to the NES but failed to overturn Nintendo's significant market share advantage in Japan and North America.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

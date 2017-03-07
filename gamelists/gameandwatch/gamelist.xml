@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Donkey Kong.zip</path>
+		<name>Donkey Kong</name>
+		<playcount>1</playcount>
+		<lastplayed>20170305T022059</lastplayed>
+	</game>
+	<game>
+		<path>./Tron.zip</path>
+		<name>Tron</name>
+		<playcount>1</playcount>
+		<lastplayed>20170305T022416</lastplayed>
+	</game>
+	<game>
+		<path>./Parachute.zip</path>
+		<name>Parachute</name>
+		<playcount>2</playcount>
+		<lastplayed>20170305T032903</lastplayed>
+	</game>
+</gameList>

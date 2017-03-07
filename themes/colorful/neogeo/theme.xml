@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The NeoGeo is a cartridge-based arcade and home video game system released on July 1, 1991 by Japanese game company SNK. Being in the Fourth generation of Gaming, it was the first console in the former Neo Geo family, which only lived through the 1990s. The hardware featured comparatively colourful 2D graphics. Several popular franchise-series, including Fatal Fury, The King of Fighters, Metal Slug and Samurai Shodown, were released for the platform. The Neo Geo system was also marketed as a very costly home console, commonly referred to today as the AES (Advanced Entertainment System).</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The PC Engine CD-ROM² add-on was released in Japan for the PC Engine console in December of 1988. The North American version, known as the TurboGrafx-CD, went on sale in 1989 for the TurboGrafx-16 (the North American version of the PC Engine). While it had little success in North America, the device boosted sales for the PC Engine in Japan. It helped the PC Engine outsell the NES for a while (up until the release of the SNES) and become the second best-selling console of the 16-bit era, behind the Super Famicom (which later planned its own PlayStation CD add-on) and ahead of the Sega Mega Drive (which later had its own CD-ROM add-on, the Sega CD).</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

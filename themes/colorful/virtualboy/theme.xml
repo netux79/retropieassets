@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Virtual Boy was a table-top video game console by Nintendo. It was the first video game console to be capable of displaying "true 3D graphics" in a form of virtual reality. In a manner similar to using a head-mounted display, the user looks into an eyepiece made of neoprene on the front of the machine, and then an eyeglass-style projector allows viewing of the monochromatic (in this case, red) image. It was released on July 21, 1995 in Japan and August 14, 1995 in North America at a price of around US$180. It then became a commercial failure and it was not released in PAL markets. It met with a lukewarm reception that was unaffected by continued price drops. Nintendo discontinued it the following year.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

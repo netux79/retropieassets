@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Atari 7800 is a video game console re-released by Atari Corp. in January 1986. The original release had occurred two years earlier under Atari Inc. The 7800 had originally been designed to replace Atari Inc.'s Atari 5200 in 1984, but was temporarily shelved due to the sale of the company after the video game crash. In January 1986, the 7800 was again released and would compete that year with the Nintendo Entertainment System and the Sega Master System. It had simple digital joysticks; it was almost fully backward-compatible with the Atari 2600 (and was the first console to have backward compatibility without the use of additional modules); and it was considered affordable at a price of US$140.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

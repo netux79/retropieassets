@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Family Disk System was released on February 21, 1986 by Nintendo as a peripheral for the Nintendo Family Computer console in Japan. It uses proprietary floppy disks (called "Disk Cards") for data storage. Some of the QuickDisk drives even made it into devices in Europe and North America, though they are somewhat rare. Mitsumi already had close relations with Nintendo, as it manufactured the Famicom and NES consoles, and possibly other Nintendo hardware.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Cave Story.sh</path>
+		<name>Cave Story</name>
+		<desc>Arguably the most well-known indie game of all time, Cave Story features a completely original storyline wrapped with personality, mystery and hours of fast-paced fun. Cave Story is an action-adventure game from the critically acclaimed independent designer, Daisuke Amaya--or Pixel to his fans. Overflowing with unmatched charm and character, Cave Story takes you into a rare world where a curious race of innocent rabbit-like creatures, called Mimigas, run free.
+
+You wake up in a dark cave with no memory of who you are, where you came from or why you're in such a place. Uncovering Mimiga Village you discover that the once-carefree Mimigas are in danger at the hands of a maniacal scientist. The Mimigas’ only hope rest squarely on the shoulders of a quiet, amnesiac boy who can't remember his own name.
+
+Run, jump, shoot, fly and explore your way through a massive action-adventure reminiscent of classic 8- and 16-bit games. Take control and learn the origins of this world’s power, stop the delusional villain and save the Mimiga!</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/ports/Cave Story-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20111122T000000</releasedate>
+		<developer>Nicalis ,	 Studio Pixel</developer>
+		<publisher>Nicalis</publisher>
+		<genre>Action</genre>
+		<playcount>6</playcount>
+		<lastplayed>20170218T001807</lastplayed>
+	</game>
+</gameList>

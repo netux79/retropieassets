@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Atari 2600, was released in 1977 and became the dominant console in the 1970s. The system boasted amazing specs for its time and amassed a huge library of games. The popularity of the 2600 grew even further when the arcade game Space Invaders was ported for the first time to a console. The success was also in part to the many arcade and movie licenses acquired by Atari. These licenses gave Atari the marketing edge over other consoles of the time. The console introduced an enormous variety of games and controllers and was the console of choice well into the early 80s even when graphically out performed by newer consoles.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

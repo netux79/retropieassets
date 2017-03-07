@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>SCUMM stands for "Script Creation Utility for Maniac Mansion". It is a utility used to create the famous LucasArts adventure games. It was initially created in 1987 by Aric Wilmunder and Ron Gilbert for the game "Maniac Mansion" and was used later, with some modifications, for Zak McKracken and the Alien Mindbenders. Development on the SCUMM system continued for some time, and was used in Loom, Indiana Jones and the Last Crusade, Indiana Jones and the Fate of Atlantis, Monkey Island 1,2,3, Sam & Max Hit the Road, Day of the Tentacle, etc.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

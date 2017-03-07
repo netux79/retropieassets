@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>Game & Watch is a line of handheld electronic games produced by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, each Game & Watch features a single game to be played on an LCD screen in addition to a clock, an alarm, or both. It was the earliest Nintendo product to garner major success.There were 59 different Game & Watch games produced for sale and one that was only available as a contest prize, making 60 in all. The prize game was given to winners of Nintendo's F-1 Grand Prix tournament, a yellow-cased version of Super Mario Bros. that came in a plastic box modeled after the Disk-kun character Nintendo used to advertise their Famicom Disk System. As only 10,000 units were produced and it was never available for retail sale, the yellow version is considered rare.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

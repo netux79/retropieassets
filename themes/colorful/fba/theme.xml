@@ -1,0 +1,28 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+	
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>An arcade game is a coin-operated (also bill-operated or card-operated) entertainment machine, usually installed in public businesses such as restaurants, public houses, and video arcades. Arcade video games are often composed of short levels, intuitive control mechanisms and a rising difficulty. This is the main concept of an arcade video game in which the player is essentially obliged to pay to maintain the play.  They begun sometime in the late 1970s and ended sometime in the mid-1980s.
+			This list contains the games for CAPCOM CPS I, II and III.</text>
+		</text>
+	</view>
+	
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The Sega Genesis is a fourth-generation video game console by Sega. Released in Japan in 1988 as Mega Drive, then in 1989 in North America as Sega Genesis. The Sega Genesis is Sega's third console which had backward compatibility with the Sega Master System. Controversy over games like Mortal Kombat in the United States forced Sega to create the first content rating system for video games, the Videogame Rating Council, rather than have the games censored. This allowed Sega to ship games with no censorship and gave it a competive edge over Nintendo. This success forced Nintendo to join the rating system.</text>
+		</text>
+	</view>
+	
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

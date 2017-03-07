@@ -1,0 +1,27 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../theme.xml</include>
+
+	<view name="system, basic, detailed">
+		<image name="background" extra="true">
+			<path>./art/systembg.png</path>
+		</image>
+
+		<image name="logo">
+			<path>./art/systemlogo.svg</path>
+       	</image>
+	</view>
+
+	<view name="system">
+		<text name="system_description" extra="true">
+			<text>The WonderSwan Color was released on December 9, 2000 in Japan, and was a moderate success. The WonderSwan Color is compatible with the original WonderSwan library of games. Prior to WonderSwan's release, Nintendo had a virtual monopoly in the Japanese video game handheld market. After the release of the WonderSwan Color, Bandai took approximately 8% of the market share in Japan. Another reason for the WonderSwan's success in Japan was the fact that Bandai managed to get a deal with Square to port over the original Famicom Final Fantasy games with improved graphics and controls.</text>
+		</text>
+	</view>
+
+	<view name="basic, detailed">
+		<image name="controller" extra="true">
+			<path>./art/controller.svg</path>
+		</image>
+	</view>
+	
+</theme>

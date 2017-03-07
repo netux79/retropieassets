@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="mkla4" source="mamedb.blu-ferret.co.uk">
+		<path>./mkla4.zip</path>
+		<name>Mortal Kombat (rev 4.0 09/28/92) </name>
+		<desc>Mortal Kombat is a 1-on-1 fighting game featuring a cast of seven different fighters. Mortal Kombat took ideas from Capcom's seminal "Street Fighter II - The World Warrior", such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
+
+Battles are fought over the best of three rounds. At the end of a round a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.
+
+</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/mkla4-image.jpg</image>
+		<rating>0.5017857142869999</rating>
+		<releasedate>1992</releasedate>
+		<developer>Midway</developer>
+		<publisher />
+		<genre>Fighter / Versus</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./moo.zip</path>
+		<name>Wild West C.O.W.-Boys of Moo Mesa (ver EA) </name>
+		<image>~/.emulationstation/downloaded_images/arcade/moo-image.jpg</image>
+		<rating>0.8960000000000001</rating>
+		<releasedate>1992</releasedate>
+		<developer>Konami</developer>
+		<publisher />
+		<genre>Platform / Shooter Scrolling</genre>
+		<playcount>4</playcount>
+		<lastplayed>20170209T021315</lastplayed>
+	</game>
+	<game>
+		<path>./splatterOld.zip</path>
+		<name>splatterOld</name>
+		<playcount>1</playcount>
+		<lastplayed>20170209T053154</lastplayed>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>After her defeat by the Galactic Corporation at the battle of Canis Major, the evil Dark Queen and her renegade space troops retreat to the outer reaches of the universe, hiding out in dark spaces between the stars. Meanwhile, on board the spaceship Vulture, Professor T. Bird and the trio of Battletoads - Rash, Zitz and Pimple - are escorting the Princess Angelica back to her home planet, where her father, the Terran Emperor, awaits her safe arrival. Along the way, Pimple, the biggest Battletoad, takes Angelica out for a cruise in the Toadster to a nearby Leisure Station. However, the Dark Queen ambushes them before they can get there, and they are kidnapped and carried away to Ragnarok's World, the Dark Queen's planet. Professor Bird sends the remaining Battletoads down on Ragnarok to save Pimple and Angelica, knowing it will be a hard battle against the planet's dangerous environments, traps and enemy forces. They have to go a long way from the planet's rough surface to deep caves and landed Gargantua and ultimately to the Tower of Shadows, where the Dark Queen herself awaits.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/btoads-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+		<playcount>5</playcount>
+		<lastplayed>20170210T235638</lastplayed>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Tiger</name>
+		<desc>Black Tiger, known in Japan as Black Dragon (Japanese: ブラックドラゴン Burakku Doragon), is a 1987 action game released for the arcades by Capcom.
+
+A barbarian hero jumps and fights his way through a variety of colourful, enemy-packed levels. The sprawling, eight-way scrolling, two-dimensional levels are packed with hidden bonuses to encourage and reward exploration. Though a percentage of these bonuses consist of dubious and often self-evident "advice", most come in the form of "Zenny coins", currency that allows the player to buy such items as an upgrade to their weapons and armour, keys for treasure chests, and anti-poisoning potions. Special items that reveal coins, upgraded armour, full vitality, extra lives, extra time, or simply bonus points may be found by attacking certain walls. The player's vitality bar will also increase up to three times as a reward for reaching score benchmarks.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/blktiger-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170210T235722</lastplayed>
+	</game>
+	<game>
+		<path>./bloodbro.zip</path>
+		<name>Blood Bros.</name>
+		<desc>Blood Bros. is a 1990 arcade game developed and published by TAD Corporation in Japan and Europe, while it was later published in North America by Fabtek. It is a spiritual sequel to Cabal, with almost identical mechanics. A bootleg of this game is known as West Story.
+
+In 'Blood Bros., two blood brothers, a cowboy and an Indian, team-up to hunt down "the most wanted outlaw in Dodge City," Big Bad John. The gameplay mechanics are extremely similar to TAD Corp.'s earlier machine, Cabal, however this game did not seem to appear as a trackball-controlled variant.
+
+The player's characters are seen from behind. Some screens feature protective walls (which can get damaged and shattered by enemy fire). The players have limitless ammunition for their primary gun, but a limited number of sticks of dynamite, with which they must fend off enemy troops. An enemy gauge at the bottom of the screen depletes as foes are destroyed and certain structural features of the screen (usually the ones that collapse when destroyed, rather than simply shattering) are brought down. At the successful completion of a level by fully depleting the enemy gauge, all the remaining buildings onscreen collapse and the player progresses to the next stage, reprising the amusing "victory dance walk" into the horizon from Cabal. Boss fights, however, start from the beginning if a player dies.
+
+Power-ups appear from time to time, being released from objects destroyed onscreen or special characters who may run across, such as the small Indian Chief figure or warthogs. Points and weaponry can also be dispensed from the tin can, if you shoot it into the air and juggle it with subsequent shots. Some power-ups give special weapons with increased firepower, others grant extra dynamite or additional points. Two players could play this game, cooperatively, simultaneously.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/bloodbro-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900801T000000</releasedate>
+		<developer>TAD Corporation</developer>
+		<publisher>TAD Corporation</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170210T235820</lastplayed>
+	</game>
+	<game>
+		<path>./bucky.zip</path>
+		<name>Bucky O'Hare</name>
+		<desc>This video game is based on the cartoon television series Bucky O'Hare and the Toad Wars under license from Hasbro, Inc. While it is generally classified as a scrolling fighting game, utilizing a Final Fight-esque landscape, the player's character is also armed with a laser gun, adding in elements of a scrolling shooter. However, if the character is extremely close to an enemy, he will throw out his fists to attack - a precursor to the characters featured in Metal Slug, who use knives in close combat.
+
+Much like the cartoon, Bucky O'Hare features colorful animation, and voice actors from the series were hired to participate in the game's cut scenes.
+
+The player chooses from five protagonists: Bucky O'Hare, the heroic rabbit captain of the space ship Righteous Indignation; Jenny, an "Aldebaran cat" and telepath; Dead-Eye Duck, a four-armed mallard; Willy, a kid from earth that replaced their engineer, and Blinky, a one-eyed android. As in the television series, the characters must stop the Toad Empire from invading extraterrestrial planets and enslaving their peoples; to do so they must shoot their way through an army of brainwashed toads to destroy their evil leader, a computer program known as "Komplex" and release the "Interplanetary Life Force."
+
+The enemies, among them Al Negator, Toadborg, Total Terror Toad, a "Cyborg Spider", the various varieties of Toad Storm Troopers, the Toads' Air Marshall, and "Komplex-2-Go" who featured in the comic book and cartoon series continuities.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/bucky-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>3</playcount>
+		<lastplayed>20170210T235846</lastplayed>
+	</game>
+	<game>
+		<path>./gng.zip</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, armored giants, dragons, and other undead creatures in order to rescue Princess Prin Prin, who has been kidnapped by Satan, King of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/gng-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19850919T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players />
+		<playcount>3</playcount>
+		<lastplayed>20170211T000855</lastplayed>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros.  is an arcade game published and developed by Nintendo in 1983. It was developed by Shigeru Miyamoto. 
+
+Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there. The objective of the game is to defeat all of the enemies in each phase. The mechanics of Mario Bros. involve only running and jumping. Unlike future Mario games, players cannot jump on enemies and squash them, unless they were already turned on their back. Each phase is a series of platforms with four pipes at each corner of the screen (in the old version along with an object called a "POW" block in the center). Both sides of every phase feature a mechanism that allows the player to go off-screen to the left and appear on the right and vice versa.
+The player gains points by defeating multiple enemies consecutively and can participate in a bonus round to gain more points. Enemies are defeated by kicking them over once they have been flipped on their back. This is accomplished by hitting the platform the enemy is on directly beneath them. If the player allows too much time to pass after doing this, the enemy will flip itself back over, changing in color and increasing speed. Each phase has a certain number of enemies, with the final enemy immediately changing color and increasing its speed to maximum. There are three enemies in all: the Shellcreeper, which simply walks around; the Sidestepper, which requires two hits to flip over; and the Fighter Fly, which moves by jumping and can only be flipped when it is touching a platform. Players may also make use of the above-mentioned "POW" block, which flips any enemy touching a platform or the floor when a player hits it from below. This item can be used three times before it disappears. Coins appear whenever enemies are defeated and may be collected for bonus points.
+As the game progresses, elements are added to increase the difficulty. Fireballs either bounce around the screen or travel directly from one side to the other, and Slipices can freeze platforms, causing Mario and Luigi to skid. In addition, icicles start to form under the platforms and fall loose. Bonus rounds give the players a chance to score extra points by collecting coins without having to deal with enemies; the "POW" block regenerates itself on each of these screens.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/mario-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19830714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001126</lastplayed>
+	</game>
+	<game>
+		<path>./mk.zip</path>
+		<name>Mortal Kombat</name>
+		<desc>The series takes place in a fictional universe that consists of six surviving realms which, according to in-game backstories, were created by the Elder Gods. The Mortal Kombat: Deception manual described the six realms as: "Earthrealm, home to such legendary heroes as Johnny Cage, Sonya Blade, Liu Kang, and Jax, and also under the protection of the Thunder God Raiden; Netherrealm, which fiery depths are inhospitable to but the most vile, a realm of demons and shadowy warriors; Outworld, a realm of constant strife and where Emperor Shao Kahn claims this realm as his own; Seido, The Realm of Order, whose inhabitants prize structure and order above all else; The Realm of Chaos, whose inhabitants do not abide by any rules whatsoever, where constant turmoil and change are worshipped here; and Edenia, which is known for its beauty, artistic expression, and longevity of its inhabitants."</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/mk-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19921008T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001220</lastplayed>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat II</name>
+		<desc>Following his failure to defeat to Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/mk2-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170211T001227</lastplayed>
+	</game>
+	<game>
+		<path>./mystwarr.zip</path>
+		<name>Mystic Warriors: Wrath of the Ninjas</name>
+		<desc>The game's controls consists of an eight-way joystick and two buttons for attacking and jumping. Like in Sunset Riders, the player can jump between higher or lower levels, as well as slide. The player character attacks primarily by shooting an unlimited supply of shurikens/daggers, or using his/her weapon at close range. The game includes some improvements that were not included in Sunset Riders, such as the ability for players to change characters after they lose a credit as well as a life gauge that allows the player to sustain up to four hits from enemy attacks before losing a life.
+
+The player must defeat box-carrying enemies in order to obtain power-up items. These includes a shuriken power-up that can increase the player's shooting power by up to two levels (which differ between characters), food (sushi, tempura, udon, sukiyaki) that will replenish the player's life gauge, a blue orb with the kanji shinobi (忍?) that will surround the player with a barrier for a limited period, a yellow orb with the kanji chikara (力?) that will destroy all on-screen enemies, and various kinds of jewelry for extra points.
+
+There are a total of nine stages in the game, in which its own boss awaiting to challenge the player. Like in Sunset Riders, each player will be graded at the end of stage by how much they shot the boss; the player with the highest hit percentage will receive bonus points</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/mystwarr-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001240</lastplayed>
+	</game>
+	<game>
+		<path>./popeye.zip</path>
+		<name>Popeye</name>
+		<desc>The object of the game is for Popeye to collect a certain number of items dropped by Olive Oyl, depending on the level — 24 hearts, 16 musical notes, or 24 letters in the word HELP — while avoiding the Sea Hag, Brutus and other dangers. The player can make Popeye walk back and forth and up and down stairs and ladders with a 4-way joystick. There is a punch button, but unlike similar games of the period, no jump button. Conversely, Brutus can jump down a level and also jump up to hit Popeye if he is directly above.
+
+Despite the feature of a punch button, Popeye cannot attack Brutus directly. Instead, the button is used for the following:
+
+Punching destroys items that could hurt Popeye such as bottles, vultures and skulls.
+Each level has a can of spinach; punching these cans will give Popeye invincibility and he can knock out Brutus just by running into him, although after a few seconds Brutus will swim back out and be ready for action again.
+In Round 1 (the dock scene) of each three-round cycle is a punching bag, which Popeye can use to knock loose a nearby barrel from its position near the top of the playing field. If the barrel falls onto Brutus' head, the player earns bonus points (based on where Brutus was attacked) and renders Brutus harmless for several seconds.
+Other licensed Popeye characters in the game are Olive Oyl, Swee'Pea, and Wimpy, though they are mostly decorative and do not add heavily to the gameplay. Wimpy appears in Round 2 (the street scene) on one end of the seesaw in the lower left corner of the field, to act as a counterweight. Swee'Pea floats high above, with bonus points to be earned if Popeye can spring off the see-saw and touch him.
+Popeye loses a life if he is hit by Brutus or any thrown/flying object, or if he fails to catch a dropped item before it reaches the bottom of the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/popeye-image.jpg</image>
+		<rating>1</rating>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20170211T001309</lastplayed>
+	</game>
+	<game>
+		<path>./rtypeleo.zip</path>
+		<name>R-Type Leo</name>
+		<desc>R-Type Leo (アールタイプ・レオ Āru Taipu Reo?) is a 1992 horizontally scrolling shooter arcade game developed by Nanao and published by Irem. Only released in Japan it is the fourth game in the R-Type series.[1]</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/rtypeleo-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>4</playcount>
+		<lastplayed>20170211T001352</lastplayed>
+	</game>
+	<game>
+		<path>./robocop.zip</path>
+		<name>RoboCop</name>
+		<desc>RoboCop is a 1988 run and gun/beat 'em up hybrid arcade game developed and published by Data East with permission from Ocean Software. Other reworked versions appeared for home computers and video game consoles, most of them handled by Ocean, as well as a NES version ported by Sakata SAS and published by Data East. It has more recently appeared on mobile phones.
+
+The games capture the spirit of the RoboCop film to some degree, as it involves killing generic criminals and enemy bosses, like the dangerous ED-209. Being quite popular, RoboCop was followed by several sequels (most of them handled by Ocean), including RoboCop 2, RoboCop 3, and RoboCop versus The Terminator which was developed for, but never released in arcades, and was later ported to several other consoles including the Sega Mega Drive, Super NES, Nintendo Game Boy, Sega Game Gear, and even as a final generation title for the Sega Master System in Europe.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/robocop-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880301T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001418</lastplayed>
+	</game>
+	<game>
+		<path>./robocop2.zip</path>
+		<name>RoboCop 2</name>
+		<desc>Based upon the movie sequel of the same name. You play RoboCop whose mission is to find and destroy cyborg drug dealer Cain, the corrupt RoboCop-II while following your directives to serve the public trust, protect the innocent and uphold the law.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/robocop2-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910501T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001446</lastplayed>
+	</game>
+	<game>
+		<path>./ssriders.zip</path>
+		<name>Sunset Riders</name>
+		<desc>You're a brave bounty hunter pursuing outlaw scum like Simon Greedwell, Paco Loco, and Chief Scalpen. Each bad guy has a big reward on his head. And they're helped by hordes of bandits, gunslingers and horse thieves, so pack loads of lead. Track those rotten skunks through an Indian village, on a steaming locomotive, and down the mean streets of lawless Reechforem Gulch. Occasionally, dynamite is at your disposal, as well as weapon power-ups. But cattle stampedes and sneaky traps could end your adventure in a cloud of dust. Oh, and be sure to carry ointment for your saddle sores because you'll ride horseback in a galloping bonus stage filled with handy items. Ultimately, you must make villainous Sir Richard Rose eat sagebrush. Do so and you'll have lots of money and the townsfolk kissing your boots.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/ssriders-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19910920T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20170211T001505</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Yo! After being treated like garbage by the Ninja Turtles, Shredder has trained a new, more merciless breed of Foot Soldiers to inflict his revenge: A clan of over 700 Taekwondo turtle terminators who have once again captured April O'Neil to use as turtle bait. Fortunately you don't have to face these freaks of torture alone. For the first time ever, two dudes or dudettes can join forces and double-team Shredder, kicking shell while covering each others tails. But to survive you've gotta fight through 8 action-packed arcade levels, including Vinnie's Valet "Stalking" Lot and the Soho Sewer System, plus two new never-before-seen shell-squashing stages! Each of these deathtraps is reinforced by lethal electro zappers, laser beams, freezer burners or enemies such as Scorpion Robots, Stone Warriors and Baxter Stockman. Shredder has also hired the all-powerful Tora and Shogun, two alien bounty hunters who have never known defeat. Even though Master Splinter has prepared the turtles well for battle, teaching them radical new attack moves, it doesn't mean this war to save April and turtlekind will be a piece of cake or even a slice of pizza. Because with the forces of revenge on his side and the bounty boys in town, it's payback time for Shredder!</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/tmnt-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19890601T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20170211T001603</lastplayed>
+	</game>
+	<game>
+		<path>./tmnt2.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Turtles In Time</name>
+		<desc>Sunday evening. You're sitting around the sewer watching your main reported, April O'Neil do a live remote from the Statue of Liberty. Then it happens. A humungoso flying android screams out of the sky and rips Lady Liberty from her foundation, sending hundreds of freaked out tourists into the harbor below. "No way!" cries Raphael. "Way," replies Donatello. And the crazy quantum chase is on! Journey through multiple levels of enormous graphics, the largest and craziest talking Turtles ever with eons of bodacious battlegrounds, from prehistoric to futuristic galaxies. Get ready for the 3-D jab and toss that sends enemies flying right in your face. Mondo body slams and pizza power bonuses make you more Turtle than ever before. You better believe you're going to need it. Shredder's out for Turtle hide. And he's got all the time in the world to get it.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/tmnt2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910918T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>2</playcount>
+		<lastplayed>20170211T001636</lastplayed>
+	</game>
+	<game>
+		<path>./simpsons.zip</path>
+		<name>The Simpsons</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/simpsons-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910304T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
+		<playcount>5</playcount>
+		<lastplayed>20170211T002513</lastplayed>
+	</game>
+	<game>
+		<path>./toki.zip</path>
+		<name>Toki</name>
+		<desc>Toki, known in Japan as JuJu Densetsu (JuJu伝説?) is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth (described humorously as "monkey-spit" or "monkey-vomit" by some gamers). The ultimate goal is to destroy the evil wizard who cast a spell on you; therefore transforming yourself from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.</desc>
+		<image>~/.emulationstation/downloaded_images/arcade/toki-image.jpg</image>
+		<rating>0.6</rating>
+		<developer />
+		<publisher />
+		<genre>Platform</genre>
+		<players />
+		<playcount>2</playcount>
+		<lastplayed>20170211T002524</lastplayed>
+	</game>
+	<game>
+		<path>./xmen.zip</path>
+		<name>X-Men</name>
+		<image>~/.emulationstation/downloaded_images/arcade/xmen-image.jpg</image>
+		<rating>0.835</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher />
+		<genre>Fighter / 2.5D</genre>
+		<players>4</players>
+		<playcount>4</playcount>
+		<lastplayed>20170211T002648</lastplayed>
+	</game>
+	<game>
+		<path>./spnchout.zip</path>
+		<name>Super Punch-Out!!</name>
+		<desc>Isn't it time you got in on the action?
+
+Once again, Nintendo has created a smash hit —Punch-Out— a fast action dual-monitor video boxing game. Its been knocking out the competition week-after-week in earnings and player appeal across the nation.
+
+With Punch-Out in your corner, you gain the added muscle of the
+Champ!</desc>
+		<image>~/.emulationstation/downloaded_images/arcadev/spnchout-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<playcount>3</playcount>
+		<lastplayed>20170211T014907</lastplayed>
+	</game>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/1942-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1943.zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/1943-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19870601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./aerofgt.zip</path>
+		<name>Aero Fighters</name>
+		<desc>Aero Fighters lets you choose from 8 planes, each with a distinctive character. Each character has a different mission base to suit their fighter, a huge range of power-ups and weapons, and a distinctive bomb feature for clearing the screen.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/aerofgt-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>MC O'River</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./brvblade.zip</path>
+		<name>Brave Blade</name>
+		<desc>An extremely cool vertical shooter from 8ing/Raizing.
+8ing/Raizing, the Brave Blade maker, released 12 different machines in our database under this trade name, starting in 1993.
+
+Other machines made by 8ing/Raizing during the time period Brave Blade was produced include Magic Great Battle, Dimahoo, Great Mahou Daisakusen, Bloody Roar 2, Armed Police Batrider, Bloody Roar, Beastorizer, and Shippuu Mahou Daisakusen Kingdom-Grandprix.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/brvblade-image.jpg</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>8ing</developer>
+		<publisher>Raizing</publisher>
+		<genre />
+		<players>2</players>
+	</game>
+	<game>
+		<path>./circusc.zip</path>
+		<name>Circus Charlie</name>
+		<desc>In the game there are six regular stages (plus an extra stage) of differing tasks that are to be completed by Charlie. Grabbing money bags, performing dangerous tricks, avoiding enemies, completing stages, etc., earns Charlie points. After the sixth stage is completed, the game starts over again but with a faster pace and more difficult (but exactly the same in terms of task to be completed) levels.
+Charlie also races against time. Bonus points are awarded according to the time remaining, but running out of time will cost the player a life.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/circusc-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Centuri</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ddonpach.zip</path>
+		<name>DoDonPachi</name>
+		<desc>Donpachi was a hit in arcades, and people felt that Cave were picking up right where Toaplan left off. Therefore, it's no surprise that a sequel to Donpachi would soon be in development. The feeling that the developers had when making Dodonpachi (lit. "Angry Leader Bee"), was to ignore the "Toaplanishness" of Donpachi, instead only putting in systems that Cave felt were the most interesting. This lead to a far more balanced and refined game than its predecessor. To sum up Dodonpachi in a single word, it would have to be...more. More enemies, more stages, more bosses, more systems, more dodging, more bullets, more...everything. The cause of this "more" feeling stems from a chance encounter with the Raizing game Battle Garegga that main programmer Tsuneki Ikeda experienced. The intense action and immediate difficulty of Battle Garegga left a strong impact on Ikeda, leaving him with the feeling that "We (Cave) have to surpass Battle Garegga. Ikeda knew that he couldn't make a game like Battle Garegga no matter how hard he tried, so if he wanted to surpass it, it would have to be done through different means, bullet dodging. Ikeda would later reveal in an interview that he told his team that "We won't lose in terms of bullets!" When released, Dodonpachi could have up to 245 bullets onscreen at once. Because of that decision, Dodonpachi went on to solidify the bullet-hell sub-genre. Dodonpachi would be released into Japanese arcades on February 5, 1997. The game introduced several of what would become the series mainstays: The Donpachi Squadron, Colonel Schwarlitz Longhena, and his "Final Brutal Weapon": Hibachi.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/ddonpach-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>Donkey Kong is an arcade game released by Nintendo in 1981. It is an early example of the platform game genre, as the gameplay focuses on maneuvering the main character across a series of platforms while dodging and jumping over obstacles. In the game, Jumpman (since renamed Mario) must rescue a damsel in distress, Lady (now named Pauline) from a giant ape named Donkey Kong. The hero and ape later became two of Nintendo's most popular characters.
+The game was the latest in a series of efforts by Nintendo to break into the North American market. Hiroshi Yamauchi, Nintendo's president at the time, assigned the project to a first-time game designer named Shigeru Miyamoto. Drawing from a wide range of inspirations, including Popeye, Beauty and the Beast and King Kong, Miyamoto developed the scenario and designed the game alongside Nintendo's chief engineer, Gunpei Yokoi. The two men broke new ground by using graphics as a means of characterization, including cut scenes to advance the game's plot, and integrating multiple stages into the gameplay.
+Despite initial misgivings on the part of Nintendo's American staff, Donkey Kong proved a success in North America and Japan. Nintendo licensed the game to Coleco, who developed home console versions for numerous platforms. Other companies cloned Nintendo's hit and avoided royalties altogether. Miyamoto's characters appeared on cereal boxes, television cartoons, and dozens of other places. A lawsuit brought on by Universal City Studios, alleging Donkey Kong violated their trademark of King Kong, ultimately failed. The success of Donkey Kong and Nintendo's win in the courtroom helped position the company to dominate the video game market from its release in 1981, until the mid 1990s.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/dkong-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19810709T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./dkong3.zip</path>
+		<name>Donkey Kong 3</name>
+		<desc>Stanley is a bugman. Donkey Kong has taken refuge in his greenhouse and it is now up to Stanley to stop the ape from stirring up any more insects that will soon destroy his flowers. Stanley saves the flowers by spraying bug spray on Donkey Kong.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/dkong3-image.jpg</image>
+		<releasedate>19831005T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./dkongjr.zip</path>
+		<name>Donkey Kong Junior</name>
+		<desc>Donkey Kong Junior must save his father from Mario by putting the key or keys in the stage into all of the locks. Mario attempts to stop Donkey Kong Junior by releasing the many animals he controls to knock Donkey Kong Junior off the vines and platforms. Donkey Kong Junior defeats Mario if the player completes the fourth stage by putting all six keys in their locks, making the floor disappear. Donkey Kong Junior catches Donkey Kong while Mario falls onto the ground.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/dkongjr-image.jpg</image>
+		<releasedate>19820810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./donpachi.zip</path>
+		<name>DonPachi</name>
+		<desc>In February of 1993, Japanese game developer Toaplan released Batsugun to Japanese arcades. The game would be met with high praise, and would later be cited as the game that defined many of the various tropes and characteristics that are present in every bullet-hell shmup created since. Sadly, Toaplan would close its doors soon after, leaving many developers suddenly out of work. One of these developers was a programmer named Tsuneki Ikeda, who with fellow now ex-Toaplan employees would found their own development studio, Cave Interactive Co. Ltd, more commonly known as Cave. As Cave was comprised of ex-Toaplan employees at that time, it makes sense that their inaugural game would be a Toaplan-style shooting game. Their first game is DonPachi (lit. "Leader Bee"),a "maniac shooter" in the vein of other Toaplan shmups, like Batsugun. DonPachi was first released in Japanese arcades in May of 1995, and in doing so, created a franchise that would see various releases and ports over the next eight years and across two console generations.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/donpachi-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/galaxian-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19791001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gunsmoke.zip</path>
+		<name>Gun.Smoke</name>
+		<desc>Gun.Smoke is very similar to Commando, another Capcom game, but with several differences. Whereas Commando is a run and gun game, this game is a scrolling shooter in which the screen scrolls upward automatically and players only have three ways to shoot, using three buttons for left, right, and center shooting. However, a player can also change the way the gunman shoots through button combinations. A player can still die by getting shot or struck by enemies like in Commando but improve protection by getting special items, including a horse, for protection up to three hits; boots, for speed of movement; bullets, for faster shots; and rifles, for shot length. These items are found by shooting barrels and rifles, boots, and bullets can stock up to five.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/gunsmoke-image.jpg</image>
+		<releasedate>19851101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./punchout.zip</path>
+		<name>Punch-Out!!</name>
+		<desc>Isn't it time you got in on the action?
+
+Once again, Nintendo has created a smash hit —Punch-Out— a fast action dual-monitor video boxing game. Its been knocking out the competition week-after-week in earnings and player appeal across the nation.
+
+With Punch-Out in your corner, you gain the added muscle of the
+Champ!</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/punchout-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./raidendx.zip</path>
+		<name>Raiden DX</name>
+		<desc>Vertical scrolling shoot-em-up that adds new features to its prequel Raiden II. Choose from three separate missions: Training special stage, Alpha levels 1-5 and Bravo levels 1-9. Collect various power-ups to increase your weaponry. Lots of secrets and bonuses including ratings based upon player performance</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/raidendx-image.jpg</image>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./splatter.zip</path>
+		<name>Splatter house</name>
+		<desc>Splatterhouse is a sidescrolling beat 'em up video game in which the player controls Rick, a parapsychology student who is trapped inside West Mansion. After his resurrection by the Terror Mask, Rick makes his way through the mansion, fighting off hordes of creatures in a vain attempt to save his girlfriend Jennifer from a grisly fate. Players of this game will also recognize a number of western horror film influences, such as Friday the 13th and Evil Dead II.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/splatter-image.jpg</image>
+		<releasedate>19881101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>The gameplay in Galaga '88 is built on the same premise as that of the original Galaga game, but is in many ways more complex and more difficult. The game is divided into a series of 29 Stages distributed through eight Worlds. The starship Galaga accelerates between Stages and Worlds and even to higher dimensions (go to the section on Dimensional Travel below to find out more).
+
+With the exception of the third and eighth, each World culminates in a Challenging Stage. There are six such stages to engage in any full game, and each begins with the on-screen announcement "That's Galactic Dancin'!" and has its own YM2151-generated song to which the enemy formations dance. In any given Challenging Stage, both the design of the enemies and their dancing formations shall vary according to the player's current Dimension. As in Galaga, the objective is to destroy all forty enemies before they fly away off the screen. However, refraining completely from touching any controls for the duration of a Challenging Stage awards a "secret bonus" ranging in value from 10000 to 25000 points, and equal to the "special bonus" which would have been awarded for destroying all forty enemy aliens instead.
+
+Galaga '88 introduces a variety of new enemies and behaviors. Most of these special enemies are worth varying amounts of bonus points when destroyed. Some enemies can combine into larger enemies which take multiple hits to destroy, while others arrive in eggs, explode in a shower of fireworks, grow with multiple hits, or sport armor which makes them invincible while in formation. Certain enemies drop small formations of tiny creatures that wiggle their way down the screen, and still others can act as escorts to incoming groups of enemies and then quickly dive at the player before leaving the game. Most stages also include various obstacles which appear once the enemy formation has been assembled. These can be destroyed with either one or several shots, and the first one on each stage will leave a "Warp Capsule".
+
+At the start of the game, the player can select how many Galaga starships to start with (one or two), affecting their number of remaining lives. The game ends after the final boss is defeated (or when the player's last ship is destroyed or captured) - in the latter case, the player can continue the game for an additional credit. The Game Over screen shows the player's hit-miss ratio and a visual representation of their progress. If the player reaches Stage 27, the game also shows a picture of the final boss (damaged if defeated, but silhouetted if not). If the arcade operator has set the "continue" option to "on", the player also cannot continue if he is defeated on Stages 27-29.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/galaga-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944: The Loop Master (USA 000620)</name>
+		<playcount>2</playcount>
+		<lastplayed>20170305T020421</lastplayed>
+	</game>
+	<game>
+		<path>./bbakraid.zip</path>
+		<name>Battle Bakraid</name>
+		<desc>The capitalist nation of Randa has long had a history of excellence in the creation of aircraft, attracting the best of engineers in aerodynamics, artillery, and structuring from the world over. Once, even this interest had waned, until the creation of the air show Bakraid, in which the capabilities of the fighters could be demonstrated outside of simulations for all to see.
+Around the time of the seventh Bakraid, a nearby nation, Deneb, had attained an expansionist attitude, forcibly subjugating and annexing several of its neighbors with the assistance of the Shtarterra Security Council. Recently, Deneb has asked to participate in Bakraid. Randa's defense council, perfectly aware that this is just a pretext for Deneb to get its and the SSC's engines of war into Randan borders and more easily prosecute their war from there, give their blessing. However, the council secretly contacts the other Bakraid participants, offering even more prize money than normal if they will perform in a special version of Bakraid--genuine war conditions. In other words, use their own top-of-the-line planes to shatter Deneb's schemes. In all, nine pilots accept this plan, and begin Bakraid two weeks early to catch Deneb unaware...</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/bbakraid-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20170305T035457</lastplayed>
+	</game>
+	<game>
+		<path>./bgaregga.zip</path>
+		<name>Battle Garegga</name>
+		<desc>Battle Garegga is a game with a divisive reputation. Many people regard it as one of the best shooters of all time. Others think that it's overrated and that the art style and rank system ruin what would have been some cool ideas. The general style, in addition to the bomb collection system, was heavily influenced by Taito's 1990 shooter Gun Frontier, to the point where Battle Garegga could be considered a spiritual successor.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/bgaregga-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Raizing</developer>
+		<publisher>Raizing</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170305T035827</lastplayed>
+	</game>
+	<game>
+		<path>./tps.zip</path>
+		<name>TPS</name>
+		<rating>0</rating>
+		<hidden>1</hidden>
+	</game>
+	<game>
+		<path>./mappyj.zip</path>
+		<name>Mappy Jap</name>
+		<desc>The player guides Mappy the police mouse through the mansion of the cats called Mewkies (Meowky in the U.S. version) to retrieve stolen goods. The player uses a left-right joystick to move Mappy and a single button to operate doors. The mansion has six floors of hallways in which the stolen items are stashed.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/mappyj-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19830801T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170305T164230</lastplayed>
+	</game>
+	<game>
+		<path>./mappy.zip</path>
+		<name>Mappy</name>
+		<desc>The player guides Mappy the police mouse through the mansion of the cats called Mewkies (Meowky in the U.S. version) to retrieve stolen goods. The player uses a left-right joystick to move Mappy and a single button to operate doors. The mansion has six floors of hallways in which the stolen items are stashed.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/mappy-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19830801T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170305T164355</lastplayed>
+	</game>
+	<game>
+		<path>./puckmanXX.zip</path>
+		<name>puckmanXX</name>
+		<playcount>3</playcount>
+		<lastplayed>20170305T164644</lastplayed>
+	</game>
+	<game>
+		<path>./puckman.zip</path>
+		<name>Puck-Man</name>
+		<desc>The original Japanese Version of Pac-Man. The player controls Puck-Man through a maze, eating Puck-dots (also called pellets). When all Puck-dots are eaten, Puck-Man is taken to the next stage. Between some stages one of three intermission animations plays. Four enemies (Akabei, Pinky, Aosuke and Guzuta) roam the maze, trying to catch Puck-Man. If an enemy touches Puck-Man, a life is lost and the Puck-Man itself withers and dies. When all lives have been lost, the game ends. Puck-Man is awarded a single bonus life at 10,000 points by default.
+
+Near the corners of the maze are four larger, flashing dots known as power pellets that provide Puck-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses. In later stages, the enemies go straight to flashing, bypassing blue, which means that they can only be eaten for a short amount of time, although they still reverse direction when a power pellet is eaten; in even later stages, the ghosts do not become edible (i.e., they do not change color and still make Puckman lose a life on contact), but they still reverse direction.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/puckman-image.jpg</image>
+		<releasedate>19800522T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170305T164851</lastplayed>
+	</game>
+	<game>
+		<path>./pacman.zip</path>
+		<name>Pac-Man</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/pacman-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19801001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco, Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20170305T165310</lastplayed>
+	</game>
+	<game>
+		<path>./19xx.zip</path>
+		<name>19XX: The War Against Destiny</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/arcadev/19xx-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19951207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170305T020322</lastplayed>
+	</game>
+</gameList>
