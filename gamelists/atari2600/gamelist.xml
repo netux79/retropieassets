@@ -419,18 +419,6 @@ If a player exceeds a score of 999,999 the game ends.</desc>
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Moon Patrol.zip</path>
-		<name>Moon Patrol</name>
-		<desc>Hop into your Moon Buggy and leap over huge craters and land mines, explode lunar boulders. battle UFOs, alien tanks. and low-flying land rockets. For one or two players.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Moon Patrol-image.jpg</image>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<playcount>5</playcount>
-		<lastplayed>20170216T021350</lastplayed>
-	</game>
-	<game>
 		<path>./Ms. Pac-Man.zip</path>
 		<name>Ms. PacMan</name>
 		<desc>Meet the queen of video games - Ms. PAC-MAN! She's all dressed up - and hungry asever! Score points as MS. PAC-MAN gobbles up dots, energy pills. fruit. pretzels. and of course, those grumpy ghosts.</desc>
@@ -808,7 +796,7 @@ The object is to see your country come out on top. You'll compete in pure speed 
 		<path>./Juno First.zip</path>
 		<name>Juno First</name>
 		<desc>There is no one left. No attack fleet. No reinforcements. Just you and a handful of reserve ships. Enemy forces are threatening the Juno colony-Earth's last defense post. You must fend off wave after wave of enemy ships, skimming dangerously above the planet's force field. How long can you hold them off? You must persevere-whoever controls Earth, must take Juno first!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/atari2600/Juno First-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/atari2600/Juno First-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20090101T000000</releasedate>
 		<developer>Chris Walton</developer>
@@ -821,14 +809,26 @@ The object is to see your country come out on top. You'll compete in pure speed 
 		<path>./H.E.R.O..zip</path>
 		<name>HERO</name>
 		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls. You begin each mission with six sticks of dynamite which can be used to destroy these obstacles (be careful you don't blow yourself up, though!) If you run out of dynamite, your laser beam can also be used to destroy the walls, though this will take longer and use up more energy. As the levels progress, the mine shaft will become longer and more maze-like, creatures will more frequently block the path, and lava walls and pools will appear which are dangerous to the touch.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/atari2600/H.E.R.O.-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/atari2600/H.E.R.O.-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20170214T054826</lastplayed>
+	</game>
+	<game>
+		<path>./Moon Patrol.zip</path>
+		<name>Moon Patrol</name>
+		<desc>Hop into your Moon Buggy and leap over huge craters and land mines, explode lunar boulders. battle UFOs, alien tanks. and low-flying land rockets. For one or two players.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Moon Patrol-image.jpg</image>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<playcount>6</playcount>
+		<lastplayed>20170307T225709</lastplayed>
 	</game>
 </gameList>

@@ -1429,24 +1429,6 @@ For generations, mankind sought a return to Alterra. Finally, genetic science cr
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Teenage Mutant Ninja Turtles II - The Arcade Game.zip</path>
-		<name>Teenage Mutant Ninja Turtles II: The Arcade Game</name>
-		<desc>Yo! After being treated like garbage by the Ninja Turtles, Shredder has trained a new, more merciless breed of Foot Soldiers to inflict his revenge: A clan of over 700 Taekwondo turtle terminators who have once again captured April O'Neil to use as turtle bait. Fortunately you don't have to face these freaks of torture alone. For the first time ever, two dudes or dudettes can join forces and double-team Shredder, kicking shell while covering each others tails.
-
-But to survive you've gotta fight through 8 action-packed arcade levels, including Vinnie's Valet "Stalking" Lot and the Soho Sewer System, plus two new never-before-seen shell-squashing stages! Each of these deathtraps is reinforced by lethal electro zappers, laser beams, freezer burners or enemies such as Scorpion Robots, Stone Warriors and Baxter Stockman. Shredder has also hired the all-powerful Tora and Shogun, two alien bounty hunters who have never known defeat.
-
-Even though Master Splinter has prepared the turtles well for battle, teaching them radical new attack moves, it doesn't mean this war to save April and turtlekind will be a piece of cake or even a slice of pizza. Because with the forces of revenge on his side and the bounty boys in town, it's payback time for Shredder!</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles II - The Arcade Game-image.jpg</image>
-		<rating>0.76667</rating>
-		<releasedate>19901201T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Ultra Games</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170204T012310</lastplayed>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles III - The Manhattan Project.zip</path>
 		<name>Teenage Mutant Ninja Turtles III: The Manhattan Project</name>
 		<desc>Surf's up, dude! The Teenage Mutant Ninja Turtles make a little getaway to the Sunshine State. Until Shredder makes a major getaway with the entire island of Manhattan! His power hungry plot gets even more bogus when April O'Neil becomes part of the heist. What a relaxing vacation.
@@ -1473,19 +1455,6 @@ Not! Those mondo mutants must make waves to get back home to save April and Manh
 		<publisher>Nintendo</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Tetris.zip</path>
-		<name>Tetris</name>
-		<desc>A random sequence of tetrominoes (sometimes called "tetrads" in older versions)—shapes composed of four square blocks each—fall down the playing field (a rectangular vertical shaft, called the "well" or "matrix"). The objective of the game is to manipulate these tetrominoes, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of blocks without gaps. When such a line is created, it disappears, and any block above the deleted line will fall. With every ten lines that are cleared, the game enters a new level. As the game progresses, each level causes the tetrominoes to fall faster, and the game ends when the stack of tetrominoes reaches the top of the playing field and no new tetrominoes are able to enter. In certain versions, the game can also end if the player is able to get all the way to level 15.
-
-All of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a "tetris". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called "Easy Spin" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Tetris-image.jpg</image>
-		<rating>0.725</rating>
-		<releasedate>19880715T000000</releasedate>
-		<developer>Bullet-Proof Software</developer>
-		<publisher>Bullet-Proof Software</publisher>
-		<genre>Puzzle</genre>
 	</game>
 	<game>
 		<path>./Battle of Olympus, The.zip</path>
@@ -1768,7 +1737,7 @@ These strange jewels of power were formed at the eyes, or centers, of the eight 
 The task of retrieving the 8 Eyes falls to you, Orin the Falconer, the bravest and mightiest of the King's Guardsmen. With your fighting falcon, Cutrus, you must penetrate each of the eight Dukes' castles. There you will face the Dukes' soldiers, and battle strange nuclear mutants such as living skeletons, giant wasps, and mud men. You must defeat the monstrous Boss of each castle to retrieve the Jewel of Power he guards.
 
 Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await the return on the Great King, so that he may finish the rebuilding of Earth. Your reward will be the the eternal gratitude of all mankind!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/8 Eyes Castlevania-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/8 Eyes Castlevania-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Thinking Rabbit</developer>
@@ -1782,7 +1751,7 @@ Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await t
 		<desc>The year is 1476, and Count Dracula has started to ravage Europe with an army of monsters. The Belmont family of vampire hunters, once exiled from Wallachia, are called into action by the Church. They feared the Belmonts' "super-human" power, but with Dracula menacing to swallow Europe in darkness, they are left with no choice but to call Trevor Belmont, current wielder of the Vampire Killer Whip.
 
 Joining Trevor Belmont in his mission to defeat Dracula are three new playable characters: Sypha Belnades, a young sorceress with poor physical attack power but powerful elemental magic spells at her disposal; Grant Danasty, a pirate with the ability to climb on walls and change direction in mid-jump (a rare ability in earlier games of the series); and Alucard, Dracula's son, a dhampir with the ability to shoot fireballs and transform into a bat. Trevor can be accompanied by only one companion at a time. If he chooses to take on another he must abandon his current companion. The player can "spiritually transform" between Trevor and his ally with the "select" button. Both Trevor and whoever is accompanying him share the same health meter. The ending of the game differs depending on which companion Trevor has with him at the time, or if he does not take another character with him at all.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Akumajou Densetsu-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Akumajou Densetsu-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19891222T000000</releasedate>
 		<developer>Konami</developer>
@@ -1795,7 +1764,7 @@ Joining Trevor Belmont in his mission to defeat Dracula are three new playable c
 		<path>./Armana no Kiseki.zip</path>
 		<name>Armana no Kiseki</name>
 		<desc>an FDS game with Indiana Jones style</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Armana no Kiseki-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Armana no Kiseki-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19870811T000000</releasedate>
 		<developer>Konami</developer>
@@ -1815,7 +1784,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 -A new dinosaur friend joins Master Higgins’ team of wild reptiles!
 -Collect Power Crystals to gain temporary in vulnerability!
 -Hours of entertainment for the whole family to enjoy!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Hudson's Adventure Island III-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Hudson's Adventure Island III-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19920731T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -1828,7 +1797,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 		<path>./Bionic Commando.zip</path>
 		<name>Bionic Commando</name>
 		<desc>Bionic Commando takes place ten years after an unspecified World War between two warring factions. The game follows a commando who must infiltrate an enemy base and foil the enemy's plot to launch missiles.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Bionic Commando-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Bionic Commando-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19881206T000000</releasedate>
 		<developer>Capcom</developer>
@@ -1839,7 +1808,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 		<path>./Bonk's Adventure.zip</path>
 		<name>Bonk's Adventure</name>
 		<desc>The game's protagonist is Bonk, a strong caveboy who battles anthropomorphic dinosaurs and other prehistoric themed enemies.  Bonk's mission is to rescue Princess Za (a small pink Pleisiosaur-type reptile) who has been kidnapped by the evil King Drool (a large, green Tyrannosaurus-type dinosaur).  In the Arcade version, Bonk is also assisted by a female version of himself.  Bonk attacks enemies by "bonking" them with his large, invincible forehead.  Bonk starts the game with three hearts' worth of health, which are depleted to blue as Bonk takes damage and three extra lives.  Bonk's health can be restored in increments by collecting fruits and vegetables.  Bonk can also collect pieces of meat as power-ups; these lend him special abilities and make him stronger.  There are three stages of power-up: his normal self, a second stage during which he can stun enemies by pounding on the ground and a third stage where he becomes temporarily invulnerable.  Meat can be found in two varieties: big meat and small meat.  The effects of meat are additive but wear off over time.  A small meat gives Bonk the second stage of meat power but will eventually decay into the first stage of meat power, and then back into regular Bonk.  Eating a small meat while in stage two will put Bonk into the third, invincible stage of meat power.  And eating either size of meat while in the third stage of meat power-up will reset the timer on Bonk's meat power.  Bonk can occasionally collect red heart power-ups that refill an entire heart worth of health, or even more rarely, a large red heart which restores all of Bonk's missing health.  There are also two rare, blue heart power-ups in the game which will increase Bonk's maximum health by one heart.  Bonking an enemy will typically knock it backward and slightly into the air.  Defeating an enemy yields points and also releases a small "smiley" power-up.  Bonk's smileys are totaled at the end of each stage after defeating the boss of that stage.  The player is given additional points and a caveman type congratulation based on how many smileys were collected.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Bonk's Adventure-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Bonk's Adventure-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Red Company, Atlus</developer>
@@ -1850,7 +1819,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 		<path>./Castlevania II - Simon's Quest.zip</path>
 		<name>Castlevania II: Simon's Quest</name>
 		<desc>Castlevania was a cakewalk compared to this bloody curse. You thought you had the Prince of Darkness defanged - eh, Simon Belmont? Well think again, 'cause according to a damsel in distress, evil Count Dracula has left a horrifying curse in his wake. And the only hope you have of ending the terror is to destroy his missing body parts! Talk about your frightening quest, searching a maze of mansions, graveyards and dark, eerie forests - each guarded by man-eating werewolves, fire-throwing zombies and other devilish demons. Your grim chances are kept alive in Transylvania, where cowardly villagers offer clues to the whereabouts of Dracula's remains. And where you'll purchase magic weapons, including silver knives and flame whips. But beware the night. For when the sun disappears, Dracula's curse grows deadlier. And your chances grow dimmer and dimmer.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Castlevania II - Simon's Quest-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Castlevania II - Simon's Quest-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19870828T000000</releasedate>
 		<developer>Konami</developer>
@@ -1863,7 +1832,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 		<path>./Cocoron.zip</path>
 		<name>Cocoron</name>
 		<desc>Tapir, an enigmatic blue wizard in spotted pajamas from the Dream World, sends the player on a quest to rescue princess Rua. But things quickly become more complicated and the player soon has to rescue other characters along the way, such as Santa Claus, the king of Trump castle and the blue fairy Cocoron. Tapir can manipulate people's dreams and this ability gives Cocoron an unique twist - the player can assemble his own character by combining one of the eight available heads to one of the eight available bodies (which both include several designs to choose from, resulting in literally hundreds of combinations! ). More than a mere physical appearance, each part also defines the character's attributes, such as his health, speed, how high he can jump and so forth.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Cocoron-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Cocoron-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19910503T000000</releasedate>
 		<developer>K2</developer>
@@ -1874,7 +1843,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 		<path>./Don Doko Don 2.zip</path>
 		<name>Don Doko Don 2</name>
 		<desc>Similar to the original Don Doko Don, the player controls a bearded dwarf wielding a hammer to flatten enemies and throw them. But unlike the original, this version is a side-scroller. The game consists of five stages, plus the final boss battles. The player's goal is to reach the end of each stage, defeat a boss, and collect a bag,(antidote ingredient,) to advance to the next.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Don Doko Don 2-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Don Doko Don 2-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19920131T000000</releasedate>
 		<developer>Taito</developer>
@@ -1890,7 +1859,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 This video game has Sanrio's character searching for lost children who have been kidnapped by monsters. Essentially a standard Super Mario Bros. clone, the player controlling the cartoon frog has to leap around platforms jumping on baddies or killing them with his croak weapon. Each bonus level involves matching characters from the Sanrio franchise in a format similar to the card game Concentration. Intermission screens show the progress of the character throughout the game.
 
 Levels range from the forest to a seaside setting.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Kero Kero Keroppi no Daibouken 2-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Kero Kero Keroppi no Daibouken 2-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19930219T000000</releasedate>
 		<developer />
@@ -1901,7 +1870,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Cat Ninden Teyandee.zip</path>
 		<name>Kyatto Ninden Teyandee</name>
 		<desc>Players take the role of the three main cats and otasuke (rescue team) members, who can be switched to at any time and have special abilities to progress through the game. The game features most of the characters in the series as well as an additional villain, a mysterious scientist named Dr. Purple (Dr. パープ).</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Cat Ninden Teyandee-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Cat Ninden Teyandee-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19910719T000000</releasedate>
 		<developer>Tecmo</developer>
@@ -1913,7 +1882,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Metroid_Rogue_Dawn.zip</path>
 		<name>Metroid: Rogue Dawn</name>
 		<desc>A rogue human agent trained and manipulated by Ridley from a young age. She was taken as a child from a Federation colony obliterated by Ridley’s faction where she was initially just another test subject slated to undergo horrific experiments. Ridley decided to instead manipulate and mold her into a weapon, his first human servant, and dark agent. Primed yet untested she is sent out on her “zero” mission to retrieve a newly discovered biological specimen in the possession of a Federation research crew orbiting planet SR388 and prove her worth. Her name is Dawn Aran.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Metroid_Rogue_Dawn-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Metroid_Rogue_Dawn-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20170114T000000</releasedate>
 		<developer>Grimlock Arts</developer>
@@ -1926,7 +1895,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Mickey Mouse 3 - Yume Fuusen.zip</path>
 		<name>Mickey Mouse 3: Yume Fuusen</name>
 		<desc>Mickey Mouse is working part-time selling balloons in order to buy a present for Minnie, whose birthday is a few days away. He gets news from Pluto that Minnie cannot wake up. He sets off to visit her, only to find that she has been trapped in a nightmare. Now, Mickey must journey into Minnie's mind in order to free her from the nightmare.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Mickey Mouse 3 - Yume Fuusen-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Mickey Mouse 3 - Yume Fuusen-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19920930T000000</releasedate>
 		<developer>Kemco</developer>
@@ -1937,7 +1906,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Mitsume ga Tooru.zip</path>
 		<name>Mitsume Ga Tooru</name>
 		<desc>To learn about his roots, Sharaku must investigate the mysterious ruins that a long lost civilization called the Three-Eyed Ones bequeathed to him. In his worldwide search, which takes both he and Chiyoko Wato to locations like Arizona, Easter Island, and Mexico, Sharaku deciphers ancient scriptures and uses gadgets he invents to help solve (or start) problems and mysteries.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Mitsume ga Tooru-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Mitsume ga Tooru-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19910501T000000</releasedate>
 		<developer>Natsume</developer>
@@ -1948,7 +1917,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Radia Senki - Reimei Hen.zip</path>
 		<name>Radia Senki: Reimmeihen</name>
 		<desc>The story revolves around a hero who awakens in a field, without any memories of who he is or where he comes from. After befriending a magician named Darus and rescuing Princess Lefis of Ark from her crashed airship, he learns that the nations of Samara and Ark have been conquered by tyrants named Nova and Gadiss respectively. The hero is launched into a quest to protect the Princess, free the people from the villains' reign, and discover his identity.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Radia Senki - Reimei Hen-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Radia Senki - Reimei Hen-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19911115T000000</releasedate>
 		<developer>Tecmo</developer>
@@ -1959,7 +1928,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<path>./Romancia.zip</path>
 		<name>Romancia</name>
 		<desc>This game is also known as Dragon Slayer Jr., is an action-adventure game developed by Nihon Falcom in 1986 for the PC-8801, PC-9801, MSX, and Sharp X1 computers. A later Famicom version was developed by Compile and published by Tokyo Shoseki. An enhanced remake was released for Windows in 1999 by Unbalance. It is the third in the Dragon Slayer series, preceded by Xanadu and followed by Dragon Slayer IV. Romancia is a simpler and brightly colored game in comparison to the other Dragon Slayer titles, hence the name "Dragon Slayer Jr."</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Romancia-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Romancia-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19871030T000000</releasedate>
 		<developer>Compile</developer>
@@ -1972,7 +1941,7 @@ Levels range from the forest to a seaside setting.</desc>
 		<desc>"Saiyūki World 2: Tenjōkai no Majin" is an action platformer, akin to many games at the time. The protagonist is Sun Wukong, the King Monkey, one of the most popular characters in the Chinese culture.
 
 After completing the first stage, the player can play the other six in any order. Each of the stages revolve around elements, such as fire and water. After each stage, the player gains a new weapon, much like in the original Mega Man series, which was extremely popular at the time. The game was released with thematic and graphical changes as "Whomp 'Em" for North American audiences.  "Saiyūki World 2: Tenjōkai no Majin" (as well as Whomp 'Em) and the prior Saiyuki World (which was an adaptation of Wonder Boy in Monster Land) are based on the Journey to the West novel.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Saiyuuki World 2-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Saiyuuki World 2-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19901207T000000</releasedate>
 		<developer>Jaleco</developer>
@@ -1983,7 +1952,7 @@ After completing the first stage, the player can play the other six in any order
 		<path>./Saiyuuki World.zip</path>
 		<name>Saiyuuki World</name>
 		<desc>Saiyuuki World is an Action game, developed by NMK and published by Jaleco Entertainment, which was released in Japan in 1988.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Saiyuuki World-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Saiyuuki World-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19881111T000000</releasedate>
 		<developer>NMK</developer>
@@ -1994,7 +1963,7 @@ After completing the first stage, the player can play the other six in any order
 		<path>./Secret Ties.zip</path>
 		<name>Secret Ties</name>
 		<desc>Secret Ties is an Action game, developed by Graphic Research and published by Vic Tokai, which was cancelled before it was released.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Secret Ties-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Secret Ties-image.jpg</image>
 		<rating>0</rating>
 		<developer>Graphic Research</developer>
 		<publisher>Vic Tokai</publisher>
@@ -2005,7 +1974,7 @@ After completing the first stage, the player can play the other six in any order
 		<path>./Super Mario Bros. 2.zip</path>
 		<name>Super Mario Bros. 2</name>
 		<desc>Mario’s back!  Bigger and badder than before!  This time it’s a fierce action-packed battle to free the land of Subcon from the curse of the evil Wart.  It’s up to you, along with Mario, Luigi, Toad and the Princess, to fight your way through bizarre multi-level worlds and find him!  This time you’ve got a brand new kind of power - plucking power - and now anything you find can be a weapon.  But beware!  You’ve never seen creatures like these!  Shyguys and Tweeters!  Ninji and Beezos!  And you’ve never had an adventure like this!  Only cunning and speed can save you now…</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Super Mario Bros. 2-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros. 2-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19881001T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2021,7 +1990,7 @@ After completing the first stage, the player can play the other six in any order
 
 * Explore the vast Overworld terrain of the land of Hyrule and discover hidden treasures.
 * Explore the mystical labyrinths of the Underworld and ward-off ruthless enemies.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Legend of Zelda (DX)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Legend of Zelda (DX)-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19860221T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2040,7 +2009,7 @@ In this run and jump action game, you'll find yourself flung anywhere from prehi
 Your main weapon — your ever-sturdy baseball cap. Just toss it forward and let it simply boomerang back or jump as it boomerangs back to let it fly around you for a short amount of time. And if you're lucky enough to collect enough chimes, you'll get to witness the awesome destructive power and invincibility of the skateboard.
 
 Combined that with a host of hazardous obstacles so prevalent in platformers and you've got yourself into quite a pickle trying to tackle Professor Time. Pursue and flog him with your cap so that the hero and Haruka can live happily ever after.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Time Zone-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Time Zone-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19911025T000000</releasedate>
 		<developer>EIM</developer>
@@ -2051,7 +2020,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
 		<path>./R-Type EX.zip</path>
 		<name>R-Type EX+</name>
 		<desc>Hack of Magic Dragon of teh Famicom with graphics similar to those on the real R-Type game.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/R-Type EX-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/R-Type EX-image.jpg</image>
 		<rating>0.6</rating>
 		<genre>Hack</genre>
 	</game>
@@ -2059,7 +2028,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
 		<path>./Contra Japan.zip</path>
 		<name>Contra Japan</name>
 		<desc>The universe teeters on the brink of total annihilation at the hands of the vile alien warmonger, Red Falcon. Earth's only hope rests with you, a courageous member of the Special Forces elite commando squad. Your mission: Battle deep into the deadly Amazon jungle, where the Red Falcon and his galactic henchmen have transformed ancient Mayan temples into awesome monuments dedicated to mass destruction. A multitude of weapons, from rapid-fire machine guns to high-tech lasers are at your disposal as you sweat blood, fighting past 3-D mazes, underground security systems, and tropical forests surrounded by giant waterfalls and alien cannons. This is the ultimate test for the ultimate guerilla warrior. And if you survive, Earth survives!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Contra Japan-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Contra Japan-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19870220T000000</releasedate>
 		<developer>Konami</developer>
@@ -2073,7 +2042,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
 		<path>./Getsufuu Maden.zip</path>
 		<name>Getsu Fuuma Den</name>
 		<desc>In the distant future of 14672 A.D., the first year of the Demon Age, the demon lord Ryoukotsuki escaped from hell and plotted to conquer the surface world ruled by the three Getsu brothers. The Getsu brothers fought against Ryoukotsuki, each wielding one of the three spiritual Pulse Blades that have been passed within the clan for generations. However, the brothers were ultimately defeated by the demon and only Fuuma, the youngest of the three, survived. Vowing to avenge his slain brothers, Fūma ventures into Kyouki-tou to recover the three stolen Pulse Blades and summon the spirits of his brothers to defeat Ryoukotsuki.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Getsufuu Maden-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Getsufuu Maden-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19870707T000000</releasedate>
 		<developer>Konami</developer>
@@ -2084,7 +2053,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
 		<path>./Mike Tyson's Punch-Out!!.zip</path>
 		<name>Mike Tyson's Punch-Out!!</name>
 		<desc>It's a right jab, a left hook, an uppercut - it's Mike Tyson's Punch-Out!! where you'll get the chance to compete against boxers from around the globe. Punch your way through 13 bouts in the minor, major and world circuits against tough contestants like Piston Honda, Glass Joe, Super Macho Man and many, many more! Defeat all your opponents and meet the ultimate challenge against the World Heavyweight Champion Mike Tyson in the greatest fight of all - The Dream Bout! Knockout Tyson and you can become WVBA (World Video Boxing Association) Champ!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Mike Tyson's Punch-Out!!-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Mike Tyson's Punch-Out!!-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19871001T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2097,7 +2066,7 @@ Combined that with a host of hazardous obstacles so prevalent in platformers and
 		<desc>Takahashi Meijin no Bouken Jima IV is an Action game, developed by Hudson Soft and published by Hudson, which was released in Japan in 1994.
 
 Last Adventure Island game for NES.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Takahashi Meijin no Boukenjima 4-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Takahashi Meijin no Boukenjima 4-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19940624T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -2112,7 +2081,7 @@ Last Adventure Island game for NES.</desc>
 
 * Explore the vast Overworld terrain of the land of Hyrule and discover hidden treasures.
 * Explore the mystical labyrinths of the Underworld and ward-off ruthless enemies.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Legend of Zelda (automap)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Legend of Zelda (automap)-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19860221T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2123,7 +2092,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Xexyz.zip</path>
 		<name>Xexyz</name>
 		<desc>The game centers around the main character of Apollo (no relation to the Greek sun god) who progresses through the game in an alternating format that switches between platform, side-scrolling action (similar to the Super Mario Bros. series) and side-scrolling shooter action (similar to Konami's Gradius series). The goal of the series is, stereotypically, to destroy an evil boss — Goruza — rescue a princess — in this case, Princess Maria — and save the planet.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Xexyz-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Xexyz-image.jpg</image>
 		<releasedate>19880826T000000</releasedate>
 		<developer>Atlus</developer>
 		<publisher>Hudson Soft</publisher>
@@ -2135,7 +2104,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Ys II - Ancient Ys Vanished - The Final Chapter.zip</path>
 		<name>Ys II: Ancient Ys Vanished – The Final Chapter</name>
 		<desc>A bright light shot up from Darm Tower in the end of the first Ys, and Adol Christin is awakened by a young girl who finds him lying on the ground. She introduces herself as Lilia and tells Adol he is in the land of Ys. Finally he was able to establish a connection between his world and this mysterious land! But finding the gateway to Ys is not enough: Adol must stop an evil entity that his archenemy Dark Fact served. And his foes already know where he is.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Ys II - Ancient Ys Vanished - The Final Chapter-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Ys II - Ancient Ys Vanished - The Final Chapter-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19880624T000000</releasedate>
 		<developer>Nihon Falcom</developer>
@@ -2146,7 +2115,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Ys III - Wanderers From Ys.zip</path>
 		<name>Ys III: Wanderers from Ys</name>
 		<desc>As Adol, hero of Ys Book I &amp; II, your most fearsome new adventure is about to begin! The curse of the monster Demanicus terrorizes your friend Dogi's homeland. Chaos rules as blood-thirsty creatures threaten innocent lives. Only you have the courage and strength to defeat them! Gather your fiercest swords and deadly amulet to battle these horrific creatures with a thrilling new action view. Survive the fiery depths of Alcaino. Conquer the terrifying Nekevil. But stay alert, brave Adol! The fury of Demanicus awaits your final epic struggle!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Ys III - Wanderers From Ys-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Ys III - Wanderers From Ys-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19891020T000000</releasedate>
 		<developer>Advance Communication</developer>
@@ -2157,7 +2126,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Zelda II - Journey of a Day.zip</path>
 		<name>Zelda II: Journey of a Day</name>
 		<desc>The land of Hyrule is in chaos.  As Link, you’ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Zelda II - Journey of a Day-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Zelda II - Journey of a Day-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19880926T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2170,7 +2139,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Zelda II - Shadow of Night.zip</path>
 		<name>Zelda II: Shadow of Night</name>
 		<desc>The land of Hyrule is in chaos.  As Link, you’ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Zelda II - Shadow of Night-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Zelda II - Shadow of Night-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19880926T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2181,7 +2150,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Zelda II - The Adventure of Link.zip</path>
 		<name>Zelda II: The Adventure of Link</name>
 		<desc>The land of Hyrule is in chaos.  As Link, you’ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Zelda II - The Adventure of Link-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Zelda II - The Adventure of Link-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19880926T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2192,7 +2161,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Zelda - The Legend of Link.zip</path>
 		<name>Zelda: The Legend of Link</name>
 		<desc>Various ancient legends have been recorded of a young boy clothed in green, wielding the mythical master sword, sealing away all evil throughout the land. His ventures, passed down through generations have become legend. The hero of legend, had many different forms. He saved many kingdoms, restoring peace in all the lands. This is but one of the legends, of which the people speak…</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Zelda - The Legend of Link-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Zelda - The Legend of Link-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20141005T000000</releasedate>
 		<developer>infidelity</developer>
@@ -2203,7 +2172,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Ninja Jajamaru.zip</path>
 		<name>Ninja Jajamaru: Ginga Daisakusen</name>
 		<desc>Ninja Jajamaru: Ginga Daisakusen is an Action game, developed and published by Jaleco Entertainment, which was released in Japan in 1991.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Ninja Jajamaru-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Ninja Jajamaru-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19910321T000000</releasedate>
 		<developer>Jaleco Entertainment</developer>
@@ -2217,7 +2186,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Over Horizon.zip</path>
 		<name>Over Horizon</name>
 		<desc>Over Horizon is a Shoot-'Em-Up game, developed by Pixel and published by Hot-B, which was released in Europe in 1991.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Over Horizon-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Over Horizon-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19910426T000000</releasedate>
 		<developer>Pixel</developer>
@@ -2229,7 +2198,7 @@ Last Adventure Island game for NES.</desc>
 		<path>./Super Mario Bros..zip</path>
 		<name>Super Mario Bros.</name>
 		<desc>Do you have what it takes to save the Mushroom Princess?  You’ll have to think fast and move even faster to complete this quest!  The Mushroom Princess is being held captive by the evil Koopa tribe of turtles.  It’s up to you to rescue her from the clutches of the Koopa King before time runs out.  But it won’t be easy.  To get to the Princess, you’ll have to climb mountains, cross seas, avoid bottomless pits, fight off turtle soldiers and a host of black magic traps that only a Koopa King can devise.  It’s another non-stop adventure from the Super Mario Bros.!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Super Mario Bros.-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Super Mario Bros.-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19850913T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2251,7 +2220,7 @@ These strange jewels of power were formed at the eyes, or centers, of the eight 
 The task of retrieving the 8 Eyes falls to you, Orin the Falconer, the bravest and mightiest of the King's Guardsmen. With your fighting falcon, Cutrus, you must penetrate each of the eight Dukes' castles. There you will face the Dukes' soldiers, and battle strange nuclear mutants such as living skeletons, giant wasps, and mud men. You must defeat the monstrous Boss of each castle to retrieve the Jewel of Power he guards.
 
 Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await the return on the Great King, so that he may finish the rebuilding of Earth. Your reward will be the the eternal gratitude of all mankind!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/8 Eyes-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/8 Eyes-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19900101T000000</releasedate>
 		<developer>Thinking Rabbit</developer>
@@ -2263,7 +2232,7 @@ Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await t
 		<path>./Donkey Kong Jr..zip</path>
 		<name>Donkey Kong Jr.</name>
 		<desc>Mario has gone mad! He's turned the tables on Donkey Kong and locked him in a cage. It's up to you, as Donkey Kong Jr., to rescue your father by stealing Mario's set of keys. But it won't be easy. You'll have to fight off ape-eating Snapjaws, jump onto moving islands and break through a jungle of vines to get to the keys that will free Donkey Kong. Can you handle the action? Because this off-the-wall monkey business will have you going bananas!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Donkey Kong Jr.-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Donkey Kong Jr.-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19870715T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2275,7 +2244,7 @@ Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await t
 		<path>./Dragon Buster II.zip</path>
 		<name>Dragon Buster II: Yami no Fuuin</name>
 		<desc>The main hero named Carl is a dragon slayer who wields a bow and arrow. He has to pass 6 stages and reach the Dragon Castle to retrieve the sword which the hero of the original Dragon Buster, Clovis, used as a weapon.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Dragon Buster II-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Buster II-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19890427T000000</releasedate>
 		<developer>TOSE</developer>
@@ -2288,7 +2257,7 @@ Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await t
 		<path>./Kaiketsu Yanchamaru 2.zip</path>
 		<name>Kaiketsu Yancha Maru 2: Karakuri Land</name>
 		<desc>Kaiketsu Yancha Maru 2: Karakuri Land is an Action game, developed and published by Irem, which was released in Japan in 1991.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Kaiketsu Yanchamaru 2-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Kaiketsu Yanchamaru 2-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19910830T000000</releasedate>
 		<developer>Irem</developer>
@@ -2303,7 +2272,7 @@ Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await t
 Kaiketsu Yanchamaru 3 is the final sequel to Kid Niki and is a significant departure from the first two games. Not only does the game feature full four-way scrolling and large maps to explore, but Yanchamaru himself sports a completely new look and numerous new abilities. His trademark spinning sword now seems to more closely resemble a bō, and Yanchamaru can now use it to shoot waves of energy at foes, bounce on the end, spin in place, and even launch off of walls and corners. Taking a cue from Mega Man, he also now has the ability to slide through narrow spaces and underneath dangerous spikes.
 
 Each stage contains numerous keys and locked doors. Any key will open any door, and it is possible to complete a stage without even finding all the keys and doors. The final door in each stage leads to the boss room. After clearing each stage, your performance is tallied, and depending on what you did, bonuses such as points or lives are given.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Kaiketsu Yanchamaru 3-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Kaiketsu Yanchamaru 3-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19930330T000000</releasedate>
 		<developer>Khaos</developer>
@@ -2314,7 +2283,7 @@ Each stage contains numerous keys and locked doors. Any key will open any door, 
 		<path>./Magic John.zip</path>
 		<name>Magic John</name>
 		<desc>John is hired as an apprentice magician by Pong. He is training when some strange people attack and kidnap his girlfriend, Yuu. John goes on a quest to find out where they came from and why they wanted Yuu. Afterwards, John discovers Yuu's kidnapping was a feint to force Yuu's father, a renowned scientist, out of hiding. John must not only save Yuu's father, but ultimately battle an evil king who plans to lead a subterranean army in a battle against the people of John's world.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Magic John-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Magic John-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19900928T000000</releasedate>
 		<developer>Aicom</developer>
@@ -2325,7 +2294,7 @@ Each stage contains numerous keys and locked doors. Any key will open any door, 
 		<path>./Magical Doropie.zip</path>
 		<name>Magical Kid's Doropie</name>
 		<desc>The year is 1999. When the Akudama Empire attacks the Earth with his army of robots. No conventional weapon in existence is efficient against this opponent. The robots are, however, totally vulnerable to magic. An hired mercenary, Kagemaru, summons the only non-sealed witch, Doropie, to stop the Akudama Empire's offence. The imperial army, led by an old nemesis of Doropie, Empress Elysia, does not surrender though. Elysia captures Kagemaru and blackmails Doropie into breaking her seal and setting her free. It seems that the mercenary lost his life, and Doropie sets out to stop the now-free Empress. After the battle, the dying Empress Elysia confesses the reasons behind the invasion and apologizes. The imperial warship explodes shortly thereafter, but not before Doropie escapes it. She is contacted by Kagemaru, who apparently has survived the wounds that Elysia inflicted on him. Doropie comes back to Earth shortly afterwards.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Magical Doropie-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Magical Doropie-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19901214T000000</releasedate>
 		<developer>Vic Tokai</developer>
@@ -2336,7 +2305,7 @@ Each stage contains numerous keys and locked doors. Any key will open any door, 
 		<path>./Mario Bros..zip</path>
 		<name>Mario Bros.</name>
 		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Mario Bros.-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Mario Bros.-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19830601T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2348,7 +2317,7 @@ Each stage contains numerous keys and locked doors. Any key will open any door, 
 		<path>./Metroid [mOTHER].zip</path>
 		<name>Metroid: mOther</name>
 		<desc>Metroid: mOther is a hack of the original Metroid aiming to fully update sound and graphics to resemble Super Metroid. Space Pirates attack a Galactic Federation-owned space research vessel and seize samples of Metroid creatures. As a last resort, the Federation decides to send a lone bounty hunter to penetrate the Pirates' base. Samus Aran is chosen for the mission.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Metroid [mOTHER]-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Metroid [mOTHER]-image.jpg</image>
 		<rating>1</rating>
 		<releasedate>20140422T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2365,7 +2334,7 @@ The overworld has been tweaked to be much less bleak and repetitive, so it’s h
 There are also a lot of changes under the hood. Enemies will yield slightly more exp and the encounter rate has been readjusted. The “Dangerous Foe” battle theme is used less often and party members will be met at a higher level. DragonDePlatino’s goal in creating this hack was to make Mother less challenging, but still quite difficult.
 
 And last but not least, this hack uses Tomato’s official Mother 1 + 2 translation, adapted for the NES. Over 1400 lines of text have been altered to create connections with the rest of the series, improve clarity and shorten reading time. This hack will also feature much quicker battle text courtesy of vince94. Battles progress almost twice as quickly!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Mother 25th Anniversary Edition-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Mother 25th Anniversary Edition-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20141105T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -2378,7 +2347,7 @@ And last but not least, this hack uses Tomato’s official Mother 1 + 2 translat
 		<desc>Hebereke (へべれけ?) is a video game series developed by Sunsoft that was released primarily in Japan, with a few releases in Europe and one release in North America. It was one of the company's main franchises during the 1990s. Hebe, the main character of the series, became Sunsoft's main mascot during this period, appearing on the company's logo in several games and commercials. The series features a comical, yet surreal setting and characters. The title of the series comes from a Japanese colloquialism for drunkenness. The series covers several different genres from platforming to puzzle, though they are all set in the same fictional universe.
 
 The first Hebereke game for the Nintendo Entertainment System was released in the PAL region under the title of Ufouria: The Saga, which changed the names of the main characters, while two of them had their looks changed. A North American release was planned, but canceled; however, the PAL region version was later added to the Wii Virtual Console in North America. A later set of games for the Super Nintendo Entertainment System were also released under the Hebereke title, which retained the original names and looks from the Japanese version.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Hebereke-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Hebereke-image.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>19910920T000000</releasedate>
 		<developer>Sunsoft</developer>
@@ -2389,7 +2358,7 @@ The first Hebereke game for the Nintendo Entertainment System was released in th
 		<path>./Wai Wai World 2 - SOS!!.zip</path>
 		<name>Wai Wai World 2: SOS!! Parsley Jou</name>
 		<desc>Wai Wai World is in trouble, as the evil Waruumon has kidnapped Princess Herb! Luckily, Dr. Cinnimon has created a hero that can stop him. Rikkuru! Can he save the princess, by traveling through all of Wai Wai world??</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Wai Wai World 2 - SOS!!-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Wai Wai World 2 - SOS!!-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19910105T000000</releasedate>
 		<developer>Konami</developer>
@@ -2401,11 +2370,44 @@ The first Hebereke game for the Nintendo Entertainment System was released in th
 		<path>./Zombie Hunter.zip</path>
 		<name>Zombie Hunter</name>
 		<desc>Zombie Hunter is a Role-Playing game, developed by Lenar and published by Hi-Score Media Work, which was released in Japan in 1987.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/nes/Zombie Hunter-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Zombie Hunter-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19870703T000000</releasedate>
 		<developer>Lenar</developer>
 		<publisher>Hi-Score Media Work</publisher>
 		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles II - The Arcade Game.zip</path>
+		<name>Teenage Mutant Ninja Turtles II: The Arcade Game</name>
+		<desc>Yo! After being treated like garbage by the Ninja Turtles, Shredder has trained a new, more merciless breed of Foot Soldiers to inflict his revenge: A clan of over 700 Taekwondo turtle terminators who have once again captured April O'Neil to use as turtle bait. Fortunately you don't have to face these freaks of torture alone. For the first time ever, two dudes or dudettes can join forces and double-team Shredder, kicking shell while covering each others tails.
+
+But to survive you've gotta fight through 8 action-packed arcade levels, including Vinnie's Valet "Stalking" Lot and the Soho Sewer System, plus two new never-before-seen shell-squashing stages! Each of these deathtraps is reinforced by lethal electro zappers, laser beams, freezer burners or enemies such as Scorpion Robots, Stone Warriors and Baxter Stockman. Shredder has also hired the all-powerful Tora and Shogun, two alien bounty hunters who have never known defeat.
+
+Even though Master Splinter has prepared the turtles well for battle, teaching them radical new attack moves, it doesn't mean this war to save April and turtlekind will be a piece of cake or even a slice of pizza. Because with the forces of revenge on his side and the bounty boys in town, it's payback time for Shredder!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles II - The Arcade Game-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170307T225139</lastplayed>
+	</game>
+	<game>
+		<path>./Tetris.zip</path>
+		<name>Tetris</name>
+		<desc>A random sequence of tetrominoes (sometimes called "tetrads" in older versions)—shapes composed of four square blocks each—fall down the playing field (a rectangular vertical shaft, called the "well" or "matrix"). The objective of the game is to manipulate these tetrominoes, by moving each one sideways and rotating it by 90 degree units, with the aim of creating a horizontal line of blocks without gaps. When such a line is created, it disappears, and any block above the deleted line will fall. With every ten lines that are cleared, the game enters a new level. As the game progresses, each level causes the tetrominoes to fall faster, and the game ends when the stack of tetrominoes reaches the top of the playing field and no new tetrominoes are able to enter. In certain versions, the game can also end if the player is able to get all the way to level 15.
+
+All of the tetrominoes are capable of single and double clears. I, J, and L are able to clear triples. Only the I tetromino has the capacity to clear four lines simultaneously, and this is referred to as a "tetris". (This may vary depending on the rotation and compensation rules of each specific Tetris implementation. For instance, in the Super Rotation System used in most recent implementations, called "Easy Spin" in Tetris Worlds, certain rare situations allow T, S and Z to 'snap' into tight spots and clear triples.)</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Tetris-image.jpg</image>
+		<rating>0.725</rating>
+		<releasedate>19880715T000000</releasedate>
+		<developer>Bullet-Proof Software</developer>
+		<publisher>Bullet-Proof Software</publisher>
+		<genre>Puzzle</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170307T225121</lastplayed>
 	</game>
 </gameList>

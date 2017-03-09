@@ -406,25 +406,6 @@ The battery pack saves your game in progress in this biggest Game Boy Mario adve
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).zip</path>
-		<name>The Legend of Zelda: Link's Awakening</name>
-		<desc>A Game Boy fantasy adventure like no other!
-
-Nintendo's fantasy adventure hero, Link of Hyrule, returns in this new epic quest...Link's Awakening. Link's newest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.
-
-But it won't be as easy as chartering a boat. The island's inhabitants have no knowledge of the outside world. One creature, a talking Owl, may know the solution to Link's dilemma, but first Link must tackle eight dungeons full of treacherous monsters and tricky taps. His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.
-
-Link will battle new enemies and make new friends in one of the most in-depth fantasy adventures for Game Boy yet!
-
-A battery-backed memory will save up to three games so you never have to start your journey empty-handed.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B)-image.jpg</image>
-		<rating>0.76667</rating>
-		<releasedate>19930606T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
 		<path>./Tiny Toon Adventures - Babs' Big Break.zip</path>
 		<name>Tiny Toon Adventures: Babs' Big Break</name>
 		<desc>BABS MAY BE A TOUGH ACT TO FOLLOW, BUT CATCHING UP WITH HER IS EVEN TOUGHER!
@@ -483,7 +464,7 @@ Battery-backed memory saves your progress for many hours of fun!</desc>
 		<path>./Yoshi's Cookie (USA, Europe).zip</path>
 		<name>Yoshi's Cookie</name>
 		<desc>Yoshi's Cookie is a fast-paced puzzle game. The player moves randomly placed cookies into rows and columns of cookies with similar patterns. When a row or column of the same cookies is successfully assembled, the line will disappear, and the player can begin to work on a new row or column. The "Yoshi" cookie is very special in both the 1-player and the 2-player game. Since this cookie is the key to both games, it should be used wisely.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Yoshi's Cookie (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Yoshi's Cookie (USA, Europe)-image.jpg</image>
 		<rating>0</rating>
 		<developer />
 		<publisher />
@@ -494,7 +475,7 @@ Battery-backed memory saves your progress for many hours of fun!</desc>
 		<path>./Castlevania II - Belmont's Revenge.zip</path>
 		<name>Castlevania II: Belmont's Revenge</name>
 		<desc>Fifteen years after vanquishing the emperor of evil, Count Dracula, Christopher Belmont now faces a vampire swearing vengeance. Drac's back. And he's turned your son, Soleiyu Belmont, into a deadly demon to do his dirty deeds. Now not only do you have to rescue your kid from the Count's clutches, you have to first track him down in four creep packed Castles. Fortunately, you posses weapons like armor piercing Battle Axes, beast burning Holy Water, and the Legendary Mystic Whip. And you can increase your arsenal with power up items like Crystal Balls, Hearts, and Candles. Strap on your shield and step into the shadows. That is, if you're prepared for the dwellers of darkness.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Castlevania II - Belmont's Revenge-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Castlevania II - Belmont's Revenge-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19910712T000000</releasedate>
 		<developer>Konami</developer>
@@ -509,7 +490,7 @@ Battery-backed memory saves your progress for many hours of fun!</desc>
 		<desc>Castlevania: The Adventure, known as Dracula Densetsu (ドラキュラ伝説, officially translated The Legend of Dracula) in Japan, is a platform game released for the Game Boy in 1989. It is the first Castlevania title for the system.
 
 Set a century before the events of the original Castlevania, the player controls an ancestor of Simon Belmont named Christopher Belmont who goes on a quest to defeat Dracula.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Castlevania Adventure, The-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Castlevania Adventure, The-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19891203T000000</releasedate>
 		<developer>Konami</developer>
@@ -524,7 +505,7 @@ Set a century before the events of the original Castlevania, the player controls
 		<desc>Donkey Kong Land is a Jump &amp; Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.
 
 Cranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey &amp; Diddy Kong set out to go throuth another adventure!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Donkey Kong Land (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land (USA, Europe)-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19950726T000000</releasedate>
 		<developer>Rare</developer>
@@ -541,7 +522,7 @@ ghosts start to appear and the city gets demolished. A dark city, with a
 haunted mansion in the middle, rises from the rumble and four ghost fuse to
 become a large ghost and kidnaps Harry's spouse. You must save your spouse and
 stop the evil Ghost Building Company.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Hammerin' Harry - Ghost Building Company-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Hammerin' Harry - Ghost Building Company-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19920101T000000</releasedate>
 		<developer>Tamtex</developer>
@@ -552,7 +533,7 @@ stop the evil Ghost Building Company.</desc>
 		<path>./Tiny Toon Adventures - Montana's Movie Madness.zip</path>
 		<name>Tiny Toon Adventures 2: Montana's Movie Madness</name>
 		<desc>Here comes Montana Max the meanest movie maker to ever tarnish the silver screen. He's directed four new flicks that make Buster Bunny look like a villain! To defend his character Buster Bunny must leap into Max's movies and use attack moves like fast dash and freeze kick to change the endings before his career is finished.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Tiny Toon Adventures - Montana's Movie Madness-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Tiny Toon Adventures - Montana's Movie Madness-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19931222T000000</releasedate>
 		<developer>Konami</developer>
@@ -565,7 +546,7 @@ stop the evil Ghost Building Company.</desc>
 		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
 
 The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Adventure Island (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Adventure Island (USA, Europe)-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19920201T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -590,7 +571,7 @@ Oil Panic - Catch the dripping oil.
 -New Interrupt Save feature lets you stop and restart anytime!
 
 -Battery-backed memory saves all your scores!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/gb/Game &amp; Watch Gallery-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Game &amp; Watch Gallery-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19970201T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -598,5 +579,26 @@ Oil Panic - Catch the dripping oil.
 		<genre>Action</genre>
 		<playcount>3</playcount>
 		<lastplayed>20170305T033032</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).zip</path>
+		<name>The Legend of Zelda: Link's Awakening</name>
+		<desc>A Game Boy fantasy adventure like no other!
+
+Nintendo's fantasy adventure hero, Link of Hyrule, returns in this new epic quest...Link's Awakening. Link's newest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.
+
+But it won't be as easy as chartering a boat. The island's inhabitants have no knowledge of the outside world. One creature, a talking Owl, may know the solution to Link's dilemma, but first Link must tackle eight dungeons full of treacherous monsters and tricky taps. His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.
+
+Link will battle new enemies and make new friends in one of the most in-depth fantasy adventures for Game Boy yet!
+
+A battery-backed memory will save up to three games so you never have to start your journey empty-handed.</desc>
+		<image>~/.emulationstation/downloaded_images/gb/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B)-image.jpg</image>
+		<rating>0.76667</rating>
+		<releasedate>19930606T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170307T230057</lastplayed>
 	</game>
 </gameList>

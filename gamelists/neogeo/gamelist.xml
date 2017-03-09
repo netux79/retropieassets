@@ -341,7 +341,7 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<path>./neogeo.zip</path>
 		<name>NeoGeo BIOS</name>
 		<desc>Neo Geo Bios</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/neogeo/neogeo-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/neogeo/neogeo-image.jpg</image>
 		<rating>0</rating>
 		<developer />
 		<publisher />
@@ -353,7 +353,7 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<path>./kof96.zip</path>
 		<name>The King of Fighters '96</name>
 		<desc>A new King of Fighters tournament was announced, though the letters of invitation sent out to the fighters were no longer sent by Rugal Bernstein. The letters also announced many changes, the first of which being a massive overhaul of the tournament's approach. During the time that had passed between the tournaments since the previous year, the King of Fighters tournament's fame had grown immensely, to the point that it turned into a major international event, which had not happened before. Huge corporations transformed the King of Fighters tournament into something widely televised, commercialized, and celebrated, drawing in many crowds from around the world. The tournament is now held by Chizuru Kagura: a descendant of the ancient Yata Clan responsible for sealing the Orochi demon along with the Kusanagi and Yasanaki clan (the clans from Kyo Kusanagi and Iori Yagami, respectively). Chizuru uses the tournament in hopes of finding and recruiting Kyo and Iori in order to stop the upcoming Orochi threat, but Kyo and Iori aren't exactly willing to work together on friendly terms.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/neogeo/kof96-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof96-image.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>19960730T000000</releasedate>
 		<developer>SNK</developer>
@@ -365,7 +365,7 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<path>./kof97.zip</path>
 		<name>The King of Fighters '97</name>
 		<desc>Despite the events at the end of the previous game, the KOF tournament was a huge commercial success and sparked a worldwide fighting craze. Within a few months of the tournament ending, various large corporations had held smaller KOF tournament qualifiers and constructed special KOF stadiums around the world, building the excitement up for the next tournament. News of the tournament spread through every form of media and fans and new fighters from across the globe come to watch the preliminary matches.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/neogeo/kof97-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof97-image.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>19970727T000000</releasedate>
 		<developer>SNK</developer>

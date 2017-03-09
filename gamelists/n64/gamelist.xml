@@ -316,19 +316,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<lastplayed>20170215T015822</lastplayed>
 	</game>
 	<game>
-		<path>./Castlevania (U) (V1.2) [!].z64</path>
-		<name>Castlevania</name>
-		<desc>Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Castlevania (U) (V1.2) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19990126T000000</releasedate>
-		<developer>Konami Computer, Entertainment Kobe</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<playcount>2</playcount>
-		<lastplayed>20170219T023609</lastplayed>
-	</game>
-	<game>
 		<path>./Super Mario 64 (U) [!].z64</path>
 		<name>Super Mario 64</name>
 		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
@@ -391,12 +378,25 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<path>./Super Smash Bros. (U) [!].z64</path>
 		<name>Super Smash Bros.</name>
 		<desc>It's a Bumpin', Bruisin', Brawlin' Bash! The many worlds of Nintendo collide in the ultimate showdown of strength and skill! Up to four players can choose their favorite characters - complete with signature attacks - and go at it in Team Battles and Free-For-Alls. Or venture out on your own to conquer the 14 stages in single-player mode. Either way, Super Smash Bros. is a no-holds-barred action-fest that will keep you coming back for more!</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/n64/Super Smash Bros. (U) [!]-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/n64/Super Smash Bros. (U) [!]-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19990121T000000</releasedate>
 		<developer>HAL Laboratory</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Fighting</genre>
 		<players>4+</players>
+	</game>
+	<game>
+		<path>./Castlevania (U) (V1.2) [!].z64</path>
+		<name>Castlevania</name>
+		<desc>Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Castlevania (U) (V1.2) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990126T000000</releasedate>
+		<developer>Konami Computer, Entertainment Kobe</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<playcount>3</playcount>
+		<lastplayed>20170307T225045</lastplayed>
 	</game>
 </gameList>

@@ -390,13 +390,6 @@ It was developed by Game Freak, the development team that would later go on to p
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Tougiou King Colossus.zip</path>
-		<name>Tougiou King Colossus</name>
-		<image>~/.emulationstation/downloaded_images/megadrive/Tougiou King Colossus-image.jpg</image>
-		<playcount>1</playcount>
-		<lastplayed>20170202T013104</lastplayed>
-	</game>
-	<game>
 		<path>./Wonder Boy in Monster World.zip</path>
 		<name>Wonder Boy in Monster World</name>
 		<desc>Townsfolk cower in fear as legions of deadly monsters invade the planet. Only Wonder Boy can fight smart enough - and tough enough - to wipe out the terrible beasts. Sleuth out secret clues to thwart the undead. Match wits against an evil force of otherwordly dimensions. And prove the awesome strength and courage of the amazing Wonder Boy!</desc>
@@ -425,7 +418,7 @@ It was developed by Game Freak, the development team that would later go on to p
 		<desc>Lethal Enforcers is out to clean up the streets in the baddest parts of Chicago. Digitized graphics and sound will slam you into cold reality and heated action. Your job is to defend the innocent and protect yourself from a fatal case of lead poisoning.
 Your side iron is packed inside and ready to blow you away with a true arcade experience. Just like the arcade game, you've got the quick reload feature. Time it just right so you don't run out of ammo while you're trading bullets with the scum of the earth. Upgrade your firepower along the way to magnum, 12-round automatic, assault rifle, shot gun, machine gun or grenade gun.
 Your type of street cleaning takes place where the dirtiest deeds go down. But first, a training level lets you take target practice and take out your frustrations, then on to reality. Be on the lookout for bank job in progress, high speed chase, ninjas downtown, hijacking at the international airport, gunrunners at the shipping dock, helicopter chase, chemical plant sabotage with volatile Heat of the Night Vision. The pressure under fire is so intense you'll be sweating bullets. Start shooting in any stage you select. At the end of each level, you'll get your hit percentage and your performance rank, from petrolman to commander.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/megadrive/Lethal Enforcers MD-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/megadrive/Lethal Enforcers MD-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19930725T000000</releasedate>
 		<developer>Konami</developer>
@@ -440,7 +433,7 @@ Your type of street cleaning takes place where the dirtiest deeds go down. But f
 In a sudden strike by the Menon forces O-Papa, Opa-Opa's father, is fatally wounded. Thus Opa-Opa once again sets forth to destroy the Menon empire and avenge his father.
 
 EU release</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/megadrive/Super Fantasy Zone-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/megadrive/Super Fantasy Zone-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>SunSoft</developer>
@@ -454,7 +447,7 @@ EU release</desc>
 		<desc>Alien Soldier is a side-scrolling action game in which the player takes the role of Epsilon-Eagle, the former leader of the Scarlet mutant group. The mutants are now lead by the evil Xi-Tiger who had turned them to terrorism, and one of their goals is to kill Epsilon-Eagle...
 
 At the start of the game the player chooses four out of six weapons - each with special advantages or disadvantages against certain enemies. As mutant Epsilon-Eagle also has other special powers, e.g. teleporting across the screen or (with full health) morphing into a powerful phoenix destroying everything in his way.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/megadrive/Alien Soldier-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/megadrive/Alien Soldier-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19950224T000000</releasedate>
 		<developer>Treasure Co</developer>
@@ -467,10 +460,21 @@ At the start of the game the player chooses four out of six weapons - each with 
 		<path>./Prince of Persia 2 - The Shadow and the Flame.zip</path>
 		<name>Prince of Persia 2</name>
 		<desc>Similar to the first Prince of Persia, the character explores various deadly areas by running, jumping, crawling, avoiding traps, solving puzzles and drinking magic potions. Prince of Persia 2 is, however, more combat-heavy than its predecessor. In the first game, enemies appear only occasionally and are always alone, while in the sequel, up to four enemies may appear at once, sometimes flanking the player, and may even be instantly replaced by reinforcements when they are killed. As in Prince of Persia, the trick is to complete the game under a strict time limit that passes in real time. Lives are unlimited, but time cannot be regained except by reverting to a previously saved game. In other areas, more significant improvements have been made. The graphics are far more complex than the simple look of the game's predecessor, the areas explored are larger, and the variety of backdrops is greater.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/megadrive/Prince of Persia 2 - The Shadow and the Flame-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/megadrive/Prince of Persia 2 - The Shadow and the Flame-image.jpg</image>
 		<rating>0.7</rating>
-		<developer></developer>
-		<publisher></publisher>
+		<developer />
+		<publisher />
 		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Tougiou King Colossus.zip</path>
+		<name>Tougiou King Colossus</name>
+		<desc>Tougi-Ou: King Colossus is a Role-Playing game, developed and published by Sega, which was released in Japan in 1992.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Tougiou King Colossus-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920626T000000</releasedate>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170202T013104</lastplayed>
 	</game>
 </gameList>
