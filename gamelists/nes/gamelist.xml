@@ -2410,4 +2410,17 @@ All of the tetrominoes are capable of single and double clears. I, J, and L are 
 		<playcount>1</playcount>
 		<lastplayed>20170307T225121</lastplayed>
 	</game>
+	<game>
+		<path>./Yume Penguin Monogatari.zip</path>
+		<name>Yume Penguin Monogatari</name>
+		<desc>Penta, a cute blue penguin, has a tragic flaw - he really enjoys eating. As a result, his girlfriend Penko left him for another fashionable penguin called Ginji because, she thinks, he has become too chubby for her liking. And yet, she decides to give him a second chance - if he manages to lose all this weight and keep it off, then she will give all her love and attention to him. But the covetous Ginji doesn't share the same sentiments and will do everything in his power to stop the poor flightless seabird before he slims down.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Yume Penguin Monogatari-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910125T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T175725</lastplayed>
+	</game>
 </gameList>

@@ -1,0 +1,212 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./psy-cvdp.cso</path>
+		<name>Castlevania The Dracula X Chronicles</name>
+		<desc>The legendary action game Castlevania: Rondo of Blood (the "lost" chapter never seen before outside of Japan) is reborn on the PSP system with incredible 3D graphics and timeless side scrolling gameplay in Castlevania: The Dracula X Chronicles. Gamers take up the Vampire Killer whip as Richter Belmont as they seek to destroy the maniacal Dracula once and for all in this pivotal piece of the ongoing Castlevania saga. Castlevania: The Dracula X Chronicles also includes unlockable versions of the original Rondo of Blood and Symphony of the Night games, delivering incredible gameplay and value while updating two of the most beloved video games of all time for a new generation of gamers.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-cvdp-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20070823T000000</releasedate>
+		<developer>konami</developer>
+		<publisher>konami</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170312T173255</lastplayed>
+	</game>
+	<game>
+		<path>./a-daxter.cso</path>
+		<name>Daxter</name>
+		<desc>Daxter is centered around the world of the lovable orange ottsel made popular in the Jak and Daxter franchise. The story unfolds as Daxter searches for Jak, who was imprisoned during the events that led to the start of "Jak II." Daxter, now on his own in an unfamiliar place, quickly realizes that being small and furry won't help his chances of survival. To help stamp out a mysterious metalbug infestation, Daxter takes on a job as a pest exterminator, enabling him to explore parts of Haven City in an effort to collect the clues that will lead him to Jak. Daxter allows gamers to play from his perspective offering a distinctive set of moves with agile abilities that allows players to climb walls, creep up on enemies, fit in small places and maneuver vehicles. Taking a job as a pest exterminator, to fight an ongoing invasion of metal-bugs, Daxter comes equip with gadgets to rid the city of these metal nuisances. Get close up and personal by using your flimsy bug swatter to squash an army of attacking insects or your spray gun to hover around a variety of environments while picking up various upgrades.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/a-daxter-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Ready at Dawn</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./psy-ff2u.cso</path>
+		<name>Final Fantasy II</name>
+		<desc>FINAL FANTASY II is highly anticipated follow-up to the original FINAL FANTASY, released in Japan in 1988. The game features the bitter and beautiful tale of four war-orphaned heroes who become embroiled in a conflict between the hostile Empire of Palamecia and the rebel resistance. By eschewing conventional leveling for a proficiency system that allows players to tailor their characters' growth and incorporating a key term memory system that makes dialogue integral to gameplay, this game sparked the spirit of innovation for which the series has become known. This release also contains the bonus dungeons added to later editions of the game--the Soul of Rebirth and the Arcane Labyrinth.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-ff2u-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20010502T000000</releasedate>
+		<developer>SquareSoft</developer>
+		<publisher>SquareSoft</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T170741</lastplayed>
+	</game>
+	<game>
+		<path>./pa-ffiiiu.cso</path>
+		<name>Final Fantasy III</name>
+		<desc>1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic".</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pa-ffiiiu-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20061115T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./d-mmpwu.cso</path>
+		<name>Mega Man Powered Up</name>
+		<desc>Mega Man ...like you've never seen him!
+
+The diabolical Dr. Wily is bent on world domination, and only Mega Man can stop his evil Minions. With a spiffy new look and amazing new powers, Mega Man is better than ever in his wildest adventure yet!
+
+For the first time ever, play as any of the powerful bosses! Take control! Build &amp; explore your own levels. Use Infrastructure Mode to send your creations to Mega Man users around the world and test their skill.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/d-mmpwu-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170312T171656</lastplayed>
+	</game>
+	<game>
+		<path>./b-popfsu.cso</path>
+		<name>Prince of Persia: The Forgotten Sands</name>
+		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/b-popfsu-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20100518T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20170312T171459</lastplayed>
+	</game>
+	<game>
+		<path>./hr-prinny2.cso</path>
+		<name>Prinny 2: Dawn of Operation Panties, Dood!</name>
+		<desc>Prinny 2 is a side scrolling hack and slash action game. Players will control demonic penguins, Prinnies, who are known as the "weakest monsters in the Netherworld." Players can run, jump, slash, execute special skills, and ride tanks or jets to battle enemies. The Prinnies' mission is to find Demon Lord Etna's stolen panties! If they fail... Etna will turn THEM into panties! As an extra bonus, a whole new main character and story become available after you complete the main game.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/hr-prinny2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20110111T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>NIS America</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./psy-prin.cso</path>
+		<name>Prinny: Can I Really Be the Hero?</name>
+		<desc>Prinny will be the most heart-pounding and challenging side-scrolling action game ever. Players will control an unlucky penguin dude called a Prinny and slash their way through various Netherworlds. For this tough-as-nails action game, you're given 1000 units to accomplish your mission, but even with those 1000 units you will have to use everything you find on the battlefield to survive. Lift and throw objects, stomp enemies, even pilot tanks and planes to bombard whatever gets in your way!</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-prin-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20090217T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>NIS America</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./psy-rcsm.cso</path>
+		<name>Ratchet &amp; Clank: Size Matters</name>
+		<desc>Ratchet &amp; Clank: Size Matters (known as Ratchet &amp; Clank 5 in Japan) is a 2007 platformer video game developed by High Impact Games and published by Sony Computer Entertainment for the PlayStation Portable and PlayStation 2. The game is the first Ratchet &amp; Clank title on the PSP handheld. Development company High Impact Games was spawned from the original Ratchet &amp; Clank developer, Insomniac Games. The story is about Ratchet and Clank as they are interrupted from their vacation to search for a kidnapped girl and encounter a forgotten race known as the Technomites</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-rcsm-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20070213T000000</releasedate>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+		<playcount>2</playcount>
+		<lastplayed>20170312T170423</lastplayed>
+	</game>
+	<game>
+		<path>./pa-shouu.cso</path>
+		<name>Silent Hill Origins</name>
+		<desc>The renowned Silent Hill survival horror series makes its handheld gaming debut with a brand new adventure that reveals many of the series' most hallowed secrets. Assuming the role of Travis Grady, a lone truck driver trapped in Silent Hill while making a routine delivery, players must escape the city's horrific inhabitants and confront the strange hallucinations that have haunted Travis since childhood. Taking full advantage of the PSP system's graphics, sound, and portability, Silent Hill Origins sets a new standard in handheld gaming terror.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pa-shouu-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20071106T000000</releasedate>
+		<developer>Climax Group</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T170940</lastplayed>
+	</game>
+	<game>
+		<path>./pa-3rdu.cso</path>
+		<name>The 3rd Birthday</name>
+		<desc>Hideous creatures descend on Manhattan. Ground reports from the squad tasked with containing the pandemonium refer to these life forms as the Twisted. An investigatory team known as the CTI is formed within the year.
+The Overdive system emerges as a means of opposition, but only one viable candidate exists -- Aya Brea. A gift as she awakens from a lost past on this, the occasion of her third birth.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pa-3rdu-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Hexa Drive</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./a-ugandg.cso</path>
+		<name>Ultimate Ghosts 'n Goblins</name>
+		<desc>An exclusive PSP edition of Capcom's legendary platforming game, directed by the original's creator Tokurou Fujiwara. The game makes use of a 3D graphics engine, giving depth to the visuals, but plays in a side-scrolling perspective and similar art design to stay true to the original. Your goal is to work your way through side-scrolling stages, defeating enemies and using your best platforming skills. The game lets you build up your skills as you progress. You start off with just a basic jump, but eventually gain a double jump and even the ability to fly. You'll also earn lots of magic spells along the way. The game promises a greater number of spells and weapons than ever before. New for Goku Makaimura is non-linear gameplay. You're no longer on a fixed path from start to end. The levels include branching points and even warp points. By using a warp point, you can warp back to previous levels and collecting items that you might have missed.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/a-ugandg-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20060829T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T165514</lastplayed>
+	</game>
+	<game>
+		<path>./b-ysiiiu.cso</path>
+		<name>Ys I &amp; II Chronicles</name>
+		<desc>Ys I &amp; II consists of enhanced remakes of the first two games released in the Ys series, Ys I: Ancient Ys Vanished and Ys II: Ancient Ys Vanished – The Final Chapter. 
+In both games the player controls a red-haired swordsman named Adol Christin. In the first game he must seek out the six Books of Ys. These books contain the history of the ancient, vanished land of Ys, and will give him the knowledge he needs to defeat the evil forces currently sweeping the land of Esteria.
+In Ys II Adol is transported to the floating civilization of Ys, and begins a quest to unravel the secrets of the land, and finally rid it and Esteria of evil. All English translations of Ys II were part of a compilation; no standalone version has been localized.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/b-ysiiiu-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20110221T000000</releasedate>
+		<developer>Falcom</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T171900</lastplayed>
+	</game>
+	<game>
+		<path>./b-ys7uu.cso</path>
+		<name>Ys Seven</name>
+		<desc>The kingdom of Altago is rebuilding their kingdom around a newfound peace after years of war against the merciless armies of Romn. The classic adventuresome duo, Adol and Dogi, arrive in the harbor of Altago City, and quickly find themselves in a scuffle with the Dragon Knights, the kingdom's military police body, when attempting to save a local girl from harassment by one of their commanding officers. Upset by the interruption and subsequent humiliation, the commander arrests Adol and Dogi, charging them with espionage. The king of Altago, having known of the duo's pending arrival from an old trusted friend, quickly releases the pair from prison and summons them to his chambers. He tells the men about an ancient shrine that was uncovered after a recent earthquake, and asks for their help in investigating this mysterious new find. Adol and Dogi oblige, unaware that they are about to take the first steps on a long journey to save all of Altago from long-forgotten ancient forces, and to reunite the estranged five tribes who serve and protect the Five Great Dragons deified beings who may well be the world's last hope. Ys Seven is the latest installment in the long-running Ys series which first debuted on PC in 1987. This is the first iteration to be built specifically for the PSP system, taking full advantage of the widescreen format and hardware. The battle system consists of a three-member battle party with enemies engaged on the field map in real-time for fast-paced combat. Old fans of the series and new players alike will be immersed into the rich vibrant world containing over 30 hours of gameplay.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/b-ys7uu-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20100817T000000</releasedate>
+		<developer>Falcom</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T171806</lastplayed>
+	</game>
+	<game>
+		<path>./d-y6aon.cso</path>
+		<name>Ys: The Ark of Napishtim</name>
+		<desc>The story begins after Adol's ship is attacked by a fleet of Romun ships. Forced to sail into an unknown area, they encounter a large storm. Adol is swept off the vessel while trying to rescue a fellow sailor and washed ashore by the vortex that surrounds the Canaan Islands. He is found, unconscious, by the daughters of the chieftain of the nearby Rehda village, Olha and Isha. The girls take him to their village and lay him to rest in their father's house. Adol hears them talking about him and wakes up briefly, afterwards going back to sleep because of his exhaustion. His adventure then begins.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/d-y6aon-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20060228T000000</releasedate>
+		<developer>Falcom</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170312T171349</lastplayed>
+	</game>
+	<game>
+		<path>./pspking-ytoif.cso</path>
+		<name>Ys: The Oath in Felghana</name>
+		<desc>Ys: The Oath in Felghana is a re-imagined remake celebrating the 20th anniversary of the classic third game from the long-running Ys series, Ys III: Wanderers From Ys. Its rebirth on PSP includes a complete graphical overhaul, fully revamped gameplay, intense 3D action, and additional story elements culminating with full voice-overs during story sequences. Other additional features include a rearranged soundtrack, adjustable difficulty levels, and an art gallery, all ensuring that this beautifully re-imagined classic can be enjoyed equally by Wanderers veterans and series newcomers alike.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pspking-ytoif-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20101102T000000</releasedate>
+		<developer>Falcom</developer>
+		<publisher>Xseed Games</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170312T170251</lastplayed>
+	</game>
+</gameList>
