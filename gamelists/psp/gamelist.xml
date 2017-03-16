@@ -26,19 +26,6 @@
 		<players>4+</players>
 	</game>
 	<game>
-		<path>./psy-ff2u.cso</path>
-		<name>Final Fantasy II</name>
-		<desc>FINAL FANTASY II is highly anticipated follow-up to the original FINAL FANTASY, released in Japan in 1988. The game features the bitter and beautiful tale of four war-orphaned heroes who become embroiled in a conflict between the hostile Empire of Palamecia and the rebel resistance. By eschewing conventional leveling for a proficiency system that allows players to tailor their characters' growth and incorporating a key term memory system that makes dialogue integral to gameplay, this game sparked the spirit of innovation for which the series has become known. This release also contains the bonus dungeons added to later editions of the game--the Soul of Rebirth and the Arcane Labyrinth.</desc>
-		<image>~/.emulationstation/downloaded_images/psp/psy-ff2u-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>20010502T000000</releasedate>
-		<developer>SquareSoft</developer>
-		<publisher>SquareSoft</publisher>
-		<genre>Role-Playing</genre>
-		<playcount>1</playcount>
-		<lastplayed>20170312T170741</lastplayed>
-	</game>
-	<game>
 		<path>./pa-ffiiiu.cso</path>
 		<name>Final Fantasy III</name>
 		<desc>1,000 years ago, the War of the Magi occurred. People remember it as one of the most horrible tragedies in history. Since the War of the Magi, magic has been all but forgotten, technology began to grow, and people returned to seemingly normal lives. The only true worry people had was the Empire, whose leaders were looking to revive the great force once known as "magic".</desc>
@@ -48,38 +35,6 @@
 		<developer>Square Enix</developer>
 		<publisher>Square Enix</publisher>
 		<genre>Role-Playing</genre>
-	</game>
-	<game>
-		<path>./d-mmpwu.cso</path>
-		<name>Mega Man Powered Up</name>
-		<desc>Mega Man ...like you've never seen him!
-
-The diabolical Dr. Wily is bent on world domination, and only Mega Man can stop his evil Minions. With a spiffy new look and amazing new powers, Mega Man is better than ever in his wildest adventure yet!
-
-For the first time ever, play as any of the powerful bosses! Take control! Build &amp; explore your own levels. Use Infrastructure Mode to send your creations to Mega Man users around the world and test their skill.</desc>
-		<image>~/.emulationstation/downloaded_images/psp/d-mmpwu-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20060314T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-		<playcount>1</playcount>
-		<lastplayed>20170312T171656</lastplayed>
-	</game>
-	<game>
-		<path>./b-popfsu.cso</path>
-		<name>Prince of Persia: The Forgotten Sands</name>
-		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
-		<image>~/.emulationstation/downloaded_images/psp/b-popfsu-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>20100518T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Action</genre>
-		<players></players>
-		<playcount>1</playcount>
-		<lastplayed>20170312T171459</lastplayed>
 	</game>
 	<game>
 		<path>./hr-prinny2.cso</path>
@@ -110,10 +65,10 @@ For the first time ever, play as any of the powerful bosses! Take control! Build
 		<image>~/.emulationstation/downloaded_images/psp/psy-rcsm-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20070213T000000</releasedate>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
-		<players></players>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
 		<playcount>2</playcount>
 		<lastplayed>20170312T170423</lastplayed>
 	</game>
@@ -141,19 +96,6 @@ The Overdive system emerges as a means of opposition, but only one viable candid
 		<developer>Hexa Drive</developer>
 		<publisher>Square Enix</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./a-ugandg.cso</path>
-		<name>Ultimate Ghosts 'n Goblins</name>
-		<desc>An exclusive PSP edition of Capcom's legendary platforming game, directed by the original's creator Tokurou Fujiwara. The game makes use of a 3D graphics engine, giving depth to the visuals, but plays in a side-scrolling perspective and similar art design to stay true to the original. Your goal is to work your way through side-scrolling stages, defeating enemies and using your best platforming skills. The game lets you build up your skills as you progress. You start off with just a basic jump, but eventually gain a double jump and even the ability to fly. You'll also earn lots of magic spells along the way. The game promises a greater number of spells and weapons than ever before. New for Goku Makaimura is non-linear gameplay. You're no longer on a fixed path from start to end. The levels include branching points and even warp points. By using a warp point, you can warp back to previous levels and collecting items that you might have missed.</desc>
-		<image>~/.emulationstation/downloaded_images/psp/a-ugandg-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>20060829T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20170312T165514</lastplayed>
 	</game>
 	<game>
 		<path>./b-ysiiiu.cso</path>
@@ -208,5 +150,135 @@ In Ys II Adol is transported to the floating civilization of Ys, and begins a qu
 		<genre>Action</genre>
 		<playcount>1</playcount>
 		<lastplayed>20170312T170251</lastplayed>
+	</game>
+	<game>
+		<path>./psy-ff2u.cso</path>
+		<name>Final Fantasy II</name>
+		<desc>FINAL FANTASY II is highly anticipated follow-up to the original FINAL FANTASY, released in Japan in 1988. The game features the bitter and beautiful tale of four war-orphaned heroes who become embroiled in a conflict between the hostile Empire of Palamecia and the rebel resistance. By eschewing conventional leveling for a proficiency system that allows players to tailor their characters' growth and incorporating a key term memory system that makes dialogue integral to gameplay, this game sparked the spirit of innovation for which the series has become known. This release also contains the bonus dungeons added to later editions of the game--the Soul of Rebirth and the Arcane Labyrinth.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-ff2u-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20010502T000000</releasedate>
+		<developer>SquareSoft</developer>
+		<publisher>SquareSoft</publisher>
+		<genre>Role-Playing</genre>
+		<playcount>2</playcount>
+		<lastplayed>20170313T235137</lastplayed>
+	</game>
+	<game>
+		<path>./b-popfsu.cso</path>
+		<name>Prince of Persia: The Forgotten Sands</name>
+		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother's kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/b-popfsu-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20100518T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players />
+		<playcount>5</playcount>
+		<lastplayed>20170314T230652</lastplayed>
+	</game>
+	<game>
+		<path>./d-mmpwu.cso</path>
+		<name>Mega Man Powered Up</name>
+		<desc>Mega Man ...like you've never seen him!
+
+The diabolical Dr. Wily is bent on world domination, and only Mega Man can stop his evil Minions. With a spiffy new look and amazing new powers, Mega Man is better than ever in his wildest adventure yet!
+
+For the first time ever, play as any of the powerful bosses! Take control! Build &amp; explore your own levels. Use Infrastructure Mode to send your creations to Mega Man users around the world and test their skill.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/d-mmpwu-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20170315T001159</lastplayed>
+	</game>
+	<game>
+		<path>./a-ugandg.cso</path>
+		<name>Ultimate Ghosts 'n Goblins</name>
+		<desc>An exclusive PSP edition of Capcom's legendary platforming game, directed by the original's creator Tokurou Fujiwara. The game makes use of a 3D graphics engine, giving depth to the visuals, but plays in a side-scrolling perspective and similar art design to stay true to the original. Your goal is to work your way through side-scrolling stages, defeating enemies and using your best platforming skills. The game lets you build up your skills as you progress. You start off with just a basic jump, but eventually gain a double jump and even the ability to fly. You'll also earn lots of magic spells along the way. The game promises a greater number of spells and weapons than ever before. New for Goku Makaimura is non-linear gameplay. You're no longer on a fixed path from start to end. The levels include branching points and even warp points. By using a warp point, you can warp back to previous levels and collecting items that you might have missed.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/a-ugandg-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20060829T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>4</playcount>
+		<lastplayed>20170315T002547</lastplayed>
+	</game>
+	<game>
+		<path>./ggl-ccff7u.cso</path>
+		<name>Crisis Core: Final Fantasy VII</name>
+		<desc>Seven years prior to the events of FINAL FANTASY VII, the Shinra Company is finalizing construction of its base and symbol of prosperity: the enormous city of Midgar. When Genesis, a prominent SOLDIER 1st Class in Shinra's private army disappears with his contingent, young prodigy Zack is given the task of seeking him out. The story continues where it all began in an enthralling prelude to one of gaming's greatest sagas.
+
+-The exciting prequel to FINAL FANTASY VII uncovers the origin and secrets behind some of the most popular characters in SQUARE ENIX history.
+-Home console-quality graphics on a portable platform. Stunning, state-of-the-art visuals bring the FINAL FANTASY VII universe to life on the PSP &amp; reg; system.
+-A blend of action and RPG elements provide for a completely new FINAL FANTASY VII experience. The fast-paced real-time battle system is the latest evolution of classic FINAL FANTASY gameplay</desc>
+		<image>~/.emulationstation/downloaded_images/psp/ggl-ccff7u-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170314T235203</lastplayed>
+	</game>
+	<game>
+		<path>./d-mmmhx.cso</path>
+		<name>Mega Man: Maverick Hunter X</name>
+		<desc>Get ready for X-treme adventure!
+
+When Sigma leads a group of Reploids in a revolt against mankind, it's up to X and Zero to protect world from ruin.
+
+The revolutionary Mega Man X side scrolling game is recreated wih 3D graphics, remixed music, and special unlockable features.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/d-mmmhx-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20060131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<playcount>3</playcount>
+		<lastplayed>20170316T003748</lastplayed>
+	</game>
+	<game>
+		<path>./psy-sfdm.cso</path>
+		<name>Syphon Filter - Dark Mirror</name>
+		<desc>Assume the role of Gabe Logan, a highly-trained Precision Strike Operative, commanding a black box United States Agency that legally doesn't exist. Gabe finds himself dealing with a beautiful woman from his past who harbors a shocking secret while he battles the Red Section, a para-military group in possession of Project Dark Mirror, a next-generation weapon of mass destruction. Using Precision Strike Tactics, advanced vision technology, and the latest in high-tech weaponry, Logan and his team perform surgical strike missions - too sensitive for a military response, too dangerous for civilian intelligence forces. Through the role of Gabe, players will have to be quick to strategize, as he is responsible to infiltrate, recon and execute decisively. Once inserted, Logan is his own authority - he must make life and death decisions, quickly choosing which course of action to take.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-sfdm-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20060314T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>2</playcount>
+		<lastplayed>20170316T011702</lastplayed>
+	</game>
+	<game>
+		<path>./psy-khbbs.cso</path>
+		<name>Kingdom Hearts: Birth by Sleep</name>
+		<desc>Birth by Sleep is an action roleplaying game that introduces a gameplay aspect called the Command System, which allows players to customize a Command Deck with techniques and abilities that they can perform at will, called Deck Commands. Performing ordinary attacks and Commands fills a gauge displayed above the command deck that, when certain requirements are fulfilled, activates a Command Style that changes the player's basic attack command with the "Surge" command, which racks up powerful combos depending on what Command Style is activated. Filling the gauge with certain requirements a second time causes the character to change into an even higher level Command Style, which replaces the "Surge" command with the more powerful "Storm" command.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-khbbs-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20100907T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./God-of-War.cso</path>
+		<name>God of War: Chains of Olympus</name>
+		<desc>The game is set in Ancient Greece and loosely based on its mythology. The player controls Kratos, a Spartan warrior in the service of the Olympian Gods. Kratos is guided by the goddess Athena, who instructs him to find the Sun God Helios, as the Dream God Morpheus has caused the remaining gods to slumber in Helios' absence. With the power of the sun, Morpheus and Persephone, the Queen of the Underworld, with the aid of the Titan Atlas, intend to destroy the Pillar of the World and in turn Olympus. God of War: Chains of Olympus is chronologically the second chapter in the series, which focuses on vengeance as its central theme.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/God-of-War-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20080304T000000</releasedate>
+		<developer>Ready at Dawn</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170314T235902</lastplayed>
 	</game>
 </gameList>
