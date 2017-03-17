@@ -1,204 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./puckman.zip</path>
-		<name>Puck-Man</name>
-		<desc>The original Japanese Version of Pac-Man. The player controls Puck-Man through a maze, eating Puck-dots (also called pellets). When all Puck-dots are eaten, Puck-Man is taken to the next stage. Between some stages one of three intermission animations plays. Four enemies (Akabei, Pinky, Aosuke and Guzuta) roam the maze, trying to catch Puck-Man. If an enemy touches Puck-Man, a life is lost and the Puck-Man itself withers and dies. When all lives have been lost, the game ends. Puck-Man is awarded a single bonus life at 10,000 points by default.
-
-Near the corners of the maze are four larger, flashing dots known as power pellets that provide Puck-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses. In later stages, the enemies go straight to flashing, bypassing blue, which means that they can only be eaten for a short amount of time, although they still reverse direction when a power pellet is eaten; in even later stages, the ghosts do not become edible (i.e., they do not change color and still make Puckman lose a life on contact), but they still reverse direction.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/puckman-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19800522T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./bbakraid.zip</path>
-		<name>Battle Bakraid</name>
-		<desc>The capitalist nation of Randa has long had a history of excellence in the creation of aircraft, attracting the best of engineers in aerodynamics, artillery, and structuring from the world over. Once, even this interest had waned, until the creation of the air show Bakraid, in which the capabilities of the fighters could be demonstrated outside of simulations for all to see.
-Around the time of the seventh Bakraid, a nearby nation, Deneb, had attained an expansionist attitude, forcibly subjugating and annexing several of its neighbors with the assistance of the Shtarterra Security Council. Recently, Deneb has asked to participate in Bakraid. Randa's defense council, perfectly aware that this is just a pretext for Deneb to get its and the SSC's engines of war into Randan borders and more easily prosecute their war from there, give their blessing. However, the council secretly contacts the other Bakraid participants, offering even more prize money than normal if they will perform in a special version of Bakraid--genuine war conditions. In other words, use their own top-of-the-line planes to shatter Deneb's schemes. In all, nine pilots accept this plan, and begin Bakraid two weeks early to catch Deneb unaware...</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/bbakraid-image.jpg</image>
-		<rating>0</rating>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<playcount>2</playcount>
-		<lastplayed>20170210T005914</lastplayed>
-	</game>
-	<game>
-		<path>./bgaregga.zip</path>
-		<name>Battle Garegga</name>
-		<desc>Battle Garegga (バトルガレッガ?) est un jeu vidéo de type shoot them up édité par Raizing en 1996 sur borne d'arcade. Il a été adapté sur Saturn en 1998. Il est considéré comme le premier danmaku ou manic shooter de l'histoire d'après les puristes japonais mais les avis restent partagés vis-à-vis de la communauté de joueurs qui pensent qu'il s'agit de Batsugun comme étant le précurseur de ce sous-genre.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/bgaregga-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Raizing</developer>
-		<publisher>Raizing</publisher>
-		<genre>Shooter</genre>
-		<playcount>2</playcount>
-		<lastplayed>20170210T010947</lastplayed>
-	</game>
-	<game>
-		<path>./ddonpach.zip</path>
-		<name>DoDonPachi</name>
-		<desc>DoDonPachi (怒首領蜂?) est un jeu vidéo développé par Cave et édité par Atlus. Il s'agit d'un shoot them up à défilement vertical de type manic shooter. Il est publié en 1996 sur borne d'arcade, puis porté sur Saturn et PlayStation en 1998. Second jeu de la société Cave, il est la suite de DonPachi publié en 1995.
-
-Acclamé pour la qualité de son système de jeu et de ses graphismes, DoDonPachi est considéré comme un des plus grands titres du genre.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/ddonpach-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>Atlus</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170210T010200</lastplayed>
-	</game>
-	<game>
-		<path>./donpachi.zip</path>
-		<name>DonPachi</name>
-		<desc>DonPachi (首領蜂?) est un jeu vidéo développé par Cave. Il s’agit d’un shoot them up à défilement vertical de type manic shooter. Il est publié en 1995 sur borne d'arcade, puis porté sur Saturn et PlayStation en 1996. C'est le tout premier jeu de la société Cave. Il connaît une suite en 1996, DoDonPachi.
-
-Le joueur incarne un pilote dont la mission est de survivre à un exercice grandeur nature d'une durée de huit ans. Les pilotes participant à cette épreuve ont pour but de prouver leur valeur afin de se montrer digne d'entrer dans le futur escadron d'élite DonPachi. L'exercice est toutefois rendu difficile aussi bien physiquement que psychologiquement car les ennemis du pilote sont ses propres camarades, se sacrifiant pour permettre aux pilotes les plus doués de survivre et réussir l'épreuve.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/donpachi-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>Atlus</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170210T010220</lastplayed>
-	</game>
-	<game>
-		<path>./galaga.zip</path>
-		<name>Galaga</name>
-		<desc>Galaga (ギャラガ Gyaraga?) is a fixed shooter arcade game developed and published by Namco in Japan and published by Midway in North America in 1981. It is the sequel to Galaxian, released in 1979. The gameplay of Galaga puts the player in control of a space ship which is situated on the bottom of the screen. At the beginning of each stage, the area is empty, but over time, enemy aliens fly in formation, and once all of the enemies arrive on screen, they will come down at the player's ship in formations of one or more and may either shoot it or collide with it. During the entire stage, the player may fire upon the enemies, and once all enemies are vanquished, the player moves onto the next stage.
-Galaga has proven very successful. The arcade version of it has been ported to many consoles, and it has had several sequels, most recently Galaga Legions for the Xbox Live Arcade service.
-
-The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.
-
-Galaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's "hit/miss ratio" at the end of the game, and a bonus "Challenging Stage" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/galaga-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19810801T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-		<players />
-		<playcount>4</playcount>
-		<lastplayed>20170210T011043</lastplayed>
-	</game>
-	<game>
-		<path>./punchout.zip</path>
-		<name>Punch-Out!! </name>
-		<desc>The player assumes the role of a green-haired boxer, who must fight his way through six increasingly larger-than-life boxers to earn the title of 'Champ' in this superb 1-on-1 fighting game.
-
-During matches, the player's boxer is viewed from behind as a wire-frame (so the player's opponent can be seen). Players must time their punches, dodges and blocks in order to defeat the opposing boxer.
-
-The player's opponents are each rendered as humorous cartoon-like caricatures - adding much to the game's atmosphere - and each boxer fights in a slightly different style, forcing players to adapt to their strategy. The top monitor is used for statistics while the bottom one is used to display the actual fight.
-
-</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/punchout-image.jpg</image>
-		<rating>0.6950000000000001</rating>
-		<releasedate>1984</releasedate>
-		<developer>Nintendo</developer>
-		<publisher />
-		<genre>Sports / Boxing</genre>
-		<playcount>4</playcount>
-		<lastplayed>20170210T011415</lastplayed>
-	</game>
-	<game>
-		<path>./raidendx.zip</path>
-		<name>Raiden DX</name>
-		<desc>Vertical scrolling shoot-em-up that adds new features to its prequel Raiden II. Choose from three separate missions: Training special stage, Alpha levels 1-5 and Bravo levels 1-9. Collect various power-ups to increase your weaponry. Lots of secrets and bonuses including ratings based upon player performance</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/raidendx-image.jpg</image>
-		<rating>0</rating>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Fabtek</publisher>
-		<genre>Action</genre>
-		<players />
-		<playcount>1</playcount>
-		<lastplayed>20170210T011503</lastplayed>
-	</game>
-	<game>
-		<path>./1942.zip</path>
-		<name>1942</name>
-		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/1942-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>9</playcount>
-		<lastplayed>20170210T021459</lastplayed>
-	</game>
-	<game>
-		<path>./1943.zip</path>
-		<name>1943: The Battle of Midway</name>
-		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
-As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/1943-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19870601T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<playcount>7</playcount>
-		<lastplayed>20170210T235516</lastplayed>
-	</game>
-	<game>
-		<path>./brvblade.zip</path>
-		<name>Brave Blade</name>
-		<desc>An extremely cool vertical shooter from 8ing/Raizing.
-8ing/Raizing, the Brave Blade maker, released 12 different machines in our database under this trade name, starting in 1993.
-
-Other machines made by 8ing/Raizing during the time period Brave Blade was produced include Magic Great Battle, Dimahoo, Great Mahou Daisakusen, Bloody Roar 2, Armed Police Batrider, Bloody Roar, Beastorizer, and Shippuu Mahou Daisakusen Kingdom-Grandprix.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/brvblade-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>8ing</developer>
-		<publisher>Raizing</publisher>
-		<genre />
-		<players>2</players>
-		<playcount>6</playcount>
-		<lastplayed>20170210T235312</lastplayed>
-	</game>
-	<game>
-		<path>./splatter.zip</path>
-		<name>Splatter House (World, new version (SH3))</name>
-		<playcount>2</playcount>
-		<lastplayed>20170210T235134</lastplayed>
-	</game>
-	<game>
-		<path>./dkong.zip</path>
-		<name>Donkey Kong (US set 1)</name>
-		<playcount>1</playcount>
-		<lastplayed>20170211T004358</lastplayed>
-	</game>
-	<game>
-		<path>./pacman.zip</path>
-		<name>PacMan</name>
-		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
-
-Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.</desc>
-		<image>~/.emulationstation/downloaded_images/arcade/pacman-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19801001T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco, Midway</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>3</playcount>
-		<lastplayed>20170211T013117</lastplayed>
-	</game>
-	<game>
 		<path>./btoads.zip</path>
 		<name>Battletoads</name>
 		<desc>After her defeat by the Galactic Corporation at the battle of Canis Major, the evil Dark Queen and her renegade space troops retreat to the outer reaches of the universe, hiding out in dark spaces between the stars. Meanwhile, on board the spaceship Vulture, Professor T. Bird and the trio of Battletoads - Rash, Zitz and Pimple - are escorting the Princess Angelica back to her home planet, where her father, the Terran Emperor, awaits her safe arrival. Along the way, Pimple, the biggest Battletoad, takes Angelica out for a cruise in the Toadster to a nearby Leisure Station. However, the Dark Queen ambushes them before they can get there, and they are kidnapped and carried away to Ragnarok's World, the Dark Queen's planet. Professor Bird sends the remaining Battletoads down on Ragnarok to save Pimple and Angelica, knowing it will be a hard battle against the planet's dangerous environments, traps and enemy forces. They have to go a long way from the planet's rough surface to deep caves and landed Gargantua and ultimately to the Tower of Shadows, where the Dark Queen herself awaits.</desc>
@@ -213,7 +15,7 @@ Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bash
 	<game>
 		<path>./blktiger.zip</path>
 		<name>Black Tiger</name>
-		<desc>Black Tiger, known in Japan as Black Dragon (Japanese: ブラックドラゴン Burakku Doragon), is a 1987 action game released for the arcades by Capcom.
+		<desc>Black Tiger, known in Japan as Black Dragon, is a 1987 action game released for the arcades by Capcom.
 
 A barbarian hero jumps and fights his way through a variety of colourful, enemy-packed levels. The sprawling, eight-way scrolling, two-dimensional levels are packed with hidden bonuses to encourage and reward exploration. Though a percentage of these bonuses consist of dubious and often self-evident "advice", most come in the form of "Zenny coins", currency that allows the player to buy such items as an upgrade to their weapons and armour, keys for treasure chests, and anti-poisoning potions. Special items that reveal coins, upgraded armour, full vitality, extra lives, extra time, or simply bonus points may be found by attacking certain walls. The player's vitality bar will also increase up to three times as a reward for reaching score benchmarks.</desc>
 		<image>~/.emulationstation/downloaded_images/arcade/blktiger-image.jpg</image>
@@ -270,7 +72,7 @@ The enemies, among them Al Negator, Toadborg, Total Terror Toad, a "Cyborg Spide
 	<game>
 		<path>./eswat.zip</path>
 		<name>E-SWAT: Cyber Police</name>
-		<desc>Players control Duke Oda (デューク・オダ?), a member of the Cyber Police force in the city of Liberty who tries to clear the streets of crime, terminate the most wanted criminals and put them behind bars. There are 15 stages to complete, which takes the player through Liberty streets, car yards, stadiums, restaurants, the CBD, and boat docks. There are bosses on some stages. During each stage, the player picks up ammunition with varying amounts. For example, on some levels, ammo may be worth 10 bullets, while in others, there may be 60 bullets.
+		<desc>Players control Duke Oda, a member of the Cyber Police force in the city of Liberty who tries to clear the streets of crime, terminate the most wanted criminals and put them behind bars. There are 15 stages to complete, which takes the player through Liberty streets, car yards, stadiums, restaurants, the CBD, and boat docks. There are bosses on some stages. During each stage, the player picks up ammunition with varying amounts. For example, on some levels, ammo may be worth 10 bullets, while in others, there may be 60 bullets.
 
 Bosses attack in several ways. Note that the bosses are not just people. The player also battles an ape, a tiger, a monster truck in "Eagles Stadium", and cyborgs. Once these first three bosses are defeated, the player's rank rises to captain, followed by assistant chief, and finally to chief.
 
@@ -286,7 +88,7 @@ Once the chief rank has been achieved, the player is given a cyber suit, which i
 	<game>
 		<path>./gng.zip</path>
 		<name>Ghosts'n Goblins</name>
-		<desc>Ghosts 'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, armored giants, dragons, and other undead creatures in order to rescue Princess Prin Prin, who has been kidnapped by Satan, King of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.</desc>
+		<desc>Ghosts'n Goblins is a platform game where the player controls a knight, named Sir Arthur, who must defeat zombies, ogres, demons, armored giants, dragons, and other undead creatures in order to rescue Princess Prin Prin, who has been kidnapped by Satan, King of Demon World. Along the way the player can pick up new weapons, bonuses and extra suits of armor that can help in this task.</desc>
 		<image>~/.emulationstation/downloaded_images/arcade/gng-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19850919T000000</releasedate>
@@ -316,7 +118,7 @@ Gun Force 2 looks nothing like its predecessor. The graphic design, playability 
 	<game>
 		<path>./gunforce.zip</path>
 		<name>Gunforce</name>
-		<desc>GunForce: Battle Fire Engulfed Terror Island (ガンフォース Ganfosu?),[2] or simply titled as GunForce, is a side-scrolling action shooting game produced by Irem for the arcades in 1991. The game was later ported by Bits Studios and published by Irem to the Super Famicom exclusively in Japan in 1992.
+		<desc>GunForce: Battle Fire Engulfed Terror Island or simply titled as GunForce, is a side-scrolling action shooting game produced by Irem for the arcades in 1991. The game was later ported by Bits Studios and published by Irem to the Super Famicom exclusively in Japan in 1992.
 
 Outside of Japan, it later received a sequel titled GunForce II, originally known in Japan as Geo Storm.
 
@@ -405,7 +207,7 @@ Popeye loses a life if he is hit by Brutus or any thrown/flying object, or if he
 	<game>
 		<path>./rtypeleo.zip</path>
 		<name>R-Type Leo</name>
-		<desc>R-Type Leo (アールタイプ・レオ Āru Taipu Reo?) is a 1992 horizontally scrolling shooter arcade game developed by Nanao and published by Irem. Only released in Japan it is the fourth game in the R-Type series.[1]</desc>
+		<desc>R-Type Leo is a 1992 horizontally scrolling shooter arcade game developed by Nanao and published by Irem. Only released in Japan it is the fourth game in the R-Type series.[1]</desc>
 		<image>~/.emulationstation/downloaded_images/arcade/rtypeleo-image.jpg</image>
 		<developer />
 		<publisher />
@@ -501,7 +303,7 @@ The games capture the spirit of the RoboCop film to some degree, as it involves 
 	<game>
 		<path>./toki.zip</path>
 		<name>Toki</name>
-		<desc>Toki, known in Japan as JuJu Densetsu (JuJu伝説?) is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth (described humorously as "monkey-spit" or "monkey-vomit" by some gamers). The ultimate goal is to destroy the evil wizard who cast a spell on you; therefore transforming yourself from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.</desc>
+		<desc>Toki, known in Japan as JuJu Densetsu is a 1989 shoot 'em up platformer arcade game, or a "run and gun" developed and published in Japan by TAD Corporation and published in North America by Fabtek. It features elements of tongue-in-cheek humor combined with the action. The player takes control of an enchanted ape who must battle hordes of jungle monsters with energy balls from his mouth (described humorously as "monkey-spit" or "monkey-vomit" by some gamers). The ultimate goal is to destroy the evil wizard who cast a spell on you; therefore transforming yourself from an ape back into a human, and rescuing the kidnapped princess. The game was ported to several video game consoles and home computers.</desc>
 		<image>~/.emulationstation/downloaded_images/arcade/toki-image.jpg</image>
 		<rating>0.6</rating>
 		<developer />

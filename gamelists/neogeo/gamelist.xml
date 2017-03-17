@@ -218,7 +218,7 @@ Instrumental in squashing Morden's rebel forces, Marco and Tarma of the Peregrin
 	<game>
 		<path>./samsho4.zip</path>
 		<name>Samurai Shodown IV</name>
-		<desc>Samurai Shodown IV: Amakusa's Revenge, also known as Samurai Spirits: Amakusa's Descent (サムライスピリッツ天草降臨 Samurai Supirittsu Amakusa Kōrin, TenSamu in short) in Japan, is the fourth in SNK's flagship Samurai Shodown series of fighting games. Chronologically, it is the second and final chapter of a story between Samurai Shodown and Samurai Shodown II, with Samurai Shodown III being the first chapter.</desc>
+		<desc>Samurai Shodown IV: Amakusa's Revenge, also known as Samurai Spirits: Amakusa's Descent in Japan, is the fourth in SNK's flagship Samurai Shodown series of fighting games. Chronologically, it is the second and final chapter of a story between Samurai Shodown and Samurai Shodown II, with Samurai Shodown III being the first chapter.</desc>
 		<image>~/.emulationstation/downloaded_images/neogeo/samsho4-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20031010T000000</releasedate>
@@ -340,14 +340,10 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 	<game>
 		<path>./neogeo.zip</path>
 		<name>NeoGeo BIOS</name>
-		<desc>Neo Geo Bios</desc>
-		<image>~/.emulationstation/downloaded_images/neogeo/neogeo-image.jpg</image>
 		<rating>0</rating>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
 		<hidden>1</hidden>
+		<playcount>1</playcount>
+		<lastplayed>20170206T174727</lastplayed>
 	</game>
 	<game>
 		<path>./kof96.zip</path>

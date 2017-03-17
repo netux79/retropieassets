@@ -410,20 +410,6 @@ A blessed group of good-intentioned sorcerers have used their new magical powers
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Doki Doki Panic!.zip</path>
-		<name>Doki doki panic (fds conversion)</name>
-		<desc>This game is an FDS conversion for NES
-The game takes place inside a book. The book's story tells of the land of Mu, where the quality of dreams determined the quality of the weather the next day. Because of this, the Mu citizens invented a dream machine so they could always have good dreams. One day, an evil toad named Mamu (whose name was changed to Wart for Super Mario Bros. 2) invaded the land and twisted the dream machine into a nightmare machine. However, the Mu people learned of his weakness to vegetables, and used them to defeat him.
-
-The book had found its way into an Arabian family. Their pet monkey, Rusa, gives the book to twins Poki and Piki. However, the twins quarrel and end up ripping out the last page of the book, causing its ending to be erased. Mamu, freed, reaches through the pages and grabs the twins, pulling them into the book. Rusa gets the twins' parents, Mama and Papa, their brother, Imajin, and sister, Lina, and they enter the book to rescue them</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Doki Doki Panic!-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19870710T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Fuji Television Network</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
 		<path>./Donkey Kong.zip</path>
 		<name>Donkey Kong</name>
 		<desc>Can you save Mario's girl from the clutches of Donkey Kong? Donkey Kong has kidnapped Mario's girlfriend Pauline and taken her to the top of a construction site. It's up to you to help Mario save Pauline before time runs out. But it won't be easy. Donkey Kong will do everything in his power to stop you. He'll throw barrel bombs, flaming fireballs and anything else he can get his hands on. So if you're looking for action, don't monkey around. Get the original Donkey Kong from the Nintendo Arcade Classics Series!</desc>
@@ -527,17 +513,6 @@ While the earlier Dragon Quest games were also non-linear, Dragon Quest III was 
 		<releasedate>19890727T000000</releasedate>
 		<developer>Ape</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Role-Playing</genre>
-	</game>
-	<game>
-		<path>./Esper Dream.zip</path>
-		<name>Esper Dream</name>
-		<desc>Esper Dream 2: Aratanaru Tatakai is a Role-Playing game, developed and published by Konami, which was released in Japan in 1992.</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Esper Dream-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19920626T000000</releasedate>
-		<developer>KONAMI</developer>
-		<publisher>KONAMI</publisher>
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
@@ -1147,7 +1122,7 @@ You’re inside the fortress planet Zebes.  The planet of endless secret passage
 	<game>
 		<path>./Gimmick!.zip</path>
 		<name>Mr. Gimmick</name>
-		<desc>A young girl receives a doll named Yumetarou (ゆめたろー) for a birthday present. She quickly favors the new doll over her previous five toys, who felt abandoned and unloved. While she was sleeping, they suddenly came to life and took her to another dimension. Yumetarou, as the protagonist, must track down his new owner and retrieve her from the toys' world.</desc>
+		<desc>A young girl receives a doll named Yumetarou for a birthday present. She quickly favors the new doll over her previous five toys, who felt abandoned and unloved. While she was sleeping, they suddenly came to life and took her to another dimension. Yumetarou, as the protagonist, must track down his new owner and retrieve her from the toys' world.</desc>
 		<image>~/.emulationstation/downloaded_images/nes/Gimmick!-image.jpg</image>
 		<rating>0.55</rating>
 		<releasedate>19920131T000000</releasedate>
@@ -1391,19 +1366,6 @@ Super Mario Bros. 3 is fun to play alone, or team up with a buddy to prolong the
 		<players>2</players>
 		<playcount>7</playcount>
 		<lastplayed>20170215T000913</lastplayed>
-	</game>
-	<game>
-		<path>./Super Mario Brothers 2 JAP.zip</path>
-		<name>Super Mario Brothers 2</name>
-		<desc>Originally released in Japan as Super Mario Bros.® 2, this game has previously made only brief cameo appearances in the Western hemisphere. Mario fans will appreciate the familiar look and feel of the game, while finding that its updated game play creates an entirely new challenge. No longer content just to wear different-colored overalls, Mario and Luigi also possess different skill sets (Mario can stop quicker, while Luigi can jump higher). In addition to the classic enemies already known to fans worldwide, there are also Poison Mushrooms, backward Warp Zones, and the occasional wind gust (which can help or hinder your progress) to take into account. And if that’s somehow not enough, expert players can go looking for the game’s secret worlds. So get ready to put your Mario skills to the ultimate test, and save the Princess again. Just don’t be surprised if she’s in another castle!</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Super Mario Brothers 2 JAP-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19860603T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20170217T233053</lastplayed>
 	</game>
 	<game>
 		<path>./Super Turrican.zip</path>
@@ -1728,15 +1690,8 @@ For 1 Ninja Master.</desc>
 	<game>
 		<path>./8 Eyes Castlevania.zip</path>
 		<name>8 Eyes Castlevania</name>
-		<desc>CONTROL MAN AND BIRD IN A FIGHT FOR THE EIGHT JEWELS OF POWER!
-
-After hundreds of years of chaos, mankind has finally emerged from the ruins of nuclear war. This world of the distant future has once again fluorished under the guidance of the Great King, who harnessed the power of the 8 Eyes to rebuild the planet.
-
-These strange jewels of power were formed at the eyes, or centers, of the eight nuclear explosions which nearly destroyed the Earth. In the wrong hands, the 8 Eyes could cause untold destruction...And now, they have been seized by the Great King's eight Dukes, in a desperate bid to gain control of the world for themselves. They have banished the King to the nuclear wastelands, and already their squabbling threatens to plunge the world into war once again!
-
-The task of retrieving the 8 Eyes falls to you, Orin the Falconer, the bravest and mightiest of the King's Guardsmen. With your fighting falcon, Cutrus, you must penetrate each of the eight Dukes' castles. There you will face the Dukes' soldiers, and battle strange nuclear mutants such as living skeletons, giant wasps, and mud men. You must defeat the monstrous Boss of each castle to retrieve the Jewel of Power he guards.
-
-Then, to complete your quest, return the 8 Eyes to the Altar of Peace to await the return on the Great King, so that he may finish the rebuilding of Earth. Your reward will be the the eternal gratitude of all mankind!</desc>
+		<desc>This hack features Simon Belmont, a member of the vampire killing, whip wielding, family that is locked in mortal macabre battles with Dracula and his family (Hatfields and the McCoys anyone?).  Simon is just the first step of an overarching hack that will eventually see 8 Eyes converted into an all new Castlevania adventure.  If you think about it, 8 Eyes and Castlevania do look a lot alike graphically.
+Currently, only Simon is in the game though some of his secondary weapons are already implemented in this patch.  Simon brings along his trademark whip which replaces the small sword that Orin used in the original game.</desc>
 		<image>~/.emulationstation/downloaded_images/nes/8 Eyes Castlevania-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19900101T000000</releasedate>
@@ -1759,19 +1714,6 @@ Joining Trevor Belmont in his mission to defeat Dracula are three new playable c
 		<genre>Action</genre>
 		<playcount>3</playcount>
 		<lastplayed>20170210T003737</lastplayed>
-	</game>
-	<game>
-		<path>./Armana no Kiseki.zip</path>
-		<name>Armana no Kiseki</name>
-		<desc>an FDS game with Indiana Jones style</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Armana no Kiseki-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19870811T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<playcount>4</playcount>
-		<lastplayed>20170304T012242</lastplayed>
 	</game>
 	<game>
 		<path>./Hudson's Adventure Island III.zip</path>
@@ -1854,7 +1796,7 @@ Battle your way through all new dangers and challenges on the biggest Adventure 
 	<game>
 		<path>./Kero Kero Keroppi no Daibouken 2.zip</path>
 		<name>Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi</name>
-		<desc>Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi (けろけろけろっぴの大冒険2 （ドーナツ池はおおさわぎ！！）?) is a Japan-exclusive action video game video game for children that was released on the Family Computer console in 1993.
+		<desc>Kero Kero Keroppi no Daibouken 2: Donuts Ike ha Oosawagi is a Japan-exclusive action video game video game for children that was released on the Family Computer console in 1993.
 
 This video game has Sanrio's character searching for lost children who have been kidnapped by monsters. Essentially a standard Super Mario Bros. clone, the player controlling the cartoon frog has to leap around platforms jumping on baddies or killing them with his croak weapon. Each bonus level involves matching characters from the Sanrio franchise in a format similar to the card game Concentration. Intermission screens show the progress of the character throughout the game.
 
@@ -2211,9 +2153,7 @@ Last Adventure Island game for NES.</desc>
 	<game>
 		<path>./8 Eyes.zip</path>
 		<name>8 Eyes</name>
-		<desc>CONTROL MAN AND BIRD IN A FIGHT FOR THE EIGHT JEWELS OF POWER!
-
-After hundreds of years of chaos, mankind has finally emerged from the ruins of nuclear war. This world of the distant future has once again fluorished under the guidance of the Great King, who harnessed the power of the 8 Eyes to rebuild the planet.
+		<desc>After hundreds of years of chaos, mankind has finally emerged from the ruins of nuclear war. This world of the distant future has once again fluorished under the guidance of the Great King, who harnessed the power of the 8 Eyes to rebuild the planet.
 
 These strange jewels of power were formed at the eyes, or centers, of the eight nuclear explosions which nearly destroyed the Earth. In the wrong hands, the 8 Eyes could cause untold destruction...And now, they have been seized by the Great King's eight Dukes, in a desperate bid to gain control of the world for themselves. They have banished the King to the nuclear wastelands, and already their squabbling threatens to plunge the world into war once again!
 
@@ -2344,7 +2284,7 @@ And last but not least, this hack uses Tomato’s official Mother 1 + 2 translat
 	<game>
 		<path>./Hebereke.zip</path>
 		<name>Hebereke</name>
-		<desc>Hebereke (へべれけ?) is a video game series developed by Sunsoft that was released primarily in Japan, with a few releases in Europe and one release in North America. It was one of the company's main franchises during the 1990s. Hebe, the main character of the series, became Sunsoft's main mascot during this period, appearing on the company's logo in several games and commercials. The series features a comical, yet surreal setting and characters. The title of the series comes from a Japanese colloquialism for drunkenness. The series covers several different genres from platforming to puzzle, though they are all set in the same fictional universe.
+		<desc>Hebereke is a video game series developed by Sunsoft that was released primarily in Japan, with a few releases in Europe and one release in North America. It was one of the company's main franchises during the 1990s. Hebe, the main character of the series, became Sunsoft's main mascot during this period, appearing on the company's logo in several games and commercials. The series features a comical, yet surreal setting and characters. The title of the series comes from a Japanese colloquialism for drunkenness. The series covers several different genres from platforming to puzzle, though they are all set in the same fictional universe.
 
 The first Hebereke game for the Nintendo Entertainment System was released in the PAL region under the title of Ufouria: The Saga, which changed the names of the main characters, while two of them had their looks changed. A North American release was planned, but canceled; however, the PAL region version was later added to the Wii Virtual Console in North America. A later set of games for the Super Nintendo Entertainment System were also released under the Hebereke title, which retained the original names and looks from the Japanese version.</desc>
 		<image>~/.emulationstation/downloaded_images/nes/Hebereke-image.jpg</image>

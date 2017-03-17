@@ -1,12 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Dracula X - Rondo Of Blood.cue</path>
-		<name>Dracula X - Rondo Of Blood</name>
-		<playcount>1</playcount>
-		<lastplayed>20170206T052307</lastplayed>
-	</game>
-	<game>
 		<path>./Air Zonk.zip</path>
 		<name>Air Zonk</name>
 		<desc>The powered-up Zonk gathers his friends to form Team Cool, and they set out to stop King Drool’s plan to conquer the world. Choose from 3 levels of difficulty and 3 types of Friend Modes. Shoot King Drool's cyber robots and avoid their attacks while collecting the Air Bones to unleash a variety of attacks. Enjoy unique moves such as combining with a friend to create an invincible hybrid form or blasting enemies with a charged attack. Air “Zonk” is filled with humor, like its wacky theme song that plays when you post a huge score or when your game is over.</desc>

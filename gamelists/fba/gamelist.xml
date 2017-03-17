@@ -67,7 +67,7 @@ It is the sequel to Ghosts'n Goblins and the second game in the Ghosts'n Goblins
 	<game>
 		<path>./hsf2.zip</path>
 		<name>Hyper Street Fighter II: The Anniversary Edition</name>
-		<desc>Hyper Street Fighter II: The Anniversary Edition (Japanese: ハイパーストリートファイターII -The Anniversary Edition-?) is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
+		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
 		<image>~/.emulationstation/downloaded_images/fba/hsf2-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>20031222T000000</releasedate>
@@ -179,7 +179,7 @@ Annihilate your competition and claim the right to test your skills against the 
 	<game>
 		<path>./sfiii3.zip</path>
 		<name>Street Fighter III: 3rd Strike</name>
-		<desc>Street Fighter III 3rd Strike: Fight for the Future (ストリートファイターⅢ サードストライク FIGHT FOR THE FUTURE?) is a 2D competitive fighting game produced by Capcom originally released for the arcade in 1999. It is the second follow-up to Street Fighter III, following Street Fighter III 2nd Impact. Like its predecessors, it runs on the CP System III hardware. 3rd Strike increased the character roster by adding five new characters, including Chun-Li. It also added further refinements to the previous game's play mechanics and rules. It was ported to the Dreamcast, PlayStation 2, and Xbox. A downloadable online version titled Street Fighter III: 3rd Strike Online Edition was released on PlayStation Network and Xbox Live Arcade in August 2011.</desc>
+		<desc>Street Fighter III 3rd Strike: Fight for the Future is a 2D competitive fighting game produced by Capcom originally released for the arcade in 1999. It is the second follow-up to Street Fighter III, following Street Fighter III 2nd Impact. Like its predecessors, it runs on the CP System III hardware. 3rd Strike increased the character roster by adding five new characters, including Chun-Li. It also added further refinements to the previous game's play mechanics and rules. It was ported to the Dreamcast, PlayStation 2, and Xbox. A downloadable online version titled Street Fighter III: 3rd Strike Online Edition was released on PlayStation Network and Xbox Live Arcade in August 2011.</desc>
 		<image>~/.emulationstation/downloaded_images/fba/sfiii3-image.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>19990512T000000</releasedate>
@@ -191,7 +191,7 @@ Annihilate your competition and claim the right to test your skills against the 
 	<game>
 		<path>./ssf2t.zip</path>
 		<name>Super Street Fighter II Turbo</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge (スーパーストリートファイターII X -Grand Master Challenge-?), is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
 
 Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
 		<image>~/.emulationstation/downloaded_images/fba/ssf2t-image.jpg</image>
