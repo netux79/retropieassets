@@ -281,4 +281,98 @@ The revolutionary Mega Man X side scrolling game is recreated wih 3D graphics, r
 		<playcount>1</playcount>
 		<lastplayed>20170314T235902</lastplayed>
 	</game>
+	<game>
+		<path>./2ch-hamher.iso</path>
+		<name>2ch-hamher</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T004231</lastplayed>
+	</game>
+	<game>
+		<path>./Lumine-Dynarox.iso</path>
+		<name>Lumine-Dynarox</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T004440</lastplayed>
+	</game>
+	<game>
+		<path>./psy-gama.iso</path>
+		<name>psy-gama</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T004640</lastplayed>
+	</game>
+	<game>
+		<path>./psy-lru.iso</path>
+		<name>psy-lru</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T005220</lastplayed>
+	</game>
+	<game>
+		<path>./psy-ff1u.iso</path>
+		<name>psy-ff1u</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T060825</lastplayed>
+	</game>
+	<game>
+		<path>./psy-scbd.iso</path>
+		<name>psy-scbd</name>
+		<playcount>1</playcount>
+		<lastplayed>20170318T061937</lastplayed>
+	</game>
+	<game>
+		<path>./pa-sacus.iso</path>
+		<name>pa-sacus</name>
+		<playcount>3</playcount>
+		<lastplayed>20170318T144851</lastplayed>
+	</game>
+	<game>
+		<path>./psy-codrtv.cso</path>
+		<name>Call of Duty: Roads to Victory</name>
+		<desc>Call of Duty: Roads to Victory is a 2007 World War II first-person shooter for the PlayStation Portable. It was released on March 13, 2007. It is the third portable installment of the franchise, first being on the N-Gage and the second on the Pocket PC.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-codrtv-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20070313T000000</releasedate>
+		<developer>Amaze Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170320T152908</lastplayed>
+	</game>
+	<game>
+		<path>./psy-resr.cso</path>
+		<name>Resistance: Retribution</name>
+		<desc>Set in the weeks after Resistance: Fall of Man, Resistance: Retribution follows the story of former British Marine James Grayson. After a personal tragedy - he is forced to kill his own brother inside a Chimeran conversion center - Grayson goes on a vendetta to destroy every conversion center he can find. Eventually Grayson learns that his efforts have been futile... in Western Europe the Chimera have evolved a new method of converting humans to aliens. The European resistance - the Maquis - enlist Grayson's help, and he joins Cartwright and Parker in Operation Overstrike. The war to retake the European continent has begun.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-resr-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20090317T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170320T152604</lastplayed>
+	</game>
+	<game>
+		<path>./pa-sacus.cso</path>
+		<name>Secret Agent Clank</name>
+		<desc>Clank's on a mission. His best buddy, Ratchet, has been framed by a ruthless enemy and jailed for a crime he did not commit. Not only that, but Ratchet's maximum security prison is full of the universe's most dangerous criminals most of whom are lining up to personally 'welcome' Ratchet into his new cell. Luckily for Ratchet he's got Clank on the outside, and luckily for Clank he's the kind of brainy little robot who is cool under pressure and knows a thing or two about tracking down a mysterious enemy. That's why, as Secret Agent Clank, he's hot on the trail of clues to unravel the mystery and secure Ratchet's release from jail. Unleash Clank's cutting edge array of weapons and gadgets, such as Cufflink Bombs, Tie-a-Rangs, Spy Sunglasses and the ever helpful Holo-Disguise Monocle. Launch into a variety of gameplay styles from all-out action to cunning stealth and brain-busting puzzle solving. Drive state-of-the-art super spy vehicles including speedboats, snowboards and sports cars. Play as Clank, Ratchet and even Captain Qwark to gather enough evidence to set Ratchet free and discover who framed the innocent Lombax.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pa-sacus-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20080617T000000</releasedate>
+		<developer>High Impact Games</developer>
+		<publisher>SCEA</publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./psy-scbd.cso</path>
+		<name>Soul Calibur: Broken Destiny</name>
+		<desc>With Soul Calibur: Broken Destiny's huge roster of warriors, players can battle as one of many returning favorites or new fighters for some nail biting brawls. Blow away the competition using finely tuned and enhanced mechanics including Critical Finishes, Soul Crushes and Equipment Destruction. Adding depth to the combat, an all new single player mode has been developed that not only challenges a player's reflexes but also improves their fighting skills. Soul Calibur: Broken Destiny also allows gamers to engage in local wireless battles, allowing them to challenge a friend using the PSP systems ad hoc networking. Furthermore, an almost limitless character customization feature returns with even more possibilities to create a personalized fighter. Adrenaline pumping combat has never been so accessible.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-scbd-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20090901T000000</releasedate>
+		<developer>Namco Bandai</developer>
+		<publisher>Namco Bandai</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170320T153155</lastplayed>
+	</game>
 </gameList>
