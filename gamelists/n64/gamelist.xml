@@ -399,4 +399,173 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<playcount>3</playcount>
 		<lastplayed>20170307T225045</lastplayed>
 	</game>
+	<game>
+		<path>./AeroGauge (U) [!].z64</path>
+		<name>AeroGauge</name>
+		<desc>In the tradition of F-Zero and Wipeout, AeroGauge is a sci-fi racer that pits you and a friend in a fast paced race to the finish through futuristic tracks and among detailed craft, acting more like planes than racers as they skim many metres above the ground. Play solo through the grand prix and compete against the AI enemy, or beat down your best time in the time trial mode. 
+
+Each track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/AeroGauge (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19980330T000000</releasedate>
+		<developer>Locomotive</developer>
+		<publisher>ASCII Entertainment Software</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Goemon's Great Adventure (USA).n64</path>
+		<name>Goemon's Great Adventure</name>
+		<desc>Goemon and all his friends are back in his greatest adventure yet! Goemon's Great Adventure combines classic Goemon platform action with an all-new twist. The evil time-traveling nun, Bismaru, has summoned Dochuki, a demon prince, to take over the Earth. But first, she wants to marry him! Can Goemon and his gang stop the demon? Can Dochuki escape the cloying clutches of the wacked-out nun? Will Ebisu ever beat his own dumpling eating record? It's an adventure you'll never forget!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Goemon's Great Adventure (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990915T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Iggy's Reckin' Balls (USA).n64</path>
+		<name>Iggy's Reckin' Balls</name>
+		<desc>A vertical race up towering tracks. Iggy and the Reckin' Balls are in the race of their lives. A winner-take-all dash to the top of twisted, looped, warped and genuinely demented courses! Smash, crash and swing with Iggy, his friends, plus loads of secret characters. Over 100 tracks, tons of shortcuts, secret paths, loops and elevators. One to four player racing action with Battle and Versus mode.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Iggy's Reckin' Balls (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Mace - The Dark Age (U) [!].z64</path>
+		<name>Mace: The Dark Age</name>
+		<desc>Live by the sword. Kill for the mace! Forged in the fires of the Dark Ages, Mace is the hottest 3D fighting game ever! Each medieval character wields a weapon unique to their land of origin. Their only desire - inflict serious pain! Sixteen player-selectable characters, two amazing bosses and six hidden characters. Tons of tasty combos and reversals with simple four-button controls. Become immersed in battle with complete 3D character movement.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mace - The Dark Age (U) [!]-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mischief Makers (USA).n64</path>
+		<name>Mischief Makers</name>
+		<desc>Professor Theo has been kidnapped by the imperial forces of the evil empire. Now his robotic personal assistant, Marina Liteyears, must save the day! Marina will get some help from the troops who have remained loyal to King Aster. With their help, she'll grab, shake and throw her way to the Professor! Besides rescuing the Professor, Marina will also join in the effort to rebel against that nasty, horrible and evil empire. So, Grab a controller and help our Super Heroine shake up the evil empire!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mischief Makers (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Mystical Ninja Starring Goemon (USA).n64</path>
+		<name>Mystical Ninja Starring Goemon</name>
+		<desc>A giant UFO has appeared over Oedo Castle, and the Mystical Ninja is off to save the world again! Control Goemon and his giant robot, Impact, Ebisimaru, a truly twisted ninja, Yae, the part-time militant mermaid, and Sasuke, a mechanical warrior. This brave band must travel from town to town, collecting information and purchasing helpful items in their quest to defeat the dreaded Peach Mountain Shoguns.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mystical Ninja Starring Goemon (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19980416T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./RR64 - Ridge Racer 64 (U) [!].z64</path>
+		<name>RR64 Ridge Racer 64</name>
+		<desc>Ridge Racer makes its first appearance on a Nintendo console, including all of the fast, pick up and play action previously seen in the series on Playstation and in arcades.
+
+RR64 includes three tracks, each with three variations, making a total of nine tracks to get through. 25 cars are on offer, each with different power and speed abilities.
+
+Single player and multiplayer modes are included. Beat the clock and get to the finish line first to win.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/RR64 - Ridge Racer 64 (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000214T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Battle for Naboo (USA).n64</path>
+		<name>Star Wars: Episode I - Battle for Naboo</name>
+		<desc>Attention defenders of Naboo! The Trade Federation must be stopped! Storm through more than 15 missions over land, sea and space as your freedom fighters rally against the droid armies. Take control of 7 vehicles: the Naboo starfighter, Gian speeder, and new craft like the heavy STAP, Trade Federation gunboat and more. More than 15 missions: escape from Theed, search &amp; destroy, sabotage, reconnaissance, convoy. Battle against Trade Federation droid starfighters, AATs, destroyer droids, battle droids.
+Change vehicles mid-mission through specially designated hangars.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Wars Episode I - Battle for Naboo (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20001218T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>LucasArts/Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Star Wars Episode I - Racer (U) [!].z64</path>
+		<name>Star Wars: Episode I - Racer</name>
+		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Wars Episode I - Racer (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990517T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron (USA).n64</path>
+		<name>Star Wars: Rogue Squadron</name>
+		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Wars - Rogue Squadron (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19981203T000000</releasedate>
+		<developer>Factor 5</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Turok 3 - Shadow of Oblivion (USA).n64</path>
+		<name>Turok 3: Shadow of Oblivion</name>
+		<desc>Turok 3: Shadow of Oblivion picks up where Turok 2: Seeds of Evil left off when gamers were first introduced to "Oblivion" and its lackeys, 'Flesh Eaters. Oblivion is a monstrous cosmic entity that consumed everything in its path. It reigned before the birth of our universe. Invading the bodies of the living and devouring them from the inside-out, Oblivion fed on the very energy of the dead and dying. When the Primagen's Lightship was destroyed, the chain reaction it triggered as a result was so powerful that the universe as it existed was completely eradicated, and the almighty Oblivion was pushed to the very brink of destruction. For the first time, Oblivion felt pain, fear, and hate. Though totally ravaged, Oblivion survived and now desperately seeks a means to punch through the Netherscape that separates our world from the Lost Lands (a strange and primitive world where "time has no meaning"), and the Lost Lands from countless others. The last shreds of the pure energy source that created our world and nearly wiped out Oblivion are contained within the Light Burden, the bag that every member of the Turok lineage has carried. The death of the Turok mantle will signal the beginning of the end: the rebirth of Oblivion.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Turok 3 - Shadow of Oblivion (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000830T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Shooter</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Wave Race 64 (USA) (Rev A).n64</path>
+		<name>Wave Race 64</name>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Wave Race 64 (USA) (Rev A)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./WinBack - Covert Operations (USA).n64</path>
+		<name>WinBack: Covert Operations</name>
+		<desc>A terrorist group calling itself the Crying Lions is about to take over the world with its mighty satellite and Jean-Luc Cougar is the only one who can stop it. As Jean-Luc, a covert operative working for the Strategic Covert Actions Team, you are responsible for taking back a Lions-controlled base and regaining power of the satellite. Some of the weapons you'll have to acquire and use to defeat the terrorists are handguns, shotguns, and machine guns, though you'll also need to access such materials as explosives, detectors, flashlights and medical kits in order to succeed. A refreshing take on the traditional action game, WINBACK requires as much stealth and strategy as it does reflexes and use of weaponry. The game features six different multiplayer modes, supporting up to four players: Death Match, Lethal Tag, Quick Draw, Cube Hunt, Team Battle, and Point Match. You select your difficulty level and you can even start off in a Tutorial mode to get the controls down.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/WinBack - Covert Operations (USA)-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19991020T000000</releasedate>
+		<developer>Omega Force</developer>
+		<publisher>Koei</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Yoshi's Story (USA) (En,Ja).n64</path>
+		<name>Yoshi's Story</name>
+		<desc>Baby Bowser has taken the Super Happy Tree and cast a spell on Yoshi's world, turning it into the pages of a picture book.  The only Yoshis not affected by the spell were six hatchlings that were still protected by their shells.  It's up to them to reclaim the Super Happy Tree and restore happiness to the world.  That is the only thing that can break Baby Bowser's Spell!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Yoshi's Story (USA) (En,Ja)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>
