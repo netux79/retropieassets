@@ -109,18 +109,6 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<players>4+</players>
 	</game>
 	<game>
-		<path>./Killer Instinct Gold (U) (V1.2) [!].z64</path>
-		<name>Killer Instinct Gold</name>
-		<desc>Killer Instinct Gold rocks the gaming world with its earth-shattering moves and unbelievable graphics. Your battles unfold with lightning-fast action and fluid character animation at 60 frames per second. We faithfully duplicated all the features that made Killer Instinct 2 an arcade hit. We've even thrown in a complete training mode to school you on all the moves! The eye-popping graphics, the explosive hits and jaw-dropping combos make Killer Instinct Gold the only fighting game you'll ever want in your house!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Killer Instinct Gold (U) (V1.2) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19961125T000000</releasedate>
-		<developer>Rare Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Kirby 64 - The Crystal Shards (U) [!].z64</path>
 		<name>Kirby 64: The Crystal Shards</name>
 		<desc>Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.</desc>
@@ -567,5 +555,31 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).n64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/F-Zero X (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Killer Instinct Gold (U) (V1.2) [!].z64</path>
+		<name>Killer Instinct Gold</name>
+		<desc>Killer Instinct Gold rocks the gaming world with its earth-shattering moves and unbelievable graphics. Your battles unfold with lightning-fast action and fluid character animation at 60 frames per second. We faithfully duplicated all the features that made Killer Instinct 2 an arcade hit. We've even thrown in a complete training mode to school you on all the moves! The eye-popping graphics, the explosive hits and jaw-dropping combos make Killer Instinct Gold the only fighting game you'll ever want in your house!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Killer Instinct Gold (U) (V1.2) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961125T000000</releasedate>
+		<developer>Rare Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170323T002449</lastplayed>
 	</game>
 </gameList>
