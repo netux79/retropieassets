@@ -24,17 +24,6 @@
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Castlevania - Legacy of Darkness (U) [!].z64</path>
-		<name>Castlevania: Legacy of Darkness</name>
-		<desc>Before Reinhardt Schneider and Carrie Fernandez confronted Dracula, a magical warrior embarked on a quest that would ultimately lead him to Dracula's lair. Take control of Cornell, a powerful werewolf, who is seeking out the evil minions responsible for his sister's disappearance. Armed with the power to morph from human to werewolf, Cornell is destined to rescure his sister from a sinister plan and rid the world of Dracula once and for all. Will he succeed or fail? Will the past unravel the future? Discover the legacy in this exciting prequel.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Castlevania - Legacy of Darkness (U) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19991130T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Conker's Bad Fur Day (U) [!].z64</path>
 		<name>Conker's Bad Fur Day</name>
 		<desc>The day after his 21st birthday bash, Conker's sporting the worst hangover ever, and he just can't seem to find his way home. Prepare to stagger through randy, raunchy, raucous scenarios crammed full of bad manners, twisted humor, and graphic bodily functions. Unless you're a fan of violence, foul language, and racy innuendo, you'd best steer clear of this one.</desc>
@@ -70,31 +59,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Doom 64 (U) [!].z64</path>
-		<name>Doom 64</name>
-		<desc>You killed the Demons once, they were all dead. Or so you thought... A single Demon Entity escaped detection. Systematically it altered decaying, dead carnage back into grotesque living tissue. The Demons have returned - stronger and more vicious than ever before. You mission is clear, there are no options: kill or be killed!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Doom 64 (U) [!]-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19970331T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./FIFA '99.z64</path>
-		<name>FIFA 99</name>
-		<desc>FIFA 99 features an elite league called the "European Dream League" in which 20 top teams from across Europe battle it out in a league format. It was also the first game to feature a block containing teams which did not pertain to any of the main leagues (back then, it was known as "Rest of Europe" since all teams were European, the vast majority of them featured either in the 1998-99 season of the UEFA Cup or Champions League).
-
-Graphically, it is a major improvement over FIFA '98, with the inclusion of basic facial animations and different players' heights as well as certain other cosmetic features such as improved kits and emblems, although they are unlicensed. Gamers may also create their own custom cups and leagues and select the teams they wish to participate.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/FIFA '99-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19980610T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>4+</players>
-	</game>
-	<game>
 		<path>./Jet Force Gemini (U) [!].z64</path>
 		<name>Jet Force Gemini</name>
 		<desc>The insect invasion has begun.
@@ -109,47 +73,6 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<players>4+</players>
 	</game>
 	<game>
-		<path>./Kirby 64 - The Crystal Shards (U) [!].z64</path>
-		<name>Kirby 64: The Crystal Shards</name>
-		<desc>Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Kirby 64 - The Crystal Shards (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20000626T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./Mario Kart 64 (U) [!].z64</path>
-		<name>Mario Kart 64</name>
-		<desc>Three… Two… One… GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your “Ghost”.  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!
-
-* Save your hottest Ghost data to a portable N64 Controller Pak!
-* Collect multiple power-up items!
-* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!
-* Everyone’s favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Mario Kart 64 (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19961214T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Racing</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./Mortal Kombat 4 (U) [!].z64</path>
-		<name>Mortal Kombat 4</name>
-		<desc>Shao Kahn has been defeated at the hands of Earth's warriors, and now Shinnok has escaped to his confines in the Netherealm. The war has resumed once again. This time, the battle CAN be won by mortals!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Mortal Kombat 4 (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19980623T000000</releasedate>
-		<developer>Eurocom Ent.</developer>
-		<publisher>Midway</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Paper Mario (U) [!].z64</path>
 		<name>Paper Mario</name>
 		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
@@ -158,36 +81,6 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Perfect Dark (U) (V1.1) [!].z64</path>
-		<name>Perfect Dark</name>
-		<desc>Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Perfect Dark (U) (V1.1) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20000522T000000</releasedate>
-		<developer>Rare Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./Star Fox 64 (U) (V1.1) [!].z64</path>
-		<name>Star Fox 64</name>
-		<desc>The Lylat system has been invaded!  Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross.  Travel to many different 3-D worlds.  Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.
-
-See how it feels to feel what you see!  The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action.  It’s a new jolt to your game play experience!
-
-* Four Players compete simultaneously in Vs. mode!
-* Game Pak memory saves the top 10 scores!
-* Outstanding cinema scenes tell the Star Fox saga!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Star Fox 64 (U) (V1.1) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19970427T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
 	</game>
 	<game>
 		<path>./Star Wars - Shadows of the Empire (U) (V1.2) [!].z64</path>
@@ -274,95 +167,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<lastplayed>20170210T012539</lastplayed>
 	</game>
 	<game>
-		<path>./Banjo-Kazooie (U) [!].z64</path>
-		<name>Banjo-Kazooie</name>
-		<desc>In Banjo-Kazooie a bear named Banjo and a bird named Kazooie live on Spiral Mountain. One day Gruntilda the witch kidnaps Banjo's sister Tooty, to steal her beauty via a transformation device. Banjo and Kazooie set out on a dangerous adventure to rescue Tooty.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Banjo-Kazooie (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19980630T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<playcount>4</playcount>
-		<lastplayed>20170215T014228</lastplayed>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Majora's Mask (U) (GC Version) [!].z64</path>
-		<name>The Legend of Zelda: Majora's Mask</name>
-		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
-
-* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
-* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
-* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (U) (GC Version) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20001026T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>3</playcount>
-		<lastplayed>20170215T015822</lastplayed>
-	</game>
-	<game>
-		<path>./Super Mario 64 (U) [!].z64</path>
-		<name>Super Mario 64</name>
-		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Super Mario 64 (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19960623T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>8</playcount>
-		<lastplayed>20170219T023547</lastplayed>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Majora's Mask (U) [!].z64</path>
-		<name>The Legend of Zelda: Majora's Mask</name>
-		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
-
-* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
-* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
-* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (U) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20001026T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!].z64</path>
-		<name>The Legend of Zelda: Ocarina of Time</name>
-		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
-
-* The immersive storyline and environments draw players into an amazing 3D world.
-* Time travel allows you to play as Link in different stages of his life.
-* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
-* Up to three games can be saved simultaneously to memory!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!]-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19981121T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>3</playcount>
-		<lastplayed>20170207T231539</lastplayed>
-	</game>
-	<game>
-		<path>./Turok - Dinosaur Hunter (U) (V1.2) [!].z64</path>
-		<name>Turok: Dinosaur Hunter</name>
-		<desc>Much like your usual 1st person shooter, although with dinosaurs as your main enemy. Includes 14 high tech weapons, like the Quad Rocket Launcher and the Atomic Fusion Cannon. You control Turok, who must take on the Campaigner and his highly evolved dino's. The objective is to collect pieces of the Chronoscepter, which is the only weapon that can help to destory the Campaigner, and to stop him from using the power of the weapon to destory the Lost Land.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Turok - Dinosaur Hunter (U) (V1.2) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19970304T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Shooter</genre>
-		<playcount>2</playcount>
-		<lastplayed>20170219T023521</lastplayed>
-	</game>
-	<game>
 		<path>./Super Smash Bros. (U) [!].z64</path>
 		<name>Super Smash Bros.</name>
 		<desc>It's a Bumpin', Bruisin', Brawlin' Bash! The many worlds of Nintendo collide in the ultimate showdown of strength and skill! Up to four players can choose their favorite characters - complete with signature attacks - and go at it in Team Battles and Free-For-Alls. Or venture out on your own to conquer the 14 stages in single-player mode. Either way, Super Smash Bros. is a no-holds-barred action-fest that will keep you coming back for more!</desc>
@@ -373,33 +177,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<publisher>Nintendo</publisher>
 		<genre>Fighting</genre>
 		<players>4+</players>
-	</game>
-	<game>
-		<path>./Castlevania (U) (V1.2) [!].z64</path>
-		<name>Castlevania</name>
-		<desc>Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Castlevania (U) (V1.2) [!]-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19990126T000000</releasedate>
-		<developer>Konami Computer, Entertainment Kobe</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<playcount>3</playcount>
-		<lastplayed>20170307T225045</lastplayed>
-	</game>
-	<game>
-		<path>./AeroGauge (U) [!].z64</path>
-		<name>AeroGauge</name>
-		<desc>In the tradition of F-Zero and Wipeout, AeroGauge is a sci-fi racer that pits you and a friend in a fast paced race to the finish through futuristic tracks and among detailed craft, acting more like planes than racers as they skim many metres above the ground. Play solo through the grand prix and compete against the AI enemy, or beat down your best time in the time trial mode. 
-
-Each track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/AeroGauge (U) [!]-image.jpg</image>
-		<rating>0.4</rating>
-		<releasedate>19980330T000000</releasedate>
-		<developer>Locomotive</developer>
-		<publisher>ASCII Entertainment Software</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Goemon's Great Adventure (USA).n64</path>
@@ -476,18 +253,6 @@ Single player and multiplayer modes are included. Beat the clock and get to the 
 		<players>4+</players>
 	</game>
 	<game>
-		<path>./Star Wars Episode I - Battle for Naboo (USA).n64</path>
-		<name>Star Wars: Episode I - Battle for Naboo</name>
-		<desc>Attention defenders of Naboo! The Trade Federation must be stopped! Storm through more than 15 missions over land, sea and space as your freedom fighters rally against the droid armies. Take control of 7 vehicles: the Naboo starfighter, Gian speeder, and new craft like the heavy STAP, Trade Federation gunboat and more. More than 15 missions: escape from Theed, search &amp; destroy, sabotage, reconnaissance, convoy. Battle against Trade Federation droid starfighters, AATs, destroyer droids, battle droids.
-Change vehicles mid-mission through specially designated hangars.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Star Wars Episode I - Battle for Naboo (USA)-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>20001218T000000</releasedate>
-		<developer>Factor 5</developer>
-		<publisher>LucasArts/Nintendo</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Star Wars Episode I - Racer (U) [!].z64</path>
 		<name>Star Wars: Episode I - Racer</name>
 		<desc>Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!</desc>
@@ -500,17 +265,6 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Star Wars - Rogue Squadron (USA).n64</path>
-		<name>Star Wars: Rogue Squadron</name>
-		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Star Wars - Rogue Squadron (USA)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19981203T000000</releasedate>
-		<developer>Factor 5</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Turok 3 - Shadow of Oblivion (USA).n64</path>
 		<name>Turok 3: Shadow of Oblivion</name>
 		<desc>Turok 3: Shadow of Oblivion picks up where Turok 2: Seeds of Evil left off when gamers were first introduced to "Oblivion" and its lackeys, 'Flesh Eaters. Oblivion is a monstrous cosmic entity that consumed everything in its path. It reigned before the birth of our universe. Invading the bodies of the living and devouring them from the inside-out, Oblivion fed on the very energy of the dead and dying. When the Primagen's Lightship was destroyed, the chain reaction it triggered as a result was so powerful that the universe as it existed was completely eradicated, and the almighty Oblivion was pushed to the very brink of destruction. For the first time, Oblivion felt pain, fear, and hate. Though totally ravaged, Oblivion survived and now desperately seeks a means to punch through the Netherscape that separates our world from the Lost Lands (a strange and primitive world where "time has no meaning"), and the Lost Lands from countless others. The last shreds of the pure energy source that created our world and nearly wiped out Oblivion are contained within the Light Burden, the bag that every member of the Turok lineage has carried. The death of the Turok mantle will signal the beginning of the end: the rebirth of Oblivion.</desc>
@@ -521,18 +275,6 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<publisher>Acclaim</publisher>
 		<genre>Shooter</genre>
 		<players>4+</players>
-	</game>
-	<game>
-		<path>./Wave Race 64 (USA) (Rev A).n64</path>
-		<name>Wave Race 64</name>
-		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Wave Race 64 (USA) (Rev A)-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19960927T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./WinBack - Covert Operations (USA).n64</path>
@@ -557,18 +299,6 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./F-Zero X (USA).n64</path>
-		<name>F-Zero X</name>
-		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/F-Zero X (USA)-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19980714T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Killer Instinct Gold (U) (V1.2) [!].z64</path>
 		<name>Killer Instinct Gold</name>
 		<desc>Killer Instinct Gold rocks the gaming world with its earth-shattering moves and unbelievable graphics. Your battles unfold with lightning-fast action and fluid character animation at 60 frames per second. We faithfully duplicated all the features that made Killer Instinct 2 an arcade hit. We've even thrown in a complete training mode to school you on all the moves! The eye-popping graphics, the explosive hits and jaw-dropping combos make Killer Instinct Gold the only fighting game you'll ever want in your house!</desc>
@@ -581,5 +311,399 @@ Change vehicles mid-mission through specially designated hangars.</desc>
 		<players>2</players>
 		<playcount>2</playcount>
 		<lastplayed>20170323T002449</lastplayed>
+	</game>
+	<game>
+		<path>./Doom 64 (U) [!].z64</path>
+		<name>Doom 64</name>
+		<desc>You killed the Demons once, they were all dead. Or so you thought... A single Demon Entity escaped detection. Systematically it altered decaying, dead carnage back into grotesque living tissue. The Demons have returned - stronger and more vicious than ever before. You mission is clear, there are no options: kill or be killed!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Doom 64 (U) [!]-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19970331T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170329T231627</lastplayed>
+	</game>
+	<game>
+		<path>./Star Fox 64 (U) (V1.1) [!].z64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded!  Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross.  Travel to many different 3-D worlds.  Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.
+
+See how it feels to feel what you see!  The N64 Rumble Pak controller accessory instantly transmits all the bumps and blasts during the action.  It’s a new jolt to your game play experience!
+
+* Four Players compete simultaneously in Vs. mode!
+* Game Pak memory saves the top 10 scores!
+* Outstanding cinema scenes tell the Star Fox saga!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Star Fox 64 (U) (V1.1) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970427T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>5</playcount>
+		<lastplayed>20170329T234258</lastplayed>
+	</game>
+	<game>
+		<path>./Kirby 64 - The Crystal Shards (U) [!].z64</path>
+		<name>Kirby 64: The Crystal Shards</name>
+		<desc>Kirby's first 3-D adventure is also his Nintendo 64 debut, and it finds the always-versatile hero battling a new enemy called Dark Matter. Dark Matter is after a distant land's powerful crystal, but a young fairy named Ribbon attempts to save it by escaping with the gem to Dream Land. Now the crystal has been broken, and it's scattered around the world. Take control of Kirby and help him journey across six worlds, battling a wide variety of enemies and challenging bosses, as he tries to collect all 100 pieces of the shattered crystal.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Kirby 64 - The Crystal Shards (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000626T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170330T051534</lastplayed>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).n64</path>
+		<name>F-Zero X</name>
+		<desc>It's you against 29 other machines competing for the title of F-Zero X Champion. You're racing at speeds of over 1,000 km/h high above the atmosphere. Your competition comes from every corner of the galaxy and won't shed a tear at the thought of smashing you off the track. With four-player simultaneous gameplay and the Rumble Pak accessory, you have the fastest racing game on the N64 system!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/F-Zero X (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980714T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<playcount>1</playcount>
+		<lastplayed>20170331T051651</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask (U) [!].z64</path>
+		<name>The Legend of Zelda: Majora's Mask</name>
+		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
+
+* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
+* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
+* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>6</playcount>
+		<lastplayed>20170331T055717</lastplayed>
+	</game>
+	<game>
+		<path>./Mortal Kombat 4 (U) [!].z64</path>
+		<name>Mortal Kombat 4</name>
+		<desc>Shao Kahn has been defeated at the hands of Earth's warriors, and now Shinnok has escaped to his confines in the Netherealm. The war has resumed once again. This time, the battle CAN be won by mortals!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mortal Kombat 4 (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980623T000000</releasedate>
+		<developer>Eurocom Ent.</developer>
+		<publisher>Midway</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170331T233456</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!].z64</path>
+		<name>The Legend of Zelda: Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule.  He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce.  As the young hero Link, it is your destiny to thwart Ganondorf’s evil schemes.  Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora’s Domain.  Before you complete this epic quest, you’ll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.
+
+* The immersive storyline and environments draw players into an amazing 3D world.
+* Time travel allows you to play as Link in different stages of his life.
+* New gameplay features include a unique targeting system and 1st and 3rd person perspectives.
+* Up to three games can be saved simultaneously to memory!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time (U) (V1.2) [!]-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981121T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>9</playcount>
+		<lastplayed>20170401T003518</lastplayed>
+	</game>
+	<game>
+		<path>./Hybrid Heaven (USA).n64</path>
+		<name>Hybrid Heaven (USA)</name>
+		<playcount>1</playcount>
+		<lastplayed>20170401T054636</lastplayed>
+	</game>
+	<game>
+		<path>./Turok - Dinosaur Hunter (U) (V1.2) [!].z64</path>
+		<name>Turok: Dinosaur Hunter</name>
+		<desc>Much like your usual 1st person shooter, although with dinosaurs as your main enemy. Includes 14 high tech weapons, like the Quad Rocket Launcher and the Atomic Fusion Cannon. You control Turok, who must take on the Campaigner and his highly evolved dino's. The objective is to collect pieces of the Chronoscepter, which is the only weapon that can help to destory the Campaigner, and to stop him from using the power of the weapon to destory the Lost Land.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Turok - Dinosaur Hunter (U) (V1.2) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19970304T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Shooter</genre>
+		<playcount>4</playcount>
+		<lastplayed>20170401T062836</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania - Legacy of Darkness (U) [!].z64</path>
+		<name>Castlevania: Legacy of Darkness</name>
+		<desc>Before Reinhardt Schneider and Carrie Fernandez confronted Dracula, a magical warrior embarked on a quest that would ultimately lead him to Dracula's lair. Take control of Cornell, a powerful werewolf, who is seeking out the evil minions responsible for his sister's disappearance. Armed with the power to morph from human to werewolf, Cornell is destined to rescure his sister from a sinister plan and rid the world of Dracula once and for all. Will he succeed or fail? Will the past unravel the future? Discover the legacy in this exciting prequel.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Castlevania - Legacy of Darkness (U) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170401T191141</lastplayed>
+	</game>
+	<game>
+		<path>./AeroGauge (U) [!].z64</path>
+		<name>AeroGauge</name>
+		<desc>In the tradition of F-Zero and Wipeout, AeroGauge is a sci-fi racer that pits you and a friend in a fast paced race to the finish through futuristic tracks and among detailed craft, acting more like planes than racers as they skim many metres above the ground. Play solo through the grand prix and compete against the AI enemy, or beat down your best time in the time trial mode. 
+
+Each track features a number of twists and turns, whether it be racing upside down or vertically, with a number of obstacles in your path. There's no weapons, though, it's just you and the open road ahead.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/AeroGauge (U) [!]-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19980330T000000</releasedate>
+		<developer>Locomotive</developer>
+		<publisher>ASCII Entertainment Software</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20170401T201234</lastplayed>
+	</game>
+	<game>
+		<path>./Banjo-Kazooie (U) [!].z64</path>
+		<name>Banjo-Kazooie</name>
+		<desc>In Banjo-Kazooie a bear named Banjo and a bird named Kazooie live on Spiral Mountain. One day Gruntilda the witch kidnaps Banjo's sister Tooty, to steal her beauty via a transformation device. Banjo and Kazooie set out on a dangerous adventure to rescue Tooty.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Banjo-Kazooie (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980630T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<playcount>6</playcount>
+		<lastplayed>20170401T201457</lastplayed>
+	</game>
+	<game>
+		<path>./Castlevania (U) (V1.2) [!].z64</path>
+		<name>Castlevania</name>
+		<desc>Take control of Reinhardt Schneider, a whip-toting Vampire Killer who has waited his whole life to meet his destiny, or Carrie Fernandez, a young girl with a strong magical presence who is mysteriously drawn to Dracula's evil Castlevania. It is their duty to seek out Castlevania and put an end to its residents' plans. What is your destiny?</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Castlevania (U) (V1.2) [!]-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990126T000000</releasedate>
+		<developer>Konami Computer, Entertainment Kobe</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<playcount>16</playcount>
+		<lastplayed>20170401T202251</lastplayed>
+	</game>
+	<game>
+		<path>./Mario Kart 64 (U) [!].z64</path>
+		<name>Mario Kart 64</name>
+		<desc>Three… Two… One… GO!  The signal light changes and you drop the pedal to the metal.  Take on up to three friends in the split-screen VS games, or race solo in the Mario GP.  Tell your friends to bring it on in the highly competitive Battle mode.  Advanced features allow you to race with your “Ghost”.  The driving data from your best run appears as a transparent character on the screen.  No longer must you simply race against the clock -- you can actually race against yourself!
+
+* Save your hottest Ghost data to a portable N64 Controller Pak!
+* Collect multiple power-up items!
+* Twenty different courses -- 4 Cups with 4 courses each and 4 special Battle mode courses!
+* Everyone’s favorite characters are back and gorgeously rendered, including two new additions, Donkey Kong and Wario!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mario Kart 64 (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19961214T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>11</playcount>
+		<lastplayed>20170401T205629</lastplayed>
+	</game>
+	<game>
+		<path>./Perfect Dark (U) (V1.1) [!].z64</path>
+		<name>Perfect Dark</name>
+		<desc>Step into the Dark... As Carrington Institute's most promising new Agent, Joanna Dark must uncover the truth behind the dataDyne Corporation's recent technological breakthroughs - breakthroughs which could have serious consequences for mankind.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Perfect Dark (U) (V1.1) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20000522T000000</releasedate>
+		<developer>Rare Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>9</playcount>
+		<lastplayed>20170401T203112</lastplayed>
+	</game>
+	<game>
+		<path>./Super Mario 64 (U) [!].z64</path>
+		<name>Super Mario 64</name>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Super Mario 64 (U) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19960623T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>17</playcount>
+		<lastplayed>20170401T203335</lastplayed>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Majora's Mask (U) (GC Version) [!].z64</path>
+		<name>The Legend of Zelda: Majora's Mask</name>
+		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
+
+* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
+* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
+* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (U) (GC Version) [!]-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<playcount>7</playcount>
+		<lastplayed>20170401T204132</lastplayed>
+	</game>
+	<game>
+		<path>./Beetle Adventure Racing! (USA) (En,Fr,De).n64</path>
+		<name>Beetle Adventure Racing!</name>
+		<desc>Take control of a collection of the latest Volkswagen Beetle "2.0" models, from street type to off-road designs, and race across varying road types that will test your speed and endurance!
+Find shortcuts or use nitro boosts to finish first in order to move on to the next track. If the computer AI is to easy for you, battle against a friend in two player race mode or challenge up to 4 people in a special Battle Mode, with added abilities including weapons, from mines and rockets to magical elements, while collecting the flag and finding the exit!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Beetle Adventure Racing! (USA) (En,Fr,De)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19990319T000000</releasedate>
+		<developer>Paradigm Entertainment</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>2</playcount>
+		<lastplayed>20170401T200855</lastplayed>
+	</game>
+	<game>
+		<path>./Fighting Force 64 (USA).n64</path>
+		<name>Fighting Force 64</name>
+		<desc>Fighting Force players control one of four characters. They move through urban and science fiction environments, battling waves of oncoming enemies with weapons ranging from fists and bottles to knives, chairs and guns. The player can make some choices as to which territory to travel through.
+
+The four characters have various reasons for taking on Dr. Zeng, a criminal mastermind with an army at his command. The action starts with a police cordon around Zeng's office skyscraper, moving to such locales as a shopping mall, subway and Coast Guard base before finally ending at the top of Zeng's island headquarters.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Fighting Force 64 (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Crave</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170401T223558</lastplayed>
+	</game>
+	<game>
+		<path>./International Superstar Soccer 64 (USA).n64</path>
+		<name>International Superstar Soccer 64</name>
+		<desc>Are you ready for the most realistic soccer game the world has ever seen? Get ready for: Incredible, seemless game control; Awesome animation with over 17,000 motion captured animations; Live, intelligent commentary; Every conceivable soccer move from headers to heel passes; Multiple formations to team strategies; Trade &amp; create your own players; 36 International teams with 16 players per team. Everything a soccer fan wants!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/International Superstar Soccer 64 (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19970731T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+		<playcount>3</playcount>
+		<lastplayed>20170402T051825</lastplayed>
+	</game>
+	<game>
+		<path>./Quake II (USA).n64</path>
+		<name>Quake II</name>
+		<desc>Quake II takes place in a science fiction environment. In the single-player game, the player assumes the role of a Marine named Bitterman taking part in "Operation Alien Overlord", a desperate attempt to protect Earth from alien invasion by launching a counter-attack on the home planet of the hostile cybernetic Strogg civilization. Most of the other soldiers are captured or killed almost as soon as they enter the planet's atmosphere, so it falls upon Bitterman to penetrate the Strogg capital city alone and ultimately to assassinate the Strogg leader, Makron.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Quake II (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>4+</players>
+		<playcount>2</playcount>
+		<lastplayed>20170330T223731</lastplayed>
+	</game>
+	<game>
+		<path>./Wave Race 64 (USA) (Rev A).n64</path>
+		<name>Wave Race 64</name>
+		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Wave Race 64 (USA) (Rev A)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19960927T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170402T053451</lastplayed>
+	</game>
+	<game>
+		<path>./Wipeout 64 (USA).n64</path>
+		<name>Wipeout 64</name>
+		<desc>WipEout 64 was released by Psygnosis as a follow-up to the racing game WipEout XL, taking place one year later in 2098. Like in previous installments players control highspeed hovercrafts, pick up weapons to damage the opponents' vehicles and try to finish the race in the first position. In many aspects, the gameplay is pretty similar to its predecessor, such as selection of hovercrafts, visuals or the handling system. Beside new racing tracks the main differences include a Split-Screen Multiplayer Mode (up to four players), Weapon &amp; Super Combo Challenges as well as various Special Weapons for each Team!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Wipeout 64 (USA)-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19981103T000000</releasedate>
+		<developer>Psygnosis Limited</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170401T061420</lastplayed>
+	</game>
+	<game>
+		<path>./Armorines - Project S.W.A.R.M. (USA).n64</path>
+		<name>Armorines: Project S.W.A.R.M.</name>
+		<desc>The invasion has begun - an alien species infestated Earth and now they are after your flesh! Choose one of two Armorines, each with their own selection of weapons and fight back against bugs of all sizes; minimize the enemies chance of eliminating human civilization as we know it and eradicate every single trace of their race on our beloved planet!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Armorines - Project S.W.A.R.M. (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19991202T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170402T060613</lastplayed>
+	</game>
+	<game>
+		<path>./Forsaken 64 (USA).n64</path>
+		<name>Forsaken 64</name>
+		<desc>Forsaken is a first-person shoot 'em up in which you have complete movement freedom in 3 dimensions, as you accelerate, swerve and strafe your craft, making for gameplay resembling Descent. Each level has a defined exit which must be reached within a tight time limit. The surrounding areas are collapsing around you, with spikes and turbine fans among your hazards. Be very aware of other craft out to take all you have, as they alter their approach based on your weaponry (from the 25 featured in the game) and past encounters.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Forsaken 64 (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19980430T000000</releasedate>
+		<developer>Iguana</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170401T224018</lastplayed>
+	</game>
+	<game>
+		<path>./Nightmare Creatures (USA).n64</path>
+		<name>Nightmare Creatures</name>
+		<desc>The story behind Nightmare Creatures draws upon gothic horror elements of the 19th century. The story begins in 1666, when a devil-worshipping cult called the Brotherhood of Hecate were conducting sinister experiments in London so as to take over the city and then the world. The Brotherhood tried to develop an elixir that would endow them with superhuman powers. However, rather than creating their intended superhumans, their experiments created only grotesque monsters. When they decided to use these creatures as an army of conquest, one of their number, Samuel Pepys, set their headquarters on fire, resulting in the First Great Fire of London. The game takes place in 1834 when London falls victim to several evil occurrences. Monster sightings are reported along with news of people mutating into ungodly creatures, and that the dead are waking from their graves and walking amongst the living. All of London is in a panic and vulnerable to the schemes of Adam Crowley, a mad scientist and occultist enlisting the help of the Brotherhood.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Nightmare Creatures (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19981101T000000</releasedate>
+		<developer>Kalisto</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170402T061330</lastplayed>
+	</game>
+	<game>
+		<path>./Shadow Man (USA).n64</path>
+		<name>Shadow Man</name>
+		<desc>You're the Shadow Man, a person who can switch between the world of the dead and of the living. In Shadow Man your mission is to prevent 5 serial killers from bringing the total armageddon. In the world of the living, you're mortal and have conventional weapons. When you die, you are transported to the world of the dead and you become Shadow Man once again. Which means you're not really mortal. In the world of the dead you can't use normal weapons, your gun shoots ghosts which kill the zombies and the other ugly creatures which live there. You also have different voodoo powers and weapons. And you're carrying a large inventory around.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Shadow Man (USA)-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170402T061534</lastplayed>
+	</game>
+	<game>
+		<path>./Stunt Racer 64 (USA).n64</path>
+		<name>Stunt Racer 64 (USA)</name>
+		<playcount>5</playcount>
+		<lastplayed>20170402T061814</lastplayed>
 	</game>
 </gameList>
