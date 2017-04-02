@@ -94,10 +94,10 @@ The galaxy is being infested by the evil Mizar and his horde of Drones. Already,
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time - Master Quest (E) [!].z64</path>
+		<path>./Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition).z64</path>
 		<name>The Legend of Zelda: Ocarina of Time Master Quest</name>
 		<desc>"A fairy named Navi awakens the young Link from a nightmare; in his dreams a man called Ganondorf chases after Princess Zelda who is being escorted on horseback by her protector Impa. Navi guides Link to the guardian of Kokiri village, the Great Deku Tree, who is cursed and near death. Link breaks the curse, but can not stop the tree from withering. Before dying, the Great Deku Tree tells Link about a "wicked man from the desert" who cursed him and seeks to conquer the land of Hyrule. After Link receives the Kokiri's Emerald, the spiritual stone of the forest, he proceeds to Hyrule Castle to find Zelda, the princess of destiny." Except Master Quest's most notable feature is that every dungeon in the game has been modified to increase the difficulty of the game. Each dungeon features a different layout, changing the progression through the levels. Enemies are spread differently throughout the dungeons, and tougher enemies are encountered much earlier on than in Ocarina of Time. In addition, some Gold Skulltula locations in dungeons have been moved, and certain items that are optional in the original version are now mandatory to complete the game.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time - Master Quest (E) [!]-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube Edition)-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>20030228T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -191,18 +191,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Iggy's Reckin' Balls (USA).n64</path>
-		<name>Iggy's Reckin' Balls</name>
-		<desc>A vertical race up towering tracks. Iggy and the Reckin' Balls are in the race of their lives. A winner-take-all dash to the top of twisted, looped, warped and genuinely demented courses! Smash, crash and swing with Iggy, his friends, plus loads of secret characters. Over 100 tracks, tons of shortcuts, secret paths, loops and elevators. One to four player racing action with Battle and Versus mode.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Iggy's Reckin' Balls (USA)-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19980731T000000</releasedate>
-		<developer>Iguana Entertainment</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-	</game>
-	<game>
 		<path>./Mace - The Dark Age (U) [!].z64</path>
 		<name>Mace: The Dark Age</name>
 		<desc>Live by the sword. Kill for the mace! Forged in the fires of the Dark Ages, Mace is the hottest 3D fighting game ever! Each medieval character wields a weapon unique to their land of origin. Their only desire - inflict serious pain! Sixteen player-selectable characters, two amazing bosses and six hidden characters. Tons of tasty combos and reversals with simple four-button controls. Become immersed in battle with complete 3D character movement.</desc>
@@ -213,17 +201,6 @@ Your mission begins in the heavily guarded chemical warfare facility at the Byel
 		<publisher>Midway</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Mischief Makers (USA).n64</path>
-		<name>Mischief Makers</name>
-		<desc>Professor Theo has been kidnapped by the imperial forces of the evil empire. Now his robotic personal assistant, Marina Liteyears, must save the day! Marina will get some help from the troops who have remained loyal to King Aster. With their help, she'll grab, shake and throw her way to the Professor! Besides rescuing the Professor, Marina will also join in the effort to rebel against that nasty, horrible and evil empire. So, Grab a controller and help our Super Heroine shake up the evil empire!</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Mischief Makers (USA)-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19971001T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Mystical Ninja Starring Goemon (USA).n64</path>
@@ -423,12 +400,6 @@ See how it feels to feel what you see!  The N64 Rumble Pak controller accessory 
 		<lastplayed>20170401T003518</lastplayed>
 	</game>
 	<game>
-		<path>./Hybrid Heaven (USA).n64</path>
-		<name>Hybrid Heaven (USA)</name>
-		<playcount>1</playcount>
-		<lastplayed>20170401T054636</lastplayed>
-	</game>
-	<game>
 		<path>./Turok - Dinosaur Hunter (U) (V1.2) [!].z64</path>
 		<name>Turok: Dinosaur Hunter</name>
 		<desc>Much like your usual 1st person shooter, although with dinosaurs as your main enemy. Includes 14 high tech weapons, like the Quad Rocket Launcher and the Atomic Fusion Cannon. You control Turok, who must take on the Campaigner and his highly evolved dino's. The objective is to collect pieces of the Chronoscepter, which is the only weapon that can help to destory the Campaigner, and to stop him from using the power of the weapon to destory the Lost Land.</desc>
@@ -541,23 +512,6 @@ Each track features a number of twists and turns, whether it be racing upside do
 		<genre>Action</genre>
 		<playcount>17</playcount>
 		<lastplayed>20170401T203335</lastplayed>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Majora's Mask (U) (GC Version) [!].z64</path>
-		<name>The Legend of Zelda: Majora's Mask</name>
-		<desc>Link’s all-new epic adventure lands him in the mystical world of Termina, where ever-present clocks count down the hours until a menacing moon falls from the sky above.  When his horse and Ocarina are stolen by a strange, masked figure, Link embarks on an urgent quest to solve the mystery of the moon, save the world from destruction, and find his way back to the peaceful land of Hyrule!
-
-* Link transforms before your eyes--Over 20 magical masks give Link powers and abilities he’s never had before!  Watch him transform into a hapless Deku child, a mighty Goron hero and a legendary Zora guitarist.
-* Race against time--Characters and events flow with the hours of the day.  Set your own schedule and even alter time itself in a race to stop the moon and save the world!
-* Panoramic environments!  Powered-up action battles!  Fully interactive characters and events!  Experience gorgeous rendered landscapes, swarms of attacking enemies and a deep, engrossing world of wonders with the power of the N64 Expansion Pak.</desc>
-		<image>~/.emulationstation/downloaded_images/n64/Legend of Zelda, The - Majora's Mask (U) (GC Version) [!]-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20001026T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<playcount>7</playcount>
-		<lastplayed>20170401T204132</lastplayed>
 	</game>
 	<game>
 		<path>./Beetle Adventure Racing! (USA) (En,Fr,De).n64</path>
@@ -701,9 +655,86 @@ The four characters have various reasons for taking on Dr. Zeng, a criminal mast
 		<lastplayed>20170402T061534</lastplayed>
 	</game>
 	<game>
-		<path>./Stunt Racer 64 (USA).n64</path>
-		<name>Stunt Racer 64 (USA)</name>
-		<playcount>5</playcount>
-		<lastplayed>20170402T061814</lastplayed>
+		<path>./Mischief Makers (USA).n64</path>
+		<name>Mischief Makers</name>
+		<desc>Professor Theo has been kidnapped by the imperial forces of the evil empire. Now his robotic personal assistant, Marina Liteyears, must save the day! Marina will get some help from the troops who have remained loyal to King Aster. With their help, she'll grab, shake and throw her way to the Professor! Besides rescuing the Professor, Marina will also join in the effort to rebel against that nasty, horrible and evil empire. So, Grab a controller and help our Super Heroine shake up the evil empire!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mischief Makers (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19971001T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170402T145042</lastplayed>
+	</game>
+	<game>
+		<path>./Iggy's Reckin' Balls (USA).n64</path>
+		<name>Iggy's Reckin' Balls</name>
+		<desc>A vertical race up towering tracks. Iggy and the Reckin' Balls are in the race of their lives. A winner-take-all dash to the top of twisted, looped, warped and genuinely demented courses! Smash, crash and swing with Iggy, his friends, plus loads of secret characters. Over 100 tracks, tons of shortcuts, secret paths, loops and elevators. One to four player racing action with Battle and Versus mode.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Iggy's Reckin' Balls (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>6</playcount>
+		<lastplayed>20170402T171436</lastplayed>
+	</game>
+	<game>
+		<path>./Duke Nukem - Zero Hour (USA).n64</path>
+		<name>Duke Nukem: Zero Hour</name>
+		<desc>He's all that stands between us and a Time-Spanning Alien invasion. He's Duke Nukem. Gaming's Greatest Action Hero. And this is his finest hour! Zero Hour! Awesome new enemies! Hilarious gags and one-liners! Same blood and guts attitude! Over 30 gut-wrenching levels set in four action-packed time eras! Incredible Teamplay and Deathmatch modes for up to 4 players! Over 20 all-new weapons of high-octane annihilation.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Duke Nukem - Zero Hour (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19990801T000000</releasedate>
+		<developer>Eurocom Ent.</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Shooter</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170402T144021</lastplayed>
+	</game>
+	<game>
+		<path>./Mickey's Speedway USA (USA).n64</path>
+		<name>Mickey's Speedway USA</name>
+		<desc>Buckle up and get ready to race! Rally across America with Mickey and friends! Race around 20 All-American courses - from Alaska to the Everglades - as you try to track down the Weasels and rescue poor dognapped Pluto. Use Ludwig Von Drake's wacky weapons - such as the "Antigrav-o-Kit Magno Flyer" or the "Stormy Weather Whenever Engager" - to give you the edge. Then blast past your friends and listen as the drivers taunt each other using Disney's original character voices!</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Mickey's Speedway USA (USA)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20001113T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20170402T172026</lastplayed>
+	</game>
+	<game>
+		<path>./Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It).n64</path>
+		<name>Rayman 2: The Great Escape</name>
+		<desc>Rayman 2 takes place in a world called The Glade of Dreams. An army of Robot Pirates, led by Admiral Razorbeard, invades this world and destroys the Heart of the World, the world core. This greatly weakens the resistance's power and disables Rayman's powers, leading to his capture.
+
+Globox, a friend of Rayman, is later also captured and put in the same cell as Rayman aboard the Pirates' prison ship. Globox restores one of his powers through a silver lum given to him by Ly, a fairy. Rayman escapes the prison ship, and is separated from Globox again. He learns that in order to stand a chance against the Pirates, he needs to find 4 ancient, magic masks to awaken Polokus, the spirit of the world.[10] He travels through the Glade of Dreams via the Hall of Doors, a magical place linked to various locations in the world, controlled by the ancient Teensies.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Rayman 2 - The Great Escape (USA) (En,Fr,De,Es,It)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19991029T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170402T145140</lastplayed>
+	</game>
+	<game>
+		<path>./Rocket - Robot on Wheels (USA).n64</path>
+		<name>Rocket: Robot on Wheels</name>
+		<desc>First-time Nintendo 64 developer Sucker Punch Studios jumped onto the scene with a highly original 3D platformer. The design philosophy behind the title is simple -- rather than build the platformer around the main character, the software house opted instead to focus on the interactivity of the 3D environments he travels. To that end, Rocket employs an advanced physics engine which allows the main character, a lovable unicycle-based robot named Rocket, to travel and experiment with colorful, platform-esque worlds with realistic gravity and inertia. Every object has its own set of lifelike attributes that must be "weighed" into consideration when solving puzzles.</desc>
+		<image>~/.emulationstation/downloaded_images/n64/Rocket - Robot on Wheels (USA)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19951115T000000</releasedate>
+		<developer>Sucker Punch</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170402T145445</lastplayed>
 	</game>
 </gameList>
