@@ -1,18 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Legend of Zelda (GST).zip</path>
-		<name>Legend of Zelda (GST)</name>
-		<playcount>1</playcount>
-		<lastplayed>20170202T022110</lastplayed>
-	</game>
-	<game>
-		<path>./Castlevania II - Simon's Quest (Patched).zip</path>
-		<name>Castlevania II - Simon's Quest (Patched)</name>
-		<playcount>2</playcount>
-		<lastplayed>20170211T191733</lastplayed>
-	</game>
-	<game>
 		<path>./1943 - The Battle of Midway.zip</path>
 		<name>1943: The Battle of Midway</name>
 		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.</desc>

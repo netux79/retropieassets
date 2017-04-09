@@ -81,6 +81,18 @@ Responding to a frantic distress call from the overrun scientists, the Martian m
 		<players>4+</players>
 	</game>
 	<game>
+		<path>./Doom 2.sh</path>
+		<name>Doom II</name>
+		<desc>Immediately following the events in Doom, the player once again takes the role of the anonymous space marine who has proven too tough to be contained. After being teleported from Phobos, and subsequently fighting on Deimos which is suspended above Hell, the Marine finds himself back home on Earth, only to find that it too has fallen victim to the hellish invasion, leaving billions of people dead. </desc>
+		<image>~/.emulationstation/downloaded_images/ports/Doom 2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19941010T000000</releasedate>
+		<developer>iDSoftware</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Action, Horror, Shooter</genre>
+		<players>4+</players>
+	</game>	
+	<game>
 		<path>./Quake.sh</path>
 		<name>Quake</name>
 		<desc>The player takes the role of an un-named protagonist sent into a portal in order to stop an enemy code-named "Quake". Previously, the government had been experimenting with teleportation technology, and upon development of a working prototype called a "Slipgate", this enemy has compromised the human connection with their own teleportation system, using it to insert death squads into the "human" dimension, supposedly in order to test the martial capabilities of humanity.</desc>

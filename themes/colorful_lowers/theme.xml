@@ -1,0 +1,151 @@
+<!--
+theme name:		coloful
+version:		1.0
+Description:	Based on simplebigart 1.0 theme by Ewzzy (ewzzy.com)
+author:			netux	
+website:		-
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+    <formatVersion>4</formatVersion>
+
+	<view name="system, basic, detailed">
+	
+		<image name="background" extra="true">
+			<pos>0 0</pos>
+			<origin>0 0</origin>
+			<size>1 1</size>
+		</image>
+		
+		<image name="footer" extra="true">
+			<pos>1 0.933</pos>
+			<origin>1 0</origin>
+			<size>1 0.066</size>
+			<path>./art/white.png</path>
+			<color>ffffff88</color>
+		</image>
+
+		<helpsystem name="help">
+			<textColor>555555</textColor>
+			<iconColor>555555</iconColor>
+		</helpsystem>
+		
+	</view>
+
+	<view name="system">
+		<image name="controller" extra="true">
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.2</pos>
+			<maxSize>0.4 0.533</maxSize>
+			<color>ffffff</color>
+		</image>
+	</view>
+
+   <view name="basic, detailed">
+
+		<image name="logo_bg" extra="true">
+			<origin>0 0</origin>
+			<pos>0 0</pos>
+			<size>1 0.233</size>
+			<path>./art/white.png</path>
+			<color>ffffff88</color>
+		</image>
+
+		<!--image name="logo_helper" extra="true">
+			<pos>0.5 0.116</pos>
+			<origin>0.5 0.5</origin>
+			<size>1 0.16</size>
+			<size>0.40 0.20</size>
+			<path>./art/white.png</path>
+			<color>efefef44</color>
+		</image-->	
+
+		<image name="logo">
+			<pos>0.5 0.116</pos>
+			<maxSize>0.9 0.19</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<image name="gamelist_bg" extra="true">
+			<path>./art/white.png</path>
+			<color>00000099</color>
+			<origin>0 0</origin>
+			<pos>0 0.234</pos>
+			<size>1 0.7</size>
+		</image>
+
+		<textlist name="gamelist">
+			<selectorColor>00000000</selectorColor>
+			<selectedColor>ffffff</selectedColor>
+			<primaryColor>ffffff</primaryColor>
+			<secondaryColor>ffff00</secondaryColor>
+			<fontPath>./art/opensans_hebrew_condensed_regular.ttf</fontPath>
+			<scrollSound>./art/scroll.wav</scrollSound>
+			<fontSize>0.055</fontSize>
+			<forceUppercase>1</forceUppercase>
+			<pos>0 0.843</pos>
+			<size>1 0.11</size>
+			<alignment>center</alignment>
+		</textlist>
+
+	</view>
+
+   <view name="basic">	   
+	   
+		<textlist name="gamelist">
+			<selectorColor>000000aa</selectorColor>
+			<pos>0 0.243</pos>
+			<size>1 0.6875</size>
+			<alignment>center</alignment>
+		</textlist>	   
+   </view>
+
+	<view name="detailed">
+		
+		<!--image name="image_guide" extra="true">
+			<path>./art/white.png</path>
+			<origin>0.5 0.5</origin>
+			<pos>0.5 0.55</pos>
+			<size>0.437 0.583</size>
+			<color>ff000033</color>
+		</image-->
+
+		<image name="md_image">
+			<pos>0.5 0.55</pos>
+			<maxSize>0.437 0.583</maxSize>
+			<origin>0.5 0.5</origin>
+		</image>
+
+		<image name="arrowsL" extra="true">
+			<pos>0.20 0.55</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.1875 0.25</size>
+			<path>./art/arrows.svg</path>
+			<color>ffffff55</color>
+		</image>		
+		
+		<image name="arrowsR" extra="true">
+			<pos>0.80 0.55</pos>
+			<origin>0.5 0.5</origin>
+			<size>0.1875 0.25</size>
+			<path>./art/arrows.svg</path>
+			<color>ffffff55</color>
+		</image>		
+				
+		<!-- Put them outside of sight!-->
+		<text name="lbl_players, lbl_publisher, lbl_playcount, md_lbl_lastplayed, md_lbl_playcount, md_lbl_rating, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_lbl_genre, md_lbl_players">
+			<pos>1 1</pos>
+		</text>
+
+		<text name="md_playcount, md_rating, md_developer, md_publisher, md_genre, md_players">
+			<pos>1 1</pos>
+		</text>
+		
+		<datetime name="md_lastplayed, md_releasedate">
+			<pos>1 1</pos>
+		</datetime>
+
+	</view>
+
+</theme>

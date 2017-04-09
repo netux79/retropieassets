@@ -1,56 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="" source="">
-		<path>./Atlantis II.zip</path>
-		<name>Atlantis II</name>
-		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Atlantis II-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Imagic</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Pac-Man.zip</path>
-		<name>PacMan</name>
-		<desc>It's your job to keep PAC-MAN as happy as possible. You must guide him around the maze so that he can eat video wafers and power pills. Protect him from the ghosts unless he has the super strength of a power pill. If he does have the super strength, help him chase the ghosts and gobble them up before they gobble him.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Pac-Man-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Puzzle</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Circus Atari.zip</path>
-		<name>Circus Atari</name>
-		<desc>Pop the balloons and score points. A wall of red, blue and white balloons will appear at the top of the screen. You must pop balloons by catching a clown on the teeter-totter and bouncing him up to the balloons. Use the controller to move the teeter-totter across the screen to catch the clowns. Each time a clown pops a balloon, the balloon will disappear and you score points. Each player receives five clowns or turns. If you fail to catch a clown on the teeter-totter he will crash and disappear from the playfield. Press the controller button and another clown will bounce off the trampoline from the right or left corner of the playfield. After five clowns have crashed the game is over. The clowns may land on any point on the teeter-totter except where the other clown is sitting, which causes them to crash.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Circus Atari-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Exidy</developer>
-		<publisher>Sears</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170214T022218</lastplayed>
-	</game>
-	<game>
-		<path>./Karate.zip</path>
-		<name>Karate (Ultravision)</name>
-		<desc>One of the earlier non-boxing fighting games, Karate is a head-to-head sparring match between two tall, slow, boxy looking men. The guys punch and kick one another (straight or up), and blocking is included.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Karate-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Ultravision</developer>
-		<publisher>Ultravision</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170214T225520</lastplayed>
-	</game>
 	<game>
 		<path>./Asteroids.zip</path>
 		<name>Asteroids</name>
