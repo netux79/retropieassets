@@ -84,8 +84,8 @@ license:		creative commons CC-BY-NC-SA
 			<scrollSound>./art/scroll.wav</scrollSound>
 			<fontSize>0.055</fontSize>
 			<forceUppercase>1</forceUppercase>
-			<pos>0 0.843</pos>
-			<size>1 0.11</size>
+			<pos>0.0125 0.843</pos>
+			<size>0.974 0.11</size>
 			<alignment>center</alignment>
 		</textlist>
 
@@ -95,8 +95,8 @@ license:		creative commons CC-BY-NC-SA
 	   
 		<textlist name="gamelist">
 			<selectorColor>000000aa</selectorColor>
-			<pos>0 0.243</pos>
-			<size>1 0.6875</size>
+			<pos>0.0125 0.243</pos>
+			<size>0.974 0.6875</size>
 			<alignment>center</alignment>
 		</textlist>	   
    </view>
