@@ -322,22 +322,6 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<lastplayed>20170206T065439</lastplayed>
 	</game>
 	<game>
-		<path>./garouo.zip</path>
-		<name>garouo</name>
-		<rating>0</rating>
-		<hidden>1</hidden>
-		<playcount>1</playcount>
-		<lastplayed>20170206T175117</lastplayed>
-	</game>
-	<game>
-		<path>./lastbldh.zip</path>
-		<name>lastbldh</name>
-		<rating>0</rating>
-		<hidden>1</hidden>
-		<playcount>1</playcount>
-		<lastplayed>20170206T174727</lastplayed>
-	</game>
-	<game>
 		<path>./neogeo.zip</path>
 		<name>NeoGeo BIOS</name>
 		<rating>0</rating>
@@ -367,6 +351,220 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./aof2.zip</path>
+		<name>Art of Fighting 2</name>
+		<desc>In this sequel to the original Art of Fighting, and prequel to the original Fatal Fury, we learn that Mr. Karate, the final boss of the original game, behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma was being used by Geese Howard for his own evil intentions, and that Mr. Big was the one who had originally kidnapped Yuri.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/aof2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940311T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./aof3.zip</path>
+		<name>Art of Fighting 3: The Path of the Warrior</name>
+		<desc>In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks... because Robert is not the only one looking for Freia.
+
+Art of Fighting 3: The Path of The Warrior features ten playable characters with different fighting styles, a completely new fighting system based on joystick and button combinations, and incredibly detailed graphics and animation.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/aof3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19960426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./blazstar.zip</path>
+		<name>Blazing Star</name>
+		<desc>Sometime in their past, the planets Remuria and Mutras started an interplanetary war that showed no sign of ending. The endless fight between the human-like inhabitants of the two planets had gone so long that weapon development moved into dangerous territory: Organic Weapon Production combined with alien technology. Soon, a sentient weapon - Brawshella - was born. Brawshella gathered all animal life on both planets and forced them to do its bidding and attack the humans. In a week, the humans were assimilated by Brawshella.
+Yet, once they were assimilated, they found no other purpose in life but to continue fighting each other. After a while, four of the assimilated fighter pilots regained their consciousness and remembered their pasts. Upon discovering their humanity, the pilots were conflicted with following Brawshella's orders or fighting it to fully regain their independence. The pilots finally turn against the machine in a battle to rediscover themselves and reclaim their planets.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/blazstar-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19980219T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK Corporation</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./bjourney.zip</path>
+		<name>Blue's Journey</name>
+		<desc>The planet Raguy was once a beautiful place, until the evil Daruma tribe invaded, bringing pollution that corrupted the land. You, as Blue, are a specialist of the Leaf Dump, and you love Princess Fa of the Raguy family. Unfortunately, Princess Fa has fallen sick from the pollution. It's your job to save your princess in Blue's Journey, a 2D side-scrolling platformer with RPG elements. Go through stages jumping on platforms and avoiding traps, while dealing with a multitude of bad guys, with a special bad guy boss at the end of every level to defeat with special means. To help with this, Blue can use a leaf attack and shrink. The leaf attack, only used when Blue is full sized, lets Blue slam a leaf that stuns any enemies he hits. Blue can also pick up power-ups for a more devastating leaf attack, or change his attack entirely. When the enemies are stunned, Blue can pick them up and throw them across the screen to dispose of more baddies. Shrunken down Blue can't use his attacking power, but he can fit into small crevasses and crannies not normally accessible. Of course, Blue can also dispatch enemies by jumping on them. Since Raguy's economy is flower based, Blue can collect flowers to buy things at special huts. But Blue must take care not to fall into traps or bottomless pits, which cause instant death. Being hit by bad guys or their shots is just as bad. Blue starts the game with two hearts, losing one when he gets whacked by a bad guy. When his heart count goes to zero, Blue dies. Play the game alone (as Blue), or with your friend (as a green Blue) for two-player simultaneous fun.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/bjourney-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./crsword.zip</path>
+		<name>Crossed Swords</name>
+		<desc>In the enchanted land of Belkana all was well until plagues of creatures started rampaging through. But it didn't stop there, from deep within the mountains of Graisia, the Demon Warlord Nausizz arose and led the attacks wiping out settlement after settlement. However a brave warrior called "The Knight of the Journey" came a long way on a quest to stop these monstrosities. After aiding the Poor Village of Dio from the Caterdragon, the knight heads to the Castle Pulista, but as he is briefed by the king of the problems they face, an elite dark knight appears and kidnaps the princess. The knight fights his way through the enemy lands in the Matius Tower, the Gauda Fortress, the Land Battleship and finally passes the Entrance to the Devil World. Along his way, he is helped by loyalties of the kingdom. The knight battles through the Castle Graisia and comes face to face with Nausizz. As a demon with honour, Nausizz is so impressed with the knight's progress, that he has sent the princess back to Pulista. As the knight defeats Nausizz, he transforms into a fiendish demon dragon. The knight slays him and escapes the collapsing castle. Back in Castle Pulista the knight is offered to come and live with the king. Peace can proceed once more in Belkana.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/crsword-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19911001T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./cyberlip.zip</path>
+		<name>Cyber-Lip</name>
+		<desc>Cyber-Lip is a horizontally scrolling, side-view platformer shoot 'em up (this combination is sometimes referred to as "run and gun") arcade game released by SNK in 1990 for the SNK Neo-Geo MVS. The player(s) control(s) Rick and/or Brook, two human veteran soldiers, who are sent by an unspecified "federal government" into combat on a last-ditch attempt to save Earth from a malfunctioning military supercomputer in charge of all military androids. Gameplay consists of battling through large amounts of enemies, collecting power-ups and defeating several end-of-stage bosses. This makes it comparable to the likes of Metal Slug or Contra in terms of gameplay.
+
+It is noted that a handful of members from Irem developed this title and later went on to create Metal Slug.
+
+The game was later ported over for the Neo Geo CD system, in 1995. The CD featured improved voice acting and added a short introduction to the game explaining the plot.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/cyberlip-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./nam1975.zip</path>
+		<name>NAM-1975</name>
+		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/nam1975-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ncommand.zip</path>
+		<name>Ninja Commando</name>
+		<desc>Ninja Commando (ニンジャコマンドー?) is a top-down, vertically-scrolling run and gun video game developed by Alpha Denshi and published by SNK. It was first released in May 1992 in cartridge format, and in 1994 for the Neo Geo CD.
+
+An elite group of three young Ninja Commandos (Joe Tiger, an American descendant of the Kōga-ryū ninja whose weapons are shuriken, Ryu Eagle, the 23rd descendant of the famous ninja Fūma Kotarō (from World Heroes), who is using ninja magic fireballs in combat, and Rayar Dragon, the female ninja of the group, a British girl who has learned the ways of the Iga-ryū ninjutsu and whose weapon is a bow with flaming spirit arrows) from around the world must team-up to stop the villain Spider and his Mars Corporation from using a time machine to destroy the past and control the future. The three heroes chase after their enemy in seven time periods, including the Sengoku period in Japan (where Ryu avenges his ancestor by killing Oda Nobunaga), Ancient Egypt, the Stone Age, China in the era of Three Kingdoms, and World War II.[</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/ncommand-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920529T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./preisle2.zip</path>
+		<name>Prehistoric Isle 2</name>
+		<desc>The sequel to "Prehistoric Isle in 1930", release more that 10 years after the first one.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/preisle2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990926T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pulstar.zip</path>
+		<name>Pulstar</name>
+		<desc>Pulstar (パルスター?) is a shoot 'em up developed by now defunct Aicom Co. Ltd and published by SNK for the Neo Geo, Neo Geo CD and arcade; it is the prequel of Blazing Star. Pulstar, as well as its sequel, are often regarded as among the best-looking shoot 'em up games for the Neo Geo.
+2256 A.D. Alien forces swept into the solar system, and fighting spread throughout the system in two years. An elite group force, codenamed: PULSTAR, remains as Earth's final hope. Take items to snap on powerful options! Break your enemies with the various arsenals!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/pulstar-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Aicom</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pbobblen.zip</path>
+		<name>Puzzle Bobble / Bust-A-Move</name>
+		<desc>Puzzle Bobble is the ultimate in cute and fun action puzzle games.  The rules are easy; aim left and right and shoot your bubbles.  When three or more of the same color bubbles are joined together, they burst.  The greater the number of bubbles you burst at the same time, the more points you get.  One player versus the computer or against a friend;  It's easy and fun to play.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/pbobblen-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990701T000000</releasedate>
+		<developer>SunSoft</developer>
+		<publisher>SunSoft</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sengoku3.zip</path>
+		<name>Sengoku 3</name>
+		<desc>The third game in the Sengoku series of beat 'em ups, Sengoku 3 once again pits you and a friend against the undead forces of Nobunaga, however this time you can freely select from a group of different characters each with their own weapons and abilities, as well as choose which location in the world (or level) to tackle whenever you want.
+
+The game incorporates a more complex fighting system similar to a one-on-one fighting game, by giving players different attack buttons, special moves based on directional inputs, combos and even a super bar used to unleash devastating super moves. You cannot change weapons or transform into other characters as in the previous games, but you can acquire different ranged weapons for additional attacks as well as unlock certain bosses to increase your available characters.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/sengoku3-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20011025T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./svc.zip</path>
+		<name>SNK vs. Capcom: SVC Chaos</name>
+		<desc>The gameplay is based on the KOF series (particularly The King of Fighters 2002), with the same four button configuration and many of the same techniques. However, the game does not use the Team Battle format, but follows the traditional round-based one-on-one format. Each match begins with a dialogue exchange between the player's character and the opponent. One new technique introduced in the game is the Front Grand Step, which allows the player to leap towards the opponent and cancel into a basic attack. The player can perform this technique while guarding from an opponent's attack, which will consume one Power Gauge level.
+The game uses a different type of Power Gauge known as the Groove Power Gauge System, which has three levels. The Groove gauge fills as the player lands attacks against the opponents or guard attacks. When the gauge fills to Lv. 1 or Lv. 2, the player can perform Super Special Moves, a Guard Cancel Attack or a Guard Cancel Front Step maneuver. When the gauge is full, its reaches MAXIMUM level and a MAX Activation occurs. During MAX Activation, the gauge will change into a timer and the player gains the ability to cancel any of their moves anytime (in addition to Super Special Moves and Guard Cancels). Once the timer runs out, the gauge returns to Lv. 2.
+In addition to the regular Super Special Move, each character also has an Exceed move which can only be performed once when the player's life is less than half.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/svc-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20030724T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Playmore</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ssideki.zip</path>
+		<name>Super Sidekicks</name>
+		<desc>SNK's first soccer video game. It features 12 teams divided into two groups which compete for the "SNK Cup" (the main differences between teams is their formations on the field).The players' team plays against all the others in their group, then it goes into an elimination tournament's semifinals and then the final to win the cup.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/ssideki-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19930219T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./superspy.zip</path>
+		<name>The Super Spy</name>
+		<desc>You are a secret agent sent to infiltrate and enemy base and take out their leader. Armed with your fists, a knife and a pistol, you will have to defeat all enemy soldiers you encounter and rescue any trapped scientists.
+
+The Super Spy is played from a first-person perspective. The actual graphics are done using two-dimensional backgrounds and sprites, but are arranged in such a way so that you view the world from your character's eyes. You can scroll left and right through hallways and enter any doors you come across by pressing forward. You can also walk forward into any vertical hallways you encounter to get to horizontal hallways further in the background. The game consists of a series of levels, all laid out as mazes with horizontal and vertical hallways to traverse.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/superspy-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./ssideki4.zip</path>
+		<name>The Ultimate 11: SNK Football Championship</name>
+		<desc>The Ultimate 11 is the fourth game in the Super Sidekicks series. Regional tournaments are replaced with the SNK Football Championship, which is an elimination tournament in which the player's team can select any team from any region to play against. The final team played against in this tournament is the SNK Superstars, which consists of characters from SNK's fighting games. A new addition is the charge bar. It's charged depending on how long a team has the ball, and when full, it can be used when near a goal to make a near-unblockable shot. The game features 80 national teams split into 8 regions:
+Europe A: Italy, Spain, Portugal, Wales, France, England, Ireland, Scotland, North Ireland, Iceland
+Europe B: Germany, Sweden, Belgium, Denmark, Austria, Holland, Switzerland, Norway, Finland, Croatia
+Europe C: Bulgaria, Russia, Turkey, Czech Republic, Romania, Greece, Hungary, Poland, Slovakia, Israel
+Africa: Nigeria, Cameroon, Zambia, Côte d'Ivoire, South Africa, Egypt, Morocco, Zimbabwe, Tunisia, Algeria
+Americas/Caribbean Sea: United States, Canada, El Salvador, Panama, Guatemala, Mexico, Puerto Rico, Costa Rica, Jamaica, Honduras
+South America: Brazil, Colombia, Bolivia, Paraguay, Chile, Argentina, Uruguay, Ecuador, Peru, Venezuela
+Asia/Oceania A: Saudi Arabia, India, Iraq, U. A. E., Iran, Qatar, Oman, Bahrain, Kuwait, Uzbekistan
+Asia/Oceania B: Australia, China, Taiwan, Thailand, New Zealand, South Korea, Japan, Malaysia, Hong Kong, Singapore</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/ssideki4-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports</genre>
 		<players>2</players>
 	</game>
 </gameList>

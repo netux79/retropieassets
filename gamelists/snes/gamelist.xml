@@ -1335,18 +1335,6 @@ With Griff and his gang arrested, future history changes to ensure that the live
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Super Mario World.zip</path>
-		<name>Super Mario World</name>
-		<desc>Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Super Mario World-image.jpg</image>
-		<releasedate>19910813T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher />
-		<genre>Action</genre>
-		<playcount>5</playcount>
-		<lastplayed>20170217T235421</lastplayed>
-	</game>
-	<game>
 		<path>./Super Metroid.zip</path>
 		<name>Super Metroid</name>
 		<desc>Take on a legion of Space Pirates and a new Metroid force as you forge into the covert underworld of Planet Zebes! It's up to you and Samus to recapture the long-surviving Metroid hatchling before evil hands unleash its energy. An army of ominous creatures are poised for battle at every turn of Zebes' twisted, threatening passageways...including the menacing Ridley and the great lizard Kraid. Knock down enemies with a killer somersault and swing on an electric beam through narrow passageways! They're no match for you and Samus...but wait! It seems the Mother Brain has returned...</desc>
@@ -2248,5 +2236,51 @@ The entire incident is pinned on Roid and Sakata, who are summarily dismissed fr
 		<developer>G-Craft</developer>
 		<publisher>SquareSoft</publisher>
 		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Star Fox 2 (USA).zip</path>
+		<name>Star Fox 2</name>
+		<desc>Star Fox 2 continued the battle against Emperor Andross who seeks to conquer the Lylat system, with the Star Fox team assembled once again to defeat him. The game introduces a new semi-real time game play system, featuring new ship types and two new Star Fox team members. It also features a more advanced 3D game engine thanks to a new improved version of the Super FX chip. Cancelled. 
+
+The game received its first official release as part of the Super NES Classic Edition on September 29, 2017.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Star Fox 2 (USA)-image.jpg</image>
+		<releasedate>20170929T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Super Mario World.zip</path>
+		<name>Super Mario World</name>
+		<desc>Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Mario World-image.jpg</image>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher />
+		<genre>Action</genre>
+		<playcount>6</playcount>
+		<lastplayed>20171205T004223</lastplayed>
+	</game>
+	<game>
+		<path>./Far East of Eden Zero.zip</path>
+		<name>Far East of Eden Zero</name>
+		<image>~/.emulationstation/downloaded_images/snes/Far East of Eden Zero-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Undercover Cops.zip</path>
+		<name>Undercover Cops</name>
+		<desc>2043. Dr. Clayborn and his army have gained control of New York and Commissioner Gordon made one last plea for help and called three of the finest city sweepers: Matt, an ex-professional football player; Rosa, a former female vigilante and Miss America pageant; and Zan, an ex-karate master and a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city.
+
+Go through the game's five stages, defeating enemies along the way and destroying the end-of-level boss before proceeding to the next stage. Along the way, weapons such as fish, rocks, i-beams, cars, and more can be used.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Undercover Cops-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19950303T000000</releasedate>
+		<developer>Irem Corp.</developer>
+		<publisher>Varie Corporation</publisher>
+		<genre>Action</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20171206T033902</lastplayed>
 	</game>
 </gameList>

@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/captcomm-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./ffight.zip</path>
+		<name>Final Fight</name>
+		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
+
+Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/ffight-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19891201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ghouls.zip</path>
+		<name>Ghouls 'N Ghosts</name>
+		<desc>The gameplay for Ghouls n' Ghosts is eerily similar to that of Ghosts 'n Goblins. The player controls the knight Arthur, who must advance through a series of spooky levels and defeat a number of undead and demonic creatures in his quest to restore souls stolen by Lucifer, including the soul of his bride, Princess Guinevere. Along the way, Arthur can pick up a variety of weapons and armor to help him in his quest.
+
+It is the sequel to Ghosts'n Goblins and the second game in the Ghosts'n Goblins series.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/ghouls-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./msword.zip</path>
+		<name>Magic Sword: Heroic Fantasy</name>
+		<desc>Magic Sword fully titled as Magic Sword: Heroic Fantasy, is a side-scrolling fantasy arcade game released by Capcom in 1990. The game casts the player as a hero who must fight his way through a mystical tower in order to save the world. The player can use a sword, axe or magic, and can also rescue and recruit potential allies of various character classes, each of which has his or her own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/msword-image.jpg</image>
+		<releasedate>19900701T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mtwins.zip</path>
+		<name>Mega Twins</name>
+		<desc>Mega Twins (Chiki Chiki Boys in Japan) is an arcade game, first released in 1990.
+
+The game features twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/mtwins-image.jpg</image>
+		<releasedate>19900619T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sf2hf.zip</path>
+		<name>Street Fighter II Turbo: Hyper Fighting</name>
+		<desc>Hyper Fighting features faster playing speed compared to Champion Edition. As a result, the inputs for special moves and combos requires more precise timing. The faster play speed also allowed players to get into battle quicker, as well as to counterattack quicker. All of the fighters, with the exception of Guile and the four Grand Masters, were each given a new special move, with the exception of Chun-Li who was given two.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/sf2hf-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sf2.zip</path>
+		<name>Street Fighter II: The World Warrior</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/sf2-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19910522T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./willow.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a platform game based on the 1988 film of the same name. It was developed by Capcom and released as an arcade and a NES game in 1989.
+
+The evil witch queen Bavmorda is after the holy baby of the lands, Elora Danan, intent on destroying her. A young peaceful wizard called Willow Ufgood was selected to protect Elora. Later on, a brave warrior named Madmartigan joins Willow to fight the enemy rival General Kael.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/willow-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19890601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/dino-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930420T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/knights-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mercs.zip</path>
+		<name>Mercs</name>
+		<desc>Mercs, originally released as Senjō no Ōkami II (Wolf of the Battlefield II), is a 1990 top-down run and gun arcade game developed and published by Capcom for the arcades. It is a followup to the 1985 Commando. It was followed by Wolf of the Battlefield: Commando 3 in 2008, a downloadable game.
+
+The arcade version of the game had up to three players available for play. The players are members of a covert mercenary team known as the "Wolf Force". The team is composed of Joseph Gibson (Player 1 in blue), Howard Powell (Player 2 in red), and Thomas Clarke (Player 3 in yellow). Their objective is to rescue a former President from rebels in the fictional African country of Zutula, which is administered by an apartheid government. The game has six levels, plus the final level where the objective is to rescue the president from the Hercules Transport.
+
+The controls consist of an eight-directional joystick and two buttons: a Normal Attack and the Megacrush Attack. The player character has a vitality gauge which will gradually deplete as they take damage from enemies, however First-Aid Kits can be picked up that will restore part of the player's energy, as well as power-ups that increases their maximum vitality. The player can upgrade their default gun into an Assault Rifle, a Shotgun, a Grenade Launcher, or a Flamethrower. The Megacrush button will detonate a bomb that kills all on-screen enemies. However, the Megacrush Attack has limited uses which the player can only replenish by picking more Megacrush bombs. In certain stages, the player can pilot enemy vehicles.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/mercs-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./strider.zip</path>
+		<name>Strider</name>
+		<desc>Strider is a 1989 side-scrolling platform game developed and released for the CP System arcade hardware by Capcom. The game is set in a dystopian future in the year 2048 and features a wide range of settings that dramatically affect gameplay. It became one of Capcom's early big hits prior to Street Fighter II, hailed for its innovative gameplay, diverse and unique music, and multilingual voice samples.
+
+The player controls the protagonist Strider Hiryu, whose main weapon is a tonfa-like plasma sword. He can perform numerous acrobatic feats depending on the joystick/button combination used. 
+
+The game has five stages: the Kazakh Soviet Socialist Republic, the Siberian Wilderness, the Aerial Battleship Balrog, the Amazonian Jungle, and the Grandmaster's lair itself, the Third Moon.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/strider-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./kod.zip</path>
+		<name>The King of Dragons</name>
+		<desc>The King of Dragons is a 1991 side-scrolling hack and slash video game by Capcom that allows players to choose from five characters (Elf, Wizard, Fighter, Cleric, and Dwarf) in order to travel through the kingdom of Malus and defeat the monsters that have taken over, as well as their leader, the red dragon Gildiss. Like Capcom's Knights of the Round, it features a level advancement system, allowing character attributes to be upgraded as players progress through the game. The setting is very similar to that of Dungeons &amp; Dragons and other medieval fantasy worlds, with familiar monsters such as Orcs, Gnolls, Harpies, Wyverns, Cyclopes, and Minotaurs.
+
+The game was ported to the Super NES and released in 1994. An emulated version of the game was released as part of Capcom Classics Collection Vol. 2 and Capcom Classics Collection: Reloaded.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/kod-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./punisher.zip</path>
+		<name>The Punisher</name>
+		<desc>The Punisher is a 1993 beat 'em up arcade game developed and released by Capcom. It stars the Marvel Comics anti-hero the Punisher and co-stars S.H.I.E.L.D. agent Nick Fury as the second player's character as they embark on a mission to kill the crime lord the Kingpin and bring down his organization.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/punisher-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./3wonders.zip</path>
+		<name>Three Wonders</name>
+		<desc>Three Wonders, known in Japan as Wonder 3 is an arcade game made by Capcom in 1991 using the Capcom Play System (CPS1) platform. It contained three games from which a player may choose:
+
+Midnight Wanderers: Quest for the Chariot (known in Japan as Roosters: Chariot no Sagashite) - A platform game that sees the player control a hobbit named Lou and his travelling companion, Siva, to run, climb, and shoot at enemies.
+
+Chariot: Adventure through the Sky (known in Japan as Chariot: Tenkuu he no Tabi) - A shoot 'em up game featuring the characters from Midnight Wanderers, but in a Gradius-esque game.
+
+Don't Pull - A puzzle game similar to games like the Eggerland series, Pengo and Capcom's own puzzle game Pirate Ship Higemaru that involves you controlling either a rabbit named Don (Player 1) or a squirrel called Pull (Player 2), pushing blocks to crush monsters.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/3wonders-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./unsquad.zip</path>
+		<name>U.N. Squadron</name>
+		<desc>hin Kazama is engaged to his girlfriend, Ryoko, and is on the verge of graduating flight school. He has dreams of becoming an airline pilot for his fiance's father's airline corporation, but one night in Paris, his backstabbing friend Kanzaki takes him to a bar and has him get drunk enough to trick him into joining the Asran military, where he must serve for 3 years. And now there's only three ways he can get out: 1. He can serve his three year term, 2. He can buy his way out by earning $1,000,000 from destroying enemies, or 3. He can desert, which is considered a federal crime in Asran. In the fight against Project 4, Shin is joined by two pilots, Mickey Simon and Greg Gates.
+
+The player can choose between three mercenary pilots: Shin Kazama, Mickey Simon, and Greg Gates. Each pilot flies a specific plane and has slightly different capabilities.
+
+Shin Kazama: Shin flies an F-20 Tigershark; the weapons on his plane fire forward only but at a quick pace. Shin and his plane are the most balanced combination available.
+Mickey Simon: Mickey flies an F-14 Tomcat; the weapons on his plane also fire forward only, but are also larger (albeit slower), inflicting more damage than Shins plane.
+Greg Gates: Greg flies an A-10 Thunderbolt; this plane has smaller forward fire than either Shin or Mickey's planes, but it also fires a second stream downward at a 45° angle from the forward firing stream.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/unsquad-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./wof.zip</path>
+		<name>Warriors of Fate</name>
+		<desc>Warriors of Fate is a beat'em up with nine stages. Each contains large mobs including spearman, archers, strongmen, bomb-wielding opponents, and at least one boss. Using two buttons, Attack and Jump, the characters all have standard moves typical of Capcom side-scrollers of the day.
+
+There is also a variety of weapons in the game which can be picked up. As with most side-scrollers, food is used to replenish health and can be found in various breakable containers in the game level. One notable feature of the game is the ability to summon a warhorse which adds more attacks to the characters, generally involving pole-arms. Most characters are given a special wrestling throw of their own, like in Final Fight and The Punisher.
+
+In the Japanese version, the game follows Liu Bei's plight in Jingzhou from the Romance of the Three Kingdoms, a history-based novel from China, set in the Three Kingdoms period as Cao Cao sets to invade his lands. In the English adaptation, however, the Three Kingdoms theme was lost, and most names have been changed to names of Mongolian origin.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/wof-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+</gameList>

@@ -2355,7 +2355,7 @@ All of the tetrominoes are capable of single and double clears. I, J, and L are 
 		<path>./Pooyan.zip</path>
 		<name>Pooyan</name>
 		<desc>One day, in the middle of a forest, a group of fierce Wolves attacked the House where a Mother Pig (Mama) and her little Piglets (Pooyans) were living together peacefully. To protect her Pooyans, Mama fought back using arrows and bait, but despite all of her efforts, some of the Pooyans were kidnapped. Full of hate for the Wolves, Mama bravely seeks out the Wolves' Lair to rescue her Pooyans. Will she succeed in overcoming the Wolves and bringing her Pooyans back home?</desc>
-		<image>/home/pie/.emulationstation/downloaded_images/nes/Pooyan-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Pooyan-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19850920T000000</releasedate>
 		<developer>Konami</developer>
@@ -2367,11 +2367,67 @@ All of the tetrominoes are capable of single and double clears. I, J, and L are 
 		<path>./Summer Carnival 92 - Recca.zip</path>
 		<name>Summer Carnival '92: Recca</name>
 		<desc>Conceived as an entry for a game development competition, this game would later be published by Naxat Soft in 1992.  This frenetic shoot-'em-up taxes the Famicom system and the player's reflexes with huge quantities of enemies while maintaining smooth, fast gameplay!  In addition to a single player campaign, there are also score attack and time attack modes available.</desc>
-		<image>/home/pie/.emulationstation/downloaded_images/nes/Summer Carnival 92 - Recca-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Summer Carnival 92 - Recca-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19920717T000000</releasedate>
 		<developer>KID</developer>
 		<publisher>Naxat Soft</publisher>
 		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Air Fortress.zip</path>
+		<name>Air Fortress</name>
+		<desc>The Federation of Intergalactic Powers is under threat by gigantic fortress spaceships which have suddenly appeared and destroyed nearby civilization. When conventional defense tactics fail, the Federation looks to find a specially selected person, Hal Bailman and equip him with a special "Lightship". His mission will to be to fly through the defenses of the eight known Air Fortresses and dock at the airlock. Then he must travel through the fortress in only a spacesuit to find and destroy the central core. Once the central core is destroyed, Hal must then quickly find the emergency lightship and escape before the fortress explodes.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Air Fortress-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890901T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Burai Fighter.zip</path>
+		<name>Burai Fighter</name>
+		<desc>Burai Fighter is a side-scrolling shooting video game released for the Nintendo Entertainment System in 1990.  The setting for Burai Fighter, according to the manual, is to fend off seven bases of Burai, super-intelligent cyborgs.  The player starts out with a relatively weak cannon but can upgrade to ring, laser and missile weapons, which are much more powerful.  The player can also choose from three difficulty settings: Eagle, Albatross and Ace, but the fourth difficulty setting, Ultimate, must be unlocked.  One proceeds by controlling the character in 8 directions and can shoot in a different direction from the direction he is looking.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Burai Fighter-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taxan</developer>
+		<publisher>Taxan</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Defender II.zip</path>
+		<name>Defender II</name>
+		<desc>This sequel adds new enemy ships to the alien fleet such as firebombers, Yllabian Space Guppies (note that Yllabian is based on "Yllab", the word "Bally" spelled backwards, a friendly poke at Williams' then-competitor, Bally Midway), Dynamos and Space Hums. The Defender ship is now equipped with an Inviso cloaking device, which renders the ship invulnerable when activated, but has a limited charge. A Stargate will transport the ship to any humanoid in trouble. There are now two special stages, the Firebomber Showdown and the Yllabian Dogfight, that occur every fifth and tenth wave. As in the first game, if all the humans are captured the planet explodes and turns all the landers into mutants.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Defender II-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams Electronics</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Salamander.zip</path>
+		<name>Salamander</name>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Section-Z.zip</path>
+		<name>Section-Z</name>
+		<desc>Planet Earth in the year 2XXX. You are relaxing at the console of your computerized superconductor-generated interplanetary satellite communications system. Suddenly, high frequency radio and television transmissions blast warnings to all inhabitants to prepare for the brutal invading forces of Balangool Empire. Battle and defeat the space soldiers of Balangool. Penetrate their base divided in section A through SECTION Z, then destroy Balangool master control "L-Brain."</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Section-Z-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890927T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Sky Kid.zip</path>
+		<name>Sky Kid</name>
+		<rating>0</rating>
 	</game>
 </gameList>

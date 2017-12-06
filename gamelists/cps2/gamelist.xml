@@ -1,0 +1,256 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./avsp.zip</path>
+		<name>Alien vs. Predator</name>
+		<desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
+
+The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/avsp-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940520T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dstlk.zip</path>
+		<name>Darkstalkers</name>
+		<desc>The DarkStalkers have been unleashed! All the creatures from your darkest dreams have materialized to wage an eternal war for domination of the night. The fate of all humanity rests on who wins this epic struggle. You control the power of your favorite supernatural monster to combine their special attacks and unique abilities in a head to head fighting challenge. It's a fierce and brutal conflict for supremacy in the monster hit of the year!</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/dstlk-image.jpg</image>
+		<releasedate>19940630T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./hsf2.zip</path>
+		<name>Hyper Street Fighter II: The Anniversary Edition</name>
+		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/hsf2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20031222T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./msh.zip</path>
+		<name>Marvel Super Heroes</name>
+		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/msh-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mshvsf.zip</path>
+		<name>Marvel Super Heroes vs. Street Fighter</name>
+		<desc>Now you can choose your favorite heroes from the worlds of Street Fighter and Marvel Super Heroes to face off in a head-to-head battle for supremacy. Dive into the action to perform outrageous moves and link together amazing Chain Combos... then delight in their devastating results! Marvel Super Heroes vs. Street Fighter combines two incredible universes to create an entirely new legend of heroic proportions.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/mshvsf-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19980618T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mvsc.zip</path>
+		<name>Marvel vs. Capcom: Clash of Super Heroes</name>
+		<desc>Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/mvsc-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sfa3.zip</path>
+		<name>Street Fighter Alpha 3</name>
+		<desc>Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/sfa3-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19980629T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ssf2t.zip</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/ssf2t-image.jpg</image>
+		<releasedate>19940223T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./xmvsf.zip</path>
+		<name>X-Men vs. Street Fighter</name>
+		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/xmvsf-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19960909T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./xmcota.zip</path>
+		<name>X-Men: Children Of The Atom</name>
+		<desc>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/xmcota-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941219T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sfa.zip</path>
+		<name>Street Fighter Zero</name>
+		<image>~/.emulationstation/downloaded_images/cps2/sfa-image.jpg</image>
+		<releasedate>19950120T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher />
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170304T055104</lastplayed>
+	</game>
+	<game>
+		<path>./sfz2al.zip</path>
+		<name>Street Fighter Zero 2 Alpha</name>
+		<desc>Street Fighter Zero 2 Alpha en Japón, Asia y América del Sur, es un videojuego de lucha de la saga Street Fighter que salió en 1996 y es continuación directa de Street Fighter Alpha que a su vez se sitúa argumentalmente entre el primer y segundo Street Fighter, por eso se denominada con la coletilla Alpha o Zero en Japón, su país de origen. En Latinoamérica llegaron a los arcades con ese mismo nombre de Zero y traducido al español en algunos países.
+
+Esta continuación no es una simple extensión del primer Alpha como sucedía con los Street Fighter II, Capcom en esta ocasión hizo un nuevo juego, con el mismo código gráfico pero sustancialmente mejorados y nuevos escenarios, sólo los sprites de los personajes que repiten del primer Alpha se mantienen, aunque con mejoras en la animación.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/sfz2al-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19960601T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./vsav.zip</path>
+		<name>Vampire Savior: The Lord Of Vampire</name>
+		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/vsav-image.jpg</image>
+		<releasedate>19970613T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20170305T015933</lastplayed>
+	</game>
+	<game>
+		<path>./nwarr.zip</path>
+		<name>Night Warriors: Darkstalkers' Revenge</name>
+		<desc>The Darkstalkers return and now crave the fury of a good night fight. In this head-to-head fighting challenge, creatures from your darkest nightmares battle for eternal control fo the night. Treacherous, classic favorites take on 4 new challengers for total domination. Donovan, the Dark Hunter. Huitzil, the Killer Machine. Hsien-Ko, the Chinese Ghost. And Pyron, the ultimate Alien ruler. The battle has never been as intense, with faster speeds, more captivating moves and even more incredible graphics. Night Warriors; the game of your dreams, and nightmares.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/nwarr-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19950305T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>2</playcount>
+		<lastplayed>20170305T015638</lastplayed>
+	</game>
+	<game>
+		<path>./1944.zip</path>
+		<name>1944: The Loop Master</name>
+		<desc>The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, trains, turrets, battleships, and defeat the boss after each level. Unlike its predecessor, 19XX: The War Against Destiny, the game plays more like the early games in the series.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/1944-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20000620T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>8ing/Raizing</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./19xx.zip</path>
+		<name>19XX: The War Against Destiny</name>
+		<desc>19XX: The War Against Destiny is a vertical scrolling shooter arcade game made by Capcom in 1995 (copyrighted in 1996). The game is the 4th of a series of World War II vertical shooters made by Capcom. The story takes place before a fictional war (Hence, the 19XX) as a lone pilot tries to defeat an entire army/evil organization from starting another World War, which soon escalates to a nuclear apocalypse.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/19xx-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19951207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./armwar.zip</path>
+		<name>Armored Warriors</name>
+		<desc>In the year 2281, the war spanning half a century over territory between the United World Forces and the Raian Kingdom had at last come to an end.
+
+But this peace was not to last. A year after a truce was signed between the two forces, former Raian army captain Azrael, who has converted himself into a cyborg in an attempt to become "the perfect warrior", has marshalled several thousand other cyborgs and declared war against the Raian Kingdom. Robbing mobile weapons from the army, this group of rogues has invaded the Raian capital of Merkid and has begun to abduct the civilians.
+
+The United World Government, receiving an emergency message from the planet Raia, has but one choice: to organize and dispatch an army formed around its elite corps, a squadron of warriors called "Bloody Armor", to eradicate the enemy forces and rescue the civilians.
+
+And so, in October 2282, the United World Forces begin to launch its attack upon the planet Raia.
+
+The most intense battle in human history is about to begin...</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/armwar-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19941024T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./ddsom.zip</path>
+		<name>Dungeons &amp; Dragons: Shadow Over Mystara</name>
+		<desc>In addition to the original four heroes found in its predecessor, Dungeons &amp; Dragons: Tower of Doom (Cleric, Dwarf, Elf and Fighter), Shadow of Mystara adds a Thief and a Magic-User to the selection. Furthermore, with the inclusion of two separate versions of each character's sprite set, the game allows up to two players to select the same character (in Tower of Doom each of the characters could only be selected once), effectively giving the game 12 "different" characters to choose from. The two Clerics and two Magic Users also have subtle differences within their spell books.
+
+The controls are using four buttons: Attack, Jump, Select (brings up a small inventory ring around the character allowing the player to choose what item is set in the Use slot) and Use. The Cleric, Elf and Magic-User also have two extra rings for their spells, with the Jump button used to switch from ring to ring. While the game uses the same kick harness as the previous game, the Select and Use buttons are reversed.
+
+Shadow over Mystara also introduced a selection of special moves which are executed by moving the joystick and tapping the buttons in certain combinations, in a way similar to the Street Fighter series. The characters (except for the Magic-User) have a Dashing Attack as well as a Rising Attack which can be used to combo monsters or even juggle them in the air. Most characters (again, with the exception of the Magic-User and also Cleric) also have a Megacrush, a move common to nearly all of Capcom side-scrollers, which damages all enemies standing close enough to the character but in turn also damaging the player themselves.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/ddsom-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19961101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./ddtod.zip</path>
+		<name>Dungeons &amp; Dragons: Tower of Doom</name>
+		<desc>Tower of Doom is a side-scrolling arcade game featuring four different characters (cleric, dwarf, elf, fighter) fighting iconic Dungeons &amp; Dragons monsters. Bosses include a troll that regenerates unless burned, a large black dragon, the dreaded Shadow Elf (Mystara's equivalent of the drow), a beholder, the optional superboss Flamewing (a great wyrm red dragon) and the final boss Deimos (an archlich).
+
+At points in the game the players are presented with a choice of paths to take to continue progress. Each path goes to a different area, and it is impossible to visit every area in a single play.
+
+The gameplay is more technical than the average on beat'em up games. In addition to the usual basic attacks and jumping it includes blocking, strong attacks, turning attacks, dashing attacks, crouching and evading. It also requires the use of careful tactics, as most enemies have the same abilities as the heroes and can out-range them, too.
+
+Daggers, hammers, arrows and burning oils can be used as throwing weapons, and many enemies have similar weapons. Spells can be used by means of magical rings or by the two playable spellcasters (a cleric and an elf).</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/ddtod-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941103T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+</gameList>

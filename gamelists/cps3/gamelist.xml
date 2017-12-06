@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./sfiii3.zip</path>
+		<name>Street Fighter III: 3rd Strike</name>
+		<desc>Street Fighter III 3rd Strike: Fight for the Future is a 2D competitive fighting game produced by Capcom originally released for the arcade in 1999. It is the second follow-up to Street Fighter III, following Street Fighter III 2nd Impact. Like its predecessors, it runs on the CP System III hardware. 3rd Strike increased the character roster by adding five new characters, including Chun-Li. It also added further refinements to the previous game's play mechanics and rules. It was ported to the Dreamcast, PlayStation 2, and Xbox. A downloadable online version titled Street Fighter III: 3rd Strike Online Edition was released on PlayStation Network and Xbox Live Arcade in August 2011.</desc>
+		<image>~/.emulationstation/downloaded_images/cps3/sfiii3-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19990512T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+</gameList>

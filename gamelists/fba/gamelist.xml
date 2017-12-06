@@ -1,295 +1,524 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./avsp.zip</path>
-		<name>Alien vs. Predator</name>
-		<desc>San Drad, California, has been overrun by the Aliens, and the cybernetically-enhanced Major Dutch Schaefer and Lieutenant Linn Kurosawa have been abandoned by their superiors and are cornered by a swarm of the Alien drones. Before they can be killed, a pair of the Predators appear and destroy the Aliens. The Predators offer an alliance with the two humans in order to stop the Alien infestation.
-
-The players take control of up to three of four characters: Dutch, Linn, a Predator hunter, and a Predator warrior, and battle the Aliens through several environments. In the process, the characters discover that the Alien presence on Earth is the result of an experiment headed by a renegade General Bush of the U.S. Colonial Marines in conjunction with the Weyland-Yutani corporation. They destroy the Alien hive by crashing a military ship into San Drad, causing a huge explosion. The Predator warrior then gives his wrist blades to Dutch and Linn in recognition of their skills as warriors, before the Predators depart back into space.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/avsp-image.jpg</image>
-		<rating>0.8</rating>
-		<releasedate>19940520T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/captcomm-image.jpg</image>
+		<path>./1942.zip</path>
+		<name>1942</name>
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/fba/1942-image.jpg</image>
 		<rating>0.7</rating>
-		<releasedate>19911101T000000</releasedate>
+		<releasedate>19841201T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-	</game>
-	<game>
-		<path>./dstlk.zip</path>
-		<name>Darkstalkers</name>
-		<desc>The DarkStalkers have been unleashed! All the creatures from your darkest dreams have materialized to wage an eternal war for domination of the night. The fate of all humanity rests on who wins this epic struggle. You control the power of your favorite supernatural monster to combine their special attacks and unique abilities in a head to head fighting challenge. It's a fierce and brutal conflict for supremacy in the monster hit of the year!</desc>
-		<image>~/.emulationstation/downloaded_images/fba/dstlk-image.jpg</image>
-		<releasedate>19940630T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./ffight.zip</path>
-		<name>Final Fight</name>
-		<desc>Final Fight can be played by up to two players simultaneously, with each player controlling a different character. Before the game begins, the player chooses between the three main characters, Guy, Cody, and Haggar, each with his own fighting style and attributes. Guy is the weakest but has faster attacks, Haggar is the strongest but also the slowest, and Cody has all-round attributes.
-
-Final Fight consists of six stages or "rounds", as well as two bonus rounds. Each round takes place in a different section of Metro City such as the Slums and the Subway, with most rounds featuring more than one level. At the end of each round the player will face a boss character unique to that round.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/ffight-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19891201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./ghouls.zip</path>
-		<name>Ghouls 'N Ghosts</name>
-		<desc>The gameplay for Ghouls n' Ghosts is eerily similar to that of Ghosts 'n Goblins. The player controls the knight Arthur, who must advance through a series of spooky levels and defeat a number of undead and demonic creatures in his quest to restore souls stolen by Lucifer, including the soul of his bride, Princess Guinevere. Along the way, Arthur can pick up a variety of weapons and armor to help him in his quest.
-
-It is the sequel to Ghosts'n Goblins and the second game in the Ghosts'n Goblins series.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/ghouls-image.jpg</image>
+		<path>./1943.zip</path>
+		<name>1943: The Battle of Midway</name>
+		<desc>The game is set in the Pacific theater of World War II, off the coast of the Midway Atoll. The goal is to attack the Japanese Air Fleet that bombed the players' American Aircraft Carrier, pursue all Japanese Air and Sea forces, fly through the 16 levels of play, make their way to the Japanese battleship Yamato and destroy her. 11 Levels consist of an Air-to-Sea battle (with a huge battleship or an aircraft carrier as an End-Level Boss), while 5 levels consist of an all-aerial battle against a squadron of Japanese Bombers and a Mother Bomber that needs to be destroyed.
+As in 1942, players pilot a P-38. Two buttons are used: one for regular attacks (with several weapons) and one for special actions that executes either a loop like in 1942 or one of three special attacks that damage the plane. Unlike 1942, the player only has one life, with one refillable energy meter. Destroying a complete formation of red enemy planes will result in a power-up, such as a health boost or a temporary special weapons which replaces the default twin gun.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/1943-image.jpg</image>
 		<rating>0.8</rating>
-		<releasedate>19881201T000000</releasedate>
+		<releasedate>19870601T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Action</genre>
+		<genre>Shooter</genre>
+		<players>2</players>
 	</game>
 	<game>
-		<path>./hsf2.zip</path>
-		<name>Hyper Street Fighter II: The Anniversary Edition</name>
-		<desc>Hyper Street Fighter II: The Anniversary Edition is a competitive fighting game by Capcom that was originally released for the PlayStation 2 in 2003 in Japan and in 2004 in North America and Asia. Released to commemorate the 15th anniversary of the Street Fighter series, Hyper Street Fighter II is a modified port of Super Street Fighter II Turbo in which players can control any versions of the main characters from the five Street Fighter II games previously released for the arcades. Although, originally released as a home console game, an arcade port was released shortly afterwards in limited quantities, turning it into the sixth and final arcade iteration.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/hsf2-image.jpg</image>
+		<path>./ddonpach.zip</path>
+		<name>DoDonPachi</name>
+		<desc>Donpachi was a hit in arcades, and people felt that Cave were picking up right where Toaplan left off. Therefore, it's no surprise that a sequel to Donpachi would soon be in development. The feeling that the developers had when making Dodonpachi (lit. "Angry Leader Bee"), was to ignore the "Toaplanishness" of Donpachi, instead only putting in systems that Cave felt were the most interesting. This lead to a far more balanced and refined game than its predecessor. To sum up Dodonpachi in a single word, it would have to be...more. More enemies, more stages, more bosses, more systems, more dodging, more bullets, more...everything. The cause of this "more" feeling stems from a chance encounter with the Raizing game Battle Garegga that main programmer Tsuneki Ikeda experienced. The intense action and immediate difficulty of Battle Garegga left a strong impact on Ikeda, leaving him with the feeling that "We (Cave) have to surpass Battle Garegga. Ikeda knew that he couldn't make a game like Battle Garegga no matter how hard he tried, so if he wanted to surpass it, it would have to be done through different means, bullet dodging. Ikeda would later reveal in an interview that he told his team that "We won't lose in terms of bullets!" When released, Dodonpachi could have up to 245 bullets onscreen at once. Because of that decision, Dodonpachi went on to solidify the bullet-hell sub-genre. Dodonpachi would be released into Japanese arcades on February 5, 1997. The game introduced several of what would become the series mainstays: The Donpachi Squadron, Colonel Schwarlitz Longhena, and his "Final Brutal Weapon": Hibachi.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/ddonpach-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./donpachi.zip</path>
+		<name>DonPachi</name>
+		<desc>In February of 1993, Japanese game developer Toaplan released Batsugun to Japanese arcades. The game would be met with high praise, and would later be cited as the game that defined many of the various tropes and characteristics that are present in every bullet-hell shmup created since. Sadly, Toaplan would close its doors soon after, leaving many developers suddenly out of work. One of these developers was a programmer named Tsuneki Ikeda, who with fellow now ex-Toaplan employees would found their own development studio, Cave Interactive Co. Ltd, more commonly known as Cave. As Cave was comprised of ex-Toaplan employees at that time, it makes sense that their inaugural game would be a Toaplan-style shooting game. Their first game is DonPachi (lit. "Leader Bee"),a "maniac shooter" in the vein of other Toaplan shmups, like Batsugun. DonPachi was first released in Japanese arcades in May of 1995, and in doing so, created a franchise that would see various releases and ports over the next eight years and across two console generations.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/donpachi-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>Galaxian expanded on the formula pioneered by Space Invaders. As in the earlier game, Galaxian featured a horde of attacking aliens that exchanged shots with the player. In contrast to Space Invaders, Galaxian added an element of drama by having the aliens periodically make kamikaze-like dives at the player's ship, the Galaxip.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/galaxian-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19791001T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./raidendx.zip</path>
+		<name>Raiden DX</name>
+		<desc>Vertical scrolling shoot-em-up that adds new features to its prequel Raiden II. Choose from three separate missions: Training special stage, Alpha levels 1-5 and Bravo levels 1-9. Collect various power-ups to increase your weaponry. Lots of secrets and bonuses including ratings based upon player performance</desc>
+		<image>~/.emulationstation/downloaded_images/fba/raidendx-image.jpg</image>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./galaga.zip</path>
+		<name>Galaga</name>
+		<desc>The gameplay in Galaga '88 is built on the same premise as that of the original Galaga game, but is in many ways more complex and more difficult. The game is divided into a series of 29 Stages distributed through eight Worlds. The starship Galaga accelerates between Stages and Worlds and even to higher dimensions (go to the section on Dimensional Travel below to find out more).
+
+With the exception of the third and eighth, each World culminates in a Challenging Stage. There are six such stages to engage in any full game, and each begins with the on-screen announcement "That's Galactic Dancin'!" and has its own YM2151-generated song to which the enemy formations dance. In any given Challenging Stage, both the design of the enemies and their dancing formations shall vary according to the player's current Dimension. As in Galaga, the objective is to destroy all forty enemies before they fly away off the screen. However, refraining completely from touching any controls for the duration of a Challenging Stage awards a "secret bonus" ranging in value from 10000 to 25000 points, and equal to the "special bonus" which would have been awarded for destroying all forty enemy aliens instead.
+
+Galaga '88 introduces a variety of new enemies and behaviors. Most of these special enemies are worth varying amounts of bonus points when destroyed. Some enemies can combine into larger enemies which take multiple hits to destroy, while others arrive in eggs, explode in a shower of fireworks, grow with multiple hits, or sport armor which makes them invincible while in formation. Certain enemies drop small formations of tiny creatures that wiggle their way down the screen, and still others can act as escorts to incoming groups of enemies and then quickly dive at the player before leaving the game. Most stages also include various obstacles which appear once the enemy formation has been assembled. These can be destroyed with either one or several shots, and the first one on each stage will leave a "Warp Capsule".
+
+At the start of the game, the player can select how many Galaga starships to start with (one or two), affecting their number of remaining lives. The game ends after the final boss is defeated (or when the player's last ship is destroyed or captured) - in the latter case, the player can continue the game for an additional credit. The Game Over screen shows the player's hit-miss ratio and a visual representation of their progress. If the player reaches Stage 27, the game also shows a picture of the final boss (damaged if defeated, but silhouetted if not). If the arcade operator has set the "continue" option to "on", the player also cannot continue if he is defeated on Stages 27-29.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/galaga-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./bbakraid.zip</path>
+		<name>Battle Bakraid</name>
+		<desc>The capitalist nation of Randa has long had a history of excellence in the creation of aircraft, attracting the best of engineers in aerodynamics, artillery, and structuring from the world over. Once, even this interest had waned, until the creation of the air show Bakraid, in which the capabilities of the fighters could be demonstrated outside of simulations for all to see.
+Around the time of the seventh Bakraid, a nearby nation, Deneb, had attained an expansionist attitude, forcibly subjugating and annexing several of its neighbors with the assistance of the Shtarterra Security Council. Recently, Deneb has asked to participate in Bakraid. Randa's defense council, perfectly aware that this is just a pretext for Deneb to get its and the SSC's engines of war into Randan borders and more easily prosecute their war from there, give their blessing. However, the council secretly contacts the other Bakraid participants, offering even more prize money than normal if they will perform in a special version of Bakraid--genuine war conditions. In other words, use their own top-of-the-line planes to shatter Deneb's schemes. In all, nine pilots accept this plan, and begin Bakraid two weeks early to catch Deneb unaware...</desc>
+		<image>~/.emulationstation/downloaded_images/fba/bbakraid-image.jpg</image>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20170305T035457</lastplayed>
+	</game>
+	<game>
+		<path>./bgaregga.zip</path>
+		<name>Battle Garegga</name>
+		<desc>Battle Garegga is a game with a divisive reputation. Many people regard it as one of the best shooters of all time. Others think that it's overrated and that the art style and rank system ruin what would have been some cool ideas. The general style, in addition to the bomb collection system, was heavily influenced by Taito's 1990 shooter Gun Frontier, to the point where Battle Garegga could be considered a spiritual successor.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/bgaregga-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Raizing</developer>
+		<publisher>Raizing</publisher>
+		<genre>Shooter</genre>
+		<playcount>1</playcount>
+		<lastplayed>20170305T035827</lastplayed>
+	</game>
+	<game>
+		<path>./aliens.zip</path>
+		<name>Aliens</name>
+		<desc>Hadley's Hope lost contact with the Weyland-Yutani staff, so the Colonial Marine troops of the USS Sulaco decided to send their team to investigate. Players take the role of either Lieutenant Ellen Ripley or Corporal Dwayne Hicks as they fight their way through Xenomorphs before killing their Queen, which is a stowaway in the Sulaco. Three of the levels also featured Newt, where the players must rescue her from the Aliens.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/aliens-image.jpg</image>
 		<rating>0.6</rating>
-		<releasedate>20031222T000000</releasedate>
+		<releasedate>19900801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Tiger</name>
+		<desc>Black Tiger, known in Japan as Black Dragon (Japanese: ブラックドラゴン Burakku Doragon), is a 1987 action game released for the arcades by Capcom.
+
+A barbarian hero jumps and fights his way through a variety of colourful, enemy-packed levels. The sprawling, eight-way scrolling, two-dimensional levels are packed with hidden bonuses to encourage and reward exploration. Though a percentage of these bonuses consist of dubious and often self-evident "advice", most come in the form of "Zenny coins", currency that allows the player to buy such items as an upgrade to their weapons and armour, keys for treasure chests, and anti-poisoning potions. Special items that reveal coins, upgraded armour, full vitality, extra lives, extra time, or simply bonus points may be found by attacking certain walls. The player's vitality bar will also increase up to three times as a reward for reaching score benchmarks.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/blktiger-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870801T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./bonkadv.zip</path>
+		<name>Bonk's adventure</name>
+		<desc>Bonk's Adventure is a 2D platform video game developed by Red Company and Atlus that was released in 1989 in Japan and 1990 in North America for the TurboGrafx-16. In Japan it was released as PC Genjin (PC原人?) in 1989, a play on the Japanese name for the system, 'PC Engine'. The game was re-released for the TurboGrafx-16 in the U.S. in 1992 on the Gate of Thunder 4-in-1 game CD-ROM. The game was later ported to the NES, Game Boy, Amiga, arcade systems under different titles (FC Genjin, GB Genjin and BC Genjin). It is also available through Nintendo's Virtual Console service, on the PlayStation Store and there is a version for mobile phones in Japan.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/bonkadv-image.jpg</image>
+		<releasedate>19891102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./boogwing.zip</path>
+		<name>Boogie Wings</name>
+		<desc>Boogie Wings (known in Japan as The Great Ragtime Show) is a side-scrolling shooter arcade game released by Data East in 1992.
+
+The player controls a biplane which can either shoot or hook enemies. The biggest characteristic of the biplane is the hook attached to its rear section. Enemies or objects that come in contact with the hook are dragged along by the plane. Dragged objects cause damage to anything they collide with, and the player can release the objects on the hook by pressing the hook button again. Dragged objects are destroyed when the player releases them from the hook, or if they collide enough times to break apart.
+
+The ship's power gauge increases when the player taps the shot button rapidly, and filling up the gauge causes the plane to shoot a bolt of lightning that covers a large area of the screen. However, the plane overheats if the player taps the shot button too many times, so this attack must be used sparingly.
+
+The game's graphics are highly detailed, and many of the backgrounds are likened to European towns and cities or World's fair-like scenes. Many of the game's background objects can also be destroyed or dragged around with the hook.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/boogwing-image.jpg</image>
+		<releasedate>19920311T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./charlien.zip</path>
+		<name>Charlie Ninja</name>
+		<desc>You control a cartoonish ninja-type character who must attempt to shoot all the enemies and defeat the boss at the end of each stage.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/charlien-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Mitchell Corporation</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./msword.zip</path>
-		<name>Magic Sword: Heroic Fantasy</name>
-		<desc>Magic Sword fully titled as Magic Sword: Heroic Fantasy, is a side-scrolling fantasy arcade game released by Capcom in 1990. The game casts the player as a hero who must fight his way through a mystical tower in order to save the world. The player can use a sword, axe or magic, and can also rescue and recruit potential allies of various character classes, each of which has his or her own special abilities. Three years earlier, Capcom had released the similar Black Tiger in 1987.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/msword-image.jpg</image>
-		<releasedate>19900701T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
+		<path>./chelnov.zip</path>
+		<name>Chelnov</name>
+		<desc>Atomic Runner is a side-scrolling shooter by Data East that was originally an arcade game, later being ported to the Genesis, the Sharp X68000 and eventually the Wii Shop. Its most distinctive feature is that the screen constantly auto-scrolls to the right and the protagonist runs forward automatically, except during boss fights.
+
+Atomic Runner's base gameplay is similar to Contra, with weapon power-ups and limited platforming elements, though the automatic scrolling and near-constant forward movement also calls to mind shoot-em-ups like R-Type.
+
+While the player character runs automatically and cannot move backward, he is able to jump, stop briefly, run faster, or turn around and run backwards in order to shoot behind him.
+
+The game's protagonist, Chelnov, starts out as a scientist working happily alongside his father and sister. One day, his father is mortally wounded by an explosion in their home. As he dies, he reveals to Chelnov that the Deathtarians, a race claiming to have lived on Earth before humans, are responsible for the blast and have also kidnapped Chelnov's sister Chelmi.
+
+Donning an armed, super-powered suit made by his father, Chelnov becomes the Atomic Runner and sets out to defeat the Deathtarians. However, he himself is captured and tortured by the Deathtarians. The game begins with his escape from the facility where he was being held.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/chelnov-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./cotton.zip</path>
+		<name>Cotton: Fantastic Night Dreams</name>
+		<desc>Cotton: Fantastic Night Dreams is a scrolling shooter arcade game, released on Sega's Sega System 16B Arcade system board in 1989. It is the first in the Cotton series of videogames. It was ported to both the Sharp X68000 and the NEC TurboGrafx-CD in 1993. The TurboGrafx-CD version was released on Super CD-ROM and features an enhanced redbook audio soundtrack and voice acting on the Japanese release. The game was later ported to Sony PlayStation under the title Cotton Original in 1999. The PlayStation release combines the enhanced digital CD-ROM soundtrack of TurboGrafx-CD release and the gameplay/graphics of the original Arcade version. A version was ported to the Neo Geo Pocket Color in 2000. Due to hardware limitations the Neo Geo Pocket Color features less detailed graphics and sound compared to previous versions, however it is still a faithful version of the original in terms of gameplay.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/cotton-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./dmnfrnt.zip</path>
+		<name>Demon Front</name>
+		<desc>The gameplay is similar to Metal Slug and other run and gun games. It lacks the vehicles that were an element of Metal Slug.
+
+In addition, there are some unique features in the game. Each of the four characters brings along a pet, which can be sent to attack enemies or used as a shield. There are three buttons: Shoot, jump, and shield. Holding the shoot button charges your pet, and when released the pet launches a stationary devastating attack for a few seconds. The shield button converts the pet into a shield that is permanent - until you press the button again or it takes enough damage to disappear. Melee attacks and pet attacks release hearts which boost your shield power.
+
+Characters include Jake and Sara, two regular humans from Earth. Dr. J, a scientist, and Maya an ape. All characters largely play the same.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/dmnfrnt-image.jpg</image>
+		<releasedate>20000101T000000</releasedate>
+		<developer>International Games System</developer>
+		<publisher>International Games System</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./desertbr.zip</path>
+		<name>Desert Breaker</name>
+		<desc>Desert Breaker is an overhead run-and-gun, a sort of game which often falls into the genre of vertical shoot-em-ups. However, they differ from conventional shooters in that they allow you to go at your own pace and shoot in multiple directions instead of always moving and firing north.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/desertbr-image.jpg</image>
+		<releasedate>19920506T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./dietgo.zip</path>
+		<name>Diet Go Go</name>
+		<desc>Diet Go Go was produced by Data East in 1992.
+
+Data East released 149 different machines in our database under this trade name, starting in 1980.
+
+Other machines made by Data East during the time period Diet Go Go was produced include Mutant Fighter, Boogie Wings, Aaron Spelling, Hook Pinball, Lethal Weapon 3, Death Brade, Checkpoint, Wolf Fang, Joel Silver, The Pinball, and Joe &amp; Mac - Ikusae Genshizin.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/dietgo-image.jpg</image>
+		<releasedate>19920311T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
 		<genre>Platform</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./msh.zip</path>
-		<name>Marvel Super Heroes</name>
-		<desc>Play as your favorite Marvel character: Wolverine, Spider-Man, The Incredible Hulk, Captain America, Iron Man, Psylocke, Shuma-Gorath, Blackheart, Juggernaut or Magneto. Power up with an Infinity Gem - Grant your super hero healing power, super attacks and increased strength.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/msh-image.jpg</image>
+		<path>./eswat.zip</path>
+		<name>E-SWAT: Cyber Police</name>
+		<desc>Players control Duke Oda, a member of the Cyber Police force in the city of Liberty who tries to clear the streets of crime, terminate the most wanted criminals and put them behind bars. There are 15 stages to complete, which takes the player through Liberty streets, car yards, stadiums, restaurants, the CBD, and boat docks. There are bosses on some stages. During each stage, the player picks up ammunition with varying amounts. For example, on some levels, ammo may be worth 10 bullets, while in others, there may be 60 bullets.
+
+Bosses attack in several ways. Note that the bosses are not just people. The player also battles an ape, a tiger, a monster truck in "Eagles Stadium", and cyborgs. Once these first three bosses are defeated, the player's rank rises to captain, followed by assistant chief, and finally to chief.
+
+Once the chief rank has been achieved, the player is given a cyber suit, which is described by the game as a "long-range supersonic powered suit" which contains two Turbo-Booster Thrusters, and provides extra ammunition and protection. This suit is used for the rest of the game. At this point, the player will have to arrest criminal masterminds.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/eswat-image.jpg</image>
 		<rating>0.9</rating>
-		<releasedate>19951031T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
+		<releasedate>19890323T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mshvsf.zip</path>
-		<name>Marvel Super Heroes vs. Street Fighter</name>
-		<desc>Now you can choose your favorite heroes from the worlds of Street Fighter and Marvel Super Heroes to face off in a head-to-head battle for supremacy. Dive into the action to perform outrageous moves and link together amazing Chain Combos... then delight in their devastating results! Marvel Super Heroes vs. Street Fighter combines two incredible universes to create an entirely new legend of heroic proportions.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/mshvsf-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>19980618T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
+		<path>./gunbird.zip</path>
+		<name>Gunbird</name>
+		<desc>Gunbird uses anime-styled character as the player's chosen craft. A story plays out in between levels and before boss fights, telling a tale of how the protagonists are trying to collect pieces of a magic mirror to make a wish.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/gunbird-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mvsc.zip</path>
-		<name>Marvel vs. Capcom: Clash of Super Heroes</name>
-		<desc>Marvel vs. Capcom: Clash of Super Heroes is the fifth Marvel Comics-licensed fighting game by Capcom and the third game in the Marvel vs. Capcom series. In contrast to X-Men vs. Street Fighter and Marvel Super Heroes vs. Street Fighter, the game features characters from numerous Capcom franchises such as Mega Man and Strider, rather than just Street Fighter characters. The game takes place within the Marvel comic continuity, as Professor Charles Xavier calls out for heroes to stop him before he merges with the consciousness of Magneto and becomes the being known as Onslaught, the final boss. The game was developed in late 1997 and first released in January 1998.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/mvsc-image.jpg</image>
-		<rating>1</rating>
+		<path>./gunbird2.zip</path>
+		<name>Gunbird 2</name>
+		<desc>Seven warriors are challenged to head on a quest to find three powerful elements of Sun, Moon and Stars. Whoever brings the elements to the Potion God will be rewarded the legendary Almighty Potion and all its magical powers.[3]
+
+Through gameplay cutscenes (and endings) it appears that the zany, uproarious (and at times rather adult) humor has considerably increased since the original Gunbird. The game has numerous similarities to the Parodius series, including the final boss in the game, a cartoon elephant playing a trumpet.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/gunbird2-image.jpg</image>
 		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
+		<developer>Psikyo</developer>
 		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mtwins.zip</path>
-		<name>Mega Twins</name>
-		<desc>Mega Twins (Chiki Chiki Boys in Japan) is an arcade game, first released in 1990.
+		<path>./hcastle.zip</path>
+		<name>Haunted Castle</name>
+		<desc>Count Dracula sleeps for a long hundred of years. During this time, peace exists at the village and Dracula is nothing but a mere legend.
 
-The game features twins who are attempting to re-take control of their land, Alurea, after a monster unexpectedly attacks, destroying everything in its path. The people of Alurea have lived in peace for a thousand years and have forgotten how to fight, yet the land's only survivors, the twin sons of the king, must take up the challenge and return their kingdom to its former glory.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/mtwins-image.jpg</image>
-		<releasedate>19900619T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./sfa3.zip</path>
-		<name>Street Fighter Alpha 3</name>
-		<desc>Street Fighter Alpha 3, the third game in the Alpha series, has a total of 31 fighters, the most in the series so far. New characters include old favorites E. Honda, Blanka, Vega, Cammy, T. Hawk, Dee Jay, Juni and Juli. Some of the newest fighters on the block include a former Final Fight character (Cody, who has been in jail since the last Final Fight game, or so his clothing suggests), Karin Kanzuki and Rainbow Mika. The major difference between this Alpha and the last two are the new play modes World Tour, Arcade, VS, Training and Entry.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/sfa3-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19980629T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./sf2hf.zip</path>
-		<name>Street Fighter II Turbo: Hyper Fighting</name>
-		<desc>Hyper Fighting features faster playing speed compared to Champion Edition. As a result, the inputs for special moves and combos requires more precise timing. The faster play speed also allowed players to get into battle quicker, as well as to counterattack quicker. All of the fighters, with the exception of Guile and the four Grand Masters, were each given a new special move, with the exception of Chun-Li who was given two.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/sf2hf-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./sf2.zip</path>
-		<name>Street Fighter II: The World Warrior</name>
-		<desc>GET READY TO RUMBLE!
+However, one day a young couple named Simon and Serena were celebrating their wedding at the village's church.
 
-From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+The couple were enveloped with happiness, as the wedding bells rang, their future seemed blessed...
 
-Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
-		<image>~/.emulationstation/downloaded_images/fba/sf2-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19910522T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./sfiii3.zip</path>
-		<name>Street Fighter III: 3rd Strike</name>
-		<desc>Street Fighter III 3rd Strike: Fight for the Future is a 2D competitive fighting game produced by Capcom originally released for the arcade in 1999. It is the second follow-up to Street Fighter III, following Street Fighter III 2nd Impact. Like its predecessors, it runs on the CP System III hardware. 3rd Strike increased the character roster by adding five new characters, including Chun-Li. It also added further refinements to the previous game's play mechanics and rules. It was ported to the Dreamcast, PlayStation 2, and Xbox. A downloadable online version titled Street Fighter III: 3rd Strike Online Edition was released on PlayStation Network and Xbox Live Arcade in August 2011.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/sfiii3-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19990512T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./ssf2t.zip</path>
-		<name>Super Street Fighter II Turbo</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+Suddenly, the empty sky was covered with dark clouds and with a rolling thunder that shook the earth, Dracula has once again awakened. Asking for the beautiful girl's blood, he flew down during the middle of the wedding and suddenly took the bride with him.
 
-Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/ssf2t-image.jpg</image>
-		<releasedate>19940223T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+Now in order to save Serena, Simon heads to the demon castle</desc>
+		<image>~/.emulationstation/downloaded_images/fba/hcastle-image.jpg</image>
+		<releasedate>19880212T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./willow.zip</path>
-		<name>Willow</name>
-		<desc>Willow is a platform game based on the 1988 film of the same name. It was developed by Capcom and released as an arcade and a NES game in 1989.
+		<path>./jjsquawk.zip</path>
+		<name>J. J. Squawkers</name>
+		<desc>J. J. Squawkers doesn't have much of story, other than brief crawl text telling the villagers fell into spells of some sort. The short intro where two birds get attacked with the house exploding to pieces is apparently why they're going on rampage to beat up everything in their eyes, so fair enough.
 
-The evil witch queen Bavmorda is after the holy baby of the lands, Elora Danan, intent on destroying her. A young peaceful wizard called Willow Ufgood was selected to protect Elora. Later on, a brave warrior named Madmartigan joins Willow to fight the enemy rival General Kael.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/willow-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19890601T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+You play as these two angry birds named Ani Karasukun and Ototo Karasukun (altogether standing for "crow brothers" in Japanese, by the way). Along with basic ability to run and jump, they have standard projectiles attack to shoot out the enemies or destroy the objects. Your default weapon at the beginning is a handful of tomatoes. You can exchange them with better weapons by picking up the item dropped by specific enemies; available weapons include pumpkins, watermelon seeds, screws and springboards with red sneakers. Each weapon differs from others about its usefulness; for instance, screws are thrown in straight direction until they meet obstacles or the end of screen, making it easy to deal with enemies far away. On the other hand, watermelon seeds can't reach such a long distance, but they're thrown in several shots simultaneously spread in various angles, effective against the multiple enemies approaching in wide range.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/jjsquawk-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Athena</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./xmvsf.zip</path>
-		<name>X-Men vs. Street Fighter</name>
-		<desc>X-Men vs. Street Fighter pits Marvel's mighty mutants against Capcom's legendary fighters in a slugfest of epic proportions. Now you can perform outrageous moves and link together amazing Chain Combos. X-Men vs. Street Fighter... the collision of two explosive universes in the world's most amazing fantasy fighter!</desc>
-		<image>~/.emulationstation/downloaded_images/fba/xmvsf-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19960909T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+		<path>./kidniki.zip</path>
+		<name>Kid Niki: Radical Ninja</name>
+		<desc>One day in Feudal Japan, Kid Niki, the most radical of ninjas, is training at his Ninja School. Suddenly, a passing bird is struck down by an arrow and lands at Niki's feet. Attached is a note explaining that Niki's girlfriend, Princess Margo, has been kidnapped by the evil Stone Wizard. With the cry of "Will help you!" Niki bursts through the wall of his school and sets off on his quest to save Margo.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/kidniki-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19861002T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./xmcota.zip</path>
-		<name>X-Men: Children Of The Atom</name>
-		<desc>X-MEN UNLEASHED! It's here! Ultimate combat! Mutant mayhem! X-Power! Special moves! Mid-air action! Big characters! Sizzling graphics! Exactly like you played in the arcade! You will need all your mutant powers, all your speed, all your strength... for this is the ultimate combat! Have you got enough to defeat Magneto, Omega Red and the Sentinel? Are you tough enough for Wolverine, powerful enough for Cyclops, cool enough for Iceman... are you good enough to join the new breed of mutant heroes? X-Men Children of the Atom - the fighting game to end them all!</desc>
-		<image>~/.emulationstation/downloaded_images/fba/xmcota-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>19941219T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+		<path>./kungfum.zip</path>
+		<name>Kung-Fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X, is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/kungfum-image.jpg</image>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./sfa.zip</path>
-		<name>Street Fighter Zero</name>
-		<image>~/.emulationstation/downloaded_images/fba/sfa-image.jpg</image>
-		<releasedate>19950120T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher />
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170304T055104</lastplayed>
-	</game>
-	<game>
-		<path>./sfz2al.zip</path>
-		<name>Street Fighter Zero 2 Alpha</name>
-		<desc>Street Fighter Zero 2 Alpha en Japón, Asia y América del Sur, es un videojuego de lucha de la saga Street Fighter que salió en 1996 y es continuación directa de Street Fighter Alpha que a su vez se sitúa argumentalmente entre el primer y segundo Street Fighter, por eso se denominada con la coletilla Alpha o Zero en Japón, su país de origen. En Latinoamérica llegaron a los arcades con ese mismo nombre de Zero y traducido al español en algunos países.
+		<path>./loht.zip</path>
+		<name>Legend Of Hero Tonma</name>
+		<desc>An Irem Arcade side-scrolling platformer, featuring the titular hero Tonma. His main weapon is a fireball that can be upgraded multiple times.
 
-Esta continuación no es una simple extensión del primer Alpha como sucedía con los Street Fighter II, Capcom en esta ocasión hizo un nuevo juego, con el mismo código gráfico pero sustancialmente mejorados y nuevos escenarios, sólo los sprites de los personajes que repiten del primer Alpha se mantienen, aunque con mejoras en la animación.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/sfz2al-image.jpg</image>
-		<rating>1</rating>
-		<releasedate>19960601T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
+Legend of Hero Tonma is a 1989 Irem Arcade platformer, known for its difficulty, brightly colored graphics and its rarity in the US. The game was converted to the TurboGrafx-16 in 1993 (based on the 1991 PC Engine version) making it one of the last games to be released for the system in the US. It was later added to the Wii's Virtual Console in 2007.
+
+The game is graphically similar to Wonder Boy, but is also structured similarly to Ghouls n' Ghosts. The player must pass through areas filled with enemies, trying to survive long enough to upgrade their fireballs to the point where it becomes far easier to cope.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/loht-image.jpg</image>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Adventure</genre>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./vsav.zip</path>
-		<name>Vampire Savior: The Lord Of Vampire</name>
-		<desc>Jedah, one of the ancient Three Lords of Darkrealm has returned. You play as one of fifteen Darkstalkers. Beat Jedah and take your throne as the Lord of the Darkness.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/vsav-image.jpg</image>
-		<releasedate>19970613T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<playcount>1</playcount>
-		<lastplayed>20170305T015933</lastplayed>
+		<path>./mcatadv.zip</path>
+		<name>Magical Cat Adventure</name>
+		<desc>A cat encounters many obstacles and enemies while traveling through various terrains.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/mcatadv-image.jpg</image>
+		<releasedate>19930504T000000</releasedate>
+		<developer>Wintechno</developer>
+		<publisher>Wintechno</publisher>
+		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./nwarr.zip</path>
-		<name>Night Warriors: Darkstalkers' Revenge</name>
-		<desc>The Darkstalkers return and now crave the fury of a good night fight. In this head-to-head fighting challenge, creatures from your darkest nightmares battle for eternal control fo the night. Treacherous, classic favorites take on 4 new challengers for total domination. Donovan, the Dark Hunter. Huitzil, the Killer Machine. Hsien-Ko, the Chinese Ghost. And Pyron, the ultimate Alien ruler. The battle has never been as intense, with faster speeds, more captivating moves and even more incredible graphics. Night Warriors; the game of your dreams, and nightmares.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/nwarr-image.jpg</image>
+		<path>./mysticri.zip</path>
+		<name>Mystic Riders</name>
+		<desc>Mystic Riders is a 2D side-scrolling shoot'em up game set in a fantasy world, similar in style to Cotton. The player controls a child witch riding on a broomstick. Gameplay is very typical - the player flies right, shoots enemies like ghosts, grim reapers, bats, dragons, gargoyles etc., and collects bonuses and power-ups. The witch can charge shoot to deal more damage. The game has six levels and a multiplayer mode for 2 players.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/mysticri-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./nspirit.zip</path>
+		<name>Ninja Spirit</name>
+		<desc>A ninja-based action game that has the player leading Moonlight through numerous enemy-riddled levels on a quest to exact revenge against his father's murderer. To accomplish this task Moonlight is armed with a katana, shurikens, bombs, and a sickle and chain weapon. Each weapon offers its own advantages and must be used at certain times to overcome specific obstacles or opponents. 
+
+The game's coin-op origins are evident in the fact that that the home versions do not have passwords or saves. To compensate for this, however, adjustable difficulty settings were added.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/nspirit-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./osman.zip</path>
+		<name>Osman</name>
+		<desc>It is the late 21st century, and the world has come under the control of a single federal government. One day a new threat known as Abdullah the Slaver appears, causing widespread terror and panic. The fear in men's hearts incites the abandonment of all economic activity. The federal government, which is the foundation of capitalism and modern civilization, has become nothing less than an insidious idea that corrupts the foundations of society itself. It destroys the idiosyncrasies and variations among national viewpoints, stifling them in the name of "freedom" and its own internal ideals.
+
+Judicial Affairs Director Jack Layzon alone grasps the situation, fearing the worst. He summons the lone assassin who had mastered the 'secret style'...</desc>
+		<image>~/.emulationstation/downloaded_images/fba/osman-image.jpg</image>
+		<releasedate>19960501T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./pang.zip</path>
+		<name>Pang</name>
+		<desc>The Buster brothers must finish a round-the-world quest to destroy bouncing balloons that are terrorizing several of Earth’s landmarks and cities. The fight to save the Earth begins on Mt. Fuji, Japan where the brothers must pass all three stages before moving on to the next location.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/pang-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890401T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Mitchell Corp.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./puckman.zip</path>
+		<name>Puck-Man</name>
+		<desc>The original Japanese Version of Pac-Man. The player controls Puck-Man through a maze, eating Puck-dots (also called pellets). When all Puck-dots are eaten, Puck-Man is taken to the next stage. Between some stages one of three intermission animations plays. Four enemies (Akabei, Pinky, Aosuke and Guzuta) roam the maze, trying to catch Puck-Man. If an enemy touches Puck-Man, a life is lost and the Puck-Man itself withers and dies. When all lives have been lost, the game ends. Puck-Man is awarded a single bonus life at 10,000 points by default.
+
+Near the corners of the maze are four larger, flashing dots known as power pellets that provide Puck-Man with the temporary ability to eat the enemies. The enemies turn deep blue, reverse direction and usually move more slowly. When an enemy is eaten, its eyes remain and return to the center box where it is regenerated in its normal color. Blue enemies flash white to signal that they are about to become dangerous again and the length of time for which the enemies remain vulnerable varies from one stage to the next, generally becoming shorter as the game progresses. In later stages, the enemies go straight to flashing, bypassing blue, which means that they can only be eaten for a short amount of time, although they still reverse direction when a power pellet is eaten; in even later stages, the ghosts do not become edible (i.e., they do not change color and still make Puckman lose a life on contact), but they still reverse direction.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/puckman-image.jpg</image>
+		<releasedate>19800522T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./raiden.zip</path>
+		<name>Raiden</name>
+		<desc>In the year 2090, Earth has suddenly become the target of deranged aliens. Following the invasion, a new cutting-edge weapon, the Raiden Supersonic Attack Figther, based on the destroyed alien craft, is created for humanity's hope for survival.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/raiden-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./shadoww.zip</path>
+		<name>Shadow Warriors</name>
+		<desc>Ninja Gaiden (NINJA 外伝?) is a series of video games by Tecmo featuring the ninja Ryu Hayabusa as its protagonist. The series was originally known as Ninja Ryukenden (忍者龍剣伝 Ninja Ryūkenden?, lit. "Legend of the Ninja Dragon Sword") in Japan. The word "gaiden" in the North American Ninja Gaiden title means "side-story" in Japanese, even though the Ninja Gaiden series is not a spinoff of a previous series. The original arcade version and first two NES games were released as Shadow Warriors in PAL regions.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/shadoww-image.jpg</image>
 		<rating>0.5</rating>
-		<releasedate>19950305T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
-		<playcount>2</playcount>
-		<lastplayed>20170305T015638</lastplayed>
+	</game>
+	<game>
+		<path>./spang.zip</path>
+		<name>Super Pang</name>
+		<desc>The world has come under attack and it is up to you as a Super Buster Brother to ensure that the world is cleared of all bouncing bubbles. Every time you shoot a bubble, it breaks into two smaller ones. But be careful! If a bubble touches you, you're history! Whether you play in the Panic Mode or the Tour Mode, the challenges will keep you on your toes! In the Panic Mode, bubbles large and small pour down for 99 levels of exhilaration. In the Tour Mode, you will travel the world in search of new and explosive bubble bottles. Enjoy the action, but be alert! As you progress through the levels, the game becomes more exciting as the bubbles bounce faster and faster.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/spang-image.jpg</image>
+		<releasedate>19901101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Mitchell Corp.</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./swatpolc.zip</path>
+		<name>Swat Police</name>
+		<image>~/.emulationstation/downloaded_images/fba/swatpolc-image.jpg</image>
+		<releasedate>20010403T000000</releasedate>
+		<developer>ESD</developer>
+		<publisher>ESD</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ninjak.zip</path>
+		<name>The Ninja Kids</name>
+		<image>~/.emulationstation/downloaded_images/fba/ninjak-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer />
+		<publisher>Taito</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./uccops.zip</path>
+		<name>Undercover Cops</name>
+		<desc>Dr. Clayborn and his henchmen have taken control of the city! Commissioner Gordon (no, Batman is not in the game) makes one last plea for help and calls three of New York's Finest undercover cops : Bubba, an ex-professional football player; Flame, a former Miss America; and Claude, a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city. Very fun beat 'em up where almost anything can be used as a weapon; fish, rocks, i-beams, cars, etc.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/uccops-image.jpg</image>
+		<releasedate>19920710T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./wboy.zip</path>
+		<name>Wonder Boy</name>
+		<desc>Wonder Boy (also known as Super Wonder Boy for its Sega Mark III release in Japan and Revenge of Drancon for its Game Gear release in North America) is a 1986 video game published by Sega and developed by Escape (now known as WestOne Bit Entertainment, not to be confused with Westone).</desc>
+		<image>~/.emulationstation/downloaded_images/fba/wboy-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kikcubic.zip</path>
+		<name>Kickle Cubicle</name>
+      <image>~/.emulationstation/downloaded_images/fba/kikcubic-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./uccopsar.zip</path>
+		<name>Undercover Cops Alpha Renewal</name>
+		<desc>Dr. Clayborn and his henchmen have taken control of the city! Commissioner Gordon (no, Batman is not in the game) makes one last plea for help and calls three of New York's Finest undercover cops : Bubba, an ex-professional football player; Flame, a former Miss America; and Claude, a retired philosophy teacher. They must fight every lackey and vanquish Dr. Clayborn in order to restore law and order to the city. Very fun beat 'em up where almost anything can be used as a weapon; fish, rocks, i-beams, cars, etc.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/uccopsar-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920710T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 	</game>
 </gameList>

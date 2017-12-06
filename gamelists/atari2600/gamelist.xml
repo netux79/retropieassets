@@ -15,10 +15,10 @@
 		<lastplayed>20170216T021626</lastplayed>
 	</game>
 	<game>
-		<path>./Atlantis.zip.zip</path>
+		<path>./Atlantis.zip</path>
 		<name>Atlantis</name>
 		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
-		<image>~/.emulationstation/downloaded_images/atari2600/Atlantis.zip-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/atari2600/Atlantis-image.jpg</image>
 		<rating>0.5</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Imagic</developer>
@@ -779,5 +779,60 @@ The object is to see your country come out on top. You'll compete in pure speed 
 		<genre>Action</genre>
 		<playcount>6</playcount>
 		<lastplayed>20170307T225709</lastplayed>
+	</game>
+	<game>
+		<path>./Centipede.zip</path>
+		<name>Centipede</name>
+		<desc>The player moves the character about the bottom area of the screen and fires laser shots at a centipede advancing from the top of the screen down through a field of mushrooms. Shooting any section of the centipede creates a mushroom; shooting one of the middle segments splits the centipede into two pieces at that point. Each piece then continues independently on its way down the board, with the first section of the rear piece becoming a new head. If the head is destroyed, the section behind it becomes the next head.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Centipede-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Defender.zip</path>
+		<name>Defender</name>
+		<desc>Aliens are invading Planet Earth! The Alien Landers are turning captured Humanoids into destructive mutants. Stop them from kidnapping the Humanoids! Defend your planet!</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Defender-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Williams Electronics</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Millipede.zip</path>
+		<name>Millipede</name>
+		<desc>The gameplay of Millipede is similar to Centipede but differs mostly in enemies:
+
+Earwig: same as the scorpion in Centipede, making mushrooms poisonous so that the millipede will charge straight to the bottom of the screen after touching them.
+Bee: same as the flea in Centipede, dropping mushrooms in a vertical line and requiring two shots to kill.
+Spider: same behavior as in Centipede, bouncing irregularly across the lower portion of the screen. Multiple spiders can appear at the same time on higher levels.
+Inchworm: when hit, slows all enemies for a short period of time.
+Beetle: crawls around the player area for a while, then climbs up and leaves the screen, turning any mushrooms it touches into indestructible flowers. When hit, everything on the screen scrolls down one row.
+Dragonfly: drops mushrooms while zigzagging down, and can be destroyed with a single shot.
+Mosquito: bounces off the sides of the screen as it descends. When hit, everything on the screen scrolls up one row.
+DDT bomb (stationary): can be blown up with one shot, destroying all enemies and mushrooms within the blast radius. Whenever the mushrooms scroll down, a new bomb is added at the top of the screen. Up to four bombs can be in play at one time.
+All flowers and poisoned/partially destroyed mushrooms revert to normal, whole mushrooms when the player loses a life.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Millipede-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Vanguard.zip</path>
+		<name>Vanguard</name>
+		<desc>Join the Vanguard expedition on a thrilling space odyssey. Fight your way through the perilous tunnels of Aterria to the fabulous City of Mystery and destroy the great Gond! Based on the popular video arcade game.</desc>
+		<image>~/.emulationstation/downloaded_images/atari2600/Vanguard-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
 	</game>
 </gameList>

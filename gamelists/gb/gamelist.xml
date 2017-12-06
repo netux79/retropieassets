@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).zip</path>
+		<path>./Adventure Island II - Aliens in Paradise.zip</path>
 		<name>Adventure Island II</name>
 		<desc>In Adventure Island II the player takes the role of Master Higgins who has to save his cavegirl from aliens which also want to dominate the Earth. The basic gameplay elements are the same as in its predecessor Adventure Island: Master Higgins walks through the levels while fighting against various enemies. One hit results in his untimely death unless he carries one of the various power ups, e.g. weapons or a skateboard which improves his speed. He also needs to collect food to fill up his steadily decreasing starvation bar - death awaits if it hits zero.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Adventure Island II - Aliens in Paradise (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Adventure Island II - Aliens in Paradise-image.jpg</image>
 		<releasedate>19930201T000000</releasedate>
 		<developer>Hudson Soft</developer>
 		<publisher>Hudson Soft</publisher>
@@ -13,12 +13,12 @@
 		<lastplayed>20170218T142355</lastplayed>
 	</game>
 	<game>
-		<path>./Galaga &amp; Galaxian (USA).zip</path>
+		<path>./Galaga &amp; Galaxian.zip</path>
 		<name>Arcade Classic 3: Galaga/Galaxian</name>
 		<desc>This is a compilation of two classic arcade games on one pack:
 •Galaga
 •Galaxian</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Galaga &amp; Galaxian (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Galaga &amp; Galaxian-image.jpg</image>
 		<releasedate>19981231T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
@@ -39,10 +39,10 @@ So, strap on your Blaster, power-up the Toadster and get on downt o the Dark Que
 		<genre>Fighting</genre>
 	</game>
 	<game>
-		<path>./Bonk's Adventure (USA).zip</path>
+		<path>./Bonk's Adventure.zip</path>
 		<name>Bonk's Adventure</name>
 		<desc>The game's protagonist is Bonk, a strong caveboy who battles anthropomorphic dinosaurs and other prehistoric themed enemies. Bonk's mission is to rescue Princess Za (a small pink Pleisiosaur-type reptile) who has been kidnapped by the evil King Drool (a large, green, Tyrannosaurus-type dinosaur). In the Arcade version, Bonk is also assisted by a female version of himself.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Bonk's Adventure (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Bonk's Adventure-image.jpg</image>
 		<releasedate>19931231T000000</releasedate>
 		<developer>Red Company</developer>
 		<publisher>Hudson, NEC</publisher>
@@ -62,10 +62,10 @@ So, strap on your Blaster, power-up the Toadster and get on downt o the Dark Que
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Contra - The Alien Wars (USA).zip</path>
+		<path>./Contra - The Alien Wars.zip</path>
 		<name>Contra: The Alien Wars</name>
 		<desc>Welcome to 2636 the year the notorious Red Falcon gets even-with an unprecedented alien onslaught orchestrated to push the Contra forces to their ultimate reaches. Plunge through a molten massacre on a high speed voyage to the guts of the archenemy alien. Check out the side and top perspectives that engulf you in a 3-D sensation. Pick off solar slimedogs while you scale over walls swing from girders and ropes whatever it takes to defeat Red Falcon's allies. Sweat through five gut-splitting stages including the Streets of the Neo City and the Mucho Grande Badlands.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Contra - The Alien Wars (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Contra - The Alien Wars-image.jpg</image>
 		<releasedate>19941231T000000</releasedate>
 		<developer>Factor 5</developer>
 		<publisher>Konami</publisher>
@@ -74,10 +74,10 @@ So, strap on your Blaster, power-up the Toadster and get on downt o the Dark Que
 		<lastplayed>20170214T054146</lastplayed>
 	</game>
 	<game>
-		<path>./Donkey Kong (World) (Rev A).zip</path>
+		<path>./Donkey Kong.zip</path>
 		<name>Donkey Kong</name>
 		<desc>Donkey Kong returns to Game Boy! This famous ape has kidnapped Pauline and climbed to the top of a perilous skyscraper. Challenged by many perils and unending puzzles, Mario must reach his arch rival. As he makes his way Mario will need to gather disappearing keys to unlock doors of hidden rooms. Donkey Kong devises evil tricks to confuse and trap him. Our heroic plumber has his hands full this time!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong (World) (Rev A)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong-image.jpg</image>
 		<releasedate>19940621T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
@@ -86,12 +86,12 @@ So, strap on your Blaster, power-up the Toadster and get on downt o the Dark Que
 		<lastplayed>20170211T005854</lastplayed>
 	</game>
 	<game>
-		<path>./Donkey Kong Land 2 (USA, Europe).zip</path>
+		<path>./Donkey Kong Land 2.zip</path>
 		<name>Donkey Kong Land 2</name>
 		<desc>Donkey Kong Land 2 is the first sequel to Donkey Kong Land for the Nintendo Game Boy and was released in 1996.
 
 The story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong, demanding the entire Banana Hoard as ransom, so it's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. A wild assortment of friendly animals like Rambi the Rhino, Squitter the Spider, Squawks the Parrot, Rattly the Rattlesnake and Enguarde the Swordfish help the two little monkeys in their adventurous mission. Each exciting level is filled with special traps, hidden items and dastardly Kremlings! Prepare yourself for the biggest Game Boy adventure yet!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land 2 (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land 2-image.jpg</image>
 		<rating>0.81667</rating>
 		<releasedate>19960116T000000</releasedate>
 		<developer>Rare</developer>
@@ -99,12 +99,12 @@ The story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Donkey Kong Land III (USA, Europe).zip</path>
+		<path>./Donkey Kong Land III.zip</path>
 		<name>Donkey Kong Land III</name>
 		<desc>Donkey Kong Land III is the last part in the Donkey Kong Land series and was released for the Game Boy by Nintendo in 1997.
 
 Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong &amp; Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land III (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land III-image.jpg</image>
 		<rating>0.81667</rating>
 		<releasedate>19971001T000000</releasedate>
 		<developer>Rare</developer>
@@ -112,10 +112,10 @@ Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fable
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Final Fantasy Adventure (USA).zip</path>
+		<path>./Final Fantasy Adventure.zip</path>
 		<name>Final Fantasy Adventure</name>
 		<desc>In the Empire of Glaive, a gladiator-slave is forced to fight evil monsters controlled by the Dark Lord. But when his best friend is mortally wounded, he learns of a secret pendant which will give him great power. As the hero, you must battle your way out of the Dark Knight's castle and search through a dangerous world for the girl who has the pendant. But you discover she has been captured by the Dark Knight's men. To free her, you must find the legendary sword and fight off the Dark Knight's beasts and overlords through deserts, snowfields, lakes, forests, and caves. Are you ready for the adventure of your life?</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Final Fantasy Adventure (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Final Fantasy Adventure-image.jpg</image>
 		<releasedate>19980401T000000</releasedate>
 		<developer>Square</developer>
 		<publisher>Sunsoft</publisher>
@@ -124,7 +124,7 @@ Fame-and-fortune seekers have flooded Donkey Kong Country in search of the fable
 		<lastplayed>20170218T060204</lastplayed>
 	</game>
 	<game>
-		<path>./Gargoyle's Quest - Ghosts'n Goblins (USA, Europe).zip</path>
+		<path>./Gargoyle's Quest - Ghosts'n Goblins.zip</path>
 		<name>Gargoyle's Quest</name>
 		<desc>Gargoyle's Quest Brings Big-Screen Action to Game Boy!
 
@@ -136,7 +136,7 @@ Detailed Graphics set new standards for Game Boy
 Fascinating new epic adventure story!
 
 For 1 player only.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Gargoyle's Quest - Ghosts'n Goblins (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Gargoyle's Quest - Ghosts'n Goblins-image.jpg</image>
 		<releasedate>19900701T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -145,10 +145,10 @@ For 1 player only.</desc>
 		<lastplayed>20170213T041001</lastplayed>
 	</game>
 	<game>
-		<path>./Jurassic Park (USA).zip</path>
+		<path>./Jurassic Park.zip</path>
 		<name>Jurassic Park</name>
 		<desc>Plunge into a heart-wrenching race for survival! On a tropical island, a violent hurricane rips through the dinosaur preserve, trapping the tourists and freeing the most terrifying animals in prehistory! Two bigger-than-life ways to play: Be a dinosaur! As a Raptor, rampage across the island battling other beasts and eluding the traps and weapons of your human enemies. As Grant, the paleontologist, arm yourself with tranquilizer guns, and sleeping-gas grenades. Dodge the slashing jaws of the Tyrannosaurus Rex and the paralyzing spit of the Dilophosaurs! 16 mammoth megs of nerve-shredding action!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Jurassic Park (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Jurassic Park-image.jpg</image>
 		<releasedate>19930801T000000</releasedate>
 		<developer>Ocean</developer>
 		<publisher>Ocean</publisher>
@@ -167,14 +167,14 @@ For 1 player only.</desc>
 		<lastplayed>20170213T041133</lastplayed>
 	</game>
 	<game>
-		<path>./Kirby's Block Ball (USA, Europe).zip</path>
+		<path>./Kirby's Block Ball.zip</path>
 		<name>Kirby's Block Ball</name>
 		<desc>Kirby's back with fast-paced, four-way action!
 
 It's a breakaway bash in this wild new Kirby game of Block Ball! By destroying the blocks on the screen, you clear stages and obtain powers that help you in your final confrontation with King Dedede.
 
 Paddles on all four sides of the screen make this an intense four-way action contest. Your quick reactions and your careful use of Kirby's powers will determine your ultimate fate!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Kirby's Block Ball (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Kirby's Block Ball-image.jpg</image>
 		<rating>0.56667</rating>
 		<releasedate>19951214T000000</releasedate>
 		<developer>HAL</developer>
@@ -182,10 +182,10 @@ Paddles on all four sides of the screen make this an intense four-way action con
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Kirby's Dream Land (USA, Europe).zip</path>
+		<path>./Kirby's Dream Land.zip</path>
 		<name>Kirby's Dream Land</name>
 		<desc>The gluttonous King Dedede has stolen all of the food from the inhabitants of Dream Land for a midnight feast, so Kirby, a resident of Dream Land, goes to retrieve the food and stop Dedede. Kirby's Dream Land plays like other platformers of the 8-bit and 16-bit era of video games: Kirby must use various natural abilities and occasionally external abilities or items while heading toward the goal at the end of each level. Like many 1980s-era platformers, the player can accumulate points, with an extra life granted when the player has enough points. However, because Kirby lacks a save function, scores are not recorded. Also, there are no save files, so the player has to start over again when the Game Boy is turned off, if the player chooses to return to the title screen after a Game Over, or if the player resets the game. All levels are played on a two-dimensional plane, letting Kirby move only left, right, up, and down. Kirby can walk, jump, and fly. Kirby can also inhale objects and enemies, swallowing them or spitting them out as projectiles.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Kirby's Dream Land (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Kirby's Dream Land-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19920801T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -193,10 +193,10 @@ Paddles on all four sides of the screen make this an intense four-way action con
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Kirby's Dream Land 2 (USA, Europe).zip</path>
+		<path>./Kirby's Dream Land 2.zip</path>
 		<name>Kirby's Dream Land 2</name>
 		<desc>The Rainbow Bridges have disappeared! Help Kirby solve the mystery. Search the seven Rainbow Islands while battling King DeDeDe and his horde of evil minions! Meet Rick the Hamster, Kine the Fish and Coo the Owl. Each holds important abilities that can multiply the magnitude of Kirby's powers. Earn the mysterious Rainbow Sword and prepare to face Kirby's most menacing rival ever - the evil Dark Matter!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Kirby's Dream Land 2 (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Kirby's Dream Land 2-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19950501T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -206,10 +206,10 @@ Paddles on all four sides of the screen make this an intense four-way action con
 		<lastplayed>20170203T012715</lastplayed>
 	</game>
 	<game>
-		<path>./Kirby's Star Stacker (USA, Europe).zip</path>
+		<path>./Kirby's Star Stacker.zip</path>
 		<name>Kirby's Star Stacker</name>
 		<desc>Join Kirby as he stacks the falling stars with help from his friends, Rick the Hamster, Kine the Sunfish, and Coo the Owl. Watch out for King Dedede. He is out to stop you! With a few quick moves and some well-timed strategy, you can quickly outwit him and move on to the next challenging level. Kirby's Star Stacker features pure puzzle fun for everyone. From above, blocks rain down constantly. From below, whole lines appear with unrelenting clock-like regularity. Simply sandwich the stars between Kirby's pals and you'll soon be on your way to the high score.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Kirby's Star Stacker (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Kirby's Star Stacker-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19970401T000000</releasedate>
 		<developer>HAL Laboratory</developer>
@@ -255,14 +255,14 @@ Battling the effects of Wily's mind control machine, Mega Man and his robotic re
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Megaman V (USA).zip</path>
+		<path>./Megaman V.zip</path>
 		<name>Mega Man V</name>
 		<desc>They came from outer space!
 
 From the cosmic reaches of outer space, comes mankind's greatest threat. Hordes of alien robots have swarmed down from the heavens all the Earth's weapons are powerless to stop their ravenous rampage. Now the only hope to stop these alien invaders lies with one man - Mega Man!
 
 Blast off for new worlds of excitement as Mega Man launches an all-out attack on the alien armada! Rocket into battle and dodge the deadly rings of SATURN and face the molten menace of MERCURY! Search the galaxy for alien gems and construct the ultimate "Mega Arm" weapon and blast these invaders all the way back to Alpha Centauri!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Megaman V (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Megaman V-image.jpg</image>
 		<releasedate>19931201T000000</releasedate>
 		<developer>Minakuchi Engineering</developer>
 		<publisher>Capcom</publisher>
@@ -283,7 +283,7 @@ Blast off for new worlds of excitement as Mega Man launches an all-out attack on
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Metroid II - Return of Samus (World).zip</path>
+		<path>./Metroid II - Return of Samus.zip</path>
 		<name>Metroid II: Return of Samus</name>
 		<desc>A Sinister Planet Threatens the Galaxy!
 
@@ -294,7 +294,7 @@ Take control! Guide Samus through cavernous corridors, ancient ruins and alien t
 A battery back-up allows you to save your progress as you fight to the heart of the planet and search for the merciless Metroid leaders. If you are a cunning explorer, you'll earn the best of several super endings.
 
 Enter this exciting Metroid sequel and experience the thrills of Game Boy like never before!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Metroid II - Return of Samus (World)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Metroid II - Return of Samus-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19911101T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -302,10 +302,10 @@ Enter this exciting Metroid sequel and experience the thrills of Game Boy like n
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Mole Mania (USA).zip</path>
+		<path>./Mole Mania.zip</path>
 		<name>Mole Mania</name>
 		<desc>Join Muddy Mole in a race to destroy enemies and obstacles in an attempt to defeat the evil farmer, Jinbei. Blast strategic exits using black balls and tunnel your way to the next action-packed level. Help Muddy solve the incredible puzzles of Jinbei Land and reunite him with his beloved mole family. You'll dig the fast pace and challenging fun of Mole Mania!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Mole Mania (USA)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Mole Mania-image.jpg</image>
 		<releasedate>19970201T000000</releasedate>
 		<developer>Pax Softonica</developer>
 		<publisher>Nintendo</publisher>
@@ -322,12 +322,12 @@ Enter this exciting Metroid sequel and experience the thrills of Game Boy like n
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Super Mario Land (World) (Rev A).zip</path>
+		<path>./Super Mario Land.zip</path>
 		<name>Super Mario Land</name>
 		<desc>Journey with Mario to a land of giant crabs, Koopa Troopas, flying stone heads and hungry sharks!
 
 Travel over land, in the air, and underwater. Mario makes his way through four treacherous worlds on his way to save the Princess!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Super Mario Land (World) (Rev A)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Super Mario Land-image.jpg</image>
 		<rating>0.76</rating>
 		<releasedate>19890421T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -335,14 +335,14 @@ Travel over land, in the air, and underwater. Mario makes his way through four t
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B).zip</path>
+		<path>./Super Mario Land 2 - 6 Golden Coins.zip</path>
 		<name>Super Mario Land 2: 6 Golden Coins</name>
 		<desc>In his greatest Game Boy adventure, Mario faces off against his evil rival Wario, who has captured Mario Land and turned it into his private playground.
 
 To toss Wario off his ill-gotten throne, Mario must search all-new worlds for the six golden coins that unlock the gate to Mario's castle. A mob of monsters, old and new, seek to stop him. Along the way, through 6 zones, Mario can nab Power Mushrooms, Super Stars and Fire Flowers for extra power. And if he eats the Magic Carrot, he'll turn into a high-flying hare.
 
 The battery pack saves your game in progress in this biggest Game Boy Mario adventure yet.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Super Mario Land 2 - 6 Golden Coins (USA, Europe) (Rev B)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Super Mario Land 2 - 6 Golden Coins-image.jpg</image>
 		<rating>0.84444</rating>
 		<releasedate>19921021T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -386,10 +386,10 @@ The battery pack saves your game in progress in this biggest Game Boy Mario adve
 		<genre>Puzzle</genre>
 	</game>
 	<game>
-		<path>./Tetris Attack (USA, Europe) (Rev A).zip</path>
+		<path>./Tetris Attack.zip</path>
 		<name>Tetris Attack</name>
 		<desc>In Tetris Attack, the player is presented with a playfield consisting of a virtual grid of squares, each of which can be occupied by a block. Blocks are stacked on top of one another and rise steadily toward the top of the playfield, with new blocks being added at the bottom. The player must arrange blocks in horizontal or vertical lines of three or more matching shapes by swapping blocks horizontally two at a time. As matching lines are formed, the blocks are cleared from the screen and any blocks above them fall into the gaps. The game is over when the blocks touch the top of the playfield, or another game-ending condition is met (such as reaching a time limit or clearing blocks below a set line). Clearing more than three tiles in a single move scores a Combo, while Chains are scored when falling blocks from one clear cause another clear to occur. Both of these events score extra bonus points, and in multiplayer Versus games, these also send "garbage blocks" to the other player's playfield.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Tetris Attack (USA, Europe) (Rev A)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Tetris Attack-image.jpg</image>
 		<releasedate>19960801T000000</releasedate>
 		<developer>Intelligent Systems Co., Ltd.</developer>
 		<publisher>Nintendo Co., Ltd.</publisher>
@@ -430,10 +430,10 @@ Trip World at first appears to be like any conventional platformer – perhaps a
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Wario Land II (USA, Europe).zip</path>
+		<path>./Wario Land II.zip</path>
 		<name>Wario Land II</name>
 		<desc>What kind of no-good ruffians would break into my castle and steal my treasures?! It's that rotten Captain Syrup and that Black Sugar Gang! I'm looking out for bad guys and scavenging for coins as I track down my treasures. If I don't get them all the first time, that's OK. I can go back again and again until I find them all. Captain Syrup doesn't stand a chance against me!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Wario Land II (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Wario Land II-image.jpg</image>
 		<rating>0.7</rating>
 		<releasedate>19980302T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -441,7 +441,7 @@ Trip World at first appears to be like any conventional platformer – perhaps a
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Wario Land - Super Mario Land 3 (World).zip</path>
+		<path>./Wario Land - Super Mario Land 3.zip</path>
 		<name>Wario Land: Super Mario Land 3</name>
 		<desc>Hey! Things are really cookin' on Kitchen Island! Wario's got a scheme to steal the pirates' treasure so he can have his very own castle! You help Wario get the treasure by smashing into the the magic pots! Each pot changes him into Dragon Wario, Bull Wario, or Jet Wario! With each change comes new powers!
 
@@ -452,7 +452,7 @@ Be the bad guy!
 Explore the many exciting levels of Kitchen Island!
 
 Battery-backed memory saves your progress for many hours of fun!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Wario Land - Super Mario Land 3 (World)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Wario Land - Super Mario Land 3-image.jpg</image>
 		<rating>0.8099999999999999</rating>
 		<releasedate>19940121T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -461,10 +461,10 @@ Battery-backed memory saves your progress for many hours of fun!</desc>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Yoshi's Cookie (USA, Europe).zip</path>
+		<path>./Yoshi's Cookie.zip</path>
 		<name>Yoshi's Cookie</name>
 		<desc>Yoshi's Cookie is a fast-paced puzzle game. The player moves randomly placed cookies into rows and columns of cookies with similar patterns. When a row or column of the same cookies is successfully assembled, the line will disappear, and the player can begin to work on a new row or column. The "Yoshi" cookie is very special in both the 1-player and the 2-player game. Since this cookie is the key to both games, it should be used wisely.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Yoshi's Cookie (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Yoshi's Cookie-image.jpg</image>
 		<rating>0</rating>
 		<developer />
 		<publisher />
@@ -500,12 +500,12 @@ Set a century before the events of the original Castlevania, the player controls
 		<lastplayed>20170214T054138</lastplayed>
 	</game>
 	<game>
-		<path>./Donkey Kong Land (USA, Europe).zip</path>
+		<path>./Donkey Kong Land.zip</path>
 		<name>Donkey Kong Land</name>
 		<desc>Donkey Kong Land is a Jump &amp; Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.
 
 Cranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey &amp; Diddy Kong set out to go throuth another adventure!</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Donkey Kong Land-image.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>19950726T000000</releasedate>
 		<developer>Rare</developer>
@@ -541,12 +541,12 @@ stop the evil Ghost Building Company.</desc>
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Adventure Island (USA, Europe).zip</path>
+		<path>./Adventure Island.zip</path>
 		<name>Adventure Island</name>
 		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture the Princess Leilani and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
 
 The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Adventure Island (USA, Europe)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Adventure Island-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19920201T000000</releasedate>
 		<developer>Hudson Soft</developer>
@@ -581,7 +581,7 @@ Oil Panic - Catch the dripping oil.
 		<lastplayed>20170305T033032</lastplayed>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B).zip</path>
+		<path>./Legend of Zelda, The - Link's Awakening.zip</path>
 		<name>The Legend of Zelda: Link's Awakening</name>
 		<desc>A Game Boy fantasy adventure like no other!
 
@@ -592,7 +592,7 @@ But it won't be as easy as chartering a boat. The island's inhabitants have no k
 Link will battle new enemies and make new friends in one of the most in-depth fantasy adventures for Game Boy yet!
 
 A battery-backed memory will save up to three games so you never have to start your journey empty-handed.</desc>
-		<image>~/.emulationstation/downloaded_images/gb/Legend of Zelda, The - Link's Awakening (USA, Europe) (Rev B)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Legend of Zelda, The - Link's Awakening-image.jpg</image>
 		<rating>0.76667</rating>
 		<releasedate>19930606T000000</releasedate>
 		<developer>Nintendo</developer>
