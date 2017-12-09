@@ -238,4 +238,30 @@ In the Japanese version, the game follows Liu Bei's plight in Jingzhou from the 
 		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./forgottn.zip</path>
+		<name>Forgotten Worlds</name>
+		<desc>"Many years have passed since mankind dominated the Earth. Invaders from another galaxy have nearly destroyed our planet in their attempt to add it to their evil Empire. Led by Lord Bios, the alien horde has crushed all opposition. YOU are the last hope. You must face their assault in personal, deadly combat. Equipped with an anti-gravity device and armed with photon gun, you will seek and destroy the minions of the Empire.
+
+In your attempt to overthrow the dark Lord, you will fight the strangest and strongest creatures from around the universe. Do battle with the lizardmen, the shapeless ones, and the fierce bronze dragon. But you're not completely alone in your quest for freedom. You can upgrade your weapons system at several locations scattered throughout the lands."</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/forgottn-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19880701T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./varth.zip</path>
+		<name>Varth: Operation Thunderstorm</name>
+		<desc>Varth follows the story of a disaster that befalls a human colony on a planet of the same name. The entire colony is run by a 7th generation supercomputer which controls the operations of all machinery on the planet. Unfortunately for the residents of Varth, Delta-7 has been possessed by the entity "DUO" (Dimension Unbody Offender), thought of as an evil spirit but actually a temporal-spatial consciousness which spontaneously arose within the supercomputer. DUO has come to the conclusion that human existence is inimical to the planet, and has therefore turned the planet's defenses against its own populace. Eighty percent of the planet is laid waste by the event, and this is only the beginning of DUO's cleansing scheme. The colonists' reliance on the supercomputer has caused them to lose the ability to take care of themselves, and thus have no means of fighting back. The only hope for the colony lies in the pilots of two planes equipped with 4th generation computers which DUO cannot control—they are controlled not by machinery, but by humans.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/varth-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19920701T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
 </gameList>
