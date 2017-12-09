@@ -176,18 +176,6 @@ Popeye loses a life if he is hit by Brutus or any thrown/flying object, or if he
 		<players />
 	</game>
 	<game>
-		<path>./rambo3.zip</path>
-		<name>Rambo III</name>
-		<desc>Rambo 3 (Rambo III) was released by Taito in 1989.  Rambo 3 was a rail shooter game that featured Rambo and Colonel Trautman as playable characters.  It was based on the Sylvester Stallone movie of the same name, whereby Rambo went about the business of rescuing Colonel Trautman, who had been taken hostage in Afghanistan while helping defend the Mujahedeen from the Soviet invasion.  From a third-person perspective, Rambo would have to blast through contingents of enemy soldiers using various weapons with crosshairs, as well as fight tank bosses at the end of each level.</desc>
-		<image>~/.emulationstation/downloaded_images/mame/rambo3-image.jpg</image>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./robocop.zip</path>
 		<name>RoboCop</name>
 		<desc>RoboCop is a 1988 run and gun/beat 'em up hybrid arcade game developed and published by Data East with permission from Ocean Software. Other reworked versions appeared for home computers and video game consoles, most of them handled by Ocean, as well as a NES version ported by Sakata SAS and published by Data East. It has more recently appeared on mobile phones.
@@ -756,5 +744,17 @@ One day, they decided to visit the abandoned mansion, as part of a project they 
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./rambo3.zip</path>
+		<name>Rambo III</name>
+		<rating>0.5</rating>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./tps.zip</path>
+		<name>TPS</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
 	</game>
 </gameList>

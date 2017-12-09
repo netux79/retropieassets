@@ -506,7 +506,7 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 	<game>
 		<path>./kikcubic.zip</path>
 		<name>Kickle Cubicle</name>
-      <image>~/.emulationstation/downloaded_images/fba/kikcubic-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/fba/kikcubic-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
@@ -520,5 +520,11 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<publisher>Irem</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./pgm.zip</path>
+		<name>PGM (Polygame Master) System BIOS</name>
+		<rating>0</rating>
+		<hidden>true</hidden>
 	</game>
 </gameList>
