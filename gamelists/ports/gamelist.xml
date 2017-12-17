@@ -66,7 +66,7 @@ The game is available in French, English, German and Spanish for now.</desc>
 		<publisher>Solarus Games</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-	</game>	
+	</game>
 	<game>
 		<path>./Doom.sh</path>
 		<name>Doom</name>
@@ -91,7 +91,7 @@ Responding to a frantic distress call from the overrun scientists, the Martian m
 		<publisher>GT Interactive</publisher>
 		<genre>Action, Horror, Shooter</genre>
 		<players>4+</players>
-	</game>	
+	</game>
 	<game>
 		<path>./Quake.sh</path>
 		<name>Quake</name>
@@ -105,5 +105,19 @@ Responding to a frantic distress call from the overrun scientists, the Martian m
 		<players>4+</players>
 		<playcount>1</playcount>
 		<lastplayed>20170309T010634</lastplayed>
+	</game>
+	<game>
+		<path>./OpenTyrian.sh</path>
+		<name>OpenTyrian</name>
+		<desc>Tyrian is an arcade-style vertical scrolling shooter. The story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight Microsol and save the galaxy.
+
+OpenTyrian is a port of the DOS shoot-em-up Tyrian. Jason Emery generously gave the OpenTyrian developers a copy of the Tyrian 2.1 source code, which has since been ported from Turbo Pascal to C. The port uses SDL, making it easily cross-platform.</desc>
+		<image>~/.emulationstation/downloaded_images/ports/OpenTyrian-image.jpg</image>
+		<rating>0</rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
+		<playcount>0</playcount>
+		<lastplayed>20171217T034304</lastplayed>
 	</game>
 </gameList>
