@@ -101,4 +101,17 @@ In Celceta, Adol will learn of the Romun Empire’s ambitions, fight the mysteri
 		<playcount>1</playcount>
 		<lastplayed>20170210T021422</lastplayed>
 	</game>
+	<game>
+		<path>./Gradius II - Gofer no Yabou (J).cue</path>
+		<name>Gradius II: Gofer no Yabou</name>
+		<desc>Two years after its last epic battle, the GRADIUS army recommissions the VIC VIPER superdimensional warplane to combat the invasion of a new nemesis known as GOFER. Piloting the latest model of the VIC VIPER, players can select between multiple WEAPON MODULES and SHIELDS to tackle the varying stages and enemy attack patterns they come up against. With a total of nine stages, this perfect port of the original boasts one of the longest adventures in the series and features more of its trademark fast-paced background music to accompany the intense action!</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Gradius II - Gofer no Yabou (J)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
 </gameList>
+ Go

@@ -2409,11 +2409,6 @@ All of the tetrominoes are capable of single and double clears. I, J, and L are 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Salamander.zip</path>
-		<name>Salamander</name>
-		<rating>0</rating>
-	</game>
-	<game>
 		<path>./Section-Z.zip</path>
 		<name>Section-Z</name>
 		<desc>Planet Earth in the year 2XXX. You are relaxing at the console of your computerized superconductor-generated interplanetary satellite communications system. Suddenly, high frequency radio and television transmissions blast warnings to all inhabitants to prepare for the brutal invading forces of Balangool Empire. Battle and defeat the space soldiers of Balangool. Penetrate their base divided in section A through SECTION Z, then destroy Balangool master control "L-Brain."</desc>
@@ -2423,11 +2418,200 @@ All of the tetrominoes are capable of single and double clears. I, J, and L are 
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Adventures of Lolo.zip</path>
+		<name>Adventures of Lolo</name>
+		<desc>Prince Lolo of Gentryland visited Eden, a country of love and peace, and enjoyed many pleasant days with Princess Lala of Eden. But one day, Egger, the King of Darkness, who had an evil plot to conquer Eden, spirited the Princess away before Lolo's eyes.
+After a long and difficult journey, Lolo has come to the evil Castle of the Labyrinth. The castle is guarded by an army of evil monsters led by Egger, the King of Darkness.
+
+Can Lolo solve the seemingly endless series of mazes and save Lala? Lolo is not gifted with strength or agility, but has great courage and patience. Now the battle of wits begins. Good luck, Lolo!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Adventures of Lolo-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19890420T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL America</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Adventures of Lolo 2.zip</path>
+		<name>Adventures of Lolo 2</name>
+		<desc>Our hero Lolo has charmed and enchanted puzzle-loving game players around the world with his unfailing courage and plucky persistence - and now he's off for his second quest!
+
+Join forces with Lolo and his faithful sidekick Lala for another journey full of puzzles and pitfalls. The whole crew is back - Snakey, Leeper, Medusa, Gol, Don Medusa, Rocky, and of course our favorite, Alma.
+Improved graphics, increased difficulty, and a few new tricks and techniques will keep you guessing through every fun-filled moment. A game for mental giants of all ages!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Adventures of Lolo 2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19900420T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Armadillo.zip</path>
+		<name>Armadillo</name>
+		<desc>Armadillo (アルマジロ?) is the name of an NES/Family Computer platform video game, published by IGS in 1991.
+
+The player controls a yellow armadillo with a red hat named Billy the Shell. Before each level, the player gets to move around on a board game-type screen, reminiscent of Super Mario Bros. 3. There are a lot of small squares, and the player can move on them one at a time. There are also some larger squares with pictures on them, and if the player is on them, he/she can choose to begin an action stage, which has to be cleared before the player can pass it. There is also another character moving around on the board, and if the player is on the same space as him, they can choose to be sent into a boss battle, which has to be cleared to move onto the next world.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Armadillo-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910809T000000</releasedate>
+		<developer>AIM</developer>
+		<publisher>IGS</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Battle Kid 2 - Mountain of Torment.zip</path>
+		<name>Battle Kid 2: Mountain of Torment</name>
+		<image>~/.emulationstation/downloaded_images/nes/Battle Kid 2 - Mountain of Torment-image.jpg</image>
+		<rating>0</rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre></genre>
 		<players></players>
 	</game>
 	<game>
-		<path>./Sky Kid.zip</path>
-		<name>Sky Kid</name>
+		<path>./Battle Kid - Fortress of Peril.zip</path>
+		<name>Battle Kid: Fortress of Peril</name>
+		<desc>Can you overcome the perils that lie ahead?
+
+After having uncovered a plot to build a supermech, you head to an ancient, high-tech fortress in an effort to prevent this weapon from being completed.
+
+You must navigate through the various sectors of the fortress, while battling its denizens and avoiding its many dangers. Along the way, you will uncover items that wi l allow progress to new locations in the fortress and grant you new abilities.
+
+Do you have what it takes?
+
+-Explore over 550 rooms
+-Encounter over 30 enemy types
+-Do battle with 8 bosses
+-5 different difficulty settings
+-Password feature available</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Battle Kid - Fortress of Peril-image.jpg</image>
 		<rating>0</rating>
+		<releasedate>20100222T000000</releasedate>
+		<developer>Sivak Games</developer>
+		<publisher>Retrozone</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Castlevania - The Holy Relics.zip</path>
+		<name>Castlevania - The Holy Relics</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Castlevania - The Holy Relics-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Challenger.zip</path>
+		<name>Challenger</name>
+		<desc>Challenger is an archaeologist who seeks to rescue the princess, Maria, from the hands of the evil boss, Don Waldorado, in the land called Pleasio Land.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Challenger-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19851015T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Exerion.zip</path>
+		<name>Exerion</name>
+		<desc>Exerion is a vertical shoot 'em up released by Jaleco in 1983 and licensed to Taito for distribution on the United States.
+
+Exerion is a shoot 'em up game featuring parallax effects and inertia simulation, something notable for 1983. The player travels around strange scenarios shooting aliens. The player has two types of guns: fast single shot (limited) or slow double shot (unlimited).</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Exerion-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19850211T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy VII - Advent Children.zip</path>
+		<name>Final Fantasy VII Advent Children</name>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy VII - Advent Children-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19940227T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Gradius II.zip</path>
+		<name>Gradius II</name>
+		<desc>The player returns as the role of the pilot of the Vic Viper spaceship to battle the second onslaughts of the Bacterion Empire, under the new leadership of Gofer, the giant head.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Gradius II-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880510T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Huang Di.zip</path>
+		<name>Huang Di</name>
+      <image>~/.emulationstation/downloaded_images/nes/Huang Di-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Indivisible.zip</path>
+		<name>Indivisible</name>
+      <image>~/.emulationstation/downloaded_images/nes/Indivisible-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Lagrange Point.zip</path>
+		<name>Lagrange Point</name>
+		<desc>In the 22nd century, mankind has begun to emigrate into outer space. Constructed at a lagrange point were three huge space colonies: the Isis Cluster (two artificial biospheres, named Land-1 and Land-2, and a satellite). In the year Isis 0024 (55 years after the cluster was constructed), however, a biohazard outbreak occurred on Land-2. All attempts at contact were met with nothing but static. Now a research team led by pilot Jin approaches Land-1</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Lagrange Point-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910426T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Salamander.zip</path>
+		<name>Life Force</name>
+		<desc>You've saved the innocent people of Gradius from the vile Bacterions. But now an even deadlier plague has slimed into the neighborhood. It's Zelos, an all-engulfing, planet-eating alien who's hungering to take a bite out of you! Only this time you don't have to rescue the millions of Gradians alone. You can call on a starfighter friend from the planet Latis, who'll fight beside you in his RoadBritish space destroyer. You'll both be gunning for max power-ups, with ripple lasers, plutonic missiles and impregnable force fields. But you better be on target. For this isn't your ordinary space scum. And to crush him you've gotta soar through his guts, blast past his death traps and ultimately blow out his heart. Good luck, Commander. The galaxy's counting on you!
+
+This game is also known in the japanese Famicom and Arcades as "Salamander".</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Salamander-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19870925T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rygar.zip</path>
+		<name>Rygar</name>
+		<desc>An evil being known as Ligar is about to conquer the land of Argool. Such is his power that no living creature dares to cross paths with him. But the legendary warrior Rygar rises from his grave to restore peace and justice. Armed with his famed weapon Diskarmor, Rygar begins to traverse the vast lands that lead to the lair of the demon, as his minions are trying in vain to stop him...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Rygar-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Sky Kid.zip</path>
+		<name>Skykid</name>
+		<desc>You are the legendary Red Baron, flying a plane through a horizontal side-scrolling scenery set during World War I. To complete a mission, you simply need to get to the landing spot on the other side without being shot down, but you can gain extra points by destroying enemy vehicles and planes. For huge points, pick up a bomb hidden in the level (you will be warned by a sound when approaching it) and drop it on a large structure. If you fail to land on the landing strip, you run out of fuel and crash.
+
+You can only shoot horizontally and diagonally by tilting the plane's nose. When in trouble, perform an aerial loop with the secondary button, this often destroys other planes and avoids bullets. There is a co-op mode with the character Max as well.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Sky Kid-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Flight Simulator</genre>
+		<players>2</players>
 	</game>
 </gameList>
