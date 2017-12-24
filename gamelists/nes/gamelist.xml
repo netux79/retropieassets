@@ -2466,10 +2466,10 @@ The player controls a yellow armadillo with a red hat named Billy the Shell. Bef
 		<name>Battle Kid 2: Mountain of Torment</name>
 		<image>~/.emulationstation/downloaded_images/nes/Battle Kid 2 - Mountain of Torment-image.jpg</image>
 		<rating>0</rating>
-		<developer></developer>
-		<publisher></publisher>
-		<genre></genre>
-		<players></players>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
 	</game>
 	<game>
 		<path>./Battle Kid - Fortress of Peril.zip</path>
@@ -2550,18 +2550,18 @@ Exerion is a shoot 'em up game featuring parallax effects and inertia simulation
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Huang Di.zip</path>
 		<name>Huang Di</name>
-      <image>~/.emulationstation/downloaded_images/nes/Huang Di-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Huang Di-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
 		<path>./Indivisible.zip</path>
 		<name>Indivisible</name>
-      <image>~/.emulationstation/downloaded_images/nes/Indivisible-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Indivisible-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
@@ -2613,5 +2613,127 @@ You can only shoot horizontally and diagonally by tilting the plane's nose. When
 		<publisher>Sunsoft</publisher>
 		<genre>Flight Simulator</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Bird Week.zip</path>
+		<name>Bird Week</name>
+		<desc>The player plays as a bird and can either play the normal game or the single level practice game. The player must feed butterflies to the baby birds so that they can grow big and eventually leave the nest. It is suggested that they eventually become the "new mother birds" that take care of their offspring in the subsequent levels. Finishing all 999 levels of Bird Week actually results in the beginning of an endless loop instead that ends when the players loses all of his lives.
+
+Each level represents a season in the ecosystem of a bird. The game starts out in early spring. As the virtual year progresses, the season evolves into summer and eventually into autumn. After autumn, the game repeats itself by portraying the following spring. If the proper amount of butterflies are not fed to the babies, then the babies end up starving to death. The player will automatically lose a life if any of the baby birds die. In addition to this, the player also loses a life when a predator catches the player trying to deliver butterflies to whose baby.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bird Week-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860613T000000</releasedate>
+		<developer>Lenar</developer>
+		<publisher>Toshiba EMI</publisher>
+		<genre>Life Simulation</genre>
+	</game>
+	<game>
+		<path>./Cosmo Police Galivan.zip</path>
+		<name>Cosmo Police Galivan</name>
+		<desc>Cosmo Police Galivan puts the player in control of a human being armed with a beam blade, which is only able to attack monsters in close proximity. As the game continues, the player character can use different powers - some ranged - to take out enemies and progress further. Eventually, the player will have the option of becoming a metal-armored officer with considerably more fire-power, though this power-up state will vanish if too much damage is taken. The player character will also level-up after destroying so many enemies, improving their health and "cosmo points" - a stat similar to mana that is used to power the player character's special attacks.
+
+The game's world is a network of caves that the player can explore for necessary items and bonus areas. The NES version expands this aspect, providing some Metroidvania-esque exploration. Some impediments are in place to restrict further exploration until the right item is found, as well.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Cosmo Police Galivan-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880603T000000</releasedate>
+		<developer>Nihon Bussan Co., Ltd.</developer>
+		<publisher>Nihon Bussan Co., Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Dragon Scroll - Yomigaerishi Maryuu.zip</path>
+		<name>Dragon Scroll: Yomigaerishi Maryuu</name>
+		<desc>Dragon Scroll: Yomigaerishi Maryuu (ドラゴンスクロール 甦りし魔竜? lit. Dragon Scroll: Resurrection of the Demon Dragon) is an adventure game developed by Konami in 1987 for the Famicom. It is often compared to The Legend of Zelda in terms of game play, but it is considerably more difficult due to the lack of clues or information on how to proceed.
+
+The game is non-linear, and you must explore different territories in search of the eight stolen magical artifacts that maintain a sleep spell over a large and dangerous dragon. Enemies roam the overworld and dungeons, and must be defeated in order to earn experience points. Experience points are used to increase the player's level, which makes him stronger and gives him access to stronger weapons and magic. Most useful items are well hidden and, even when obtained, are difficult to determine their appropriate use. The game features a password system which allows you to continue play where you left off.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dragon Scroll - Yomigaerishi Maryuu-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19871204T000000</releasedate>
+		<developer>KONAMI</developer>
+		<publisher>KONAMI</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./RoboCop versus The Terminator.zip</path>
+		<name>RoboCop Versus The Terminator</name>
+		<desc>In the future, human soldiers of John Connor's resistance force against the machines are fighting a losing war against Skynet and its robot forces. Discovering that one of the foundation technologies for Skynet is the cybernetics technology used in the creation of cyborg police officer RoboCop, Flo, a resistance soldier, is sent back in time to destroy RoboCop and stop Skynet from being built. However, Skynet learns of the time travel attempt and sends Terminators to stop Flo. RoboCop soon meets up with Flo and must engage in battle against Terminators, the forces of OCP and several obstacles.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/RoboCop versus The Terminator-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Realtime Associates</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Superman 2.zip</path>
+		<name>Superman</name>
+		<desc>You start the game as Clark Kent, but as long as you have enough energy, you can change into Superman. Apart from jumping and punching, Superman can also use different super powers such as Heat Vision, X-Ray Vision (makes certain enemies visible), two kinds of Super Breaths (one that freezes certain enemies) and Super Flight which takes him to different locations.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Superman 2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Kotobuki System</developer>
+		<publisher>Kotobuki System</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Sweet Home.zip</path>
+		<name>Sweet Home</name>
+		<desc>Thirty years prior to the story in 1959, famous artist Ichirō Mamiya hid several precious frescos in his huge mansion before he mysteriously disappeared. In the present day, a team of five documentary filmers seek to recover the paintings from the abandoned, dilapidated mansion. Upon entering, they are trapped inside by the ghost of an unknown woman, who threatens to kill all trespassers.
+
+The team decides to split up and find a way out, but the mansion is both in danger of collapsing and is occupied by countless monsters.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Sweet Home-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Horror</genre>
+	</game>
+	<game>
+		<path>./Sword Master.zip</path>
+		<name>Sword Master</name>
+		<desc>Sharpen the Blade. Summon the Magic. Your Enemies Await! You are the Sword Master - the supreme warrior. Unleash your magic when a sword won't cut it. A kingdom to save... a slew of deadly levels to conquer! Huge enemies only a Sword Master would love. Razor-sharp graphics. Explosive special effects. Get airborne with the exclusive "Multi-Jump" feature.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Sword Master-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920107T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Time Diver Eon Man.zip</path>
+		<name>Time Diver: Eon Man</name>
+		<desc>Earth, 60 years into the future. The world is virtually crime free thanks to the Clear System invented by Kane Nelson, scientist extraordinaire. That is, until a secret organization called Romedrux decides to challenge the system by unleashing a plague of crime. In order for them to succeed, they'll need to prevent the Clear System from ever being invented, and that means eliminating Kane or his ancestors. Los Angeles, 1993. Dan Nelson thought he was an ordinary student living in LA until the day he found himself under attack by Romedrux warriors. During the attack, Dan learns about his future son, Kane, and vows to protect his family past, present, and future. It's a race through time in this new sci-fi thriller from Taito!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Time Diver Eon Man-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20100310T000000</releasedate>
+		<developer>Atlus, Taito</developer>
+		<publisher>NintendoAge</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ultimate Castlevania.zip</path>
+		<name>Ultimate Castlevania</name>
+		<desc>If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ultimate Castlevania-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Smash TV.zip</path>
+		<name>Smash T.V.</name>
+		<desc>Moving from one room to the next within the studio/arena, players have to shoot down hordes of enemies as they advance from all sides, while at the same time collecting weapons, power-up items, and assorted bonus prizes until a final show down with the show's host where you are finally granted your prizes, your life and freedom. One of the enemies is fat and is named Mr. Shrapnel who roams aside of the walls of some rooms and after a short period of time he explodes. In the NES version, he is replaced by a giant rolling bomb.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Smash TV-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20171223T070225</lastplayed>
 	</game>
 </gameList>

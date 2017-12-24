@@ -757,4 +757,30 @@ One day, they decided to visit the abandoned mansion, as part of a project they 
 		<rating>0</rating>
 		<hidden>true</hidden>
 	</game>
+	<game>
+		<path>./rthunder.zip</path>
+		<name>Rolling Thunder</name>
+		<desc>Rolling Thunder is a side-scrolling action game produced by Namco originally released in as a coin-operated arcade game which ran on the Namco System 86 hardware. Rolling Thunder was released for various computer platforms in 1987 and the Nintendo Entertainment System in 1989. The original arcade game has been included in various classic game compilations.
+
+The player takes control of "Albatross", a member of the WCPO's (World Crime Police Organization) "Rolling Thunder" espionage unit. Albatross's mission is to save a missing agent named Leila Blitz from a secret society named Geldra located in New York City. Albatross must travel through two different segments or "stories", both comprised of five stages, for a total of ten game stages. On each stage, Albatross can enter doors, to hide and take cover from enemies, as well jump over to higher or lower floors with rails, including stairs. Albatross begins this game armed with a standard-issue pistol, which can be substituted with a fully automatic assault rifle that allows for continuous firing by holding down the firing button. Albatross can gain ammunition for either weapon, by entering doors which are marked "bullets" or "arms". Despite the presence of a life meter, Albatross can only take two physical hits from the enemy: a single hit drains half of the meter, and he will be killed instantly when struck by a projectile attack such as enemy bullets or lasers. (However, all bullets can be blocked by your own).</desc>
+		<image>~/.emulationstation/downloaded_images/mame/rthunder-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./smashtv.zip</path>
+		<name>Smash TV</name>
+		<desc>Smash TV is a 1990 arcade game created by Eugene Jarvis and Mark Turmell for Williams. Home versions were developed for various platforms and most were published by Acclaim Entertainment.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/smashtv-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19900401T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
 </gameList>

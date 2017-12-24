@@ -123,4 +123,21 @@ There are cheat codes, different for every stage, ranging from holding down a fi
 		<playcount>1</playcount>
 		<lastplayed>20170306T060314</lastplayed>
 	</game>
+	<game>
+		<path>./Son Son II.zip</path>
+		<name>Son Son II</name>
+		<desc>This platformer sequel to Son Son was only released on the PC Engine in Japan.
+
+Son Son 2 is the direct sequel to Son Son and features an interpretation of the Son Goku character from ancient Chinese novel Journey to the West. Unlike the first game, which played like a ground-based scrolling shoot-'em-up with several floors the character could switch between, Son Son II plays much more like a traditional platformer, specifically Wonder Boy and even more overtly Capcom's earlier arcade game Black Tiger. Son Son attacks with his extendable staff (based on Sun Wukong's Ruyi Jingu Bang weapon) and can defeat enemies to earn coins, which can be spent on upgrades and health refills. The player also needs to find a key on each stage before they can reach the boss.
+
+The goal of the game is to rescue the other members of his party: Xuanzang (Tripitaka), Pigsy and Sandy. They are kidnapped during the opening cutscene by the final boss, who is depicted as a mysterious silhouette.
+
+Son Son II is also one of the earliest Capcom games to use Zenny, their trademark fictional currency.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Son Son II-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890127T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>NEC Avenue</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>

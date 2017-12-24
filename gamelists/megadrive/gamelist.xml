@@ -504,4 +504,374 @@ A mysterious and high-tech organization, named "E.Y.E.", quickly threatens to ta
 		<playcount>1</playcount>
 		<lastplayed>20171205T060721</lastplayed>
 	</game>
+	<game>
+		<path>./Battle Mania Daiginjou.zip</path>
+		<name>Battle Mania - Dai Gin Jou</name>
+		<desc>Battle Mania Dai Gin Jou (バトルマニア大吟醸), sometimes referred to as Battle Mania Daiginjou and Battle Mania 2, is a shoot-'em-up developed and published by VIC Tokai in 1993 for the Sega Mega Drive exclusively in Japan and South Korea. It is the sequel to Battle Mania (which was released in the US as Trouble Shooter). The ROM header's International Title field calls the game Trouble Shooter Vintage; this may have been in the intended name had the game been released overseas, and is another name the game is commonly referred to as. Translation group M.I.J.E.T. translated the game's dialogue text to English and included it with their Tougi Ou King Colossus patch as an extra before releasing it separately later.
+
+A group calling itself the Kikokukyou have resurrected the leader of Blackball, the antagonist group of the original game, and the Trouble Shooters are called to stop Blackball and destroy Kikokukyou.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Battle Mania Daiginjou-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19931224T000000</releasedate>
+		<developer>VIC Tokai</developer>
+		<publisher>VIC Tokai</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Blades of Vengeance.zip</path>
+		<name>Blades Of Vengeance</name>
+		<desc>Blades of Vengeance is a platform game that was developed by Beam Software and published by Electronic Arts for the Sega Mega Drive/Genesis. In this game, one or two players can select one of three fantasy warriors to fight through a large range of platform levels in order to defeat the forces of darkness.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Blades of Vengeance-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Caliber .50.zip</path>
+		<name>Caliber.50</name>
+		<desc>Caliber.50 is a top-down run and gun video game originally released in arcades (as Cal.50) before being brought to the Sega Mega Drive in 1991. The Mega Drive version was only released in North America.
+The Mega Drive version is severely watered down from the arcade original, not just in terms of graphics and sound, but also gameplay, as the controls need to be mapped to three buttons. This means unlike the arcade original B takes the roll of shooting and throwing grenades, A rotates left and C rotates right. The arcade cabinet used special joysticks which could be spun around to rotate the player. To compenstate, there are fewer enemies on screen, and the player is given a life bar.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Caliber .50-image.jpg</image>
+		<rating>0.6</rating>
+		<developer>Visco</developer>
+		<publisher>Mentrix</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Dahna - Goddess Birth.zip</path>
+		<name>Dahna Megami Tanjou</name>
+		<desc>Dahna: Megami Tanjō (Dahna 女神誕生, Dahna: Goddess' Birth) is a 1991 platform action game developed by and published by IGS for the Mega Drive exclusively in Japan and South Korea. Player controls the title character who struggles against the powers of an evil sorceress raiding her village. The story is told through cut scenes and Dahna was helped along the way by various mythical beasts.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Dahna - Goddess Birth-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Demolition Man.zip</path>
+		<name>Demolition Man</name>
+		<desc>Finally! The power of 3DO. The action of a hit movie. The challenge of a video game. But deeper. And better. Because this time, you control the outcome of a real movie. With real stars Sylvester Stallone and Wesley Snipes, real suspense and real challenges that demand real skill. Actually control cinematic-quality live action footage of Stallone as the Demolition Man in a game that merges movie and video footage so smoothly you'll feel plunged into the movie itself. Contains never-before-seen footage of Stallone and Snipes filmed especially for this interactive adventure.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Demolition Man-image.jpg</image>
+		<rating>0.8</rating>
+		<developer>Alexandria</developer>
+		<publisher>Acclaim</publisher>
+		<genre />
+	</game>
+	<game>
+		<path>./El Viento.zip</path>
+		<name>El Viento</name>
+		<desc>El Viento (エル・ヴィエント Eru Viento?, derived from Spanish meaning "The Wind") is a 2D platform video game released by Wolf Team and published by Renovation Products for the Sega Mega Drive/Sega Genesis game console in 1991. It is the second in a trilogy of games, which include Earnest Evans and Anett Futatabi.
+The game possesses many references to H. P. Lovecraft's esteemed Cthulhu Mythos.
+The game shares the same fictional universe with Earnest Evans, and happens several years later.
+
+New York City, 1928. A mad religious leader known as Henry seeks to awaken the ancient and malevolent god Hastur. A sorceress named Restiana offers herself to Henry as a sacrifice for a cause which will bring the inevitable down fall of mankind.
+
+There are some people that have descended from Hastur's ancient bloodline, one of which is the young Peruvian sorceress, Annet Myer. With some assistance from Earnest Evans, Annet attempts to stop the cult from resurrecting Hastur using the very spells of this bloodline.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/El Viento-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19910920T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Gargoyles.zip</path>
+		<name>Gargoyles</name>
+		<desc>Gargoyles is a traditional 2-D side-scrolling action game based on the mid-90's cartoon of the same name.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Gargoyles-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19950515T000000</releasedate>
+		<developer>Buena Vista Interactive</developer>
+		<publisher>Disney Interactive Studios</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./High Seas Havoc.zip</path>
+		<name>Havoc</name>
+		<desc>The story is about an anthropomorphic pirate seal named Havoc (Lang in the Japanese version), his young sidekick Tide (Land in the Japanese version), a girl named Bridget, and an evil pirate named Bernardo.  Bernardo is looking for Emeralda, a gem with powers that can cause whole armies to be toppled. A map shows where Emeralda is located, and Bernardo is looking for the map. Havoc and Tide discover Bridget unconscious at a beach. When she wakes up in a dwelling, she instructs Havoc to keep her and the map safe. Havoc hides the map in a cliff. After Bernardo's henchmen kidnaps Bridget and Tide; Havoc, the playable character, sets off to rescue them.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/High Seas Havoc-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19940422T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./It Came from the Desert.zip</path>
+		<name>It Came from the Desert</name>
+      <image>~/.emulationstation/downloaded_images/megadrive/It Came from the Desert-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Jurassic Park.zip</path>
+		<name>Jurassic Park</name>
+		<desc>This game can be played in two modes, either as Dr. Alan Grant or as a Velociraptor. Playing as each provides the user with an alternative story and level design. The climax of the game mirrored the unused climax of the film, in which Grant must defeat a pair of Velociraptors by causing the Tyrannosaurus rex skeleton in the Visitors Center to collapse on top of them. Grant himself is the final boss in the same location for the raptor storyline: your dinosaur character must cause the bone structure to collapse via specifically placed kicks to cause Grant to flee. A sequel was released using a new game engine and new artwork (with some of the original art as well), entitled Jurassic Park: Rampage Edition. In it, Grant's helicopter (that he just escaped on in the first game) crashes. Now he must deal not only with dinosaurs, but InGen as well. A new raptor must also make it off the island.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Jurassic Park-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930826T000000</releasedate>
+		<developer />
+		<publisher>Sega</publisher>
+		<genre />
+	</game>
+	<game>
+		<path>./Marvel Land.zip</path>
+		<name>Marvel Land</name>
+		<desc>n the land of Coni, its inhabitants lived in harmony. At its center lies a mountain called "Peace", in which an amusement park known as "Marvel Land" resides. This park is well-protected by the Fairies. Later, King Mole became rule of the under dwellers and sent his minions to take over Marvel Land, imprisoning the Fairies inside crystal balls.
+
+A young lad named Talmit is called upon to rescue Wondra the princess, and free the Fairies from King Mole. Marvel Land consists of five worlds with seven stages each, and the game plays in platform style, in which you need to run through the level, killing enemies, and find the exit door. More often than not, you have to go through a bullseye to reach it. If you hit the bullseye at its center, you are awarded more points than you do by hitting it above or below.
+
+You kill enemies by either jumping on their heads or attacking them with clones, which trail your movement unless you use them to attack enemies or collect food. The clones have a limited life and disappear one by one as you use them.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Marvel Land-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Namco Limited</developer>
+		<publisher>Namco Limited</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Panorama Cotton.zip</path>
+		<name>Panorama Cotton</name>
+		<desc>Panorama Cotton (パノラマコットン) is a 1994 shoot-'em-up for the Sega Mega Drive developed by Success and published by Sunsoft exclusively in Japan. It is the third game in the Cotton series of so-called "cute-'em-ups" for their unique visual style, and diverts from the gameplay of other Cotton titles. The release packaging included a promotional tea cup, which is now quite rare. Its method of gameplay would be reprised for the Dreamcast Rainbow Cotton.
+
+Willows are special types of candies in a world of witches and fairies. Fairy Queen Velvet starts saying things that don't make sense, and the fairy Silk realizes it is because of monsters who are burning Willows (a burnt one was found near the castle garden). The witch Cotton, who loves eating Willows, conveniently shows up, learns of this, and vows revenge.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Panorama Cotton-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940812T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Ranger-X.zip</path>
+		<name>Ranger X</name>
+		<desc>The player assumes the role of Ranger X, piloting a powered exoskeleton who leads the fight back for his home planet against the invading Rahuna forces. Ranger X is equipped with a jet pack and an assortment of weapons. The jet pack allows for short periods of flight, the duration of which is limited by the jet pack's temperature. Upon overheating, the player must land and wait for cool down. Alongside Ranger X's standard pulse rifle, the player has access to various special weapons including a flamethrower and homing attacks. Unlike the pulse rifle, the special weapons drain a power bar, which can only be recharged when Ranger X is in a bright light source. This special arsenal can be increased by collecting power ups scattered across the levels. On certain levels, the player may also control a supporting vehicle - an Ex-Up, such as Indra - a futuristic motorcycle, a premise described as "RoboCop on a Harley".</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Ranger-X-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930527T000000</releasedate>
+		<developer>GAU Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RoboCop Versus The Terminator.zip</path>
+		<name>Robocop vs. the Terminator</name>
+		<desc>Set a few years after RoboCop's invention, the story involves SAC-NORAD contracting Cyberdyne Systems on building Skynet. Cyberdyne used RoboCop's technology in creating Skynet. When activated, Skynet becomes self-aware and launches a war against mankind. In the future, Skynet sends several Terminators back to the past to cripple the Resistance. After destroying one of the Terminators, RoboCop proceeds to Delta City, where he confronts RoboCain.
+
+After RoboCain was destroyed, RoboCop battles his way to the OCP building, where he defeats all the Terminators. After defeating an ED-209 unit reprogrammed by the Terminators, RoboCop plugs himself into a console. Unknown to him, RoboCop gave Skynet information it can use. This ends up with RoboCop falling into a trap. In the future, RoboCop assembles himself, where he battled in the Terminator-infested future and destroyed Skynet.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/RoboCop Versus The Terminator-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940519T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Rolling Thunder 3.zip</path>
+		<name>Rolling Thunder 3</name>
+		<desc>The events in the third game in the series are synchronous with RT2. At the end of the twentieth century, satellites around the globe are being shot down, disrupting communications. Secret agency Rolling Thunder discovers the organization behind the terror: Geldra. While agents Leila and Albatross are fighting the leader Gimdo (RT2), agent Jay is instructed to bring down Dread, the second-in-command.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Rolling Thunder 3-image.jpg</image>
+		<rating>0.6</rating>
+		<developer>Now Production</developer>
+		<publisher>Namco</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Second Samurai.zip</path>
+		<name>Second Samurai</name>
+		<desc>The Second Samurai is a beat-em-up developed by Vivid Image and Psygnosis and released exclusively in Europe for the Commodore Amiga (1993) and Sega Mega Drive (1994). It is the sequel to The First Samurai, a beat-em-up released for various home computers and the SNES internationally a few years prior.
+
+You play as one of two Samurais (the 1-player mode has the male protagonist from The First Samurai only; the 2-player mode lets the second player control a new female Samurai). A and B both attack depending on what weapon you have equipped right now (only one at a time, some in limited quantities), what enemies/objects are nearby, and which D-pad buttons you are holding at the time. C jumps. A screen at the beginning of the game (also accessible from the Options menu) shows you what each in-game item does for you.
+
+A Sega Mega-CD port was advertised, but never released.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Second Samurai-image.jpg</image>
+		<rating>0.8</rating>
+		<developer>Vivid</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Shadow Dancer - The Secret of Shinobi.zip</path>
+		<name>Shadow Dancer: The Secret of Shinobi</name>
+		<desc>The gameplay remains basically unchanged from the Shadow Dancer coin-op game, the Mega Drive features all new stages and bosses, and a slightly different objective: instead of looking for time bombs, the player must now rescue hostages scattered around each stage before facing the boss. The bonus rounds were also changed from a first-person minigame to one in which the player must shoot down ninjas below them while skydiving from a building.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Shadow Dancer - The Secret of Shinobi-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Skeleton Krew.zip</path>
+		<name>Skeleton Krew</name>
+		<desc>Wanna pack a BIG GUN with enough ammo to level a city? You got it...! Wanna massakre seriously psykotic Psykogenix mutants and get paid? You got it...!
+Wanna blast your way through the savage secret zones, deadly Krewtraps, mad n' bad buildings and hideous end-of-level Psykos comprising 6 HUMUNGOUS levels of 3D isometrik karnage - and wear a spectacularly sexy, hyper-hi-tek, Big Ordanance Neutralising Exo-skeleton, to boot?
+Well you got it all - but only if you join Spine, Joint and Rib, otherwise known as the SKELETON KREW, in their first outRAGEous blastfest!!</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Skeleton Krew-image.jpg</image>
+		<rating>0</rating>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Core Design Ltd.</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 2.zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level, generally moving from left to right, within a time limit of 10 minutes.  Along the way, rings are collected and Badniks are defeated. Star posts serve as checkpoints, where if the player was to lose a life then he or she would return to one.  When the player has collected at least 50 rings, star posts can be run past for an optional Special Stage.  At the end of the last act of each zone (with the exception of Sky Chase Zone which does not have a boss), Sonic confronts Dr. Robotnik.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sonic The Hedgehog 2-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19921120T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Splatterhouse 3.zip</path>
+		<name>Splatterhouse 3</name>
+		<desc>Splatterhouse 3 is a video game released by Namco for the Mega Drive/Genesis in 1993. It is the sequel to Splatterhouse 2 and was one of the first games to be given a rating by Sega's own Videogame Rating Council.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Splatterhouse 3-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930318T000000</releasedate>
+		<developer>Now Production</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sub-Terrania.zip</path>
+		<name>Sub Terrania</name>
+		<desc>Some rather aggressive aliens have invaded the underground depths of the Earth, and you're just the subterranean fighter pilot to get rid of them. Fly through the darkest caverns in search of the terrifying enemies in this detailed trip below the surface. You'll need quick reflexes and nerves of steel to get these critters out of the Earth's hair, and the gravitational pull towards the surface won't exactly help matters. If you can pick up some cleverly placed gear, you might just be able to transform your fighter into a submarine to get out to the ocean. Incredible graphics and a massive gaming experience make SUB TERRANIA the perfect sci-fi addition to your Mega Drive collection.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sub-Terrania-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Zyrinx</developer>
+		<publisher>Scavenger</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Legend of Galahad, The.zip</path>
+		<name>The Legend of Galahad</name>
+		<desc>The titular hero travels through this platform action game, slashing up mutant creatures with a sword and battling the evil Thanatos in hopes to save the life of Princess Lucanna.
+
+The controls are fairly simple and include jumping, walking or attacking. Collect icons that will help in the enhancement of your armor, gain an extra life and coins to spend in the shop for new weapons. Be sure not to collect any skull icons or else it will call Thanatos' Ethereal Presence where you will have to use Rune Bombs to destroy it. After you complete one of the three worlds, you will be given a password so you can resume later after running out of lives.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Legend of Galahad, The-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Traveller's Tales</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Jurassic Park 2 - The Lost World.zip</path>
+		<name>The Lost World Jurassic Park</name>
+		<desc>The player takes control of characters struggling to survive on INGen’s “Site B” populated by over 20 species of dinosaurs in an environment of escalating chaos. There are 5 characters in all to choose from, each with their own special abilities and attributes. While the game is in 3D, the game play resembles early 2D platformers in which you generically either go left or right, limiting the mobility of each character.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Jurassic Park 2 - The Lost World-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Dreamworks Interactive</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre />
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Twinkle Tale.zip</path>
+		<name>Twinkle Tale</name>
+		<image>~/.emulationstation/downloaded_images/megadrive/Twinkle Tale-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>Wonder Amusement Studio</developer>
+		<publisher>Toyo Recording Co.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Undead Line.zip</path>
+		<name>Undead Line</name>
+		<desc>A forward-scrolling action game featuring medieval fantasy characters and enemies battling in gameplay somewhat like a shoot-em-up.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Undead Line-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>T&amp;E SOFT</developer>
+		<publisher>PALSOFT</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Valis III.zip</path>
+		<name>Valis III</name>
+		<desc>King Glames leads denizens of the Dark World to destroy both Earth and Vecanti. Against this common foe, Yuko Asou finds help in her new girlfriend, a Vecanti warrior-maiden named Cham, who was born in the Dark World and uses a deadly whip, and her own sister Valna Asou, who grew up within Vecanti and became strong in the ways of magic. Furthermore, the Valis sword is shown to be capable of more than what Yuko has accomplished with it thus far.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Valis III-image.jpg</image>
+		<rating>0</rating>
+		<developer />
+		<publisher>Telenet Japan</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Wardner.zip</path>
+		<name>Wardner</name>
+		<desc>The player controls a character by the name of Dover through various forest game levels battling creatures in an attempt to rescue his kidnapped girlfriend, Mia, from the evil Wardner. The simple run and jump controls are supplemented with the ability to throw balls of fire. The player collects gold coins throughout the game; at the end of each level, the coins are exchangeable for protective devices, and weapons.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Wardner-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Taito</publisher>
+		<genre />
+	</game>
+	<game>
+		<path>./Water Margin - Tales of Clouds &amp; Winds.zip</path>
+		<name>Water Margin: A Tale of Clouds and Wind</name>
+		<desc>Water Margin: A Tale of Clouds and Wind is a Sega Genesis Beat'em up which was exclusively available only in China, Taiwan and Hong Kong markets mostly, during the late 90's.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Water Margin - Tales of Clouds &amp; Winds-image.jpg</image>
+		<rating>0.7</rating>
+		<developer />
+		<publisher>Piko Interactive</publisher>
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Wings of Wor.zip</path>
+		<name>Wings of Wor</name>
+		<desc>Wings of Wor/Gynoug is a horror-themed shoot'em up similar to Thunder Force and other horizontal shooters. But other than most of them where you play a spaceship of some sort, here you play as Wor, a member of the so-called 'Flying men' who look quite similar to angels. The home planet of these people, Iccus, has been taken over by a virus that has mutated into a collection of quite horrible creatures, and every previous attempt to battle them has failed. So now it is Wor's turn to save his home planet and destroy these mutants once and for all!</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Wings of Wor-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910125T000000</releasedate>
+		<developer>Masaya</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./World of Illusion Starring Mickey Mouse &amp; Donald Duck.zip</path>
+		<name>World of Illusion Starring Mickey Mouse and Donald Duck</name>
+		<desc>Mickey Mouse and Donald Duck are sucked into a magical world, while preparing for a magic act. Now they must survive over a dozen different side-scrolling levels, in order to return home.
+
+Mickey and Donald can run, jump, or attack by flourishing their capes. Enemies defeated in this way turn into doves, cards, or other harmless objects depending on the enemy. After defeating the boss of each level, a new magic spell is learned, allowing the pair to traverse the next level; i.e. flying on a magic carpet or going underwater in an air bubble. This was one of the few Genesis games to feature voice samples.
+The gameplay changes depending on if the player selects Mickey or Donald, in a one player mode, or if two people want to control both characters at once. For instance, Mickey can squeeze through certain gaps, while Donald must find a different route; if both are playing, Mickey can pull Donald through the gap. Either can stand on the others' shoulders to ascend higher, and lower a rope to pull the other up.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/World of Illusion Starring Mickey Mouse &amp; Donald Duck-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game>
+		<path>./Fix It Felix Jr.zip</path>
+		<name>Fix It Felix Jr.</name>
+		<desc>In the quarter-muncher Fix-It Felix Jr., the thick-headed thug Wreck-It Ralph tries to destroy a building while the daring do-gooder Fix-It Felix repairs the damage with his magic hammer.
+
+This "arcade" game is the basis of the Disney animated movie Wreck-It Ralph. In the film, Ralph is the bad guy, but that doesn't mean he is a "bad" guy, -- it's just his job to be a heartless demolisher so that Felix can save the day. But countless games where Ralph has played the villain has taken its toll, and after becoming the outcast of his mostly-wrecked town, Ralph is ready to look for more out of his pixelated life.
+
+Fix-It Felix Jr. is seen in the movie Wreck-It Ralph, and Disney has produced promotional display cabinets as part of the marketing of the film. Whether this arcade game itself will be released for the public to play is unknown at this time; a web version of the game is playable courtesy of Disney.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Fix It Felix Jr-image.jpg</image>
+		<rating>0</rating>
+		<developer>Airwalk Studios</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20171223T063444</lastplayed>
+	</game>
 </gameList>

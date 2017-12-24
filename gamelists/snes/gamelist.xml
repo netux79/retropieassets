@@ -2279,8 +2279,69 @@ Go through the game's five stages, defeating enemies along the way and destroyin
 		<developer>Irem Corp.</developer>
 		<publisher>Varie Corporation</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20171206T033902</lastplayed>
+	</game>
+	<game>
+		<path>./Arcus Odyssey.zip</path>
+		<name>Arcus Odyssey</name>
+		<desc>This is a Gauntlet-like game: lots of action and magic, with items to collects, and many dungeons to free from monsters. The game is also viewed from an isometric perspective, typical for the genre. Choose one of four characters to battle your way through dungeons and castles, or play with a friend in a 2-player mode</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Arcus Odyssey-image.jpg</image>
+		<rating>0.7</rating>
+		<developer>Wolf Team</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gradius III.zip</path>
+		<name>Gradius III</name>
+		<desc>A horizontal shooter where you control Vic Viper, a spaceship that increases its power by collecting capsules left by destroyed enemies. The player chooses the desired power-up by collecting capsules until the required cell is lit on the menu. The game is divided into stages, each containing a boss that must be destroyed.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Gradius III-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mr Nutz.zip</path>
+		<name>Mr. Nutz</name>
+		<desc>You are the cool squirrel of the title, and you must defeat the evil Yeti before he freezes the entire world. Your quest will make you explore many areas such as a forest, a witch's cottage, a volcano, the clouds, a circus...
+
+Mr. Nutz is a platform game, in which Nutz must jump on enemies to kill them. His tail can also be controlled. You move through levels using ledges, ladders, bridges and platforms. There are some simple puzzles involving object manipulation.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mr Nutz-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Nightmare Busters.zip</path>
+		<name>Nightmare Busters</name>
+		<desc>Synchronized with the wavelengh of dreams, the miserable Tyrant has discovered a way to enter them and convolute what children see, hear and feel while they sleep - all for the benefit of his twisted amusement. Enter Flynn and his twin brother Floyd, two virtuous leprechauns who refuse to sit idly by while the Tyrant weaves his dreadful delusions. Get going, gents! There's no time to lose!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Nightmare Busters-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20131223T000000</releasedate>
+		<developer>Arcade Zone Ltd.</developer>
+		<publisher>Super Fight Team</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Super Metroid Redesign.zip</path>
+		<name>Super Metroid Redesign</name>
+		<desc>Take on a legion of Space Pirates and a new Metroid force as you forge into the covert underworld of Planet Zebes!  It’s up to you and Samus to recapture the long-surviving Metroid hatchling before evil hands unleash its energy.
+
+An army of ominous creatures are poised for battle at every turn of Zebes’ twisted, threatening passageways… including the menacing Ridley and the great lizard Kraid.  Knock down enemies with a killer somersault and swing on an electric beam through narrow passageways!  They’re no match for you and Samus… but wait!  It seems the Mother Brain has returned…</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Metroid Redesign-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
 	</game>
 </gameList>
