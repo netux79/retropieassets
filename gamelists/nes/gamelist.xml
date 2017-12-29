@@ -567,10 +567,10 @@ This is Faxanadu, the legend, the adventure – the incredible journey on the Wo
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Final Fantasy 3.zip</path>
+		<path>./Final Fantasy III.zip</path>
 		<name>Final Fantasy III</name>
 		<desc>The Gulgan thus prophesied: "The earthquake was only the beginning. The great tremors that swallowed the crystals, the light of our world, only to spawn monsters from the depths of the scarred land, are nothing but harbingers of what has yet to come. Something is coming...fathomless, ominous, and full of sorrow... But hope is not yet lost. Four souls will be blessed with light, and so it shall begin...</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy 3-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy III-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19900427T000000</releasedate>
 		<developer>Square</developer>
@@ -2732,8 +2732,450 @@ The team decides to split up and find a way out, but the mansion is both in dang
 		<developer>Williams</developer>
 		<publisher>Williams</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20171223T070225</lastplayed>
+	</game>
+	<game>
+		<path>./Arkanoid II.zip</path>
+		<name>Arkanoid II</name>
+		<desc>Eons have passed... yet despite apparent annihilation in the original ARKANOID game, Dimension-controlling force DOH has come back to life, and occupying the huge spacecraft ZARG, has entered our universe. ARKANOID-type spacefighter MIXTEC runs through long forgotten computer data until it finds the answer to this threat... VAUS 2 is launched and speeds towards the threatening alien presence, before it can extract its revenge... "Arkanoid II"!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Arkanoid II-image.jpg</image>
+		<releasedate>19880308T000000</releasedate>
+		<developer>Daiei</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bomberman.zip</path>
+		<name>Bomberman</name>
+		<desc>Bomberman is an action game that has become synonymous with the Hudson brand. This is the very first version of Bomberman, which was released in 1985, and it went on to sell over one million copies. Bomberman boasts a simple and addictive game system where the players set bombs to knock out enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bomberman-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bomberman II.zip</path>
+		<name>Bomberman II</name>
+		<desc>A Bomberman named White Bomberman is framed for terrible crimes by Black Bomberman. After being accused of robbing a bank, White Bomberman is thrown in jail. Bomberman's mission is to escape his prison cell and bring Black Bomberman to justice.
+
+The game follows the classic Bomberman formula: you are in a room full of blocks and enemies and Bomberman must plant bombs to destroy the blocks and enemies. Several blocks contain power-ups (such as blast radius increasers or fuse shorteners), and one in each level contains a door, which takes Bomberman to the next level.
+Passwords are given after game over, recording the level, number of bombs, and strength of bombs. These passwords can be entered when the game starts allowing the player to continue where he left off.
+New to the series are the multi-player modes. Vs Mode is a 2-player mode, while Battle Mode is a 3-player mode. The objective is to kill the opposing Bomberman by planting bombs. An NES Four Score is required to play the 3-player mode.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bomberman II-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Bubble Bobble.zip</path>
+		<name>Bubble Bobble</name>
+		<desc>THESE ARE TWO HUNGRY DINO-MIGHTS AND THEY'VE GOT BUBBLE FIGHT'N FUN DOWN TIGHT. You and your two brontosaurus buddies, Bub and Bob, are up to your brows in bubble troubles. You've got to battle battalions of bullies by blowing and bursting billions of bubbles. It's a fast-paced bubble banquet through over 100 screens of slap happy suds. Got an appetite for fun... then get blowin'.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bubble Bobble-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bugs Bunny Crazy Castle, The.zip</path>
+		<name>The Bugs Bunny Crazy Castle</name>
+		<desc>The Crazy Castle series is an action-puzzle game series created by Kemco and released on the Famicom Disk System, NES, Game Boy, Game Boy Color and Game Boy Advance.  It stars different popular cartoon characters, most notably the Warner Bros. cartoon character, Bugs Bunny, and the Walt Disney cartoon character, Mickey Mouse.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Bugs Bunny Crazy Castle, The-image.jpg</image>
+		<releasedate>19890801T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Cowboy Kid.zip</path>
+		<name>Cowboy Kid</name>
+		<desc>Sheriff Sam and Little Chief are coming to town in this delightful western adventure. COWBOY KID is a two player simultanious action adventure for the entire family. COWBOY KID has 4 MEGS of action packed into this NES cartridge. Players must learn to be appointed sheriff so they can rid the West of the scourge of evil. Can you bring these dudes to justice?
+
+COWBOY KID rounds up arcade and adventure action for the wildest showdown in the West. Beware rustlers, There's a new sheriff in town!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Cowboy Kid-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Pixel</developer>
+		<publisher>Romstar</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is the story of Billy and Jimmy Lee, twin brothers who learned to fight on the cold, tough streets of the city. Their expert knowledge of the martial arts combined with their street smarts, has made them both formidable fighting machines. But now Billy is faced with his greatest challenge. Marian has been kidnapped by the Black Warriors, the savage street gang of the mysterious Shadow Boss! Using whatever weapons come to hand - knives, whips, bats, rocks, oil drums, even dynamite - Billy must pursue the gang through the slums, factories, and wooded outskirts of the city to reach the hideout for his final confrontation with the Shadow Boss... his brother Jimmy!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Double Dragon-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon III - The Sacred Stones.zip</path>
+		<name>Double Dragon III: The Sacred Stones</name>
+		<desc>Only one man knows the real story behind Marion's disappearance... and he's dead! Now the Double Dragons must rely on a mysterious fortune teller to locate Marion and her ransom - the Sacred Stones of Power! You'll fend off vicious street thugs, evil ninja warriors, deadly gladiators, Manchurian barbarians and more! Defeat your most dreaded enemies and out of pure respect they'll join your side - adding their Iron Claws and Shangai Stars to your all-new martial arts maneuvers - like the awesome mid-air somersault. Double Dragon III. If you survive the action, you'll rescue Marion, retain your honor and discover the truth behind the Sacred Stones. If you fail...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Double Dragon III - The Sacred Stones-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19901101T000000</releasedate>
+		<developer>East Technology</developer>
+		<publisher>Technos Japan</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fantasy.zip</path>
+		<name>Final Fantasy</name>
+		<desc>An evil shroud covers the world in darkness. You must restore the powers of earth, wind, fire and water to the Four Orbs. Create your own band of 4 Light Warriors from fighters, thieves, martial artists, and magicians. You'll need all their skills to triumph in this massive role-playing adventure. Your treacherous journey takes you to all parts of a strange new world. Explore dangerous castles and dark caverns where deadly perils and great rewards, await at every turn. Hundreds of ferocious monsters block your path. With patience, skill, and cunning, you can defeat them.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19900501T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy II.zip</path>
+		<name>Final Fantasy II</name>
+		<desc>THE BIRTH OF A GENERATION
+
+A long lived peace...Is at an end. The Emperor of Palamecia has called forth monsters from the Underworld..and has begun his campaign for world conquest. A rebel army arose in the kingdom of Fynn to thwart the Emperor's plans. But the rebel's castle fell to an all-out assault by the Empire. Left with little choice, the rebels withdrew to the remote town of Altair. Four youths from Fynn also found themselves fleeing the Imperial forces. They had lost their parents at the hands of the Empire. But their escape wasn't over...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Final Fantasy II-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19881217T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Galaxian.zip</path>
+		<name>Galaxian</name>
+		<desc>The Galaxian Fleet has invaded and it's up to you to stop them. There's two-way action in this game; as you fire at them, they're firing back at you! All that is required of you is quick reflexes and an accurate aim. Can you destroy the Galaxian Fleet before they destroy you?
+
+This game was released only for the japanese Famicom and is a port of the original Arcade game released in 1979.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Galaxian-image.jpg</image>
+		<releasedate>19840907T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ganbare Goemon 2.zip</path>
+		<name>Ganbare Goemon 2</name>
+		<desc>Ganbare Goemon 2 is an Action game, developed and published by Konami, which was released in Japan in 1989.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ganbare Goemon 2-image.jpg</image>
+		<releasedate>19890104T000000</releasedate>
+		<developer>KONAMI</developer>
+		<publisher>KONAMI</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Ganbare Goemon! - Karakuri Douchuu.zip</path>
+		<name>Ganbare Goemon!: Karakuri Douchuu</name>
+		<desc>Ganbare Goemon! Karakuri Douchuu is an Action game, developed and published by Konami, which was released in Japan in 1986.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ganbare Goemon! - Karakuri Douchuu-image.jpg</image>
+		<releasedate>19860730T000000</releasedate>
+		<developer>KONAMI</developer>
+		<publisher>KONAMI</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Jetsons, The - Cogswell's Caper!.zip</path>
+		<name>The Jetsons: Cogswell's Caper</name>
+		<desc>George must save Planet M38 from Cogswell's destruction! Elroy, Jane, Judy, Astro and Rosie the Robot will give George the things he needs to meet the challenge. Using his anti-gravity boots, glider, and jet board, George will be walking on ceilings, dodging aliens and flying through danger on his way to stop Cogswell. Leap into the future and rescue another world with the JETSONS!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Jetsons, The - Cogswell's Caper!-image.jpg</image>
+		<releasedate>19930423T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Joe &amp; Mac.zip</path>
+		<name>Joe &amp; Mac</name>
+		<desc>It started out as a warm, peaceful summer day. Joe was lying in the green grass daydreaming about brontosaurus burgers while Mac was away hunting for dinosaurs. Hungry and relaxed, Joe returns to the village... BUT WAIT! Where are all the cavewomen? And where is all the food? That bogus bunch of Neanderthal nerds must have kidnapped the cavewomen and eaten the food! With no time to lose, Joe must single-handedly rescue the beloved cavewomen... and find some dinner along the way!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Joe &amp; Mac-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Elite Systems Ltd.</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kiteretsu Daihyakka.zip</path>
+		<name>Kiteretsu Daihyakka</name>
+		<desc>Kiteretsu Daihyakka is an Action game, published by Epoch, which was released in Japan in 1990.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Kiteretsu Daihyakka-image.jpg</image>
+		<releasedate>19900223T000000</releasedate>
+		<developer />
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Mappy-Land.zip</path>
+		<name>Mappy-Land</name>
+		<desc>Mappy, who is a policeman, prepared all kinds of wonderful birthday presents for his girlfriend, Mapico. But, Nyamco and his child Mukies have hidden them in the eight towns of Mappyland. What a pity! Mappy must hurry to get the presents back before Mapico's birthday party. The problem is that there are so many mysterious towns where Mappy must search, while fighting off his enemies. Can you accept the challenge and help Mappy to succeed?</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Mappy-Land-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19861126T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Ms. Pac-Man.zip</path>
+		<name>Ms. Pac-Man (Namco)</name>
+		<desc>Gobble, gobble, gulp. Ms. Pac-Man chows a power pellet and it's dinner time. Fly around the mazes at top speed while you dine on ghosts and score big points. Watch out! Don't let those little haunters get their hands on you or you're history.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ms. Pac-Man-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Ninja Kid.zip</path>
+		<name>Ninja Kid</name>
+		<desc>When the monsters of Demon Island steal human spirits as their first step in conquering the world, Ninja Kid comes to the rescue. In this Game Pak, the young champion of justice must evade a number of traps that these demons have contrived. And in this action-packed adventure, Ninja Kid survives a wicked dogfight, fights enormous fires, and duels against a giant demon in order to recover the stolen human spirits.
+You'll spend hours of challenge and entertainment assisting the Junior Defender of human rights conquer all evil!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Ninja Kid-image.jpg</image>
+		<releasedate>19860417T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Bandai</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./P.O.W. - Prisoners of War.zip</path>
+		<name>P.O.W.: Prisoners of War</name>
+		<desc>A captured P.O.W. commando codenamed Snake (Bart in the NES version) must bomb his way out of a P.O.W. prison cell and escape. During gameplay, the player must fight through four levels where the mission is not only to escape, but to infiltrate the enemy base and destroy their leaders. There are brass-knuckles, body armor, knives, grenades and machine guns that the players can use in order to aid them in their mission.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/P.O.W. - Prisoners of War-image.jpg</image>
+		<releasedate>19880901T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK / Electrocoin</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Man.zip</path>
+		<name>Pac-Man</name>
+		<desc>Gobble, gobble, gulp! Who's munching Power Pellets? Who's zipping around the maze at top speed, chomping up ghosts and scoring big points? It's Pac-Man, the world's hungriest character! Devour a fruit treat and get a big bonus score. But if you're caught by the little haunters, you're ghostflakes! Use the warp tunnel for a quick escape. Now play this classic arcade mega-hit alone or with a friend for double the fun! Hours of ghost-chomping action!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Pac-Man-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19931110T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pac-Mania.zip</path>
+		<name>Pac-Mania</name>
+		<desc>You know Pac-Man, that world famous yella-fella who's trying to gobble all the dots in the maze without getting nabbed by ghosts. Well, now you can play Pac-Man like never before - in spectacular 3-D! That's right, everything comes alive in Pac-Mania! The lovable ghosts glide through the air. Dots and energizer pellets hang in mid-air. And Pac-Man gets a new power: He can now jump up and over ghosts! You'll love the new challenging mazes. They come in so many mind-boggling shapes and colors, they'll turn you into a certified Pac-Maniac - going wild and crazy with more fun than ever!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Pac-Mania-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Westwood Associates</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Parasol Henbee.zip</path>
+		<name>Parasol Henbee</name>
+		<desc>This game is based on the Anime series of the same name and was released only in Japan for the Nintendo Famicom.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Parasol Henbee-image.jpg</image>
+		<releasedate>19910215T000000</releasedate>
+		<developer>Sakata SAS</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Perman: Return the Space Saucer!.zip</path>
+		<name>Perman: Return the Space Saucer!</name>
+		<desc>Birdman's space saucer has been stolen by Dr. Mad and its up to Perman to recover it and save the day! Seven stages of action for all ages!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Perman: Return the Space Saucer!-image.jpg</image>
+		<releasedate>19901214T000000</releasedate>
+		<developer>Tamtex</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Popeye.zip</path>
+		<name>Popeye</name>
+		<desc>Are you ready to climb ladders, jump landings, eat spinach and punch-out Brutus, Seahag and the flying Bernard? Because that's what it takes to win Olive Oyl's hand in marriage. You'll score points by defeating your enemies and collecting the "love tokens" Olive drops from her window. The more you collect, the more points you'll score and the faster you'll win her love. But watch out. Around every corner lurks another jealous suitor. You'll have to think with your head as well as your heart to win this fast action love affair!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Popeye-image.jpg</image>
+		<releasedate>19860601T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./R.C. Pro-Am.zip</path>
+		<name>R.C. Pro Am</name>
+		<desc>Nintendo puts you in control.
+  Grab your controller and pull up to the starting line. It's you against three other all-star racers. You'll face hair-pin turns, outragerous curves, oil slicks and rainclouds as you make your way through 32 trecherous courses.
+  Along the way you'll pick up performance boosters like Turbo Accelerations, Sticky Tires and Top Speed that will help you get to the finish line first. But if the going gets rough, use your bombs and missles to knock out the competition to make sure you're the winner.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/R.C. Pro-Am-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19881231T000000</releasedate>
+		<developer>RARE</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./River City Ransom.zip</path>
+		<name>River City Ransom</name>
+		<desc>Hear the message from Sick, the meanest ganglord in town: "I hold your high school captive, and some of the students will have a trying moment, if they're ever fool enough to cross my path!" But you aren't afraid of anybody! Face the terrible gangs and neutralize their bosses, in order to deliver the city from terror!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/River City Ransom-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890425T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Technos Japan</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rush'n Attack.zip</path>
+		<name>Rush'n Attack</name>
+		<desc>Up for a little guerilla warfare? You asked for it. You're behind enemy lines, armed with only a knife and a mission: to free dozens of POWs hidden in an isolated, well-armored camp. If you're good, you'll pick off the heavily-armed enemy guerillas, one by one, and grab their bazookas and hand grenades. If you're great, you'll turn their weapons against them, to blow away a pack of attack dogs, a fleet of choppers, and a whole battalion of guards. But make one mistake, and it's all over. For you, our POWs... the future of the Free World!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Rush'n Attack-image.jpg</image>
+		<releasedate>19890608T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Sky Shark.zip</path>
+		<name>Sky Shark</name>
+		<desc>Sky Shark is a top-down shooter similar to Raiden. You start off with four lives and three bombs. With that (you can get more lives at certain point intervals, and more bombs can be found), you, the "Sky Shark" of your squadron, blast through five levels of enemy-infested battlefields with as many as six gun upgrades. (Aside from the bombs and the gun upgrade, there are no other weapons to be found at all.) Includes three difficulty levels and two-player support.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Sky Shark-image.jpg</image>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Toaplan Co.</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Snow Bros.zip</path>
+		<name>Snow Brothers</name>
+		<desc>Nick and Tom are two Princes living the dream with two beautiful princesses. When suddenly the evil King Scorch freezes Prince Nick and Tom and kidnaps the Princesses. Now Nick and Tom find themselves with abilities dealing with snow and ice. These two Snow Brothers will need to hunt down the evil King Scorch and rescue the princesses.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Snow Bros-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Star Soldier.zip</path>
+		<name>Star Soldier</name>
+		<desc>A strange and evil presence is lurking in space. Crushing everything in its path, destroying spaceships full of innocent people, the brutal Starbrain is threatening the entire Galactic Empire. Starbrain, a giant computer programmed only for destruction, inhabits an enormous space station, guarded by enemy ships and robot creatures. To penetrate the station is a job for the most skillful and experienced Star Soldier - you! You'll be piloting Caesar, the fastest fighter ship in the Galactic Fleet, with an awesome arsenal of weapons at your finger-tips. Only you can end the fearsome Starbrain's spree of destruction, and restore peace to the galaxy!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Star Soldier-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Taxan</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Star Wars.zip</path>
+		<name>Star Wars</name>
+		<desc>Only the people who made the movie could bring you this much action and adventure... Control your favorite Star Wars heroes - Luke Skywalker, Han Solo, Princess Leia. Enlist the help of Obi-Wan Kenobi, C-3PO, and R2-D2. Outfight and outsmart the intergalactic bad guys - stormtroopers, jawas, Banthas, bounty hunters, sinister droids, and more. Explore the spectacular worlds of Star Wars - from the Tatooine Desert to the Mos Eisley Spaceport to inside the Death Star. And if you get very, very good... destroy the Death Star and save the Rebel Alliance from Darth Vader!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Star Wars-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19911115T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>JVC, Lucasfilm Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Star Wars (Namco).zip</path>
+		<name>Star Wars (Namco)</name>
+		<desc>This game is a side-scrolling platformer that has Luke begin his travels on Tatooine. While Luke eventually travels to the Death Star and Yavin IV, he travels to other planets such as Kessell, Iscalon, and Hoth to rescue his imprisoned friends before he flies his X-Wing fighter during the final Death Star trench run. Along the way, he fights against Tusken Raiders, Stormtroopers, Boba Fett, and rides in vehicles such as his Landspeeder... or a whale on Hoth.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Star Wars (Namco)-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19871204T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Star Wars - The Empire Strikes Back.zip</path>
+		<name>Star Wars: The Empire Strikes Back</name>
+		<desc>The Empire Must Be Stopped. Trust Your Instincts. Use The Force.
+
+Battle vicious Wampas and destroy the Imperial probe droid. Defend the Rebel base against an onslaught of Stormtroopers and armored transports. Take command of a wild Tauntaun, an armored Snowspeeder, and an X-Wing fighter... your intergalactic transportation for the trip to Hoth and points beyond. From there, it's a treacherous journey to meet with the Jedi Master himself, Yoda, who instructs you on the ways of the Force. With your special Force powers, you will be ready for the ultimate challenge: rescue Princess Leia and destroy Darth Vader.
+
+Outmaneuver Imperial walkers in a Rebel Snowspeeder.
+
+Defeat the Wampa in the ice cave beneath Hoth.
+
+Seek the Jedi Master and learn the ways of the Force.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Star Wars - The Empire Strikes Back-image.jpg</image>
+		<releasedate>19920313T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Carnivorous robots chow-down in China Town, while brutal Ninjitsu Warriors, blood descendants of the deadly "Foot" Clan, bust-up bystanders from the Bronx to Broadway. Police SWAT Teams can't stop them, but the Teenage Mutant Ninja Turtles can! 'Cause, powered by slices of pizza, they're always ready to rumble - with nunchukus, Katana Blades, and a party bus loaded with Anti-Foot Clan Missiles. So team up with the turtles, Raphael, Leonardo, Michaelangelo and Donatello, then switch on the tortoise radar, following your map and sixth sense past savage traps and secret sewage passages. Knock heads with the nasty Ninjitsu and either splatter them senseless or get yourself turned into turtle soup!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19891231T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Ultra Games</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Tournament Fighters.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Tournament Fighters</name>
+		<desc>Trash the surf board and heave the 'za. It's a whole new breed of Turtles and they're fixated on fighting. We're dead serious, Tournament Fighters takes dude-on-dude demolition to new heights of intensity with 4 modes of pain-producing battles, deadly warriors, secret arenas, astounding graphics and sound effects that'll make you cringe! Clash with Krang-created clones of the Turtles, Casey Jones, April O'Neil, Ray Filet and Sisyphus, plus bosses Triceraton, Krang's Android and Karai. There's flying body presses, knee drops, head butts, rocket punches, elbow smashes, somersault throws, you'll feel and inflict them all. And the settings include Magma Ocean Planet, Jungle Planet, and every other bizarre corner of Dimension X!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Teenage Mutant Ninja Turtles - Tournament Fighters-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940224T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Zanac.zip</path>
+		<name>Zanac</name>
+		<desc>The "system" was created by an organic intelligence body many milleniums ago and began attacking the human race. The earth was thrown into turmoil with only one hope for salvation. Fighter model AFX-6502 ZANAC was perfected by the 256th Riot Fleet to ward off the enemy system. It's your job, as ZANAC, to save the human race. Using eight special weapons and secret power forces buried along the way, guide ZANAC through 12 screens of enemy creatures to victory.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Zanac-image.jpg</image>
+		<releasedate>19871001T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>FCI, Inc.</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./1942.zip</path>
+		<name>1942</name>
+      <desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+      <image>~/.emulationstation/downloaded_images/nes/1942-image.jpg</image>		
+		<releasedate>19861101T000000</releasedate>
+		<developer>Capcom/Micronis</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+      <players>2</players>
+      <rating>0</rating>
 	</game>
 </gameList>

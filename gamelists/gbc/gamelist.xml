@@ -259,7 +259,7 @@ Donkey Kong, JR. - Grab the key and free DK!
 		<developer>Pipe Dream Interactive</developer>
 		<publisher>Hasbro Interactive</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Ghosts'n Goblins.zip</path>
@@ -271,7 +271,7 @@ Donkey Kong, JR. - Grab the key and free DK!
 		<developer>Digital Eclipse</developer>
 		<publisher>Capcom</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Karate Joe.zip</path>
@@ -330,8 +330,8 @@ More Konami classic games coming soon.
 		<rating>0</rating>
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
-		<genre></genre>
-		<players></players>
+		<genre />
+		<players />
 	</game>
 	<game>
 		<path>./Pokemon Puzzle Challenge.zip</path>
@@ -343,7 +343,7 @@ More Konami classic games coming soon.
 		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Prince of Persia.zip</path>
@@ -355,7 +355,7 @@ More Konami classic games coming soon.
 		<developer>Red Orb</developer>
 		<publisher>Red Orb</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Tetris DX.zip</path>
@@ -399,6 +399,169 @@ The island’s inhabitants have no knowledge of the outside world.  One creature
 		<developer>Bit Managers</developer>
 		<publisher>Infogrames</publisher>
 		<genre>Racing</genre>
-		<players></players>
+		<players />
+	</game>
+	<game>
+		<path>./Asteroids.zip</path>
+		<name>Asteroids</name>
+		<desc>Your spaceship is trapped in a deadly asteroid belt. You will have to destroy the drifting asteroid boulders before they destroy your spaceship. But, watch out for enemy spacecraft. Fire your missiles to destroy the boulders and the enemy.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Asteroids-image.jpg</image>
+		<releasedate>19990901T000000</releasedate>
+		<developer>Syrox Developments</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Bionic Commando - Elite Forces.zip</path>
+		<name>Bionic Commando: Elite Forces</name>
+		<desc>You are the ultimate weapon. You are the perfect synthesis of human and machine - a Bionic Commando.Your latest mission - to rescue a fellow commando, Commando Joe - will take you deep into the heart of enemy territory. Use your Bionic Claw to grapple and swing through more than 20 levels of forest, deserts, mountains and futuristic cities Blast through dozens of unique with your Assault Rifle, Rocket Launcher and Flame Thrower as you seek to destroy the overlord Arturus, and save your homeland of Karinia from utter destruction.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Bionic Commando - Elite Forces-image.jpg</image>
+		<releasedate>20000124T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Bugs Bunny in Crazy Castle 4.zip</path>
+		<name>Bugs Bunny In Crazy Castle 4</name>
+		<desc>Bugs Bunny returns in BUGS BUNNYS CRAZY CASTLE 4 for Game Boy Color! Thinking he has found the Carrot Castle, Bugs has once again entered the Crazy Castle. You must help him escape in this single-player action or puzzle game. This time, more than 60 rooms await Bugs, and he'll have to use all of his wits and skills to escape with his "hare" intact. Once again, the Crazy Castle is loaded with traps and hazards that will cut your carrot-collecting career short so make sure you don't get reacquainted with them the hard way. As CRAZY CASTLE fans are probably used to, several Warner Bros. cartoon characters are here to keep Bugs on his toes. You'll have to fight off Daffy Duck, Yosemite Sam, Foghorn Leghorn, Pepe Le Pew, Tweety, and the Tazmanian Devil with one of a variety of weapons, or make tracks to the nearest safe spot. A password save will chart your progress so that you don't have to start from scratch each time you play.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Bugs Bunny in Crazy Castle 4-image.jpg</image>
+		<releasedate>20000701T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Jungle Book, The - Mowgli's Wild Adventure.zip</path>
+		<name>Walt Disney's The Jungle Book: Mowgli's Wild Adventure</name>
+		<desc>In WALT DISNEY'S THE JUNGLE BOOK: Mowgli's Wild Adventure, you must guide Mowgli on an adventure to become King of the Jungle. Mowgli must work his way through more than 20 levels of adventure, using his superior intellect. Instead of beating up monkey guards, Mowgli can use a banana to lure them away from their posts. However, there will come a time when fighting is necessary, and the man-cub can use a number moves to get rid of the enemies including a butt-stomp and a vicious spin-attack. Since the game is optimized for the Game Boy Color, the environments look like they could have been taken right from the film. Help Mowgli survive to adulthood in WALK DISNEY'S THE JUNGLE BOOK: Mowgli's Wild Adventure.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Jungle Book, The - Mowgli's Wild Adventure-image.jpg</image>
+		<releasedate>20001120T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Mario Golf.zip</path>
+		<name>Mario Golf</name>
+		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Mario Golf-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19991001T000000</releasedate>
+		<developer>Camelot Software Planning</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pokemon - Yellow Version.zip</path>
+		<name>Pokémon Yellow</name>
+		<desc>You've finally been granted your Pokémon trainer's license, and now you're on your way to becoming the world's greatest Pokémon trainer! The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise's torrential water gun. Stand strong when facing Pidgeot's stormy Gust. Develop the ultimate Pokémon strategy to defeat the eight GYM leaders and become the greatest Pokémon Master of all time!</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Pokemon - Yellow Version-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990903T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./R-Type DX.zip</path>
+		<name>R-Type DX</name>
+		<desc>The World Government needs your help. A deep-space probe has uncovered the Bydo Empire's secret plans to mount an attack on Earth. A full-scale assault force would be detected by the Empire's long-range scanners, and any hope of surprise would be lost. Our only chance is for a single pilot in a lone R-Type fighter to penetrate the Bydo defense system and destroy the evil Empire before it can launch its attack. Tear through Bydo defenses as you blast enemies with your Fire Chain, Super Laser and Bubble Beam. Take the fight to a fevered pitch with two pulse-pounding rapid-fire modes on your Game Boy Color system.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/R-Type DX-image.jpg</image>
+		<releasedate>19990601T000000</releasedate>
+		<developer>Bits Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Snoopy Tennis.zip</path>
+		<name>Snoopy Tennis</name>
+		<desc>It's a tennis game, Charlie Brown! The PEANUTS gang have packed up their rackets and headed to the courts for some fun tennis action in SNOOPY TENNIS for Game Boy Color. Choose from an initial selection of four characters Snoopy, Charlie Brown, Linus, and Lucy and take to one of four courts: clay, hard, and two different grass courts. Five gameplay modes await you: in Normal mode you play a quick best-of-three or best-of-five match up against a computer or human opponent; Sudden Win gives you an instant victory if you gain two games on your opponent; in Point Race mode, you'll race to see how many points you can score in a minute; Special mode throws a variety of power-ups into the mix; and Championship mode has you battling several opponents in order to become champion and unlock four new characters and courts. In addition, three different difficulty levels allow players of all skill levels to enjoy the game. SNOOPY TENNIS is for Game Boy Color only.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Snoopy Tennis-image.jpg</image>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Mermaid Studios</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Sports</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Space Invaders.zip</path>
+		<name>Space Invaders</name>
+		<desc>Aliens are trying to take over the solar system, and you're the only one that can stop them. You are the best pilot on Earth, and you must defend all of the planets. After choosing your vehicle from the three that are available, it will stay at the bottom of the screen as a formation of aliens slowly moves down the screen. Your job is simple: blast the aliens out the sky. When they are decimated, you will move on to the next level. Fortunately, there are several power-ups available including electricity, solar flares, bubbles, shurikens, and others. As you progress through the game, new aliens with new formations will appear, not mention a boss character or two. If you are lucky enough to make it through all of the game levels, you will be able to play a version of the original arcade game released in the late '70s. Defend the Earth from tyranny in SPACE INVADERS.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Space Invaders-image.jpg</image>
+		<releasedate>19991022T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Street Fighter Alpha - Warriors' Dreams.zip</path>
+		<name>Street Fighter Alpha: Warriors' Dreams</name>
+		<desc>The challenge has been made and you're cast into the battle with nothing but cunning and skill on your side. The world's most powerful collection of warriors is now assembled in one incredible tournament. Armed with an arsenal of new martial arts moves, Super Combos and Alpha Counters, legendary Street Fighters, Ryu- Chun-Li and Ken collide with a lethal new combination of foes. Welcome to the most extreme one-on-one warfare ever!</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Street Fighter Alpha - Warriors' Dreams-image.jpg</image>
+		<releasedate>20000301T000000</releasedate>
+		<developer>Crawfish Interactive</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tiny Toon Adventures - Dizzy's Candy Quest.zip</path>
+		<name>Tiny Toon Adventures: Dizzy's Candy Quest</name>
+		<desc>This is a puzzle solving game in which the player (as Dizzy from the Tiny Toons Cartoon) has to collect and return different types of candy to a friendly robot that needs the candy to free himself from Montana Max.
+
+The game is divided in 5 worlds (The Studios, Ice World, City, Gogo Dodo's world, Looniversity) with varying numbers of sublevels.
+
+Getting to the candy is made complicated by conveyor belts, trap doors and fans as well as dissolving bridges etc. To add to the trouble, clones of popular Tiny Toon characters (Plucky Hamton, Furrball etc.) are programmed to attack the player.
+
+Extras can be collected for extra energy, time etc. The game is presented from a top down perspective. Estimated playtime approx. 30 hours.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Tiny Toon Adventures - Dizzy's Candy Quest-image.jpg</image>
+		<releasedate>20011001T000000</releasedate>
+		<developer>Conspiracy Games</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Toki Tori.zip</path>
+		<name>Toki Tori</name>
+		<desc>Join the courageous Toki Tori on his quest to recover his family of eggs in this brain teasing puzzle adventure exclusively for the Game Boy Color video game system. Explore mysterious new worlds like the Slime Cave, Creepy Castle, Forest Falls and Bubble Barrage... over 60 levels of exciting puzzle action in all. Armed with an arsenal of 10 different tools, Toki Tori must use his noggin' to overcome dangerous obstacles and face other exasperating challenges.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Toki Tori-image.jpg</image>
+		<releasedate>20010912T000000</releasedate>
+		<developer>Two Tribes</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Tomb Raider - Curse of the Sword.zip</path>
+		<name>Tomb Raider: Curse of the Sword</name>
+		<desc>Released in conjunction with the LARA CROFT: Tomb Raider film starring Angelina Jolie, Curse of the Sword is one of the more advanced titles ever created for the Game Boy Color. While averting a museum robbery, Lara is wounded ever so slightly by what seems to be a cursed sword. Now, her worst fears are beginning to come true, as a bizarre cult based out of New Orleans is plotting to steal her soul. Help the lovely and talented Ms. Croft save herself as you control her through worldly adventures of all sorts. An equal blend of puzzle solving and action, the game boasts a unique control system that allows for maximum character response. You'll be collecting keys and artifacts throughout the experience, each of which will help you to unlock doors and secrets. Graced by perfect animation and epic gameplay, TOMB RAIDER: Curse of the Sword is a welcome addition to the long line of brilliant TOMB RAIDER games.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Tomb Raider - Curse of the Sword-image.jpg</image>
+		<releasedate>20010701T000000</releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Wendy - Every Witch Way.zip</path>
+		<name>Wendy - Every Witch Way</name>
+		<desc>She's been around for roughly 50 years, and Wendy the Good Little Witch finally has her own handheld video game. The laws of gravity have been upset, and Wendy is to blame! Help her trek through level after level of maddening obstacles and deadly enemies in order to set things right. There are hidden Moon Stones that Wendy must find in order to get things back to normal, but they're spread out over four vast levels of harrowing action. Packed with strange locations and tough mysteries to solves, WENDY: Every Witch Way features four bonus levels hat have you earning points by flying through the air on a broom, avoiding flying objects, and taking out would-be deterrents with a magic wand. Boasting detailed, cartoon-style graphics and some of the most original gameplay you've ever laid eyes on, WENDY: Every Witch Way is a truly magical experience for gamers of all ages.</desc>
+		<image>~/.emulationstation/downloaded_images/gbc/Wendy - Every Witch Way-image.jpg</image>
+		<releasedate>20010828T000000</releasedate>
+		<developer>WayForward Technologies</developer>
+		<publisher>TDK Mediactive</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Super Mario Land 2 - 6 Golden Coins DX.zip</path>
+		<name>Super Mario Land 2 - 6 Golden Coins DX</name>
+      <image>~/.emulationstation/downloaded_images/gbc/Super Mario Land 2 - 6 Golden Coins DX-image.jpg</image>
+		<rating>0</rating>
 	</game>
 </gameList>

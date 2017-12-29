@@ -140,4 +140,14 @@ Son Son II is also one of the earliest Capcom games to use Zenny, their trademar
 		<publisher>NEC Avenue</publisher>
 		<genre>Action</genre>
 	</game>
+	<game>
+		<path>./Turrican.zip</path>
+		<name>Turrican</name>
+		<desc>From beyond the edge of darkness, evil incarnate is back. He is Morgul, master of all the fears and nightmares of mankind. As a world trembles in sleepless terror, a single warrior emerges - you are Turrican! Battle through the five worlds of darkness encountering thunder and storm, mechanical monsters, hidden rooms, awesome end of level guardians, reptillian beasts, and anywhere... the unexpected! Featuring 13 levels with over 1,300 screens, 10 hi-tech weapons systems, multi-directional scrolling, 20 musically excellent soundtracks, countless special effects and bonus features, and 50 different aliens and 8 gigantic end-level monsters.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Turrican-image.jpg</image>
+		<releasedate>19910801T000000</releasedate>
+		<developer>The Code Monkeys</developer>
+		<publisher>Ballistic</publisher>
+		<genre>Adventure</genre>
+	</game>
 </gameList>

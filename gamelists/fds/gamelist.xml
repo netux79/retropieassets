@@ -179,4 +179,14 @@ Takamaru, a brave and young samurai apprentice, has been sent to investigate. He
 		<playcount>1</playcount>
 		<lastplayed>20170305T041037</lastplayed>
 	</game>
+	<game>
+		<path>./Roger Rabbit.zip</path>
+		<name>Roger Rabbit</name>
+		<desc>Our hero Roger Rabbit needs your help on a daring quest to rescue his main squeeze, Jessica Rabbit - caught in the clutches of those despicable Toon Patrol! Hop from one spooky room to another, chase up creaky stairs and slide down rusty pipes. To get to Jessica, remember the secret passwords, then collect all the carrots you find. But hurry!  Roger can throw a good rabbit-punch in a pinch. But for added protection, you can use some unusual objects like boxing gloves, cargo crates and water buckets. And that's not all - after a drink from the Magic Bottle nothing will stop you! With a deft wrist, a quick wit, and a swift kick, you will win the game and have Roger and Jessica hopping happily together again!</desc>
+		<image>~/.emulationstation/downloaded_images/fds/Roger Rabbit-image.jpg</image>
+		<releasedate>19890216T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>

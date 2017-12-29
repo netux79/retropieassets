@@ -603,7 +603,7 @@ There are some people that have descended from Hastur's ancient bloodline, one o
 	<game>
 		<path>./It Came from the Desert.zip</path>
 		<name>It Came from the Desert</name>
-      <image>~/.emulationstation/downloaded_images/megadrive/It Came from the Desert-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/megadrive/It Came from the Desert-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
@@ -869,9 +869,32 @@ Fix-It Felix Jr. is seen in the movie Wreck-It Ralph, and Disney has produced pr
 		<image>~/.emulationstation/downloaded_images/megadrive/Fix It Felix Jr-image.jpg</image>
 		<rating>0</rating>
 		<developer>Airwalk Studios</developer>
-		<publisher></publisher>
+		<publisher />
 		<genre>Action</genre>
 		<playcount>1</playcount>
 		<lastplayed>20171223T063444</lastplayed>
+	</game>
+	<game>
+		<path>./Turrican.zip</path>
+		<name>Turrican</name>
+		<desc>From beyond the edge of darkness, evil incarnate is back. He is Morgul, master of all the fears and nightmares of mankind. As a world trembles in sleepless terror, a single warrior emerges - you are Turrican! Battle through the five worlds of darkness encountering thunder and storm, mechanical monsters, hidden rooms, awesome end of level guardians, reptillian beasts, and anywhere... the unexpected! Featuring 13 levels with over 1,300 screens, 10 hi-tech weapons systems, multi-directional scrolling, 20 musically excellent soundtracks, countless special effects and bonus features, and 50 different aliens and 8 gigantic end-level monsters.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Turrican-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19900622T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Universal Soldier.zip</path>
+		<name>Universal Soldier</name>
+		<desc>Universal Soldier is the licensed video game based on the 1992 movie starring Jean-Claude Van Damme. You control Van Damme's character as he turns against his platoon and attempts to bring down the corrupt government organization that created him.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Universal Soldier-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Code Monkeys</developer>
+		<publisher>Accolade</publisher>
+		<genre>Action</genre>
+		<players></players>
 	</game>
 </gameList>
