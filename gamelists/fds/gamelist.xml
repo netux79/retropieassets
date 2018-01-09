@@ -189,4 +189,16 @@ Takamaru, a brave and young samurai apprentice, has been sent to investigate. He
 		<publisher>Kemco</publisher>
 		<genre>Action</genre>
 	</game>
+	<game>
+		<path>./Aliens - Alien 2.zip</path>
+		<name>Aliens: Alien 2</name>
+		<desc>Aliens: Alien 2 is an arcade platformer (or run'n'gun if you like) featuring Ripley on a planet infested with aliens. Armed with only a basic gun at first, she faces facehuggers that come out of alien eggs. After having dispatched a face hugger, the egg may be shot to reveal an item. Items may be hand grenades, stronger guns or wing items which make her jump longer.
+
+The game was scheduled for release in 1987, but was canceled. The prototype was leaked onto the internet in 2009.</desc>
+		<image>~/.emulationstation/downloaded_images/fds/Aliens - Alien 2-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>

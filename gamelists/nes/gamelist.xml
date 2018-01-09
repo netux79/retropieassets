@@ -3169,13 +3169,197 @@ Seek the Jedi Master and learn the ways of the Force.</desc>
 	<game>
 		<path>./1942.zip</path>
 		<name>1942</name>
-      <desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
-      <image>~/.emulationstation/downloaded_images/nes/1942-image.jpg</image>		
+		<desc>1942 is set in the Pacific theater of World War II. The goal is to reach Tokyo and destroy the entire Japanese air fleet. The player pilots a plane dubbed the "Super Ace" (but its appearance is clearly that of a Lockheed P-38 Lightning). The player has to shoot down enemy planes; to avoid enemy fire, the player can perform a roll or "loop-the-loop".</desc>
+		<image>~/.emulationstation/downloaded_images/nes/1942-image.jpg</image>
 		<releasedate>19861101T000000</releasedate>
 		<developer>Capcom/Micronis</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shooter</genre>
-      <players>2</players>
-      <rating>0</rating>
+		<players>2</players>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Alien 3.zip</path>
+		<name>Alien 3</name>
+		<desc>The ALIENS are fast, spit acid and are right behind you! The motion tracker is your only warning. No time to think, no time to catch your breath... RUN!
+
+Can't see very far ahead in these air ducts. Hard to breathe. Face-huggers can be anywhere. You have the firepower... blast the ALIENS with your machine gun, flame thrower and grenade launcher. You know what you have to do... rescue the trapped prisoners and end this nightmare!
+
+Just keep telling yourself, "This isn't really happening. It's only a game!!!"</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Alien 3-image.jpg</image>
+		<releasedate>19930319T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Alien Syndrome.zip</path>
+		<name>Alien Syndrome</name>
+		<desc>The extra-terrestrials in this game are anything but friendly. They're slimy monsters that are holding space colonists captive aboard seven alien starships.
+
+For one or two players, this super action game challenges you to free the helpless hostages. Search each ship's deadly levels, using flamethrowers and laser cannons to vaporize alien scum. Look for maps to help you find your way.
+
+After you've saved all the captives from one ship, you must destroy its powerful leader before you can move on to the next ship. Remember, to the aliens, you're slime. And they want you good... and dead!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Alien Syndrome-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Tengen</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Beauty and the Beast.zip</path>
+		<name>Disney's Beauty and the Beast</name>
+		<desc>A self-centered prince is transformed into a hideous beast by the magic of an enchantress. What's more, all his servants have been turned into household objects.
+Before departing, the enchantress leaves a rose in the hands of his Prince, "This rose will bloom until your twenty-first birthday. You have until then to find the one you truly love and to earn that person's love in return. If you don't, you will be doomed to remain a beast forever."</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Beauty and the Beast-image.jpg</image>
+		<releasedate>19940708T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Choplifter.zip</path>
+		<name>Choplifter</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants. According to the back story, the helicopter parts were smuggled into the country described as "mail sorting equipment."
+
+In 1986, ports of the arcade version back to home versions were developed for the Nintendo Entertainment System and Sega Master System. These versions include some game play and scoring changes of their own, but use the environments, music, and approximate score play of the arcade remake.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Choplifter-image.jpg</image>
+		<releasedate>19860626T000000</releasedate>
+		<developer />
+		<publisher>Jaleco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dark Lord.zip</path>
+		<name>Dark Lord</name>
+		<desc>Dark Lord is a Role-Playing game, developed and published by Data East, which was released in Japan in 1991.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Dark Lord-image.jpg</image>
+		<releasedate>19910308T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Family Tennis.zip</path>
+		<name>Family Tennis</name>
+		<desc>Family Tennis released December 11, 1987 exclusively in Japan for the Nintendo Entertainment System. The fourth of Namco's lengthy "Family" series of sports games and the first to concentrate on tennis, Family Tennis plays much like its Nintendo forebear and other tennis game contemporaries. It shares the same viewpoint from behind the court and requires that the player make their way to where each shot is heading and return the ball by tapping the swing button in order to win.
+
+Family Tennis has a few notable quirks, however. First, is that the many fictional tennis players available all superficially resemble actual real-life stars of the sport. The second is "Cosmos Mode", in which the action is taken to outer space. Besides the starry background and the astronaut ballboys, there's little functional difference however. There was also four female characters, of the sixteen total, who all had a bigger racket then the men. Essentially making the women into an 'Easy Mode'</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Family Tennis-image.jpg</image>
+		<releasedate>19871211T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rockin' Kats.zip</path>
+		<name>Rockin' Kats</name>
+		<desc>It's a Dance with Danger when Willy tries to rescue Jill!
+
+The hippest cool Kat in New York, Willy, is hot on the tail of local crime boss, Mugsy. The fur's gonna fly 'cause Mugsy just cat-nabbed Willy's girl, Jill, and stashed her away. To find her, Willy has to face hoods on the streets of the Big Apple, duel desperados in the wild west, dog-fight Ace Pilots at 40,000 feet, and avoid being de-railed at an amusement park. But he's not called the Rockin' Kat for nothing, and when he starts break dancin' and body slammin' his enemies, make room on the dance floor!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Rockin' Kats-image.jpg</image>
+		<releasedate>19910405T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Rolling Thunder.zip</path>
+		<name>Rolling Thunder</name>
+		<desc>Rolling Thunder is the worlds most powerful secret police force and you are its best agent. Your mission is to stop an underground conspiracy to conquer the world and to save agent Leila, who has been captured. Starting out armed only with a handgun, you have to make your way through heavily guarded hallways and secret passages to find Leila and stop the enemy. Rolling Thunder features side scrolling action based on the arcade game.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Rolling Thunder-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Silk Worm.zip</path>
+		<name>Silk Worm</name>
+		<desc>Silkworm had interesting graphics and relatively fast-paced gameplay. The player can take control of a Jeep mounted with a machine gun or a Helicopter mounted with forward and downward firing guns. Two players can work simultaneously and cooperatively against enemies, with one playing as the Jeep and one as the Helicopter.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Silk Worm-image.jpg</image>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ronald Pieket Weeserik</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Spy Hunter.zip</path>
+		<name>Spy Hunter</name>
+		<desc>Spy Hunter is an action/driving game with the player in the role of a spy driving an armed sportscar. The object of the game is to travel the freeway destroying as many enemy vehicles as possible while protecting civilian vehicles. The game is a top-down vertical scroller.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Spy Hunter-image.jpg</image>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sqoon.zip</path>
+		<name>Sqoon</name>
+		<desc>SOS! THE WORLD IS SINKING! This is the beginning of Neptunian invasion of the Earth. Humans are becoming food for the aliens. You must: Rescue the people and bring them to safety; Destroy the hot water factories which are melting the ice caps; Destroy the bio-factories which create the scary Pirame, Anchos and more; Destroy the base where hateful Neptunians live! You must rescue the Earth! SOS! SOS! The world is sinking! Neptunian invasion has begun!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Sqoon-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Home Data</developer>
+		<publisher>Irem</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Stinger.zip</path>
+		<name>Stinger</name>
+		<desc>Save Professor Cinnamon! When aliens from the planet Attackon kidnap the inventor during their invasion of Earth, two TwinBee Stinger jets (armed with boxing gloves) are unleashed to rescue Cinnamon before the aliens turn the Earth into a giant ball of cotton candy!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Stinger-image.jpg</image>
+		<releasedate>19870901T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Super Spy Hunter.zip</path>
+		<name>Super Spy Hunter</name>
+		<desc>The Super Spy Hunter has a super spy car. It's actually a well-armed car that can turn into a boat or a plane at opportune times. The action is fast vertical scrolling as the vehicle faces all manner of powerful vehicle threats from a well-funded terrorist enemy -- cars, trucks, helicopters, etc. Luckily, there are many powerups to collect along the way, both defensive and offensive.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Super Spy Hunter-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Tokai</developer>
+		<publisher>Suncorp</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Wurm - Journey to the Center of the Earth!.zip</path>
+		<name>Wurm: Journey to the Center of the Earth</name>
+		<desc>Wurm: Journey to the Center of the Earth is a game featuring multiple sequences. The player controls the VZR vehicle, and occasionally Captain Moby when she ventures out on foot in vertically and horizontally scrolling sequences as well as a first person battle against enemy monsters. Players progress through 5 levels, in which the VZR-5 investigates the fate of the other VZRs. After the completion of each level, the player gains a crystal, which will unlock additional weapons for the VZR, mentioned below.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Wurm - Journey to the Center of the Earth!-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Cyclone System</developer>
+		<publisher>Asmik</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Zelda II - The Adventure of Link (NL).zip</path>
+		<name>Zelda II: The Adventure of Link (NL)</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you’ll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Zelda II - The Adventure of Link (NL)-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19880926T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Dr. Mario.zip</path>
+		<name>Dr. Mario</name>
+		<image>~/.emulationstation/downloaded_images/nes/Dr. Mario-image.jpg</image>
+		<rating>0</rating>
+		<playcount>1</playcount>
+		<lastplayed>20180107T092854</lastplayed>
 	</game>
 </gameList>

@@ -272,4 +272,36 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
 	</game>
+	<game>
+		<path>./Choplifter.zip</path>
+		<name>Choplifter</name>
+		<desc>In Choplifter, the player assumes the role of a combat helicopter pilot. The player attempts to save hostages being held in prisoner of war camps in territory ruled by the evil Bungeling Empire. The player must collect the hostages and transport them safely to the nearby friendly base, all the while fighting off hostile tanks and other enemy combatants.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Choplifter-image.jpg</image>
+		<releasedate>19860701T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Sonic The Hedgehog 2.zip</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>Ride a runaway railcart, fly a hang glider through a raging storm, and shoot through a mind-boggling maze of twisting pipes as you and Sonic The Hedgehog race to save Tails and his friends from the evil Dr. Robotnik! It's the hottest 8-bit action ever!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Sonic The Hedgehog 2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921121T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Terminator, The.zip</path>
+		<name>The Terminator</name>
+		<desc>Kyle Reese, a lone warrior from the future, returns to the past to protect the one woman who holds the key to the survival of the human race. Together they must face not only everything Los Angeles has to throw at them, but also the terrifying might of a cyborg known as the Terminator... who will stop at nothing to kill them both.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Terminator, The-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>

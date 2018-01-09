@@ -1184,25 +1184,36 @@ Players have the opportunity to upgrade their vehicles by collecting letters, wh
 	<game>
 		<path>./Dragon Tail.zip</path>
 		<name>Dragon Tail</name>
-      <image>~/.emulationstation/downloaded_images/gb/Dragon Tail-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Dragon Tail-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
 		<path>./Ganso!! Yancha Maru.zip</path>
 		<name>Ganso!! Yancha Maru</name>
-      <image>~/.emulationstation/downloaded_images/gb/Ganso!! Yancha Maru-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Ganso!! Yancha Maru-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
 		<path>./Mickey Mouse II.zip</path>
 		<name>Mickey Mouse II</name>
-      <image>~/.emulationstation/downloaded_images/gb/Mickey Mouse II-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/Mickey Mouse II-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
 		<path>./TwinBee da!!.zip</path>
 		<name>TwinBee da!!</name>
-      <image>~/.emulationstation/downloaded_images/gb/TwinBee da!!-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/gb/TwinBee da!!-image.jpg</image>
 		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Pac-In-Time.zip</path>
+		<name>Pac-in-Time</name>
+		<desc>The evil Ghost Witch has cast a vicious spell on Pac-Man and thrown him back in time to when he was a Pac-Boy. Only you can save him now. Down some Pac-Pellets and get ready to battle your way through a totally supersonic side-scrolling adventure. Journey through snowy mountains and forests, collect fireballs and bubbles, crunch Pac-Bats and ghosts, swim like a fish and swing like a monkey... and ultimately get Pac-Man back to the real world!</desc>
+		<image>~/.emulationstation/downloaded_images/gb/Pac-In-Time-image.jpg</image>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Atreid Concept SA</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+		<players></players>
 	</game>
 </gameList>

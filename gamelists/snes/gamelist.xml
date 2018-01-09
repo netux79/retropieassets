@@ -272,16 +272,6 @@ Clock Tower is a haunting adventure with over 10 different endings, and will sti
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Cybernator.zip</path>
-		<name>Cybernator</name>
-		<desc>2065 AD. The nations of Earth have once again split into two major powers. The line dividing these new arch enemies reaches as far as the lunar frontier, where axis forces have constructed a moon base capable of launching monolithic intergalactic battle cruisers.Your mission is to take command of the Cybernator and confront the most powerful enemy ever to explode onto the Super NES scene. You'll face an awesome display of graphic destruction and realistic carnage so intense you'll fell compelled to run and hide. The sound effects alone will make your guts shake as if they were in fron of a cranked-up heavy metal concert speaker.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Cybernator-image.jpg</image>
-		<releasedate>19930401T000000</releasedate>
-		<developer>NCS</developer>
-		<publisher />
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Cyborg 009.zip</path>
 		<name>Cyborg 009</name>
 		<desc>Cyborg 009 is an Action game, published by Bec, which was released in Japan in 1994.</desc>
@@ -409,26 +399,6 @@ Was this just a dream? You have just fallen out of your bed dreaming! It's time 
 		<developer>Ape Studios</developer>
 		<publisher />
 		<genre>Role-Playing</genre>
-	</game>
-	<game>
-		<path>./Earthworm Jim.zip</path>
-		<name>Earthworm Jim</name>
-		<desc>Jim wasn't always a studly super-worm. He was once just a spineless, dirt eater with no real mission in life... Then a cosmic twist of fate placed him in control of an ultra-high-tech-indestructible-super-space-cyber-suit. Now Jim must make it to Princess-What's-Her-Name by staying clear of Psy-Crow, the intergalactic bounty hunter, until the final battle with Queen Slug-for-a-Butt.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim-image.jpg</image>
-		<releasedate>19941001T000000</releasedate>
-		<developer>Shiny Entertainment</developer>
-		<publisher />
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Earthworm Jim 2.zip</path>
-		<name>Earthworm Jim 2</name>
-		<desc>Two times two is four! Too much to list, but keep reading:From Evil the Cat's 'Circus of the Scars' to the planet of Meat, join Jim on a madcop chase across the galaxy. Saving cows, thwarting lawyers and outsmarting Psy-Crow are all in a day's work for Jim. Are you up to the challenge? Can you handle the awesom new weapons? Excellent! Then stop reading this. Take it up to the front counter and try it at home! Trust no one, play it yourself...or EAT DIRT!</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Earthworm Jim 2-image.jpg</image>
-		<releasedate>19951101T000000</releasedate>
-		<developer>Shiny Entertainment</developer>
-		<publisher />
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Energy Breaker.zip</path>
@@ -878,16 +848,6 @@ Majyuuou is a side-scrolling platformer for the Super Nintendo, taking influence
 		<image>~/.emulationstation/downloaded_images/snes/Metal Warriors-image.jpg</image>
 		<releasedate>19950401T000000</releasedate>
 		<developer>LucasArts</developer>
-		<publisher />
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Mickey Mania.zip</path>
-		<name>Mickey Mania: The Timeless Adventures of Mickey Mouse</name>
-		<desc>Featuring characters created by the legendary Disney Studios, an all action technicolour tale incorporating a myriad of gameplay possibilities that will scroll, rotate and propel you through the magical career of the World's most famous cartoon star.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Mickey Mania-image.jpg</image>
-		<releasedate>19941001T000000</releasedate>
-		<developer>Traveller's Tales</developer>
 		<publisher />
 		<genre>Action</genre>
 	</game>
@@ -2329,7 +2289,7 @@ Mr. Nutz is a platform game, in which Nutz must jump on enemies to kill them. Hi
 		<developer>Arcade Zone Ltd.</developer>
 		<publisher>Super Fight Team</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Super Metroid Redesign.zip</path>
@@ -2343,5 +2303,1246 @@ An army of ominous creatures are poised for battle at every turn of Zebes’ twi
 		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Addams Family Values.zip</path>
+		<name>Addams Family Values</name>
+		<desc>Baby Pubert, the most recent addition to the Addams Family, has been abducted by Debbie Jellinski, his former nanny. As Uncle Fester it is your job to rescue little Pubert. You must search the surrounding areas (forests, swamps, gardens and the like) of Addams mansion, while avoiding traps, solving puzzles and killing monsters. You'll face such hellish creatures as vultures, gargoyles, bats, ghosts and ghouls.
+
+During your mission, you'll run into Gomez, Morticia, Lurch and other members of the Addams Family, who are on the grounds to lend advice and provide items. These items include a box of seeds for producing enemy-attacking mini bushes, black beetle cookies which give Fester a dose of ill-health (this is a good thing), stone marbles for turning attackers into rock, a bowling ball for hitting enemies and breaking through walls and a battery, which powers up Fester's standard Zzap attack. Within the seven levels of play, there are tons of other creatures to zap and items to find.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Addams Family Values-image.jpg</image>
+		<rating>0.4</rating>
+		<developer>Ocean Software</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Addams Family, The.zip</path>
+		<name>The Addams Family</name>
+		<desc>Creepy, Kooky, Ooky, Spooky.
+
+THE ADDAMS FAMILY has been evicted! To save their home from Tully Alford, the family attorney, who is after the family fortune - Morticia, Lurch, Granny, Pugsley and Wednesday have gone to the house to reason with him. But when Gomez arrives, his family is missing! As Gomez, you must save your loved ones, your home and your loads of wealth. You'll have to watch out for scary obstacles like falling spikes, frightening monsters and ghosts, and you'll need to look for clues as you search for your family. Get a move on... 'cause you're gonna make a call on THE ADDAMS FAMILY!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Addams Family, The-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920301T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Animaniacs.zip</path>
+		<name>Animaniacs</name>
+		<desc>Animaniacs is a video game that is based on the hit animated series of the same name. Unlike regular platform games, the player usually runs from the enemies rather than fighting them. Characters include Yakko, Wakko, and Dot, Pinky and the Brain, most of the supporting cast, as well as Ralph, the Warner Brothers studio guard. Animaniacs was made into two games which bore no relation to each other in terms of gameplay, despite both being made by Konami. One was for the Super Nintendo Entertainment System and the other was for the Sega Mega Drive/Genesis and Game Boy. The SNES and Mega Drive/Genesis version were released in 1994, and the Game Boy version in 1995.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Animaniacs-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Arkanoid - Doh It Again.zip</path>
+		<name>Arkanoid: Doh It Again</name>
+		<desc>Much like the game Breakout, the player controls the "Vaus", a space vessel that acts as the game's "paddle" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks. The ball striking a brick causes the brick to disappear. When all the bricks are gone, the player goes to the next level, where another pattern of bricks appear. There are a number of variations (bricks that have to be hit multiple times, flying enemy ships, etc.) and power-up capsules to enhance the Vaus (expand the Vaus, multiply the number of balls, equip a laser cannon, break directly to the next level, etc.), but the gameplay remains the same.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Arkanoid - Doh It Again-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Assault Suits Valken.zip</path>
+		<name>Assault Suits Valken</name>
+		<desc>In a future where fossil fuels are limited, major countries and forces of the world are at war with one another over territory. Alliances are made, forming two major sides: The Axis and The Federation. The elite units in these wars are Assault Suits, man-piloted combat mechs called Assault Suits. Jake is one such pilot, drafted into the Pacific States' Marine Corp under the Federation. During his training, the war has grown substantially and upon being assigned to a platoon, he is immediately thrown into combat.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Assault Suits Valken-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>NCS</developer>
+		<publisher>Masaya</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Bahamut Lagoon.zip</path>
+		<name>Bahamut Lagoon</name>
+		<desc>Bahamut Lagoon combines RPG mechanics with squad-based combat. Characters have HP, MP (SP for fighter characters), EXP, equipment, stats and class-specific, SP-draining special elemental abilities very much like traditional console RPGs. The player can explore his surroundings, talk to people and visit shops when not in battle, though to a limited degree as there is no world map and no way to leave the current area.
+
+The game's core is its turn-based battles fought on a 2d grid. Characters are assembled into parties of four and the player allowed a maximum of six parties, which are usually well outnumbered. The two opposing sides act in alternating turns so that each party can move once and/or attack once a turn. Attacks are divided into distant and close-up combat. In the former, a party uses a special ability (e.g. casting fireballs, throwing lightning, healing allies) of one of its members at a distance. The range and possible area of effect damage vary per ability. If the attacking party has two or more characters with the same ability, they join in the action to multiply its effectiveness. Distant combat results in less money and generally less damage, but the target cannot retaliate. Distant attacks can also affect the field; fire and ice ignite or extinguish forests and melt or freeze ice, etc. Close-up, each unit in two adjacent opposing parties can act once. Very much like Final Fantasy SNES combat, they can attack an enemy, use an item or a special ability (though these can't be combined and most only affect one target instead of all) or defend.
+
+Dragons are the player's ace in the hole. They have their own stats and gain experience like normal characters do. In battle, each party has a dragon attached to it and draws a large portion of its strength from that of its dragon: if a party's dragon is slain, the party will lose the ability to use special attacks and class-specific abilities for the remainder of the map. The beast acts as a very powerful autonomous unit that moves after its party does and it cannot be controlled beyond very simple commands, e.g. "Come!" Out of battle, dragons will eat anything and raising them by feeding them items is an important part of the game. Feeding can improve their stats as well as affect their behavior on the field, and the dragons develop into new forms as they grow.
+
+The player can change the characters in each of the parties, their formation as well as what dragon represents them at will.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Bahamut Lagoon-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19960209T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Biker Mice from Mars.zip</path>
+		<name>Biker Mice from Mars</name>
+		<desc>The fish-faced Plutarkians have devastated Mars--the home planet of Throttle, Vinnie and Modo. These three rebel rodents escaped the mayhems and landed in Chicago, only to find that Limburger, the Plutarkian Leader, set Earth as his next target!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Biker Mice from Mars-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./BS F-Zero Grand Prix 2.zip</path>
+		<name>BS F-Zero Grand Prix 2</name>
+		<desc>BS F-Zero Grand Prix 2 (BS F-ZEROグランプリ２?) is the direct sequel to the original F-Zero game released for the Super Famicom via the Satellaview. Two versions were released - a non-SoundLink game and a SoundLink game. The original non-SoundLink version was released as BSF-Zero 2 Practice (BSF-ZERO2プラクティス?) on June 1, 1997 (although the title screen remained the same). It contained the four courses first seen throughout BS F-Zero Grand Prix (a Satellaview remake of the original), along with a new course called Mute City IV. Little is known about the later SoundLink version outside of surviving videos, but it was distributed in two halves in August 1997 and had a similar announcer and redone soundtrack as the previous Satellaview entry. At least the first week rearranged a few courses, and replaced two with new locations called "Forest I" and "Forest II". Presuming no areas were repeated, this likely means the SoundLink version had twice as many courses total. In addition, it can be seen that the player cannot choose between Grand Prix and Practice modes in the SoundLink version; as it was a live broadcast, the player is forced to play each course in a timed Practice mode, and then the Grand Prix race.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/BS F-Zero Grand Prix 2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19970810T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Bubsy in Claws Encounters of the Furred Kind.zip</path>
+		<name>Bubsy in: Claws Encounters of the Furred Kind</name>
+		<desc>A race of fabric-stealing aliens called "Woolies", who have stolen the world's yarn ball supply (especially Bubsy's, who owns the world's largest collection). Naturally, Bubsy does not take too kindly to the theft and sets out to "humble" the Woolies.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Bubsy in Claws Encounters of the Furred Kind-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Solid Software</developer>
+		<publisher>Accolade</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Bust-A-Move.zip</path>
+		<name>Bust-a-Move</name>
+		<desc>Which will burst first: your concentration or the level you're working on? It takes more than just swinging the bubble-turret and taking aim on the falling ceiling; tactical planning and mental dexterity are the only way to string together three or more bubbles and 100 wins to make it through all the bubble and ego-bursting rounds of Bust-a-Move!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Bust-A-Move-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19950301T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Captain Commando.zip</path>
+		<name>Captain Commando</name>
+		<desc>The player chooses one of these four characters, who must fight their way through an army of genetically engineered super-criminal, traveling through a series of locations such as the bank, museum, circus, aquarium, and several others, right through to a planet called "Callisto", where the evil behind "Scumocide" awaits. All four characters have their own special attacks. Captain Commando can use the power of his suit to shoot electricity through his palms. Baby Head rides around in a mech suit which does more damage. Mack can use short knives. Each location ends with the character defeating a boss before proceeding to the next one.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Captain Commando-image.jpg</image>
+		<releasedate>19911124T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Chavez II.zip</path>
+		<name>Chavez II</name>
+		<desc>Let's get ready to rumble!
+
+Nine of the most legendary middleweights: Julio César Chávez, Sugar Ray Leonard, Roberto Duran, Thomas Hearns, James Toney, Marvelous Marvin Hagler, Jake LaMotta, Sugar Ray Robinson and Rocky Graziano collide in gigantic proportions. This decisive boxing simulation features a revolutionary perspective and knockout graphics!
+
+Every fighter uses his authentic style, seven power packed punches and three pulverizing super punches! Throw uppercuts, right or left crosses and devastating body blows! Bob and weave, clinch and block. Analyze end of round stats to enhance your performance.
+
+Choose from the eight fighters or create your own legend. Train to hone your fighting skills; choose from three modes of game play. Select the Exhibition or Career modes and master the art of boxing.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Chavez II-image.jpg</image>
+		<releasedate>19930601T000000</releasedate>
+		<developer>American Softworks Corporation</developer>
+		<publisher>Sculptured Software, Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Chessmaster, The.zip</path>
+		<name>The Chessmaster</name>
+		<desc>The Chessmaster is a game where the player has the chance to play against the CPU controlled Chessmaster at a standard game of chess.
+
+To play the game the player must pick up the chess pieces with there hand cursor and place it in the desired location, within the rules a standard chess game. There are 16 different difficulty levels that includes 2 beginner levels, 13 standard levels (ranging from an average of 5 seconds to 4.5 minutes per shot depending on level), and a infinite level that will keep thinking of a shot until a perfect shot can be made or it is forced to move. There is also a teaching mode that shows the player all the possible moves with the selected piece. Two players can play each other with two controllers and there is also an option of letting the Chessmaster play itself.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Chessmaster, The-image.jpg</image>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Software Toolworks</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Strategy</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Chou Mahou Tairiku Wozz.zip</path>
+		<name>Chou Mahou Tairiku Wozz</name>
+		<desc>The magic world of Wozz, populated by magicians, alchemists, and other kinds of people - including simple town and village inhabitants - was a seemingly peaceful place, until one day, a poisonous rain started turning its inhabitants into monsters. The chief wizard realizes that the demon Balaam is trying to link the world of Wozz with the world of humans. Only a human hero can stop Balaam, and the wizard's teleporting magic brings... three young humans: the Japanese girl Reona Kitazato, and two boys: the American Shot Phoenix and the Chinese Chun Chingtao. Will those youngsters be able to stop Balaam?
+
+The game is a traditional Japanese-style RPG similar to Breath of Fire: turn-based battles are viewed from an isometric perspective. You control all three characters as a party, but in the beginning of the game you choose one of them as the main character, and therefore will see the game from his/her perspective. In case the characters split up, you'll be able to control only the one you chose.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Chou Mahou Tairiku Wozz-image.jpg</image>
+		<releasedate>19950804T000000</releasedate>
+		<developer>RED Entertainment</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Role-Playing</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Dark Law - Meaning of Death.zip</path>
+		<name>Dark Law: Meaning of Death</name>
+		<desc>Dark Law is a Role-Playing game, developed by SAS Sakata and published by ASCII Entertainment, which was released in Japan in 1997.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dark Law - Meaning of Death-image.jpg</image>
+		<releasedate>19970328T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>ASCII Entertainment</publisher>
+		<genre>Role-Playing</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Daze Before Christmas.zip</path>
+		<name>Daze Before Christmas</name>
+		<desc>Christmas is a time where people get together and give others presents and spend all day eating food. But there's only one problem this year. You see, while Santa was sleeping in his bed, the cold and evil snowman spooked all the elves away, and the Timekeeper has stolen Santa's plans from his house. There won't be any Christmas if Santa doesn't stop them.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Daze Before Christmas-image.jpg</image>
+		<developer>Funcom</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Death and Return of Superman, The.zip</path>
+		<name>The Death and Return of Superman</name>
+		<desc>Brace yourself for a hard-hitting fight to the finish that lets you relive the classic DC comic book series! As Superman, fight for your life against mighty Doomsday, the vile distributor of death and destruction! Then, control the destiny of the four Supermen - each claiming to be the one, true Superman! Explode through 10 levels of super-powered battles and fly at furious speeds - until only the real Superman is left standing!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Death and Return of Superman, The-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>SunSoft</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Dragon - The Bruce Lee Story.zip</path>
+		<name>Dragon: The Bruce Lee Story</name>
+		<desc>Martial arts action is defined by only one man: Bruce Lee! Now enter the world of Dragon for the ultimate martial arts showdown... authentic, fierce, brutal. It's a jeet kune do fight to the finish with multiple combat modes, deadly weapons and chain-wielding villains. In the end, you must face The Phantom... in a mystical battle for your very soul!
+
+3-Player Fighting Action With Multi-Player Adapter.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon - The Bruce Lee Story-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19950705T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Dragon Quest V - Tenkuu no Hanayome.zip</path>
+		<name>Dragon Quest V - Tenkuu no Hanayome</name>
+		<desc>You are the son of the brave warrior, Lord Papas. It appears that your mother died just after giving birth to you, and your father took you on a long journey when you were a little baby, and all you know is that he was searching for something. Now you are six years old, and Lord Papas brings you to your home village. After some time, you learn that His Highness Prince Henry was kidnapped by bandits. Your father attempts to rescue him, and during this action you discover that perhaps your mother is still alive... The game follows the story of Papas' son, and this story is stretched over years, as the hero grows and becomes a man of courage and virtue. During the game, the hero will discover the truth about his mother, and will have to make some crucial decisions, such as which girl to marry (the decisions affect the course of the game and its ending).
+
+"Dragon Quest V" is a party RPG with turn-based combat, and battles viewed from 1st person perspective, just like all its predecessors. Your party roams about the world, fighting random enemies, performing quests, and defeating bosses. The novelty is in the game's unusual story, which spans almost a lifetime of the hero. 
+
+"Dragon Quest V" was not available outside of Japan until 2009, when the DS version was released in the United States.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon Quest V - Tenkuu no Hanayome-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Enix</developer>
+		<publisher>Enix</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Dragon View.zip</path>
+		<name>Dragon View</name>
+		<desc>Solve puzzles and fight monsters in order to save your love. She's been taken by Giza an evil sorcerror bent on destroying all life in the world. You'll journey through different lands in search of clues and powerful items and magic.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dragon View-image.jpg</image>
+		<releasedate>19940826T000000</releasedate>
+		<developer>Atari Europe S.A.S.U.</developer>
+		<publisher>KEMCO</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./F-Zero.zip</path>
+		<name>F-Zero</name>
+		<desc>The future of racing is here! F-ZERO, an intergalaxtic Grand Prix, uses machines that weigh more than a ton, reach dash speeds of over 500km/h and hover a mere twelve inches off the ground! Choose from the heroic Captain Falcon, or the suave, Dr. Stuart. Need more choices? Then try the sly alien, Pico or the not-so-honest Samurai Goroh, and race for intergalactic fame and fabulous fortune in the F-ZERO Grand Prix.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/F-Zero-image.jpg</image>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Final Fantasy II.zip</path>
+		<name>Final Fantasy II</name>
+		<desc>The fourth entry in the Final Fantasy series was released as Final Fantasy II in the West, because the second and the third game were not released there at the time. The game is a Japanese-style RPG with top-down world map navigation, automatic leveling up, and random enemy encounters. The player can freely roam an overworld containing several towns and dungeons. A menu-based system allows the player to outfit each character with equipment and up to two—often disposable—items for battle. Magic spells are assigned to the character from the item menu, and certain spells, such as "Cure", can be used outside of battle.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fantasy II-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Squaresoft</developer>
+		<publisher>Squaresoft</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Final Fight.zip</path>
+		<name>Final Fight</name>
+		<desc>Mayor Mike Haggar vows to snatch the streets of Metro City back from the crooks with his bare knuckles! But the Mad Gear Gang snatches his daughter Jessica. Now there's gonna be some bone-crunching dues to pay!
+
+Jessica's boyfriend Cody hits the streets hard with Haggar, denting heads downtown and slugging it out in the slums. He's a one man army! His weapons are anything he can find -- swords, knives, or pipes.
+
+Now you're Haggar or Cody, each with his own fighting style. Demolish gangland henchmen, samurai swordsmen and musclebound crime bosses in a fist-to-nose frenzy!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fight-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Final Fight Guy.zip</path>
+		<name>Final Fight Guy</name>
+		<desc>Mayor Mike Haggar vows to snatch the streets of Metro City back from the crooks with his bare knuckles! But the Mad Gear Gang snatches his daughter Jessica. Now there's gonna be some bone-crunching dues to pay!
+
+The urban ninja Guy hits the streets hard with Haggar, denting heads downtown and slugging it out in the slums. He's a one man army! His weapons are anything he can find -- swords, knives, or pipes.
+
+Now you're Haggar or Guy, each with his own fighting style. Demolish gangland henchmen, samurai swordsmen and musclebound crime bosses in a fist-to-nose frenzy!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Final Fight Guy-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920320T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./First Samurai.zip</path>
+		<name>First Samurai</name>
+		<desc>The First Samurai is a platform action game very much similar to other platform games, but with a medieval oriental touch to it in addition to various unique features.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/First Samurai-image.jpg</image>
+		<developer>Vivid Image</developer>
+		<publisher>Image Works</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity.zip</path>
+		<name>Flashback: The Quest for Identity</name>
+		<desc>2142 AD. Stranded on a bizarre alien planet with your memory artificially erased, you must battle your way back to Earth to stop the invading mutant forces...
+
+FLASHBACK... the ultimate test in survival.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Flashback - The Quest for Identity-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19931222T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ghoul Patrol.zip</path>
+		<name>Ghoul Patrol</name>
+		<desc>In the sequel to Zombies Ate My Neighbors you as the kids - Zeke or/and Julie - have to save the world from demon the lord of skeletons, ghouls, ghosts and etc. Shooting them by super-new weapons like Plasma Gun or Lobbing Smash Gun, you need to rescue ten trapped victims on each level and fight the boss at the end. But also you have to remember that ammo is limited.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Ghoul Patrol-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Hyper V-Ball.zip</path>
+		<name>Hyper V-Ball</name>
+		<desc>A volleyball simulation seen from a side-view perspective, meaning it is only possible to move players to the left or right. The player can choose between three different leagues: Men's League, Woman's League and Hyper League, which is a league for robots. Two buttons are used to control the ball, one for normal actions and one for "Hyper Plays", special attacks that can only be learned and used in the Hyper League. How a player will block or attack depends on the ball's speed and the players position. Team members who aren't under the player's direct control will also act on their own by positioning themselves or preparing spikes. They will, however, not block spikes on their own but it is possible to let players not under direct control block spikes by pressing one of the action buttons at the right moment.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Hyper V-Ball-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19951212T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./HyperZone.zip</path>
+		<name>HyperZone</name>
+		<desc>Hyper Zone plays like a cross between a racing game and shooter. The object of the game is to navigate each level while shooting enemies and earning points, until finally an encounter with a boss ends each level. After enough points are acquired, the player earns an "extend" and his or her ship is upgraded in the next stage. The player's ship can receive up to six upgrades.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/HyperZone-image.jpg</image>
+		<releasedate>19910831T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./International Superstar Soccer Deluxe.zip</path>
+		<name>International Superstar Soccer Deluxe</name>
+		<desc>It's a whole new ball game... Reallistic prites with 36 teams featuring recognisable celebrity players. Increased CPU intelligence to challenge beginners and experts alike. Choose from 15 formations, 8 strategies, 20 players and 9 adjustable player skills. Four way play possible with adaptor.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/International Superstar Soccer Deluxe-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19950922T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Jelly Boy 2.zip</path>
+		<name>Jelly Boy 2</name>
+		<desc>Jelly Boy 2 is an Action game, developed by Game Freak and published by Sony Music Entertainment, which was cancelled before it was released.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jelly Boy 2-image.jpg</image>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Sony Music Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Jetsons, The - Invasion of the Planet Pirates.zip</path>
+		<name>The Jetsons: Invasion of the Planet Pirates</name>
+		<desc>George Jetson was about to run out to work when his pal Captain Zoom appears out of thin air. Zoom tells him that Zora, the leader of SPREE ("Space Pirates Revelling in Evil Enterprises"), is planning on looting this solar system of all its resource! Unfortunately, in his last encounter with Zora, Zoom has used up all his strength and now he is powerless so he asks George to take over. He gives George his Pneumo Osmatic Precipitator (or P.O.P.) and bids him good luck.  Can George save his family and this galaxy?
+
+Guide George through 9 stages of intergalactic action armed with only his wits and the P.O.P....which is like a super vacuum. The P.O.P. can be used as a traveling tool by sucking onto walls and ceilings, it will enable George to climb up and across platforms.  As a weapon, the P.O.P. can be used to suck up blocks or enemies and spit out at other enemies. George can also use the P.O.P. to breathe under water! Talk about multi-functional!
+
+George's conditions are indicated by the number of hearts he has at the top of the screen.  By collecting more hearts, it will refill George's health. Food items will increase your score and by getting a high enough score in each stage, you may get to play a bonus game.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jetsons, The - Invasion of the Planet Pirates-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Jimmy Connors Pro Tennis Tour.zip</path>
+		<name>Jimmy Connors Pro Tennis Tour</name>
+		<desc>Using crosshairs, aim your ball to the other side of the court and hope you hit where you want. If you are lucky, you might even score an Ace. If not, you will need to be ready to return your opponent's return. Run back and forth as you try to keep hitting the ball over the net until your opponent misses, or you do. When you hit the ball, you will want to attempt changing the direction and speed of the ball to throw your opponent off balance. This is the real challenge of any tennis game.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jimmy Connors Pro Tennis Tour-image.jpg</image>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Blue Byte</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Joe &amp; Mac 2 - Lost in the Tropics.zip</path>
+		<name>Joe &amp; Mac 2: Lost in the Tropics</name>
+		<desc>Improving on the original's platformer/brawler co-op gameplay, this game adds adventure and role-playing game elements that create a more involving experience compared to the first game. You can now collect coins in the levels to purchase items from Tiki Village, such as meat to recover your health, or even remodel your hut back at your home village. The game also uses a password system to track your progress. The game also shifts to an overhead map so you can wander to whichever level you wish, and return to completed levels to earn more money or power-ups.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Joe &amp; Mac 2 - Lost in the Tropics-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940218T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Jungle Book, The.zip</path>
+		<name>The Jungle Book</name>
+		<desc>Based on the famous animated movie, The Jungle Book is a platform game where you control Mowgli, the boy who was raised by wild animals deep in the jungles. Your goal is to find the human village so you may you join your kin once again. Mowgli is an athletic individual, and can jump, run, swing on vines or climb them without any problems. Most of the animals he comes upon, however, are inexplicably hostile, so he must defend himself with a variety of thrown weapons, such as bananas and boomerangs. To complete each level, Mowgli must collect a number of crystals (how many - it depends on the difficulty levels) within a time limit. A compass in the corner of the screen helps him by showing the direction where the nearest crystal is.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Jungle Book, The-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940801T000000</releasedate>
+		<developer>Eurocom Entertainment Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Kirby's Avalanche.zip</path>
+		<name>Kirby's Avalanche</name>
+		<desc>King Dedede has challenged Kirby and other members of Dream Land to an Avalanche Competition in the Dream Fountain. Kirby, taking on the challenge, has decided to battle his way through the forest and into the Dream Fountain to win the Avalanche Cup from King Dedede.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Avalanche-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Kirby's Dream Course.zip</path>
+		<name>Kirby's Dream Course</name>
+		<desc>Scan the course and check out the obstacles ahead. Get ready for the most surprising game play imaginable in Kirby's battle against King Dedede!
+
+This checkboard challenge brings outrageous hazards and bizarre surfaces. Warp panels instantly transport you to new and exciting challenges. Conveyer belts provide higher levels of adventure. Turntables take the action in a whole new direction.
+
+Gordo, Kracko, Whispy Woods and a cast of zany characters await you. Gain special powers including Fireball, Freeze, Spark and Parasol. Transform your enemies into stars revealing eight hidden cups of each wildly different course. Control the force and angle of your shot and sink Kirby for a hole-in-one!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Kirby's Dream Course-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Knights of the Round.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Arthur, who had been training himself to be a great knight, pulled out the sacred sword Excalibur from the rock. After pulling it out, Arthur realized his destiny was to become the first King of the Britons. Merlin then sends Arthur and his two closest companions, Lancelot and Perceval, to overthrow the evil king Garibaldi and to unite England.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Knights of the Round-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19911127T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Live A Live.zip</path>
+		<name>Live A Live</name>
+		<desc>Live A Live's story is split across seven seemingly unrelated chapters that can be played in any order, based on popular genres such as Western, science fiction, and mecha. Each chapter has its own plot, setting, and characters. Although the basic gameplay is the same throughout the game, each chapter adds a new factor to the basic formula, such as the stealth elements in the ninja chapter. After the first seven chapters are completed, two final chapters take place to establish the connection between the seven previous and resolve the story.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Live A Live-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940902T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Square</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Looney Tunes B-Ball.zip</path>
+		<name>Looney Tunes B-Ball</name>
+		<desc>Looney Tunes B-Ball is a 2-on-2 Basketball game, similar to the more well known NBA Jam. However, Looney Tunes is much more informal and silly, though this level of silliness is set by the player via the Wackiness Meter on the main menu. Players choose their teams from the likes of: Bugs Bunny, Daffy Duck, Elmer Fudd, Wile E. Coyote, Tasmanian Devil, Sylvester, Yosemite Sam and Marvin Martian. Each player has unique statistics for their shooting, 3-pointers, defense, stamina and speed.
+
+Once on the court, the player can pass the ball, shoot the ball, grab a burst of speed or unleash a special defensive ability or a special offensive ability.. These abilities include cream pies, time bombs, sticks of dynamite and other fun toys from the ACME Corporation. Offensive Abilities must be "bought" by collecting gems and other items which occasionally show up on the basketball court.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Looney Tunes B-Ball-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>SunSoft</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Lufia &amp; The Fortress of Doom.zip</path>
+		<name>Lufia &amp; the Fortress of Doom</name>
+		<desc>The Sinsitrals, four masters of Doom, arrived in this land on their floating island 100 years ago. You will begin your quest by travelling through time to join in a temendous battle against them--and you will determine the outcome. When you return to present time, you and Lufia, your companion, must join forces with two others to prevent the Sinistrals from regaining control of your world. It will be a long and difficult task--This land is larger than that of most RPG games. And in the end, the balance of fate will be overturned in a contest of love and betrayal that could destroy you all.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Lufia &amp; The Fortress of Doom-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19931204T000000</releasedate>
+		<developer>Neverland</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Lufia II - Rise of the Sinistrals.zip</path>
+		<name>Lufia II: Rise of the Sinistrals</name>
+		<desc>This exciting sequel to the Lufian legend pits monster hunter Maxim and six adventuring companions against the sinister Sinistrals. The story develops into a complex maze, challenging you with big battles, puzzles and loads of surprises. You can even grow your own monsters! You will enjoy countless hours on a fantastic journey in the world of Lufia!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Lufia II - Rise of the Sinistrals-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>Neverland</developer>
+		<publisher>Natsume</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Maerchen Adventure Cotton 100%.zip</path>
+		<name>Marchen Adventure Cotton 100%</name>
+		<desc>Marchen Adventure Cotton 100% is a side scrolling shooter by Success and Datam Polystar, and likely sequel to the arcade game Cotton originally released in 1989. The cute witch and her flying broom are back in this exclusive adventure for the Super Famicom system.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Maerchen Adventure Cotton 100%-image.jpg</image>
+		<releasedate>19920422T000000</releasedate>
+		<developer>Success</developer>
+		<publisher>Datam Polystar</publisher>
+		<genre>Shooter</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Magic Sword.zip</path>
+		<name>Magic Sword</name>
+		<desc>As the hero, you must climb up a monster-ridden tower to defeat Drokkmar, master of the Blackorb. To do this, you must defeat his army that stands in your way with whatever weapon you are carrying. Health is decreased by coming into contact with various monsters, attacks, traps, and the passage of time. It is increased by finding food. Every certain amount of points, a "Food Fairy" appears and drops off food as well.
+
+Throughout your journey, you can smash open chests to find treasure and artifacts. Some of these artifacts can be recovered that alter gameplay, such as providing more damage or increased magical power. Also throughout your journey, you can collect keys, which are used to free imprisoned allies, who not only help you defeat monsters, but also leave you an item that will help you on your quest. Only one person can join you at a time.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Magic Sword-image.jpg</image>
+		<releasedate>19920529T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Mario to Wario.zip</path>
+		<name>Mario and Wario</name>
+		<desc>This is the Spirit Forest. Within these woods lives a sprite, and those who meet it find happiness, or so the tale goes. One day, Mario came to the woods to confirm the legend. Peach and Yoshi should have been together with Luigi......but alas, the visage of Luigi was missing. Mario's group of three have separated to find lost little Luigi.
+
+At once, the suspicious sound of an engine was in the air. I wonder what it could be? It was Wario riding his personal plane, the Bulldog, and it dropped a bucket from the sky.
+
+"Whew, woosh!"
+
+And suddenly, the bucket was a snug fit on Mario's head.
+
+"Uwagh, I can't see in this thing!"
+
+The sprite of the woods, Wanda, witnessed it. The petite pixie did not have the strength to remove the bucket on her own, but she desired to help somehow. Thus, Wanda sends Mario a signal with her magic wand, determined to reunite him with Luigi......</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mario to Wario-image.jpg</image>
+		<releasedate>19930827T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Monstania.zip</path>
+		<name>Monstania</name>
+		<desc>The hero of the game is Fron, a sixteen-year old boy who lives on the island of Monstania. One day, strolling in the forest, he notices a strange light. The light lead him to a clearing, and then suddenly disappeared. But Fron realized what was the meaning of that light - it was a fairy! Of course, everybody knew that fairies had been long extinct, but Fron never believed in that. All his life he wanted to meet a real fairy, and now, when the opportunity has come, he firmly decides to find her. His girlfriend Tia helps him on the dangerous journey, during which they meet a mysterious little girl named Chitta, and get involved in a grand adventure, that will ultimately lead them to the battle against the dark force that threatens the whole Monstania!
+
+"Monstania" has a somewhat unusual gameplay within the frames of console RPGs. You don't explore the world in the game: it is entirely linear and takes you to the next destination by itself (only at a few points you can choose where to go next by selecting an appropriate answer). Once within the location, you cannot leave it until you complete all your objectives there, which then take you to the next location. The objective is usually a large strategic battle. You navigate your party members on the battle field, attack with melee and long-ranged weapons, and use special technique which require action points. Unlike most other turn-based strategy games, an enemy makes a move immediately after you did the same with one of your characters, without waiting for the "enemy turn". The RPG element is not very significant: your characters level up automatically after each battle. There are also some puzzles to solve in certain locations.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Monstania-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Amccus</developer>
+		<publisher>Pack-In-Video</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Mortal Kombat.zip</path>
+		<name>Mortal Kombat</name>
+		<desc>PREPARE YOURSELF...
+
+The #1 arcade hit is here: from Sub-Zero, Rayden and the rest of the Kombat Warriors to the grueling endurance and intense mirror matches! Execute bone-shattering combos and ferocious finishing moves! Defeat the half human dragon Goro, and destroy the shape-changing Shang Tsung to become the Supreme Mortal Kombat Warrior!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Mortal Kombat-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930913T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NBA Jam.zip</path>
+		<name>NBA Jam</name>
+		<desc>NBA Jam, which featured 2-on-2 basketball, was one of the first real playable basketball arcade games, and was also one of the first sports games to feature NBA-licensed teams and players, and their real digitized likenesses.
+A key feature of NBA Jam was the exaggerated nature of the play - players jumped many times above their own height, making slam dunks that defied both human capabilities and the laws of physics. There were no fouls, free throws, or violations except goaltending and 24 second violations. This meant the player was able to freely shove or elbow his opponent out of the way. Additionally, the game had an "on fire" feature, where if one player made three baskets in a row, he would become "on fire" and have unlimited turbo, no goaltending, and increased shooting ability, until the other team scored (or the player had scored four consecutive baskets while "on fire").</desc>
+		<image>~/.emulationstation/downloaded_images/snes/NBA Jam-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Iguana Entertainment</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Ninja Gaiden Trilogy.zip</path>
+		<name>Ninja Gaiden Trilogy</name>
+		<desc>Here it is! The complete NINJA GAIDEN TRILOGY you asked for. Enjoy the 3 classic Nintendo Ninja Gaiden games on one Super NES Game Pak.
+Follow Ryu's adventures as he fights the ancient forces of darkness with his Ninjutsu powers. Use strategy, cunning and deception to acquire the special ninja weapons needed to be successful in this epic quest.
+
+The Ninja Gaiden series tells it's story through Tecmo's unique cinema screen animation. This one is not to be missed!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Ninja Gaiden Trilogy-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19950810T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Out of This World.zip</path>
+		<name>Out of This World</name>
+		<desc>You'll think you're actually on a movie set when you star in the cinematic action/adventure Out Of This World™.
+Out Of This World™ is like no other game on the Super NES™. Using a completely new graphic system of cinematic zooms, pans, close-ups, and cuts, Out Of This World™ gets you involved in a breathtaking story of inter-dimensional travel.
+You'll duck as lasers blast, boulders crash, and monsters roar. The complete musical score and realistic, digitized sound effects will make you feel like you're on a movie sound stage.
+Being a hero is hard work, and you'll experience it first-hand as you run, jump, dodge, and shoot your way across a hostile world of deadly earthquakes and alien monsters. So, grab your hat and whip, charge up your blasters, and get ready to star in your own movie that'll take you Out Of This World™!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Out of This World-image.jpg</image>
+		<releasedate>19921101T000000</releasedate>
+		<developer />
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Panel de Pon.zip</path>
+		<name>Panel de Pon</name>
+		<desc>Panel de Pon is a tile-matching puzzle game series developed by Intelligent Systems, where gameplay involves matching three or more tiles of the same color at once to remove them from play. The first game in the series was released on the Super Famicom in Japan in 1995, and starred a series of fairies as its main characters. Its storyline involved the Fairy of Flowers, Lip, setting out to free her friends from the control of the demon king Thanatos and save the world of the fairies.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Panel de Pon-image.jpg</image>
+		<releasedate>19951027T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Parodius - Non-Sense Fantasy.zip</path>
+		<name>Parodius: Non-Sense Fantasy</name>
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
+
+The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Parodius - Non-Sense Fantasy-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Pilotwings.zip</path>
+		<name>Pilotwings</name>
+		<desc>Are you ready to earn your wings at the most exclusive flight school in the world? Then report immediately to the secret Pilotwings Flight Club, where your training begins! You'll see the ground twist beneath you as you jump from your plane and attempt a precision skydive (don't forget to pull your rip cord!). You'll relive the early days of flying as you bring your biplane in for a pin-point landing. After you master the basics, you'll be called on to test an experimental rocket pack, soar in a hang glider, and pilot an advanced attack helicopter in a hazardous rescure mission.
+
+The realism is incredible as the Super NES takes you airborne with multi-dimensional graphics, endless skylines and the freedom to fly wherever you like. Do you have what it takes to earn your wings? Then get going! You're late for your first class!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Pilotwings-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910823T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Flight Simulator</genre>
+	</game>
+	<game>
+		<path>./Pop'n TwinBee.zip</path>
+		<name>Pop'n Twinbee</name>
+		<desc>Heroes Light and Pastel decide to go out and help a young maiden bring sense back to her scientist father, who apparently has bumped his head and transformed into a evil mastermind that seeks world domination.
+
+As the other games in the series Pop'n Twinbee is a vertically-scrolling arcade shooter in which you and a friend get behind the controls of Twinbee and Winbee, the cutest starfighters ever created, and try to clear stage after stage of enemies with your weapons. Being a console original instead of a port, Pop'n features a number of additions to the gameplay mechanics, including an energy bar, eight difficulty levels and a handicap feature when playing with a friend (which makes most enemies target one fighter instead of the other).</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Pop'n TwinBee-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Putty Squad.zip</path>
+		<name>Putty Squad</name>
+		<desc>Putty Squad is a platform game in which the player controls an amorphous blue blob, tasked with rescuing imprisoned putties. The player's putty can stretch in a variety of ways: sidewards to cover ground faster, squash flat to absorb pick-up items, stretch upwards to climb, morph a fist to attack, or inflate to float upwards.
+
+Putty can collect stars that increase his attack power: at first increasing the potency of his punch, but later allowing him to blow darts, electrocute enemies or throw bombs. This star power is reduced every time Putty is hit by an enemy.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Putty Squad-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>System 3</developer>
+		<publisher>Ocean Software</publisher>
+		<genre>Adventure</genre>
+		<players />
+	</game>
+	<game>
+		<path>./RoboCop 3.zip</path>
+		<name>RoboCop 3</name>
+		<desc>RoboCop 3 is a side-scrolling platform shooter. You get missions (such as rescuing your colleagues who are being kept hostages), which are divided into several smaller levels. The levels usually consist of several platforms, and are heavily populated by enemies who shoot at you. You can gather special repair kits, which will be used to restore your health after you've completed a level. "RoboCop 3" is more of a shooter than its predecessors, having more and tougher enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/RoboCop 3-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./Rock n' Roll Racing.zip</path>
+		<name>Rock n' Roll Racing</name>
+		<desc>The game pits four racers against each other, with up to two of them being player-controlled and the rest being AI opponents. Each race consists of four laps around tracks viewed from an isometric perspective, which enables players to discern the presence of frequent sloping sections spread throughout the game's various tracks. In addition to navigating the turns, racers must also maneuver hills and dips without falling or jumping over the guard rail at the track's edge.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Rock n' Roll Racing-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930604T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Dark Law - The Meaning of Death.zip</path>
+		<name>Dark Law: Meaning of Death</name>
+		<desc>Dark Law is a Role-Playing game, developed by SAS Sakata and published by ASCII Entertainment, which was released in Japan in 1997.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Dark Law - The Meaning of Death-image.jpg</image>
+		<releasedate>19970328T000000</releasedate>
+		<developer>SAS Sakata</developer>
+		<publisher>ASCII Entertainment</publisher>
+		<genre>Role-Playing</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Dr. Mario.zip</path>
+		<name>Dr. Mario</name>
+      <image>~/.emulationstation/downloaded_images/snes/Dr. Mario-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./Super Earth Defense Force.zip</path>
+		<name>Earth Defense Force</name>
+		<desc>A SUPER SAGA OF 23RD CENTURY SATELLITE WARFARE!
+
+The graphics will dozzle you, the speed will astound you... but if you don't think fast and shoot faster, you won't have a chance against the alien firestorm. Because in EARTH DEFENSE FORCE, the best defense is always a great offense. So get ready to hit first and hit fast in the hardest-hitting adventure to hit the Super NES screen!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Earth Defense Force-image.jpg</image>
+		<releasedate>19911025T000000</releasedate>
+		<developer>Jaleco Entertainment</developer>
+		<publisher>Jaleco Entertainment</publisher>
+		<genre>Action</genre>
+	</game>
+   <game id="2697" source="ScreenScraper">
+	   <path>./Exhaust Heat.zip</path>
+	   <name>Exhaust Heat</name>
+	   <desc>In Exhaust Heat you drive in race car and compete in a series of sixteen races on tracks from around the world. You will earn money for each race depending on how you placed (for instance, first place nets you $7000) which you can use to purchase upgrades for your car. You need to find a good balance between the parts. To test the effectiveness of your parts you can run a test race to see how the car works before you buy. Data can be saved on the cartridge so you will not lose your parts or your race statistics. The goal is simply to complete all sixteen tracks; you will get a bonus at the end depending on how well you do so there is an incentive to play again and do better.
+   </desc>
+	   <image>~/.emulationstation/downloaded_images/snes/Exhaust Heat-image.jpg</image>
+	   <marquee/>
+	   <video/>
+	   <thumbnail/>
+	   <rating>0.7</rating>
+	   <releasedate>19920221T000000</releasedate>
+	   <developer>SETA Corporation</developer>
+	   <publisher>SETA Corporation</publisher>
+	   <genre>Race, Driving</genre>
+	   <players>1</players>
+   </game>
+   <game id="18943" source="ScreenScraper">
+	   <path>./Fire Striker.zip</path>
+	   <name>Firestriker</name>
+	   <desc>A long time ago the kingdoms of wind, fire, earth and water
+   competed for the Trialight, a weapon created by the Arch Mage Wylde that can only be used by a Firestriker. The kingdom of wind won and united the four kingdoms. Wylde however, was not satisfied with peace and conjured four monsters to overthrow the united world. Now, only the kingdom of wind remains and the player takes control over the last Firestriker to free the other kingdoms and defeat the monsters.
+
+   Even though Firestriker looks like a typical SNES RPG, it is in fact an action game that has more in common with a pinball-game than with any other genre. The Trialight is a ball of fire that basically behaves like a pinball. The player controls the Firestriker who can freely walk across the screen and strike at the Trialight to control its movement. Levels are filled with obstacles, destroyable block and monsters. Monsters and blocks can only be destroyed by the Trialight. The goal of each level is to maneuver the Trialight towards the exit of the screen. The exit is usually blocked by destroyable obstacles and sometimes certain conditions (such as killing all monsters or destroying certain objects) have to be fulfilled before a level can be completed. If the Firestriker is killed or the Trialight falls off the screen, the player loses a life. Additionally to the Firestriker, the player can use the shoulder buttons to control a magician who (in single player mode) stays at the bottom of the screen. The levels consist of several screens and are entered from a world map. As the game progresses, the player will also fight several bosses and free other Firestrikers whose special abilities are necessary to complete the game.
+
+   Firestriker also features a two-player cooperative mode as well as a duel-mode for up to four players.</desc>
+	   <image>~/.emulationstation/downloaded_images/snes/Fire Striker-image.jpg</image>
+	   <marquee/>
+	   <video/>
+	   <thumbnail/>
+	   <rating>0.65</rating>
+	   <releasedate>19941001T000000</releasedate>
+	   <developer>Axes Art Amuse</developer>
+	   <publisher>DTMC, Inc.</publisher>
+	   <genre>Action</genre>
+	   <players>1-2</players>
+   </game>
+	<game>
+		<path>./Gunforce.zip</path>
+		<name>Gunforce: Battle Fire Engulfed Terror Island</name>
+		<desc>The player takes control of a soldier who is dropped off onto an island and must fight his way through hordes of enemy soldiers until he gets to the final showdown in order to protect Mother Earth from the invaders.
+
+Gameplay consists of moving forward and blasting all the enemies who get in the way. The player starts out with a normal gun, but can find other weapons throughout a level, such as a flamethrower or a laser gun. While the normal gun has an infinite amount of bullets, the other types of weapons will eventually run out of ammo. With these weapons, the player can shoot either straight, up, or on a diagonal. The player will also have the opportunity to commandeer a vehicle, which they can also fire bullets from.
+
+The player starts with 5 lives and 3 continues. Each of the stages must be defeated in a certain amount of time or the player loses one of those lives.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Gunforce-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bits Corporation</developer>
+		<publisher>Irem</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./TwinBee - Rainbow Bell Adventure.zip</path>
+		<name>Pop'n Twinbee - Rainbow Bell Adventures</name>
+		<desc>You play as either Twinbee, Gwinbee or Winbee. Cooperative play is also available. In this mode the second player takes control over one of the two characters left. Either way your task is to find and defeat the evil Dr. Warmon who tries to enslave the islands of Dunburi.
+
+To deal with the many villains Dr. Warmon throws at you, you need to collect colored bells. Depending on the color of the bell you can use different attacks like a laser (blue bells) or a lash (orange bells). But even without the bells you're not defenseless. Your standard-attacks include a shock wave and the ability to fly.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/TwinBee - Rainbow Bell Adventure-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Shadowrun.zip</path>
+		<name>Shadowrun</name>
+		<desc>Disoriented and confused, you are forced into a race against time, technology and termination. Running in the shadows and cracks between the Megaplexes, survival depends on your wits, your weapons and your wayward companions. Plunge into the dark side of the future, where technology and magic become one, where devolution and destruction are a way of life. Plunge into Shadowrun.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Shadowrun-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930501T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./SimCity.zip</path>
+		<name>Sim City</name>
+		<desc>SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/SimCity-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910813T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Construction and Management Simulation</genre>
+	</game>
+	<game>
+		<path>./Smart Ball.zip</path>
+		<name>Smart Ball</name>
+		<desc>The game involves going through 8 stages (broken up into two parts each) of side-scrolling action. At the end of each stage is a boss monster that must be disposed of.
+
+Jerry moves by sliding across the ground and can latch on to walls and climb them. Jerry can also jump, stretch out to cling to ceilings, and also move at a faster pace. Jerry can consume balls that he finds during a stage and can then fire them out of his body at enemies blocking his path. Enemies can also be defeated by jumping on them and then flattening Jerry's body on them. Also, there are flowers that contain items for Jerry to collect. Items include life, which refills health, a 1-up that adds an extra life, and a seed, which will grow a climbable beanstalk when planted. If the player collects the scattered letters that appear in every stage that spell out the name Jerry, the player will earn two extra lives.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Smart Ball-image.jpg</image>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Smash Tennis.zip</path>
+		<name>Smash Tennis</name>
+		<desc>The controls of Smash Tennis work similar to other tennis games and especially Namco's previous tennis game World Court Tennis: the player moves the athlete over the court and presses buttons with the correct timing in order to win the match. This time there is no story mode, but a tournament mode instead. Here the goal is to win the Grand Slam by playing various tournament matches. However. a match only has a single set. There are 20 athletes (both male and female) to choose from which have different advantages and drawbacks.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Smash Tennis-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Sonic Blast Man II.zip</path>
+		<name>Sonic Blast Man II</name>
+		<desc>Heavy Blast Man is once again trying to take over the Earth. People are being turned into hideous monsters and being made to serve him. Sonic Blast Man returns along with some new friends, Sonia and Captain Choyear. Together, they battle Heavy Blast Man and his minions to save the Earth from destruction.
+
+You control one of three characters in this side-scroller, as you fight your way through various levels filled with enemies and bosses. Beat them up with the basic punches and kicks or use your super moves to get out of tight spots.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Sonic Blast Man II-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Speedy Gonzales in Los Gatos Bandidos.zip</path>
+		<name>Speedy Gonzales: Los Gatos Bandidos</name>
+		<desc>In a small Mexican village, all the mice were enjoying a fiesta until Los Gatos Bandidos, a group of cats, came and kidnapped them all. Only Slowpoke escaped and sent for his cousin, the fastest mouse in Mexico... Speedy Gonzales! Following the trail of the Bandidos, Speedy will enter each level and try to rescue as many mice as possible while chasing after cheese and avoiding natural hazards. Ariba! Ariba!
+
+The gameplay in Speedy Gonzales resembles the Sonic the Hedgehog series of games more than anything else. For the most part Speedy will run, run across fields and up slopes and into tunnels. There are also mousetraps which function similarly to Sonic's trampolines and will propel Speedy into the air. Speedy has a short range kick for attacking and can occasionally pick up items and use them at a later time.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Speedy Gonzales in Los Gatos Bandidos-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Mitsui</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Spider-Man &amp; Venom - Maximum Carnage.zip</path>
+		<name>Spider-Man &amp; Venom: Maximum Carnage</name>
+		<desc>Only one maniacal madman can force Spider-Man to unite with his sinister, arch-nemesis Venom’: CARNAGE’! His deadly rampage is tearing New York City apart! Only wild web-slinging maneuvers, crushing combat moves and Super Hero’ allies can save the city from total obliteration. It's maximum mayhem! It's Maximum Carnage’! Paint the town red!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Spider-Man &amp; Venom - Maximum Carnage-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940904T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Stargate.zip</path>
+		<name>Stargate</name>
+		<desc>Based on the movie of the same name, a mystical circular portal called a "Stargate" has been uncovered. In attempting to unlock its secrets, its power is unlocked creating a passageway to a different world named Abydos. A special forces team is sent to the new world to investigate but is soon ambushed and its supplies taken including a powerful nuclear bomb.
+
+As Colonel O'Neil, a variety of objectives must be met starting with the recovery of supplies and the finding of other teammates, including civilian archaeologist Daniel Jackson. Once regrouped, O'Neil must lead the attack on the god, Ra and escape back to Earth before the power of the nuclear bomb can be unleashed on this new world.
+
+The game is a side-scroller platform adventure. The player controls O'Neil on a variety of objectives and is armed with a rifle weapon and grenades. Embarking through desert, caverns and nomad towns... eventually to the palace of Ra.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Stargate-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acclaim Entertainment</developer>
+		<publisher>Cosmo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Street Fighter Alpha 2.zip</path>
+		<name>Street Fighter Alpha 2</name>
+		<desc>DO YOU HAVE WHAT IT TAKES?
+
+The bad boys from the Street Fighter series are back for more fisticuffs of fury! Eighteen different combatants, some old and some new, are here to lay claim to the title "World's Best". Screamin' moves like Ken's Dragon Punch, Adon's Jaguar Tooth and M. Bison's Somersault Skull Driver will blow you away! Play alone or pummel a friend in two-player simultaneous action. This ain't no cakewalk. This ain't no cakewalk. This is Street Fighter Alpha 2 and it's blazing on your Super NES!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter Alpha 2-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19961220T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II - The World Warrior.zip</path>
+		<name>Street Fighter II</name>
+		<desc>GET READY TO RUMBLE!
+
+From across the globe comes eight of the wildest fighters the world has ever known. Choose your champion, gather your courage and prepare to battle your opponents in a bare knuckle brawl. Face Ken and his devastating "Dragon Punch"! Watch the temperature rise as Dhalsim incinerates you with his mystical Yoga Flame! Hear your spine crack as Zangief smashes you to the pavement with his spinning pile driver! Cover your ears as Guile breaks the sound barrier with the awesome power of the Sonic Boom!
+
+Annihilate your competition and claim the right to test your skills against the bone-crushing power of the Grand Masters! Can you survive? Can Anyone?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II - The World Warrior-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920610T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Street Fighter II Turbo - Hyper Fighting.zip</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Feel the Need for Speed!
+
+They're back and they're badder than ever! Faster, stronger and with all new moves, twelve of the greatest fighters from across the globe are ready to do battle! Choose your champion and get ready for the big brawl as they try to earn the right to battle M. Bison for the title. And just when you think you've mastered it all, crank it up a notch and go TURBO!
+
+Cover your head as Blanka dives at you from above and hear your neck crack as Zangief hits you with the Turbo Spinning Clothesline. Stare in disbelief as Dhalsim disappears before your eyes and Chun Li unleashes her blazing fireball! Watch in awe as Sagat fights Sagat and Ryu does a Hurricane Kick in mid-air! Survive all this and you may live long enough to become the greatest Street Fighter ever!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Street Fighter II Turbo - Hyper Fighting-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930710T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Stunt Race FX.zip</path>
+		<name>Stunt Race FX</name>
+		<desc>The game features four modes of play: Speed Trax is basically an arcade mode where the player has to qualify for each upcoming race by reaching checkpoints while collecting items to restore his damage- and boost-bar. It is divided into a Novice-, Expert-, and Master class, with each class featuring four unique tracks. In Stunt Trax the player has to complete courses filled with obstacles within a certain time limit while trying to collect as many stars as possible. Battle Trax is a two player mode taking place on special tracks without any CPU-controlled opponents. Finally, Test Run let's the player practice all tracks that have been unlocked.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Stunt Race FX-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19940701T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Alfred Chicken.zip</path>
+		<name>Super Alfred Chicken</name>
+		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Alfred Chicken-image.jpg</image>
+		<releasedate>19940201T000000</releasedate>
+		<developer>Twilight</developer>
+		<publisher>Mindscape</publisher>
+		<genre>Platform</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Super Bomberman.zip</path>
+		<name>Super Bomberman</name>
+		<desc>Super Bomberman is the first video game in the Bomberman series to appear on the Super Nintendo Entertainment System. It is also the first four-player game to be released on the Super NES.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Bomberman-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Super Bomberman 3.zip</path>
+		<name>Super Bomberman 3</name>
+		<desc>This game scales back a lot of gameplay additions made in Super Bomberman 2 and returns to the classic formula. As for multiplayer, the game adds a lot over the previous game by adding more characters, each representing a country of Earth (including one of the villains, Pretty Bomber, as France, which marks her first appearance as a non-enemy character). There are also new cutscenes for the Story mode, which centers around the resurrection of the Five Dastardly Bombers who were previously defeated in Super Bomberman 2, as Shirobon and Kurobon adventure across various element themed stars in which the Five are causing havoc, under the rule of their creator, Bagular.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Bomberman 3-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Super Double Dragon.zip</path>
+		<name>Super Double Dragon</name>
+		<desc>The two greatest martial arts heroes of all time are back -- in SUPER DOUBLE DRAGON, an all-new adventure with awesome new moves, impossible new missions, and a hair-raising new cast of enemies!
+Marian, a beautiful policewoman, is a student of Kung Fu and part-time assistant instructor at the martial arts training school run by Billy and Jimmy Lee. A narcotics investigator, she has disappeared while attempting to infiltrate the rughtless criminal mob known as the Black Shadow Warriors.
+It will take all your incomparable fighting skill and knowledge to find and rescure Marian. Alone, or with the help of your brother, you must face the fearsome onslaught of the Shadow Warriors with the fabled power and ferocity of the DOUBLE DRAGON!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Double Dragon-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Nova.zip</path>
+		<name>Super Nova</name>
+		<desc>The intergalactic menace Belser has been long-defeated. However, he is rising again and is ready to cause trouble. Only a group of well-trained starpilots can defeat him. You take to the stars in this horizontal and sometimes vertical scrolling shooter. There are several power-ups to be obtained in your mission to defeat the evil Belser. 
+
+There are three ships to choose from, each having different weapons for attack. There are eight attack levels for each, increasing with each Red Orb collected. The Blue Orb gives a limited defense shield.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Nova-image.jpg</image>
+		<releasedate>19931201T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Super R-Type.zip</path>
+		<name>Super R-Type</name>
+		<desc>In this SNES sequel to the arcade R-Type shooters, you are the R-9, Earth's most advanced form of defense against the evil BYDO Empire. There are seven stages you must go through, picking up power-up items to defeat the stage bosses which have returned from the arcade versions of R-Type and R-Type II. Your R-9 ship can also be united with FORCE, which are invincible units that surround your ship to protect you and can also power up and attack.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super R-Type-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19910901T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Super Tennis.zip</path>
+		<name>Super Tennis</name>
+		<desc>The world circuit of tennis awaits you. Select from 20 male and female players, each with their own style of game play (strengths and weaknesses) and play singles, doubles either against or with a human opponent or a CPU controlled player(s) on all the major surfaces (clay, grass &amp; hardcourt).
+
+The circuit mode is the meat of the game. Here, using a password save system, you play a selection of tournaments all around the world. The more games you play and win, the more points you receive. These points go towards your rank in the world tour rankings. There are 4 major tournaments (as in real life) and many minor tournaments to play.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Tennis-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Tetris 3.zip</path>
+		<name>Super Tetris 3</name>
+		<desc>Super Tetris 3 is yet another version of the famous soviet puzzle game. However, despite what the title may suggest, contained within are actually four different versions of Tetris: Tetris Classic, Familiss, Sparkliss, and Magicaliss. Tetris Classic, of course, is the basic version of the game, which comes with an endless mode and a 25-line "standard" mode. Familiss, as the name might suggest, is a family mode for up to four players simultaneously. Sparkliss, meanwhile, is very similar to Bombliss from Super Tetris 2, only with a medieval fantasy theme and different explosion patterns. Sparkliss includes both a stage mode and a puzzle mode.
+
+The most unique mode is Magicaliss, which has never shown up on any other version of Tetris. In Magicaliss, pieces come in three basic colors, and by rotating the piece, the player can choose between them. Creating a line entirely out of one color will clear all blocks on the screen of that color. There are also grey pieces, which can only be cleared by creating a line made entirely from one color, which will cause all grey blocks on screen to become that color. There are also rare rainbow pieces which will act as any color. Besides these additions, the game itself is basic Tetris.
+
+Tetris Classic, Sparkliss, and Magicaliss can also be played in a two-player battle mode, besides the four-player Familiss mode.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Super Tetris 3-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>TOSE</developer>
+		<publisher>Blue Planet Software</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Tactics Ogre - Let Us Cling Together.zip</path>
+		<name>Tactics Ogre: Let Us Cling Together</name>
+		<desc>Tactics Ogre is a 3D isometric tactical role-playing game. The player starts out with a band of troops, builds a small army and fights many battles with choices to make in between, that will determine which one of the eight possible endings will be reached in a non-linear storyline. The player has the option to recruit characters, control individual equipment of each character, with over six male character classes, six female character classes, three demi-human classes, and more. It is also possible to train at safe locations to prepare the army before the next battle or storyline advancement.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tactics Ogre - Let Us Cling Together-image.jpg</image>
+		<releasedate>19951006T000000</releasedate>
+		<developer>Quest</developer>
+		<publisher>Quest</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Taekwon-Do.zip</path>
+		<name>Taekwondo</name>
+		<desc>Taekwondo is a Super Famicom title that was released exclusively in Japan and South Korea in 1994. The game is based around the Korean martial art of Taekwondo, featuring realistic techniques and tournament rules. It features nineteen fighters with their own special moves, and players are also given the option of creating their own custom fighters. The game can be played in either Japanese or Korean.
+
+The fighting control is very simple, and features the standardized control method of combining attack and directional button inputs to perform a variety of techniques. There are four different game modes: Tournament, Versus, Tag Battle by Turns and Practice.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Taekwon-Do-image.jpg</image>
+		<releasedate>19940628T000000</releasedate>
+		<developer>Human</developer>
+		<publisher>Human</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tecmo Super NBA Basketball.zip</path>
+		<name>Tecmo Super NBA Basketball</name>
+		<desc>Tecmo Super NBA features real teams (all 27 contemporary teams) and a roster of real players (over 320).  One or two players can compete in regular, reduced, or short seasons, or play an exhibition game.   Though primarily horizontal scrolling, digitized speech and cinemas, along with a free throw point of view, add drama to the proceedings.  Besides the expected elements of basketball (substitutions, penalties, steals and blocks, time-outs, overtime), Super NBA gives you the chance to call offensive plays and to program win/loss records.  Has a battery to back-up season play.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tecmo Super NBA Basketball-image.jpg</image>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Tournament Fighters.zip</path>
+		<name>Teenage Mutant Ninja Turtles: Tournament Fighters</name>
+		<desc>Trash the surf board and heave the 'za. It's a whole new breed of Turtles and they're fixated on fighting. We're dead serious, Tournament Fighters takes dude-on-dude demolition to new heights of intensity with 4 modes of pain-producing battles, deadly warriors, secret arenas, astounding graphics and sound effects that'll make you cringe! Clash with Krang-created clones of the Turtles, Casey Jones, April O'Neil, Ray Filet and Sisyphus, plus bosses Triceraton, Krang's Android and Karai. There's flying body presses, knee drops, head butts, rocket punches, elbow smashes, somersault throws, you'll feel and inflict them all. And the settings include Magma Ocean Planet, Jungle Planet, and every other bizarre corner of Dimension X!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Teenage Mutant Ninja Turtles - Tournament Fighters-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930904T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Shadow, The.zip</path>
+		<name>The Shadow</name>
+		<desc>The Shadow was once a vicious criminal captured by a mystic and taught the powers of the mind. He became the nemesis of evil.
+
+Now, donning his sweeping cape and disguise, The Shadow takes on his most dangerous foe yet; the last descendant of the great Genghis Khan.
+
+Join the fight and with your help, The Shadow will be victorious.
+
+The Shadow was a canceled SNES game published by Ocean. It is based in the film of the same name. It is currently available for download.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Shadow, The-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>20020718T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Fighting</genre>
+	</game>
+	<game>
+		<path>./Tiny Toon Adventures - Wacky Sports Challenge.zip</path>
+		<name>Tiny Toon Adventures: Wacky Sports Challenge</name>
+		<desc>Humor! Wackiness! Sports!
+ls that what you're looking for? if so. this game's got it! Plus cool graphics.
+
+STARRING YOUR FAVORITE TINY TOON ADVENTURES CHARACTERS FROM THE ANIMATED TV SERIES!!
+You can play as Buster Bunny. Babs Bunny (no relation). Plucky Duck or Dizzy
+Devil! You'll also run into your other favorite cast characters.
+
+HIDDEN BONUSES!!! TWELVE DIFFERENT EVENTS!!! MULTIPLE SKILL LEVELS WITH DIFFERENT HAZARDS!!!
+Face it. if you want a laugh riot. sports action. and tons of replay value. then this is the game you're looking for! Just check out those screen shots.
+
+BUY THE GAME. PLAY THE GAME. BE THE GAME.
+Besides. where else are you going to find Bungee Jumping, Chicken Race. Ice Cream Toss, Weight Lifting and eight other games in one convenient package?</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Tiny Toon Adventures - Wacky Sports Challenge-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./Top Gear.zip</path>
+		<name>Top Gear</name>
+		<desc>In the first of three released games for Super NES, players can choose among 4 different cars, each one with different attributes (maximum speed, fuel consumption, boost power and tire grip) to face 32 challenging courses situated in several places around the world as Brazil, USA, France, Japan etc.
+
+In more longer tracks, players will find a Pit Stop section, where they can enter to replenish the fuel meter (total or partially). The game has a split-screen display for 1 or 2 players. In 1-Player mode, you'll dispute the races against the computer, that has a slightly bigger speed than yours, helping to give a lot more of competitiveness. A password system was included, being possible to stop a current game and resume it later.
+
+Through the game, players will find several obstacles scattered by the courses, like rows of iron plates or even lots of stones. In order to qualify for the next circuit, it's required to complete it at least in the 5th position, or else the game is over.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Top Gear-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Top Gear 2.zip</path>
+		<name>Top Gear 2</name>
+		<desc>This third-person racing game resembles Gremlin's earlier Lotus series, in terms of its general look and feel, right down to the text font used in the game. Your task is to race through 16 countries, each of which features four races, with many real-world circuits recreated in incongruous locations (such as the Monza layout in Ayers Rock, and the old Hockenheim in Vancouver). 
+
+These four-race blocks each represent their own mini-championship, in which you race against 19 cars, needing to finish in the top 10 to continue, and with the top 6 scoring points 10-6-4-3-2-1, and the respective amount of money in thousands. This can be spent on various upgrades, ranging from engine to tires (wet and dry) and from shocks (front, side and rear) to gearboxes. The ideal approach is to buy the more expensive versions ASAP, as you get no saving when upgrading. If you win the four-race championship, you get the next password. 
+
+You get a set amount of nitro boost to use during each race, although bonus nitros, money and instant speed-up token appear on many tracks. Hazards such as puddles, barriers and ramps are also frequent.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Top Gear 2-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Kemco</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./True Lies.zip</path>
+		<name>True Lies</name>
+		<desc>True Lies is a 1994 video game based upon the film of the same name with Arnold Schwarzenegger's character Harry as the protagonist. The game followed the movie's path reasonably well, beginning at the Chateau and ending with the death of antagonist Aziz on the roof of the high rise. The game, which is oriented from a top-down perspective, had numerous weapons, from pistols and shotguns to anti-personnel mines.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/True Lies-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>LJN Ltd.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./U.N. Squadron.zip</path>
+		<name>U.N. Squadron</name>
+		<desc>Soar to glory in a high-tech aircraft! The Evil Project 4 has torn freedom from the people of Aslan. Mercenaries control the entire country, except for a tiny airfield. But this field is headquarters for the best fighter pilots in the world -- UN Squadron!
+You must destroy all eight of Project 4's bases as you force back an overpowering enemy war machine. Dog-fight a wolfpack of stealth fighters in a battlefield of clouds! Strafe enemy tanks!
+A giant missile launcher, laser cannon and desert aircraft carrier hammer at your plane. Counterstrike with missiles, thunder lasers, napalm and bombs. Lead an airstrike for freedom!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/U.N. Squadron-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Whirlo.zip</path>
+		<name>Whirlo</name>
+		<desc>A platformer title starring Valkyrie's lizard friend Xandra. In the game, which plays as a prequel of the Valkyrie games, you control Xandra as he leaves his enchanted forest in order to get help for his family. This will eventually lead him to meet up with our beloved Valkyrie and mark the beginning of their adventures.
+
+Xandra has all the abilities of a standard platformer character, which allow him to jump around and navigate the many obstacles found in the game. Additionally he's armed with a pitchfork which he can use to impale his enemies and stick to some surfaces. Collecting coins allow him to purchase extra lives, but there are no added weapons or spells as in the Valkyrie games.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Whirlo-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Winter Gold.zip</path>
+		<name>Winter Gold</name>
+		<desc>Winter Gold is a winter sports game with events like bobsled, ski jump and snow boarding, all in a 3D graphics environment.
+
+Both single player and multi player options are available; you can play with up to eight people in compete mode.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Winter Gold-image.jpg</image>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Yoshi's Cookie.zip</path>
+		<name>Yoshi's Cookie</name>
+		<desc>Yoshi's Cookie is a fast-paced puzzle game that can be enjoyed by everyone as it is easy to play, but challenging to complete. To play, you move the randomly placed cookies into rows and columns of cookies with similar patterns. When you successfully assemble a row or column of the same cookies, the line will disappear, and you can begin on a new row or column. The "Yoshi" cookie is very special in both the 1-player and the 2-player game. Since the Yoshi Cookie is the key to both games, you must use it wisely.</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Yoshi's Cookie-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19930601T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
 	</game>
 </gameList>

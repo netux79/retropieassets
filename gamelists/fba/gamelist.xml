@@ -541,4 +541,28 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<playcount>1</playcount>
 		<lastplayed>20171217T073246</lastplayed>
 	</game>
+	<game>
+		<path>./aliensyn.zip</path>
+		<name>Alien Syndrome</name>
+		<desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/aliensyn-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rastan.zip</path>
+		<name>Rastan</name>
+		<desc>Rastan Saga (ラスタンサーガ?), known in North America simply as Rastan, is a 1987 hack and slash platform arcade game developed and published by Taito.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/rastan-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
 </gameList>
