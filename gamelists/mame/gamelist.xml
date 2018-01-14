@@ -783,4 +783,51 @@ The player takes control of "Albatross", a member of the WCPO's (World Crime Pol
 		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./bonkadv.zip</path>
+		<name>Bonk's adventure</name>
+		<desc>Bonk's Adventure is a 2D platform video game developed by Red Company and Atlus that was released in 1989 in Japan and 1990 in North America for the TurboGrafx-16. In Japan it was released as PC Genjin (PC原人?) in 1989, a play on the Japanese name for the system, 'PC Engine'. The game was re-released for the TurboGrafx-16 in the U.S. in 1992 on the Gate of Thunder 4-in-1 game CD-ROM. The game was later ported to the NES, Game Boy, Amiga, arcade systems under different titles (FC Genjin, GB Genjin and BC Genjin). It is also available through Nintendo's Virtual Console service, on the PlayStation Store and there is a version for mobile phones in Japan.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/bonkadv-image.jpg</image>
+		<releasedate>19891102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./charlien.zip</path>
+		<name>Charlie Ninja</name>
+		<desc>You control a cartoonish ninja-type character who must attempt to shoot all the enemies and defeat the boss at the end of each stage.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/charlien-image.jpg</image>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Mitchell Corporation</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./osman.zip</path>
+		<name>Osman</name>
+		<desc>It is the late 21st century, and the world has come under the control of a single federal government. One day a new threat known as Abdullah the Slaver appears, causing widespread terror and panic. The fear in men's hearts incites the abandonment of all economic activity. The federal government, which is the foundation of capitalism and modern civilization, has become nothing less than an insidious idea that corrupts the foundations of society itself. It destroys the idiosyncrasies and variations among national viewpoints, stifling them in the name of "freedom" and its own internal ideals.
+
+Judicial Affairs Director Jack Layzon alone grasps the situation, fearing the worst. He summons the lone assassin who had mastered the 'secret style'...</desc>
+		<image>~/.emulationstation/downloaded_images/mame/osman-image.jpg</image>
+		<releasedate>19960501T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./nslashers.zip</path>
+		<name>Night Slashers</name>
+		<desc>The dead have risen from their graves, and monsters and mutants prey upon what's left of the living. Three monster hunters have joined together, using their knowledge of the occult to slay the undead scourge.
+
+During the course of the game, players fight through hordes of attacking zombies and mutants, as well as other enemies such as werewolves and elementals. Bosses also include monsters such as a mummy, a golem and a mad scientist. Players fight these enemies and bosses to stop the evil plans of King Zarutz from turning our planet into a worldwide kingdom for the dead.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/mame/nslashers-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>3</players>
+	</game>
 </gameList>

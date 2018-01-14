@@ -137,16 +137,6 @@ A barbarian hero jumps and fights his way through a variety of colourful, enemy-
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./bonkadv.zip</path>
-		<name>Bonk's adventure</name>
-		<desc>Bonk's Adventure is a 2D platform video game developed by Red Company and Atlus that was released in 1989 in Japan and 1990 in North America for the TurboGrafx-16. In Japan it was released as PC Genjin (PC原人?) in 1989, a play on the Japanese name for the system, 'PC Engine'. The game was re-released for the TurboGrafx-16 in the U.S. in 1992 on the Gate of Thunder 4-in-1 game CD-ROM. The game was later ported to the NES, Game Boy, Amiga, arcade systems under different titles (FC Genjin, GB Genjin and BC Genjin). It is also available through Nintendo's Virtual Console service, on the PlayStation Store and there is a version for mobile phones in Japan.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/bonkadv-image.jpg</image>
-		<releasedate>19891102T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./boogwing.zip</path>
 		<name>Boogie Wings</name>
 		<desc>Boogie Wings (known in Japan as The Great Ragtime Show) is a side-scrolling shooter arcade game released by Data East in 1992.
@@ -161,17 +151,6 @@ The game's graphics are highly detailed, and many of the backgrounds are likened
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./charlien.zip</path>
-		<name>Charlie Ninja</name>
-		<desc>You control a cartoonish ninja-type character who must attempt to shoot all the enemies and defeat the boss at the end of each stage.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/charlien-image.jpg</image>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Mitchell Corporation</developer>
-		<publisher>Mitchell Corporation</publisher>
-		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -388,18 +367,6 @@ The game's coin-op origins are evident in the fact that that the home versions d
 		<publisher>Irem</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./osman.zip</path>
-		<name>Osman</name>
-		<desc>It is the late 21st century, and the world has come under the control of a single federal government. One day a new threat known as Abdullah the Slaver appears, causing widespread terror and panic. The fear in men's hearts incites the abandonment of all economic activity. The federal government, which is the foundation of capitalism and modern civilization, has become nothing less than an insidious idea that corrupts the foundations of society itself. It destroys the idiosyncrasies and variations among national viewpoints, stifling them in the name of "freedom" and its own internal ideals.
-
-Judicial Affairs Director Jack Layzon alone grasps the situation, fearing the worst. He summons the lone assassin who had mastered the 'secret style'...</desc>
-		<image>~/.emulationstation/downloaded_images/fba/osman-image.jpg</image>
-		<releasedate>19960501T000000</releasedate>
-		<developer>Mitchell Corporation</developer>
-		<publisher>Data East</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./pang.zip</path>
