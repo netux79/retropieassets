@@ -830,4 +830,16 @@ During the course of the game, players fight through hordes of attacking zombies
 		<genre>Action</genre>
 		<players>3</players>
 	</game>
+	<game>
+		<path>./aliensyn.zip</path>
+		<name>Alien Syndrome</name>
+		<desc>Two players control two soldiers named Ricky and Mary, who must fight their way through large eight-way scrolling levels rescuing their comrades who are being held by aliens. After they have rescued a certain number of hostages the exit opens and they can pass through it in order to fight the end-of-level guardian. If this monstrosity is defeated, they move onto the next stage. As well as two player simultaneous gameplay, Alien Syndrome features pick-ups which assist the player including better weapons and maps of the current level.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/aliensyn-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
 </gameList>
