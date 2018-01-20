@@ -348,4 +348,23 @@ The game focuses on the stories of Class Zero, a group of twelve magic-endowed s
 		<playcount>3</playcount>
 		<lastplayed>20170321T235944</lastplayed>
 	</game>
+	<game>
+		<path>./zry-as.iso</path>
+		<name>zry-as</name>
+		<playcount>1</playcount>
+		<lastplayed>20180120T201959</lastplayed>
+	</game>
+	<game>
+		<path>./zry-as.cso</path>
+		<name>Alien Syndrome</name>
+		<desc>In Alien Syndrome, players take control of the game's strong and enigmatic heroine - Earth Command Trooper Aileen Harding - and battle a variety of fearsome aliens and colossal bosses. Gamers choose from a wide selection of character specialties and skills as they progress through an engrossing campaign, protected by many different types of armor and using a variety of melee and ranged weaponry. Players can improve their heroine's statistics and discover a huge number of powerful new abilities as they fight through infested spaceships and bizarre alien planets.</desc>
+		<image>/home/joe/.emulationstation/downloaded_images/psp/zry-as-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20070724T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180120T202625</lastplayed>
+	</game>
 </gameList>
