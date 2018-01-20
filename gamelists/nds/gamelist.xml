@@ -678,4 +678,63 @@ The innovative controls mean the player uses only the touch pad to control Goku.
 		<genre>Shooter</genre>
 		<players>4+</players>
 	</game>
+	<game>
+		<path>./Henry Hatsworth in the Puzzling Adventure.zip</path>
+		<name>Henry Hatsworth in the Puzzling Adventure</name>
+		<desc>In Henry Hatsworth in the Puzzling Adventure players embark on single player fun like no other. Here Henry Hatsworth, a quirky, lighthearted character serves as your guide on a journey through a new style of gaming on your Nintendo DS that combines the action of an adventure game with the challenge of a puzzle game.
+
+In this two-in-one extravaganza players explore five exotic worlds, fight a variety of opponents, and venture through more than 30 levels, including nearly a dozen hidden levels while taking on outrageous world-ending bosses.</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Henry Hatsworth in the Puzzling Adventure-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20090317T000000</releasedate>
+		<developer>Tiburon</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Kirby - Canvas Curse.zip</path>
+		<name>Kirby: Canvas Curse</name>
+		<desc>Your DS stylus has been infused with the power to paint! When Kirby gets turned into a ball by an evil witch, your hand-drawn rainbow paths become the only way he can find power-ups and reach the gates of each world. Draw loops to make him speed up, make ramps to jump danger, and draw walls to block laser beams and cannon blasts as you explore seven worlds packed with adventure! Get in touch: Stun enemies, break blocks, and much more - all with a touch of the stylus! Be a copycat: Tap Kirby to dash into enemies and copy their abilities. Eleven abilities in all! So many modes: Try timed challenges, take on bosses, or play simple but fun mini-games!</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Kirby - Canvas Curse-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20050613T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Prince of Persia - The Fallen King.zip</path>
+		<name>Prince Of Persia: The Fallen King</name>
+		<desc>Prince of Persia: The Fallen King is a third-person action-adventure video game developed by Ubisoft Casablanca.[1] The game was released for the Nintendo DS in December 2008, as a spin-off of Prince of Persia. The plot, taking place in ancient Persia, concerns the player character's role in a celestial battle between two gods; Ahriman and Ormazd. The player assumes the role of the Prince, and Zal, fighting Ahriman's forces with a variety of different physical and magical attacks. Prince of Persia: The Fallen King has received mixed reviews, with the most agreed-upon problem being the control scheme.[1][2][3]</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Prince of Persia - The Fallen King-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20081118T000000</releasedate>
+		<developer />
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Soul Bubbles.zip</path>
+		<name>Soul Bubbles</name>
+		<image>~/.emulationstation/downloaded_images/nds/Soul Bubbles-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>20080610T000000</releasedate>
+		<developer>Mekensleep</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Kirby Super Star Ultra.zip</path>
+		<name>Kirby: Super Star Ultra</name>
+		<desc>Kirby Super Star Ultra for the Nintendo DS re-imagines one of the most beloved Kirby games of all time. The game features new graphics and fully rendered animated cut scenes. With so many adventures waiting to be unlocked, there will never be a dull moment as Kirby runs, floats, copies enemies and uses Helpers to fight King Dedede and Meta Knight. New modes like Revenge of the King and Meta Knight Ultra await, along with classics like The Great Cave Offensive and Milky Way Wishes. On top of the main modes, there are also three new touch-screen-controlled mini-games that can be played with up to three friends via DS Download Play. Not only that, but players can go on Kirby adventures with a friend via local wireless as well.</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Kirby Super Star Ultra-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20080922T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20180120T194447</lastplayed>
+	</game>
 </gameList>
