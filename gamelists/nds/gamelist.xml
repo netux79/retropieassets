@@ -737,4 +737,18 @@ In this two-in-one extravaganza players explore five exotic worlds, fight a vari
 		<playcount>1</playcount>
 		<lastplayed>20180120T194447</lastplayed>
 	</game>
+	<game>
+		<path>./Lunar Knights.zip</path>
+		<name>Lunar Knights</name>
+		<desc>Descend into the gothic Sci-Fi world of Lunar Knights and take control of two warriors on a quest to reclaim the world from the vampiric legion. Spin together tornados, guide down flaming meteors, and blow together snowstorms in Kojima Productions first ever title on Nintendo DS!</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Lunar Knights-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20070206T000000</releasedate>
+		<developer>Kojima Productions</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<playcount>1</playcount>
+		<lastplayed>20180121T201338</lastplayed>
+	</game>
 </gameList>

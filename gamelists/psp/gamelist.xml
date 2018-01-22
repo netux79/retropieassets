@@ -349,16 +349,10 @@ The game focuses on the stories of Class Zero, a group of twelve magic-endowed s
 		<lastplayed>20170321T235944</lastplayed>
 	</game>
 	<game>
-		<path>./zry-as.iso</path>
-		<name>zry-as</name>
-		<playcount>1</playcount>
-		<lastplayed>20180120T201959</lastplayed>
-	</game>
-	<game>
 		<path>./zry-as.cso</path>
 		<name>Alien Syndrome</name>
 		<desc>In Alien Syndrome, players take control of the game's strong and enigmatic heroine - Earth Command Trooper Aileen Harding - and battle a variety of fearsome aliens and colossal bosses. Gamers choose from a wide selection of character specialties and skills as they progress through an engrossing campaign, protected by many different types of armor and using a variety of melee and ranged weaponry. Players can improve their heroine's statistics and discover a huge number of powerful new abilities as they fight through infested spaceships and bizarre alien planets.</desc>
-		<image>/home/joe/.emulationstation/downloaded_images/psp/zry-as-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/psp/zry-as-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20070724T000000</releasedate>
 		<developer>Sega</developer>
@@ -366,5 +360,27 @@ The game focuses on the stories of Class Zero, a group of twelve magic-endowed s
 		<genre>Action</genre>
 		<playcount>1</playcount>
 		<lastplayed>20180120T202625</lastplayed>
+	</game>
+	<game>
+		<path>./pm-di.cso</path>
+		<name>Dante's Inferno</name>
+		<desc>Dante's Inferno will take gamers to the western world's most definitive view of the afterlife as created by the 13th century Italian poet Dante Alighieri. Each of the nine circles will showcase its own distinct look, with demons, monsters and geography that are crafted straight from the poem's vivid descriptions. Using Death's Scythe and Beatrice's Holy Cross, and a slate of magic powers with a deep, customizable upgrade system, players will experience a fast and fluid 60 frames-per-second gameplay experience.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/pm-di-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>20100301T000000</releasedate>
+		<developer>EA Redwood Shores</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./psy-gwgs.cso</path>
+		<name>God of War: Ghost of Sparta</name>
+		<desc>Set in the realm of Greek mythology, God of War: Ghost of Sparta is a single-player game that allows players to take on the powerful role of Spartan warrior Kratos. This new adventure picks up after God of War concludes, telling the story of Kratos' ascension to power as the God of War. In his quest to rid himself of the nightmares that haunt him, Kratos must embark on a journey that will reveal the origins of lost worlds, and finally answer long-awaited questions about his dark past. Armed with the deadly chained Blades of Chaos, he will have to overcome armies of mythological monsters, legions of undead soldiers, and amazingly dangerous and brutal landscapes throughout his merciless quest.</desc>
+		<image>~/.emulationstation/downloaded_images/psp/psy-gwgs-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20101102T000000</releasedate>
+		<developer>Ready at Dawn</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Action</genre>
 	</game>
 </gameList>
