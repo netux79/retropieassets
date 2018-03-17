@@ -19,14 +19,15 @@ license:		creative commons CC-BY-NC-SA
 		</image>
 		
 		<image name="footer" extra="true">
-			<pos>1 0.933</pos>
-			<origin>1 0</origin>
-			<size>1 0.066</size>
+			<pos>0 1</pos>
+			<origin>0 1</origin>
+			<size>1 0.1</size>
 			<path>./art/white.png</path>
 			<color>ffffff88</color>
 		</image>
 
 		<helpsystem name="help">
+			<pos>0.14 0.916</pos>
 			<textColor>555555</textColor>
 			<iconColor>555555</iconColor>
 		</helpsystem>
@@ -36,8 +37,8 @@ license:		creative commons CC-BY-NC-SA
 	<view name="system">
 		<image name="controller" extra="true">
 			<origin>0.5 0.5</origin>
-			<pos>0.5 0.2</pos>
-			<maxSize>0.4 0.35</maxSize>
+			<pos>0.5 0.25</pos>
+			<maxSize>0.222 0.333</maxSize>
 			<color>ffffff</color>
 		</image>
 	</view>
@@ -47,7 +48,7 @@ license:		creative commons CC-BY-NC-SA
 		<image name="logo_bg" extra="true">
 			<origin>0 0</origin>
 			<pos>0 0</pos>
-			<size>1 0.233</size>
+			<size>1 0.267</size>
 			<path>./art/white.png</path>
 			<color>ffffff88</color>
 		</image>
@@ -62,8 +63,8 @@ license:		creative commons CC-BY-NC-SA
 		</image-->	
 
 		<image name="logo">
-			<pos>0.5 0.116</pos>
-			<maxSize>0.9 0.19</maxSize>
+			<pos>0.5 0.1493</pos>
+			<maxSize>0.7 0.17</maxSize>
 			<origin>0.5 0.5</origin>
 		</image>
 
@@ -71,8 +72,8 @@ license:		creative commons CC-BY-NC-SA
 			<path>./art/white.png</path>
 			<color>00000099</color>
 			<origin>0 0</origin>
-			<pos>0 0.234</pos>
-			<size>1 0.7</size>
+			<pos>0 0.267</pos>
+			<size>1 0.634</size>
 		</image>
 
 		<textlist name="gamelist">
@@ -84,7 +85,7 @@ license:		creative commons CC-BY-NC-SA
 			<scrollSound>./art/scroll.wav</scrollSound>
 			<fontSize>0.055</fontSize>
 			<forceUppercase>1</forceUppercase>
-			<pos>0.0125 0.843</pos>
+			<pos>0.0125 0.807</pos>
 			<size>0.974 0.11</size>
 			<alignment>center</alignment>
 		</textlist>
@@ -95,8 +96,8 @@ license:		creative commons CC-BY-NC-SA
 	   
 		<textlist name="gamelist">
 			<selectorColor>000000aa</selectorColor>
-			<pos>0.0125 0.243</pos>
-			<size>0.974 0.6875</size>
+			<pos>0.0125 0.288</pos>
+			<size>0.974 0.5833</size>
 			<alignment>center</alignment>
 		</textlist>	   
    </view>
@@ -113,7 +114,10 @@ license:		creative commons CC-BY-NC-SA
 
 		<image name="md_image">
 			<pos>0.5 0.55</pos>
-			<maxSize>0.437 0.583</maxSize>
+			<!-- Uncomment this for 720x480 resolution -->			
+			<maxSize>0.33333 0.5</maxSize>
+			<!-- Uncomment this for 800x600 resolution -->
+			<!--maxSize>0.375 0.5</maxSize-->
 			<origin>0.5 0.5</origin>
 		</image>
 
