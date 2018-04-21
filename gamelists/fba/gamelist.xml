@@ -520,4 +520,27 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./s1945.zip</path>
+		<name>Strikers 1945</name>
+		<desc>In 1945, the second world war ended. Soon, there was peace, but an organization of high-ranking military officers from all over the world form a global army known as CANY. Their mission was to conquer the world. CANY activity was found in areas like the Soviet Union, America, Japan, and even Germany. It is revealed that CANY had weapons never seen before from rockets to mechanical walkers. The world quickly formed a group of pilots and planes called the Strikers whose mission is to rid of CANY from the world.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/s1945-image.png</image>
+		<rating>0.6</rating>
+		<releasedate>19950904T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./s1945ii.zip</path>
+		<name>Strikers 1945 II</name>
+		<desc>Continuing where the last game ended, the forces of CANY had been demolished by the previous Strikers' line-up. However, a small group known as the FGR stole the sources and technology responsible for the last events and planned to continue CANYs work by initiating world-warfare with massive mech technology. Once again, the Strikers are called into action.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/s1945ii-image.jpg</image>
+		<rating>0</rating>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
 </gameList>

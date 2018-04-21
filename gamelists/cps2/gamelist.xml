@@ -253,4 +253,18 @@ Daggers, hammers, arrows and burning oils can be used as throwing weapons, and m
 		<genre>Action</genre>
 		<players>4+</players>
 	</game>
+	<game>
+		<path>./sgemf.zip</path>
+		<name>Super Gem Fighter Mini Mix</name>
+		<desc>It's the most outrageous fighting game ever! Innocent but deadly, these pint-sized champions from Street Fighter and DarkStalkers pack one heck of a punch. Battle to collect power-up gems and duke it out with the most insane attacks and hilarious fighting combos of all time.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/sgemf-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19970904T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<playcount>4</playcount>
+		<lastplayed>20180421T021600</lastplayed>
+	</game>
 </gameList>
