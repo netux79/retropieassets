@@ -1986,41 +1986,6 @@ Ninja Warriors plays as a side scrolling beat 'em up, and is a single player ada
 		<rating>0</rating>
 	</folder>
 	<game>
-		<path>./SMW Hacks/SMW - The Second Reality Project Reloaded.zip</path>
-		<name>Super Mario World The Second Reality Project 2</name>
-		<desc>The series begins with Mario learning that Bowser had discovered a new power source and is using the resources to construct an invasion fleet of airships in order to strike the Mushroom Kingdom. Eventually, Mario discovers the Second Reality and must put a stop to Bowser's plot. The second game concerns Mario's unexpected return to the Second Reality and a new foe named Zycloboo. The upcoming conclusion to the trilogy will involve Bowser's return to the Second Reality as the primary plot.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/SMW - The Second Reality Project Reloaded-image.jpg</image>
-		<rating>0.6</rating>
-		<releasedate>20050517T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./SMW Hacks/SMW - TSRP2 - Zycloboos Challenge.zip</path>
-		<name>Super Mario World The Second Reality Project 2-Zycloboo's Challenge</name>
-		<desc>A One-Eyed Big Boo called Zycloboo wants to conquer the Mushroom Kingdom, and like Bowser in “The Second Reality Project Reloaded” he wants to use the power source from another dimension called the Second Reality to get to his goal. To get Mario out of sight (or maybe for some other reasons?) he warps Mario and his castle into the Second Reality. Mario’s only chance to stop Zycloboo is to activate the Power Switch again, which he disabled himself during his last adventure in this strange dimension to avoid misuse of it’s power. But to stop Zycloboo, he must be able to return to the Mushroom Kingdom and for that he needs the gateways active, since they are Mario’s only chance to return - well, that is the plan at least, heeheehee!</desc>
-		<image>~/.emulationstation/downloaded_images/snes/SMW - TSRP2 - Zycloboos Challenge-image.jpg</image>
-		<rating>0.7</rating>
-		<releasedate>20140712T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./SMW Hacks/SMW - Return to Dinosaur Land.zip</path>
-		<name>Super Mario World: Return to Dinosaur Land</name>
-		<desc>This is a complete hack of Super Mario World. All the levels and worlds are new, and some of the worlds have themes not present in the original, such as a water world and an ice world. Don’t expect any new graphics here, though. This hack is all about the level design. The game is moderately challenging, and some of the last levels can get very hard.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/SMW - Return to Dinosaur Land-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>20060414T000000</releasedate>
-		<developer>RAGB</developer>
-		<publisher>RAGB</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Kaizou Chounin Shubibin Man Zero.zip</path>
 		<name>Kaizou Choujin Shubibinman Zero</name>
 		<image>~/.emulationstation/downloaded_images/snes/Kaizou Chounin Shubibin Man Zero-image.jpg</image>
@@ -2117,17 +2082,6 @@ Is Yoshi up to the momentous task at hand?  Help him toss his eggs, manipulate u
 		<genre>Platform</genre>
 		<playcount>4</playcount>
 		<lastplayed>20170217T011537</lastplayed>
-	</game>
-	<game>
-		<path>./SMW Hacks/SMW - Yoshi's Strange Quest Beta.zip</path>
-		<name>Yoshi's Strange Quest</name>
-		<desc>This is the sequel to Mario’s Strange Quest. Picking up where Mario’s Strange Quest left off, it turns out that the part where Yoshi’s eggs hatched at the end of MSQ didn’t actually happen. What really happened after Mario beat Bowser, rescued Yoshi’s eggs, and saved the princess was that Yoshi and his sleepy friend decided to move to a new land so that he can protect his eggs from Bowser before they really hatched. So, both Yoshis do so and they find themselves in the land of Weirdonia. However, it seems that Bowser apparently insists on stealing Yoshi’s eggs, since Yoshi’s eggs were stolen again while Yoshi was out shopping. Since Mario isn’t around to help this time, Yoshi goes on a quest by himself to retrieve his eggs. However, just like Mario’s Strange Quest, this isn’t your ordinary quest. The land of Weirdonia is a strange land filled with bizarre gimmicks, weird themes, and possibly jelly filled donuts and pizza. Expect the unexpected during Yoshi’s journey.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/SMW - Yoshi's Strange Quest Beta-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>20141215T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Yoshifanatic</publisher>
-		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Super Street Fighter II - The New Challengers.zip</path>
@@ -2996,19 +2950,19 @@ Putty can collect stars that increase his attack power: at first increasing the 
 	</game>
 	<game>
 		<path>./Dark Law - The Meaning of Death.zip</path>
-		<name>Dark Law: Meaning of Death</name>
+		<name>Dark Law: The Meaning of Death</name>
 		<desc>Dark Law is a Role-Playing game, developed by SAS Sakata and published by ASCII Entertainment, which was released in Japan in 1997.</desc>
 		<image>~/.emulationstation/downloaded_images/snes/Dark Law - The Meaning of Death-image.jpg</image>
 		<releasedate>19970328T000000</releasedate>
 		<developer>SAS Sakata</developer>
 		<publisher>ASCII Entertainment</publisher>
 		<genre>Role-Playing</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Dr. Mario.zip</path>
 		<name>Dr. Mario</name>
-      <image>~/.emulationstation/downloaded_images/snes/Dr. Mario-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/snes/Dr. Mario-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
@@ -3023,42 +2977,36 @@ The graphics will dozzle you, the speed will astound you... but if you don't thi
 		<publisher>Jaleco Entertainment</publisher>
 		<genre>Action</genre>
 	</game>
-   <game id="2697" source="ScreenScraper">
-	   <path>./Exhaust Heat.zip</path>
-	   <name>Exhaust Heat</name>
-	   <desc>In Exhaust Heat you drive in race car and compete in a series of sixteen races on tracks from around the world. You will earn money for each race depending on how you placed (for instance, first place nets you $7000) which you can use to purchase upgrades for your car. You need to find a good balance between the parts. To test the effectiveness of your parts you can run a test race to see how the car works before you buy. Data can be saved on the cartridge so you will not lose your parts or your race statistics. The goal is simply to complete all sixteen tracks; you will get a bonus at the end depending on how well you do so there is an incentive to play again and do better.
+	<game>
+		<path>./Exhaust Heat.zip</path>
+		<name>Exhaust Heat</name>
+		<desc>In Exhaust Heat you drive in race car and compete in a series of sixteen races on tracks from around the world. You will earn money for each race depending on how you placed (for instance, first place nets you $7000) which you can use to purchase upgrades for your car. You need to find a good balance between the parts. To test the effectiveness of your parts you can run a test race to see how the car works before you buy. Data can be saved on the cartridge so you will not lose your parts or your race statistics. The goal is simply to complete all sixteen tracks; you will get a bonus at the end depending on how well you do so there is an incentive to play again and do better.
    </desc>
-	   <image>~/.emulationstation/downloaded_images/snes/Exhaust Heat-image.jpg</image>
-	   <marquee/>
-	   <video/>
-	   <thumbnail/>
-	   <rating>0.7</rating>
-	   <releasedate>19920221T000000</releasedate>
-	   <developer>SETA Corporation</developer>
-	   <publisher>SETA Corporation</publisher>
-	   <genre>Race, Driving</genre>
-	   <players>1</players>
-   </game>
-   <game id="18943" source="ScreenScraper">
-	   <path>./Fire Striker.zip</path>
-	   <name>Firestriker</name>
-	   <desc>A long time ago the kingdoms of wind, fire, earth and water
+		<image>~/.emulationstation/downloaded_images/snes/Exhaust Heat-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19920221T000000</releasedate>
+		<developer>SETA Corporation</developer>
+		<publisher>SETA Corporation</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fire Striker.zip</path>
+		<name>Firestriker</name>
+		<desc>A long time ago the kingdoms of wind, fire, earth and water
    competed for the Trialight, a weapon created by the Arch Mage Wylde that can only be used by a Firestriker. The kingdom of wind won and united the four kingdoms. Wylde however, was not satisfied with peace and conjured four monsters to overthrow the united world. Now, only the kingdom of wind remains and the player takes control over the last Firestriker to free the other kingdoms and defeat the monsters.
 
    Even though Firestriker looks like a typical SNES RPG, it is in fact an action game that has more in common with a pinball-game than with any other genre. The Trialight is a ball of fire that basically behaves like a pinball. The player controls the Firestriker who can freely walk across the screen and strike at the Trialight to control its movement. Levels are filled with obstacles, destroyable block and monsters. Monsters and blocks can only be destroyed by the Trialight. The goal of each level is to maneuver the Trialight towards the exit of the screen. The exit is usually blocked by destroyable obstacles and sometimes certain conditions (such as killing all monsters or destroying certain objects) have to be fulfilled before a level can be completed. If the Firestriker is killed or the Trialight falls off the screen, the player loses a life. Additionally to the Firestriker, the player can use the shoulder buttons to control a magician who (in single player mode) stays at the bottom of the screen. The levels consist of several screens and are entered from a world map. As the game progresses, the player will also fight several bosses and free other Firestrikers whose special abilities are necessary to complete the game.
 
    Firestriker also features a two-player cooperative mode as well as a duel-mode for up to four players.</desc>
-	   <image>~/.emulationstation/downloaded_images/snes/Fire Striker-image.jpg</image>
-	   <marquee/>
-	   <video/>
-	   <thumbnail/>
-	   <rating>0.65</rating>
-	   <releasedate>19941001T000000</releasedate>
-	   <developer>Axes Art Amuse</developer>
-	   <publisher>DTMC, Inc.</publisher>
-	   <genre>Action</genre>
-	   <players>1-2</players>
-   </game>
+		<image>~/.emulationstation/downloaded_images/snes/Fire Striker-image.jpg</image>
+		<rating>0.65</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>Axes Art Amuse</developer>
+		<publisher>DTMC, Inc.</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+	</game>
 	<game>
 		<path>./Gunforce.zip</path>
 		<name>Gunforce: Battle Fire Engulfed Terror Island</name>
@@ -3252,7 +3200,7 @@ Cover your head as Blanka dives at you from above and hear your neck crack as Za
 		<developer>Twilight</developer>
 		<publisher>Mindscape</publisher>
 		<genre>Platform</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Super Bomberman.zip</path>
@@ -3522,4 +3470,234 @@ Both single player and multi player options are available; you can play with up 
 		<genre>Puzzle</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./SMW Hacks/SMW - 1st Annual Vanilla LDC.zip</path>
+		<name>SMW - 1st Annual Vanilla LDC</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - 8th Annual Vanilla LDC.zip</path>
+		<name>SMW - 8th Annual Vanilla LDC</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Bowser Cataclism Trap.zip</path>
+		<name>SMW - Bowser Cataclism Trap</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Bowser Rampages Again.zip</path>
+		<name>SMW - Bowser Rampages Again</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - CMW3 The Finale.zip</path>
+		<name>SMW - CMW3 The Finale</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Colossus.zip</path>
+		<name>SMW - Colossus</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Evil Conquest.zip</path>
+		<name>SMW - Evil Conquest</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Hack.zip</path>
+		<name>SMW - Hack</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Hack 2.zip</path>
+		<name>SMW - Hack 2</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Hack 3.zip</path>
+		<name>SMW - Hack 3</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Hunter's Revenge ReVised.zip</path>
+		<name>SMW - Hunter's Revenge ReVised</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - JUMP.zip</path>
+		<name>SMW - JUMP</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Kamek's Island.zip</path>
+		<name>SMW - Kamek's Island</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Luigi's Adventure 3 OSE.zip</path>
+		<name>SMW - Luigi's Adventure 3 OSE</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Luigi's Adventure OSE.zip</path>
+		<name>SMW - Luigi's Adventure OSE</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario &amp; Luigi Kola Kingdom Quest.zip</path>
+		<name>SMW - Mario &amp; Luigi Kola Kingdom Quest</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario &amp; Luigi Starlight Island Adventure.zip</path>
+		<name>SMW - Mario &amp; Luigi Starlight Island Adventure</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario Gives Up 3.zip</path>
+		<name>SMW - Mario Gives Up 3</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario Is Missing.zip</path>
+		<name>SMW - Mario Is Missing</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario X World BSB.zip</path>
+		<name>SMW - Mario X World BSB</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario X World DX.zip</path>
+		<name>SMW - Mario X World DX</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario's Amazing Adventure.zip</path>
+		<name>SMW - Mario's Amazing Adventure</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Mario's Strange Quest.zip</path>
+		<name>SMW - Mario's Strange Quest</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Master Quest 4 Redrawn.zip</path>
+		<name>SMW - Master Quest 4 Redrawn</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - NSMW1 The 12 Magic Orbs.zip</path>
+		<name>SMW - NSMW1 The 12 Magic Orbs</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Redrawn.zip</path>
+		<name>SMW - Redrawn</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - SMB The Early Years.zip</path>
+		<name>SMW - SMB The Early Years</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - SMB The Hunt For The Magical Key.zip</path>
+		<name>SMW - SMB The Hunt For The Magical Key</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - SML3 - Tatanga's Return.zip</path>
+		<name>SMW - SML3 - Tatanga's Return</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - SMW2+3 The Essence Star.zip</path>
+		<name>SMW - SMW2+3 The Essence Star</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Something Else.zip</path>
+		<name>SMW - Something Else</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Mario Bros 2 Dream Courses.zip</path>
+		<name>SMW - Super Mario Bros 2 Dream Courses</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Mario Bros 3X.zip</path>
+		<name>SMW - Super Mario Bros 3X</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Mario Bros 5 Reborn.zip</path>
+		<name>SMW - Super Mario Bros 5 Reborn</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Mario Logic.zip</path>
+		<name>SMW - Super Mario Logic</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Mario Omega.zip</path>
+		<name>SMW - Super Mario Omega</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Super Yoshi Land.zip</path>
+		<name>SMW - Super Yoshi Land</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - The 7 Golden Mushrooms.zip</path>
+		<name>SMW - The 7 Golden Mushrooms</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - The Ancestors Treasure.zip</path>
+		<name>SMW - The Ancestors Treasure</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - The Secret of the 7 Golden Statues.zip</path>
+		<name>SMW - The Secret of the 7 Golden Statues</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - The Treasure Hunt.zip</path>
+		<name>SMW - The Treasure Hunt</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - This Hack Needs a Name.zip</path>
+		<name>SMW - This Hack Needs a Name</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - The Second Reality Project Reloaded.zip</path>
+		<name>Super Mario World The Second Reality Project 2</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - TSRP2 - Zycloboos Challenge.zip</path>
+		<name>Super Mario World The Second Reality Project 2-Zycloboo's Challenge</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Return to Dinosaur Land.zip</path>
+		<name>Super Mario World: Return to Dinosaur Land</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+	</game>
+	<game>
+		<path>./SMW Hacks/SMW - Yoshi's Strange Quest Beta.zip</path>
+		<name>Yoshi's Strange Quest</name>
+		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
+   </game>
 </gameList>
