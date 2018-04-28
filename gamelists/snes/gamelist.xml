@@ -2198,18 +2198,6 @@ The entire incident is pinned on Roid and Sakata, who are summarily dismissed fr
 		<genre>Strategy</genre>
 	</game>
 	<game>
-		<path>./Star Fox 2 (USA).zip</path>
-		<name>Star Fox 2</name>
-		<desc>Star Fox 2 continued the battle against Emperor Andross who seeks to conquer the Lylat system, with the Star Fox team assembled once again to defeat him. The game introduces a new semi-real time game play system, featuring new ship types and two new Star Fox team members. It also features a more advanced 3D game engine thanks to a new improved version of the Super FX chip. Cancelled. 
-
-The game received its first official release as part of the Super NES Classic Edition on September 29, 2017.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Star Fox 2 (USA)-image.jpg</image>
-		<releasedate>20170929T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Super Mario World.zip</path>
 		<name>Super Mario World</name>
 		<desc>Mario's off on his biggest adventure ever, and this time he's brought along a friend. Yoshi the dinosaur teams up with Mario to battle Bowser, who has kidnapped Princess Toadstool once again. Guide Mario and Yoshi through nine peril-filled worlds to the final showdown in Bowser's castle. Use Mario's new powers and Yoshi's voracious monster-gobbling appetite as you explore 96 levels filled with dangerous new monsters and traps. Climb mountains and cross rivers, and descend into subterranean depths. Destroy the seven Koopa castles and find keys to gain entrance to hidden levels. Discover more warps and thrilling bonus worlds than ever before!</desc>
@@ -2477,17 +2465,6 @@ The game is a traditional Japanese-style RPG similar to Breath of Fire: turn-bas
 		<releasedate>19950804T000000</releasedate>
 		<developer>RED Entertainment</developer>
 		<publisher>Bullet Proof Software</publisher>
-		<genre>Role-Playing</genre>
-		<players />
-	</game>
-	<game>
-		<path>./Dark Law - Meaning of Death.zip</path>
-		<name>Dark Law: Meaning of Death</name>
-		<desc>Dark Law is a Role-Playing game, developed by SAS Sakata and published by ASCII Entertainment, which was released in Japan in 1997.</desc>
-		<image>~/.emulationstation/downloaded_images/snes/Dark Law - Meaning of Death-image.jpg</image>
-		<releasedate>19970328T000000</releasedate>
-		<developer>SAS Sakata</developer>
-		<publisher>ASCII Entertainment</publisher>
 		<genre>Role-Playing</genre>
 		<players />
 	</game>
