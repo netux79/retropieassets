@@ -3183,4 +3183,41 @@ Includes Demo of Mega Man Legends 2</desc>
 		<publisher>Bandai</publisher>
 		<genre>Shooter</genre>
 	</game>
+	<game>
+		<path>./Armorines Project Swarm.pbp</path>
+		<name>Armorines: Project S.W.A.R.M.</name>
+		<desc>Human Domination or Bug Infestation?
+The Choice is Yours.
+Your're an Armorine.
+Your're wearing the latest in futuristic battle-armor.
+Armed with a devasting arsenal, you've got 120 hours to stop an all-out bug invasion of Earth.
+Or die trying.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Armorines Project Swarm-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000630T000000</releasedate>
+		<developer>Acclaim</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Gauntlet Legends.pbp</path>
+		<name>Gauntlet Legends</name>
+		<desc>For those unfamiliar with the original Gauntlet and its various home versions, the action involved fighting enemies such as ghosts, demons and sorcerers spawned from square structures called monster generators. An overhead perspective allowed players the freedom to explore the maze-like levels while still being able to see everything around them.
+
+The object of each stage was simply to destroy the monsters in your path as you searched for the exit leading to the next level. Gauntlet Legends takes this simple formula and adds a new story, distinct worlds and even boss characters to fight. Of course, there are still treasure and potions waiting to be found as well as various traps that could spell disaster for even the heartiest of warriors.
+
+In order to help you survive the later levels (Gauntlet Legends consists of over 30 stages), characters can earn experience points that will eventually translate into added strength, speed, armor and health. The story behind the game involves a jealous brother (Garm) of a noble wizard (Sumner) who decided to gather 13 Rune Stones in order to raise a demon.
+
+Once the stones were placed on the floor of Sumner's tower, a hideous monster named Skorn was awakened and promptly consumed its new "master." As one of four intrepid adventurers, your goal is to travel through the worlds making up the Gauntlet Legends universe to defeat the evil demon Skorne and his various followers (a rather unsavory lot of Grunts, Ankle Biters, Suiciders, Bomb Throwers and Death).
+
+To help you fight the good fight, you'll be able to find food, special weapons and power icons that can all be stored in your inventory and used whenever your character needs them. Some of the weapons include a three-way shot, fire breath and super shot, while the power-ups include super speed, invisibility and Anti-Death Power (which allows you to steal health from the normally invulnerable Death).</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Gauntlet Legends-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
 </gameList>
