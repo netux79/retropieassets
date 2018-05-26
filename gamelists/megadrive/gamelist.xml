@@ -1001,4 +1001,29 @@ The game was marked as a limited edition release, and features teams from the 19
 		<playcount>1</playcount>
 		<lastplayed>20180109T051634</lastplayed>
 	</game>
+	<game>
+		<path>./Sagaia.zip</path>
+		<name>Sagaia</name>
+		<desc>Long time ago, the planet of Darius went into ruin but Proco and Tiat of Darius gave birth to a new planet and named it Orga. After the passing of many centuries, Proco Jr. and Tiat Young receive a strange radio broadcast from the galaxy. They discover the radio broadcast is a mayday signal from another descendant of Darius. They board the Silverhawk, preparing to defeat an evil force and journey to the galaxy.
+
+Darius II, or Sagaia as it is known in the West, is the second installment in Taito's shoot 'em up series. Its main distinguishing features are the non-linear level system and the enemies, which are different kinds of seafood.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Sagaia-image.jpg</image>
+		<rating>0.8</rating>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Thunder Force IV.zip</path>
+		<name>Thunder Force IV</name>
+		<desc>Thunder Force IV, known in North America as Lightening Force: Quest for the Darkstar [sic], is a 1992 side-scrolling shoot 'em up video game developed and published by Technosoft for the Sega Genesis as the fourth installment of the Thunder Force series. The game was released in Japan on July 24, 1992, in North America in September 1992 and in Europe in December 1992.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Thunder Force IV-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19920724T000000</releasedate>
+		<developer>Technosoft</developer>
+		<publisher></publisher>
+		<genre>Flight Simulator</genre>
+		<players>2</players>
+	</game>
 </gameList>

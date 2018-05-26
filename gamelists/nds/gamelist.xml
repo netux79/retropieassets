@@ -751,4 +751,18 @@ In this two-in-one extravaganza players explore five exotic worlds, fight a vari
 		<playcount>1</playcount>
 		<lastplayed>20180121T201338</lastplayed>
 	</game>
+	<game>
+		<path>./Newer Super Mario Bros.zip</path>
+		<name>Newer Super Mario Bros.</name>
+		<desc>In an all new 2D side-scrolling adventure, Mario and Luigi return after nearly fifteen years. The first traditional Mario Bros. game since Super Mario World.
+
+The character models are rendered in real time 3D, allowing for a far greater number of moves ever before seen in a Mario Bros. title. Also as the game is on DS, the touch screen allows players to store an additional power-up and view the distance still to go in a level.</desc>
+		<image>~/.emulationstation/downloaded_images/nds/Newer Super Mario Bros-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20060515T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
 </gameList>
