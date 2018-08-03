@@ -3220,4 +3220,20 @@ To help you fight the good fight, you'll be able to find food, special weapons a
 		<genre>Action</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./Street Fighter Alpha 3.pbp</path>
+		<name>Street Fighter Alpha 3</name>
+		<desc>Street Fighter Alpha 3...Scores a Triple K.O.
+
+The perfect version of the arcade blockbuster!
+New world tour mode and other enhancements!
+3 fighting styles for every character!</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Street Fighter Alpha 3-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19990430T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
 </gameList>

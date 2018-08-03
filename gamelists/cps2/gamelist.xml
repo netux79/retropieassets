@@ -267,4 +267,16 @@ Daggers, hammers, arrows and burning oils can be used as throwing weapons, and m
 		<playcount>4</playcount>
 		<lastplayed>20180421T021600</lastplayed>
 	</game>
+	<game>
+		<path>./ssf2.zip</path>
+		<name>Super Street Fighter II: The New Challengers</name>
+		<desc>Super Street Fighter II: The New Challengers is a head-to-head fighting game produced by Capcom originally released as a coin-operated arcade game in 1993. It is the fourth game in the Street Fighter II sub-series of Street Fighter games, following Street Fighter II: Hyper Fighting. In addition to refining and balancing the existing character roster from the previous installments, Super Street Fighter II also introduced four new characters. It was also the first game to be developed on Capcom '​s CP System II hardware, which permitted more sophisticated graphics and audio over the original CP System hardware, used by the previous versions of Street Fighter II.</desc>
+		<image>~/.emulationstation/downloaded_images/cps2/ssf2-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19930910T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
 </gameList>

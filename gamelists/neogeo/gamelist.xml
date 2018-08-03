@@ -334,18 +334,6 @@ Then one day, the greedy, treasure-seeking mad scientist, Dr. De Playne appeared
 		<players>2</players>
 	</game>
 	<game>
-		<path>./kof97.zip</path>
-		<name>The King of Fighters '97</name>
-		<desc>Despite the events at the end of the previous game, the KOF tournament was a huge commercial success and sparked a worldwide fighting craze. Within a few months of the tournament ending, various large corporations had held smaller KOF tournament qualifiers and constructed special KOF stadiums around the world, building the excitement up for the next tournament. News of the tournament spread through every form of media and fans and new fighters from across the globe come to watch the preliminary matches.</desc>
-		<image>~/.emulationstation/downloaded_images/neogeo/kof97-image.jpg</image>
-		<rating>0.9</rating>
-		<releasedate>19970727T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./aof2.zip</path>
 		<name>Art of Fighting 2</name>
 		<desc>In this sequel to the original Art of Fighting, and prequel to the original Fatal Fury, we learn that Mr. Karate, the final boss of the original game, behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma was being used by Geese Howard for his own evil intentions, and that Mr. Big was the one who had originally kidnapped Yuri.</desc>
@@ -564,5 +552,85 @@ Asia/Oceania B: Australia, China, Taiwan, Thailand, New Zealand, South Korea, Ja
 		<name>NeoGeo BIOS</name>
 		<rating>0</rating>
 		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./ninjamas.zip</path>
+		<name>Ninja Master's</name>
+		<desc>Another one-on-one fighting game straight from the arcades for the Neo Geo. Ninja Master's (sic.) is set on feudal Japan, and tells the story of 10 unique ninjas who fight each other for their own personal reasons and the chance to defeat the evil Nobunaga and bring peace back to Japan.
+
+As expected for the genre, the game pits your selected character against a series of opponents in best-of-3 round matches, with your objective being to deplete your opponents health bar with your basic attacks, special moves (triggered by specific control motions) and super moves (which rely on a power gauge). All the characters in Ninja Master's fight with their weapon of choice, but you can freely choose to put your weapon away and go mano a mano. This does not have a major impact on speed or attack power, but changes the movesets significantly changing the way even basic attacks work.
+
+Uses 2D sprite-based graphics and features 1P or 2P Vs gameplay.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/ninjamas-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19960628T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rotd.zip</path>
+		<name>Rage of the Dragons</name>
+		<desc>Rage of the Dragons is a fighting game based on a story of dragon worshipping and the threatening rise of the evil Black Dragon cult. To stop the rich, powerful, and young man possessed by the Black Dragon, the old master of the Sho Setzu Ken form leaves his dojo for a confrontation. Unfortunately, he's old and weak, and he dies before getting there. His daughter Lynn (White Dragon), pupils Jimmy (Red Dragon) and Billy (Blue Dragon), and many others are swept up into the inevitable conflict. Similar to games like Mortal Combat and Killer Instinct, Rage of the Dragons allows control of 14 different characters each with different moves and powers. The NEO GEO Advanced Entertainment System gets a rare new game with this 2002 release.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/rotd-image.jpg</image>
+		<rating>0.4</rating>
+		<releasedate>20020920T000000</releasedate>
+		<developer>Evoga Entertainment</developer>
+		<publisher>Playmore</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rbff2.zip</path>
+		<name>Real Bout Fatal Fury 2: The Newcomers</name>
+		<desc>Real Bout 2 revamps the two-line battle system from Real Bout Special. Instead of fighting in either two lines, the player is now forced to fight in a main line, while the second line is a "sway line" used to avoid attacks (similar to the original Real Bout). The one-line trap stages last seen in Fatal Fury Special also return.
+
+The character roster from Real Bout Special returns, including Geese Howard, who is now a normally selectable character, and serves as one of the standard final bosses, alternating with Wolfgang Krauser. However, the extra versions of Tung, Mary, Andy, and Billy are gone. Two new characters are introduced: Li Xiangfei, a Chinese American waitress; and Rick Strowd, a Native American boxer. The game also features biplane pilot Alfred (the protagonist from Dominated Mind, the PlayStation version of Real Bout Special), as a secret final boss.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/rbff2-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19980429T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./samsh5sp.zip</path>
+		<name>Samurai Shodown V Special</name>
+		<desc>Samurai Shodown V Special is a re-release of the base game, which was the first game in the main series not developed by SNK, but designed by Yuki Enterprise instead. A few problems were corrected in this release, along with the addition of some new features.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/samsh5sp-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>20040615T000000</releasedate>
+		<developer>Yuki Enterprise</developer>
+		<publisher>Snk Playmore</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kof99.zip</path>
+		<name>The King of Fighters '99: Millennium Battle</name>
+		<desc>Two years have passed since the last King of Fighters tournament and no-one has seen Kyo Kusanagi or Iori Yagami since they defeated Orochi at the climax of the 1997 tournament, but out of the blue, new invitations are sent out to many characters, inviting them to a brand new tournament, though this competition is more of a secretive affair than the ones in '96 and '97. Unlike in previous games of the series, there are four characters per team instead of three. In total, there are seven teams, each containing four characters, four Team Edit characters and a boss.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof99-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19990923T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kof2003.zip</path>
+		<name>The King of Fighters 2003</name>
+		<desc>The tenth installment in SNK's long running King of Fighters series, and the last KOF to appear on the Neo Geo system. This game's storyline focuses on the unexpected return of the Orochi power, who was thought to have been permenantly sealed away back in 1997 by Kyo Kusanagi, Iori Yagami and Chizuru Kagura. It appears that someone has been tampering with the seal, however...
+
+This year there are 30 characters, 2 edit characters (Kyo Kusanagi and Iori Yagami) and 2 hidden characters (Kusanagi from KOF '02 and Chizuru Kagura) to choose from. There are several returning characters (Jhun Hoon, King, Shingo Yabuki, Hinako Shijou, Billy Kane and Ryuji Yamazaki) and few new fighters as well (Ash Crimson, Shen Woo, Duo Lon, Malin, Adelheid Bernstein and Mukai).</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/kof2003-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>20040318T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 </gameList>
