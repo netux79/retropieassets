@@ -3362,4 +3362,59 @@ The hippest cool Kat in New York, Willy, is hot on the tail of local crime boss,
 		<playcount>1</playcount>
 		<lastplayed>20180107T092854</lastplayed>
 	</game>
+	<game>
+		<path>./Valis++.zip</path>
+		<name>Mugen Senshi Valis++</name>
+		<desc>The fiendish King Rogles stands poised to conquer the other worlds of the universe: the Dream World of Queen Valia, and the Human World. Rogles and his five Dark Lords have taken the force of Yang from Queen Valia and sealed it into a Fantasm Jewel. Only a warrior with a heart perfectly balanced between Yin and Yang can wield the Sword of Valis against the encroaching darkness! 
+
+Yuko, a young student from the Human World, is the chosen one - and you will control her. She is to become the greatest warrior in the universe, never suspecting that her most fearsome battle will not be against a Dark Lord, but against her closest friend from the Human World - the one she warned, "Don't go out with him, he's the Dark..." But before she could finish, her friend ran off into The Darkness.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Valis++-image.png</image>
+		<rating>0</rating>
+		<releasedate>19870821T000000</releasedate>
+		<developer>Telenet Japan</developer>
+		<publisher>Tokuma Shoten</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Binary Land.zip</path>
+		<name>Binary Land</name>
+		<desc>Binary Land is a puzzle video game developed by Hudson Soft in 1983 for the MSX, FM-7, NEC PC-6001, NEC PC-8801, and in 1985 for the Famicom. The MSX version saw release in Japan by Kuma Computers Ltd in 1984.
+
+While the Famicom version has a grand total of 99 levels; there is no ending screen implemented in the game.
+
+In the Famicom version of the game, players have to unite two penguins, Gurin (male) and Malon (female), who are in love. The MSX version features a human boy and a human girl; gameplay remains identical to the Famicom version. Players control Malon and Gurin simultaneously; with a timer adding to the difficulty. These penguins move in mirror images of each other. The game features many different stages. After completing the 17th stage, players have to start over again on stage 1. "Je te veux" by Erik Satie is the background music in the game during the levels. Upon uniting the two penguins, Beethoven's "Ode to Joy" is played.
+
+A top-down view is utilized in the game; similar to the method used in The Adventures of Lolo. Standing in their way are spiders, birds and other creatures which the player must attack with the penguins' spray. Cobwebs occupy some of the cells on the playing field; possibly slowing the player down long enough for a spider to kill either Gurin or Malon. With each level arranged on a 10-by-15 grid and a vertical wall separating the two penguins from each other, only the upper central cell is free for both characters to reach. This "free cell" always holds the caged heart that is required to complete the level. A row of walls surrounding each player in a maze-like environment. In order to make the challenges more difficult; they are unbalanced and offer a different experience for Gurin and Malon.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Binary Land-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19851219T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./King Kong 2 - Ikari no Megaton Punch.zip</path>
+		<name>King Kong 2: Ikari no Megaton Punch</name>
+		<desc>Ikari no Megaton Punch is based on the movie King Kong Lives (called King Kong 2 in Japan). The player takes control of King Kong in a quest to rescue Lady Kong from evil forces. This is an action game where the protagonist must travel to several different worlds in order to defeat bosses and earn keys that are needed to save Lady Kong from her imprisonment. King Kong's main attacks are either punching, hopping on, or throwing boulders at all his various enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/King Kong 2 - Ikari no Megaton Punch-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19861218T000000</releasedate>
+		<developer>Konami Industry Co.Ltd,</developer>
+		<publisher>Konami Industry Co.Ltd,</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Road Fighter.zip</path>
+		<name>Road Fighter</name>
+		<desc>A top view racing game. You have to reach the finish line before time runs out. Don't crash into the wall, cars or trucks. Because if you do you will lose gasoline. You can get additional gasoline by picking up fuel items. Especially avoid the purple cars, they do change lanes! And remember... oil makes road slippery...</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Road Fighter-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19850711T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players></players>
+		<playcount>1</playcount>
+		<lastplayed>20180824T055032</lastplayed>
+	</game>
 </gameList>

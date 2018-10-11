@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Dracula X - Rondo Of Blood.cue</path>
+		<path>./Dracula X.cue</path>
 		<name>Akumajou Dracula X: Chi no Rondo</name>
 		<desc>Count Dracula has returned and captured the young woman close to the famous vampire hunter, Richter Belmont. Will Richter be able to defeat Dracula and rescue his girlfriend in this new CD powered adventure?</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Dracula X - Rondo Of Blood-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/tgcd/Dracula X-image.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>19931029T000000</releasedate>
 		<developer>Konami</developer>
@@ -25,37 +25,12 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Magical_Fantasy_Adventure_-_Popful_Mail_(NTSC-J)_[HECD4011].cue</path>
-		<name>Popful Mail: Magical Fantasy Adventure</name>
-		<desc>Kazyr, Necros, Ulgar. Ghosts from the past that nearly once destroyed Popful Mail's world. Now, the Black Seal is about to be broken so they can return to wreak havoc on the world once again. Three ragtag adventurers become the only hope of stopping the second coming of Evil. Play as Mail, tomboy bounty-hunter wannabe who's handy with a blade, Tatt, the ultra-polite apprentice magician with a deadly staff, or Gaw, a winged blue blob with breath of fire, as you search for the manicial Muttonhead, who holds all the answers. During your quest, change characters at any time! You'll need to, because Nuts Cracker and the minions of Evil will stop at nothing to end your party before it starts! And, thanks to the storage power of CD, Popful Mail comes alive with over 2.5 hours of spoken dialogue and 20 minutes of heart-pounding animation. Face it, your butt's gonna be glued to the couch till the credits roll!</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Magical_Fantasy_Adventure_-_Popful_Mail_(NTSC-J)_[HECD4011]-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19940812T000000</releasedate>
-		<developer>HuneX</developer>
-		<publisher>NEC Interchannel</publisher>
-		<genre>Role-Playing</genre>
-		<players />
-	</game>
-	<game>
-		<path>./Valis III.cue</path>
-		<name>Valis III</name>
-		<desc>King Glames leads denizens of the Dark World to destroy both Earth and Vecanti. Against this common foe, Yuko Asou finds help in her new girlfriend, a Vecanti warrior-maiden named Cham, who was born in the Dark World and uses a deadly whip, and her own sister Valna Asou, who grew up within Vecanti and became strong in the ways of magic. Furthermore, the Valis sword is shown to be capable of more than what Yuko has accomplished with it thus far.</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Valis III-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19900907T000000</releasedate>
-		<developer>Laser Soft</developer>
-		<publisher>Telnet Japan</publisher>
-		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20170206T060512</lastplayed>
-	</game>
-	<game>
-		<path>./Valis IV - The Fantasm Soldier.cue</path>
+		<path>./Valis IV.cue</path>
 		<name>Valis IV</name>
 		<desc>Yuko has become the goddess of the world of Vecanti and has watched over the world in peace since the defeat of Glames. Trouble brews when the Dark World prince named Galgear begins to search for a magical ring. This ring increases his powers, but to the loss of control he could have maintained under its effects, and the gods of Vecanti recognize this and imprison Galgear inside a crystal sunk into the ocean.
 
 Fifteen years pass, and Galgear manages to break out of his prison, kidnapping the former heroine Valna and being pursued by troops led by Cham as a result. A member of her band, named Lena Brande, requests permission to infiltrate Galgear's stronghold and free Valna.</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Valis IV - The Fantasm Soldier-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/tgcd/Valis IV-image.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>19910823T000000</releasedate>
 		<developer>Laser Soft</developer>
@@ -76,17 +51,106 @@ Fifteen years pass, and Galgear manages to break out of his prison, kidnapping t
 		<genre>Role-Playing</genre>
 	</game>
 	<game>
-		<path>./Ys IV - The Dawn of Ys.cue</path>
+		<path>./Ys IV.cue</path>
 		<name>Ys IV: The Dawn of Ys</name>
 		<desc>Two years after defeating Darm and bringing peace to Esteria, Adol returns to the town of Minea with his companion in adventure, Dogi. Everything seems fine as friends are reunited and the people hail their hero, but there’s an unseen evil looming in the air. As Adol goes to the seer Sara, she tells him of an even greater darkness in the land of Celceta and asks the red-haired swordsman to go there and seek the truth behind this mystery. Thus, Adol steals away unnoticed in the middle of the night to embark on his next adventure.
 
 In Celceta, Adol will learn of the Romun Empire’s ambitions, fight the mysterious Clan of Darkness that seeks to ressurect their long dead leader, and discover the ancient history of Celceta itself as well as its connection to the land of Ys. The last survivor of a forgotten race of winged beings holds the power that may bring back darkness to the land, and only Adol will be able to stop it.</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Ys IV - The Dawn of Ys-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/tgcd/Ys IV-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19931222T000000</releasedate>
 		<developer>Falcom</developer>
 		<publisher>Hudson</publisher>
 		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Gate of Thunder.cue</path>
+		<name>Gate of Thunder</name>
+		<desc>Aries was a peaceful and calm planet for millennia; however, it is now faced with its worst crisis. The deadly army of Obellon fighters led by General Don Jingi, the evil merchant known to do anything for personal gain, is out to steal the “Starlight,” a powerful source of energy that could destroy the universe if misused. You must properly guide the “Hunting Dog” fighter-plane along with Hawk and Esty (special undercover agents protecting the Galaxy) to destroy Obellon before they destroy the world. 
+
+You are the last resort of our planet.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Gate of Thunder-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920221T000000</releasedate>
+		<developer>Hudson Soft, Red Entertainment</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Sapphire.cue</path>
+		<name>Ginga Fukei Densetsu Sapphire</name>
+		<desc>Join the four girls pilots part of a futuristic police unit called the Burning Rabbits. Their duty is to go after bandits, to explore the far corners of the universe and to even venture back in time, whatever the risks, to prosecute the worst criminals. Because humanity is now advanced enough to travel through time, this special police force was created to protect society from these new "time criminals". You have four spaceships, to choose from. Each one balances out the next and usually trades off fire power for maneuverability and speed.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Sapphire-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19951124T000000</releasedate>
+		<developer>CAProduction</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Lords of Thunder.cue</path>
+		<name>Lords of Thunder</name>
+		<desc>Lords of Thunder is a side-scrolling shooter that has you take on the role of a legendary warrior, blasting enemies to heavy-metal tunes. Your enemies are plotting to revive Zaggart, "The Dark One," who was sealed beneath the six continents of Mistral. It's up to Landis, descendant of the heroic Dyu, to stop them.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Lords of Thunder-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>RED Entertainment</developer>
+		<publisher>Turbo Technologies, Inc.</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Valis.cue</path>
+		<name>Mugen Senshi Valis: The Legend of A Fantasm Soldier</name>
+		<desc>What would you think if your best friend went on a date with the King of the Dark World - because she thought he was cute?! You'd think she'd been duped - and you'd be right. The fiendish King Rogles stands poised to conquer the other worlds of the universe: the Dream World of Queen Valia, and the Human World. Rogles and his five Dark Lords have taken the force of Yang from Queen Valia and sealed it into a Fantasm Jewel. Only a warrior with a heart perfectly balanced between Yin and Yang can wield the Sword of Valis against the encroaching darkness! 
+
+Yuko, a young student from the Human World, is the chosen one - and you will control her. She is to become the greatest warrior in the universe, never suspecting that her most fearsome battle will not be against a Dark Lord, but against her closest friend from the Human World - the one she warned, "Don't go out with him, he's the Dark..." But before she could finish, her friend ran off into The Darkness.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Valis-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920319T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Riot</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Valis II.cue</path>
+		<name>Valis II</name>
+		<desc>Time passes, and Vecanti is set to rule under its next emperor after Rogles, his brother Megas, who wishes to stamp out any trace of the former tyrant, to the point of murdering any supporters Rogles might have had. Furthermore, his bloodthirsty tendencies recognize Yuko and the Valis sword as viable threats to his claim of the throne, and he orders his minions to eliminate her first before she has the chance to thwart him.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Valis II-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890623T000000</releasedate>
+		<developer>Telnet Japan</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20180825T010634</lastplayed>
+	</game>
+	<game>
+		<path>./Valis III.cue</path>
+		<name>Valis III</name>
+		<desc>King Glames leads denizens of the Dark World to destroy both Earth and Vecanti. Against this common foe, Yuko Asou finds help in her new girlfriend, a Vecanti warrior-maiden named Cham, who was born in the Dark World and uses a deadly whip, and her own sister Valna Asou, who grew up within Vecanti and became strong in the ways of magic. Furthermore, the Valis sword is shown to be capable of more than what Yuko has accomplished with it thus far.</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Valis III-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900907T000000</releasedate>
+		<developer>Laser Soft</developer>
+		<publisher>Telnet Japan</publisher>
+		<genre>Action</genre>
+		<playcount>2</playcount>
+		<lastplayed>20180825T010657</lastplayed>
+	</game>
+	<game>
+		<path>./Popful Mail.cue</path>
+		<name>Popful Mail: Magical Fantasy Adventure</name>
+		<desc>Kazyr, Necros, Ulgar. Ghosts from the past that nearly once destroyed Popful Mail's world. Now, the Black Seal is about to be broken so they can return to wreak havoc on the world once again. Three ragtag adventurers become the only hope of stopping the second coming of Evil. Play as Mail, tomboy bounty-hunter wannabe who's handy with a blade, Tatt, the ultra-polite apprentice magician with a deadly staff, or Gaw, a winged blue blob with breath of fire, as you search for the manicial Muttonhead, who holds all the answers. During your quest, change characters at any time! You'll need to, because Nuts Cracker and the minions of Evil will stop at nothing to end your party before it starts! And, thanks to the storage power of CD, Popful Mail comes alive with over 2.5 hours of spoken dialogue and 20 minutes of heart-pounding animation. Face it, your butt's gonna be glued to the couch till the credits roll!</desc>
+		<image>~/.emulationstation/downloaded_images/tgcd/Popful Mail-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19940812T000000</releasedate>
+		<developer>HuneX</developer>
+		<publisher>NEC Interchannel</publisher>
+		<genre>Role-Playing</genre>
+		<players />
+		<playcount>1</playcount>
+		<lastplayed>20180825T151730</lastplayed>
 	</game>
 	<game>
 		<path>./Faussete Amour.cue</path>
@@ -102,10 +166,10 @@ In Celceta, Adol will learn of the Romun Empire’s ambitions, fight the mysteri
 		<lastplayed>20170210T021422</lastplayed>
 	</game>
 	<game>
-		<path>./Gradius II - Gofer no Yabou (J).cue</path>
+		<path>./Gradius II.cue</path>
 		<name>Gradius II: Gofer no Yabou</name>
 		<desc>Two years after its last epic battle, the GRADIUS army recommissions the VIC VIPER superdimensional warplane to combat the invasion of a new nemesis known as GOFER. Piloting the latest model of the VIC VIPER, players can select between multiple WEAPON MODULES and SHIELDS to tackle the varying stages and enemy attack patterns they come up against. With a total of nine stages, this perfect port of the original boasts one of the longest adventures in the series and features more of its trademark fast-paced background music to accompany the intense action!</desc>
-		<image>~/.emulationstation/downloaded_images/tgcd/Gradius II - Gofer no Yabou (J)-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/tgcd/Gradius II-image.jpg</image>
 		<rating>0.5</rating>
 		<releasedate>19921218T000000</releasedate>
 		<developer>Konami</developer>
