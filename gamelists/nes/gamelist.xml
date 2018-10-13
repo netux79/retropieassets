@@ -3413,8 +3413,20 @@ A top-down view is utilized in the game; similar to the method used in The Adven
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Racing</genre>
-		<players></players>
+		<players />
 		<playcount>1</playcount>
 		<lastplayed>20180824T055032</lastplayed>
+	</game>
+	<game>
+		<path>./Captain America and the Avengers.zip</path>
+		<name>Captain America and the Avengers</name>
+		<desc>When Captain America throws his mighty shield... Red Skull's goons will feel the pain of its power! On this adventure, it's personal. Captain America and Hawkeye must track down their fellow Avengers, Iron Man and Vision. But the kidnappers - Red Skull, Ultron, Crossbones and Wizard - have let loose a legion of thugs that stand between you and your friends. Captain America and the Avengers. It's a cross-country chase of action with your favorite Marvel comic book heroes!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Captain America and the Avengers-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19911211T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East, Mindscape</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
 	</game>
 </gameList>

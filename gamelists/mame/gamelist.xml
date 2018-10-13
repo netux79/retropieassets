@@ -842,4 +842,16 @@ During the course of the game, players fight through hordes of attacking zombies
 		<genre>Action</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./captaven.zip</path>
+		<name>Captain America and the Avengers</name>
+		<desc>Captain America and the Avengers is an arcade game released by Data East in 1991. It features the Marvel Comics characters The Avengers in a side-scrolling brawling and shooting adventure to defeat the evil Red Skull.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/captaven-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19910428T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
 </gameList>
