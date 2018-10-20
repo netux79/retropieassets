@@ -1012,7 +1012,7 @@ Darius II, or Sagaia as it is known in the West, is the second installment in Ta
 		<developer>Taito</developer>
 		<publisher>Taito</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Thunder Force IV.zip</path>
@@ -1022,8 +1022,19 @@ Darius II, or Sagaia as it is known in the West, is the second installment in Ta
 		<rating>1</rating>
 		<releasedate>19920724T000000</releasedate>
 		<developer>Technosoft</developer>
-		<publisher></publisher>
+		<publisher />
 		<genre>Flight Simulator</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Magical Hat no Buttobi Turbo! Daibouken.zip</path>
+		<name>Magical Hat no Buttobi Turbo! Daibouken</name>
+		<desc>Magical Hat no Buttobi Turbo! Daibouken (まじかるハットのぶっとびターボ！大冒険) is a 1990 game for the Sega Mega Drive developed by VIC Tokai and published by Sega to tie into Studio Pierrot's Magical Hat anime series. While this game was never released outside Japan, its story, graphics, level layouts, and music were changed into those of Decap Attack.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Magical Hat no Buttobi Turbo! Daibouken-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19901215T000000</releasedate>
+		<developer>VIC Tokai, Studio Pierrot</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
 	</game>
 </gameList>

@@ -3368,7 +3368,7 @@ The hippest cool Kat in New York, Willy, is hot on the tail of local crime boss,
 		<desc>The fiendish King Rogles stands poised to conquer the other worlds of the universe: the Dream World of Queen Valia, and the Human World. Rogles and his five Dark Lords have taken the force of Yang from Queen Valia and sealed it into a Fantasm Jewel. Only a warrior with a heart perfectly balanced between Yin and Yang can wield the Sword of Valis against the encroaching darkness! 
 
 Yuko, a young student from the Human World, is the chosen one - and you will control her. She is to become the greatest warrior in the universe, never suspecting that her most fearsome battle will not be against a Dark Lord, but against her closest friend from the Human World - the one she warned, "Don't go out with him, he's the Dark..." But before she could finish, her friend ran off into The Darkness.</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Valis++-image.png</image>
+		<image>~/.emulationstation/downloaded_images/nes/Valis++-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19870821T000000</releasedate>
 		<developer>Telenet Japan</developer>
@@ -3428,5 +3428,117 @@ A top-down view is utilized in the game; similar to the method used in The Adven
 		<publisher>Data East, Mindscape</publisher>
 		<genre>Action</genre>
 		<players>4+</players>
+	</game>
+	<game>
+		<path>./Astyanax.zip</path>
+		<name>Astyanax</name>
+		<desc>Astyanax is a side-scrolling platform game. The controls are fairly simple: the A Button makes Astyanax jump, the B Button will attack with an axe called Bash, and a combination of up and attack will perform a special magic attack. The game also contains a few role-playing elements, such as weapons upgrades. It had a unique feature (for the time) of a bar that grows between attacks; the length of the bar determines how much damage Astyanax will do with his next attack. If one attacks rapidly, one's hits will do little damage, much unlike most games where a rapid succession of hits would all be equally damaging. A very similar system would be used in Secret of Mana some years later.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Astyanax-image.jpg</image>
+		<rating>0.4</rating>
+		<developer>Aicom</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./BattleCity.zip</path>
+		<name>BattleCity</name>
+		<desc>Battle City is a multi-directional shooter video game for the Family Computer produced and published in 1985 by Namco. It is a successor to Namco's 1980 Tank Battalion, and would be succeeded itself by the 1991 Tank Force.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/BattleCity-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19850909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Choujikuu Yousai - Macross.zip</path>
+		<name>Choujikuu Yousai - Macross</name>
+		<desc>The game is based on the popular anime TV series of the same name. The player controls a transformable VF-1 Valkyrie variable fighter in an unending battle against an invading race of giant humanoid aliens known as the Zentradi.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Choujikuu Yousai - Macross-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19851210T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./F-1 Race.zip</path>
+		<name>F1 Race</name>
+		<desc>F1 Race is a Racing game, developed and published by Nintendo, which was released in Japan in 1984.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/F-1 Race-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19841102T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./Joy Mech Fight.zip</path>
+		<name>Joy Mech Fight</name>
+		<desc>One of the last Famicom games before the shift to the Super Famicom, Joy Mech Fight brings the full fighting game experience to the NES with top-notch controls, visuals and audio!  Players can enjoy a single player campaign and fight against the computer, or go head-to-head in a two-player versus mode.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Joy Mech Fight-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19930521T000000</releasedate>
+		<developer>Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Karnov.zip</path>
+		<name>Karnov</name>
+		<desc>KARNOV, the fire-breathing Russian, is seeking the lost treasure of Babylon. He runs, swims, jumps, climbs and flies through nine levels of game play. Countless bizarre enemies of various sizes and strengths are out to prevent KARNOV from finding the treasure!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Karnov-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19871218T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Nuts &amp; Milk.zip</path>
+		<name>Nuts &amp; Milk</name>
+		<desc>Nuts &amp; Milk (ナッツ&amp;ミルク Nattsu to Miruku?) is a platform-style puzzle game developed and published by Japanese software developer Hudson Soft in 1983. The game was released initially on the FM-7, MSX, NEC PC-8801, NEC PC-6001, and later to the Famicom in Japan. It was the first third party video game to be released on a Nintendo console.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Nuts &amp; Milk-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19840728T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./RoboCop.zip</path>
+		<name>RoboCop</name>
+		<desc>A sadistic crime wave is sweeping through old Detroit. The situation is explosive - in fact, it is so bad, a private corporation, O.C.P., has assumed control of the police force. Then, a research team creates an unstoppable, indestructible law enforcement cyborg - named RoboCop. Using a wild assortment of weapons, including RoboCop's Special Issue Auto-9, you must stop every sleazeball criminal you encounter with deadly, piercing accuracy. But beware, there are forces on the street - and within O.C.P. - that will stop at nothing to see RoboCop eliminated. Make your way past 6 levels of street thugs, Boddicker and the powerful ED-209 to your final battle with Dick Jones. Prepare yourself for non-stop action in one of the most explosive games you will ever play. It's going to take more than a cop to clean up the scum of old Detroit - it's going to take RoboCop. "Your move, creep."</desc>
+		<image>~/.emulationstation/downloaded_images/nes/RoboCop-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19890825T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./RoboCop 3.zip</path>
+		<name>RoboCop 3</name>
+		<desc>Old Detroit. The streets are full of danger. Only one man can stand alone against such numbers - ROBOCOP! With state of the art weaponry, a skin of steel and nerves to match, he stalks his prey... evil-doers everywhere!</desc>
+		<image>~/.emulationstation/downloaded_images/nes/RoboCop 3-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19920215T000000</releasedate>
+		<developer>Probe</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Kid Kool and the Quest for the Seven Wonder Herbs.zip</path>
+		<name>Kid Kool and the Quest for the Seven Wonder Herbs</name>
+		<desc>Kid Kool and the Quest for the Seven Wonder Herbs is a 2D Platformer game, developed and published by Vic Tokai, which was released in 1990.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Kid Kool and the Quest for the Seven Wonder Herbs-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880722T000000</releasedate>
+		<developer>Vic Tokai</developer>
+		<publisher>Vic Tokai</publisher>
+		<genre>Platform</genre>
 	</game>
 </gameList>

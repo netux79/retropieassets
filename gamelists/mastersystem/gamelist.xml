@@ -304,4 +304,15 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<publisher>Virgin</publisher>
 		<genre>Action</genre>
 	</game>
+	<game>
+		<path>./Psycho Fox.zip</path>
+		<name>Psycho Fox</name>
+		<desc>Psycho Fox must get to the right hand side of the level. However, there are many enemies in the way. He can use a Shinto stick to change into characters/animals like a hippopotamus, a monkey or a tiger, each of which has its own special ability. The hippopotamus is slow and cannot jump very high, but can punch through special destructible blocks in the game world. The monkey can jump higher than the other creatures and the tiger can run faster. Psycho also has an ally named Birdfly, who can be used as armor or as a boomerang. If Psycho is hit while carrying Birdfly, Birdfly goes away and the player does not lose a life.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Psycho Fox-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890701T000000</releasedate>
+		<developer>Vic Tokai</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>

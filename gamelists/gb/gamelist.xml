@@ -1214,6 +1214,17 @@ Players have the opportunity to upgrade their vehicles by collecting letters, wh
 		<developer>Atreid Concept SA</developer>
 		<publisher>Namco</publisher>
 		<genre>Platform</genre>
-		<players></players>
+		<players />
+	</game>
+	<game>
+		<path>./Robocop.zip</path>
+		<name>RoboCop</name>
+		<desc>Step into the shoes of the half-man, half-human hybrid known as Robocop. Your mission is to uncover a sinister plot involving OCP, local gangsters dealing a deadly new synthetic drug and a powerful cyborg known only as MIND. As the police force's last hope, you must capture, destroy, or arrest hostile characters in a desperate search for clues and evidence. Protect the innocent using six different weapons, various power-ups, and Robocop's multitarget locking system.</desc>
+		<image>~/.emulationstation/downloaded_images/gb/Robocop-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19901207T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Shooter</genre>
 	</game>
 </gameList>
