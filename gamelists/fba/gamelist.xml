@@ -530,7 +530,7 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<developer>Psikyo</developer>
 		<publisher>Psikyo</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./s1945ii.zip</path>
@@ -541,6 +541,18 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<developer>Psikyo</developer>
 		<publisher>Psikyo</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
+	</game>
+	<game>
+		<path>./shdancer.zip</path>
+		<name>Shadow Dancer</name>
+		<desc>The master of stealth and the death-dealing art of Shuriken returns to avenge the murder of his friend Kato. The ultimate evil is Sauros, a crazed reptilian monster with the power to invoke cataclysmic catastrophes. His army of vicious ninja controls the city as he summons sudden firestorms, earthquakes and avalanches! Lizard henchmen guard terrified hostages that you must rescue. Dodge through the inferno! Hurl yourself across crumbling buildings. Conjure up total devastation with powerful ninja magic. Heave an onslaught of Death Stars - the last things the evil ones see! Shinobi's fearless attack dog Yamato joins your race through danger. He combines the strength of three men, razor jaws, and the speed of a Shinobi Sabre. You're Shadow Dancer. They've dishonored you. They die!</desc>
+		<image>~/.emulationstation/downloaded_images/fba/shdancer-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19881101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 	</game>
 </gameList>

@@ -315,4 +315,22 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
 	</game>
+	<game>
+		<path>./Double Target - Cynthia no Nemuri.zip</path>
+		<name>Double Target - Cynthia no Nemuri</name>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Double Target - Cynthia no Nemuri-image.jpg</image>
+	</game>
+	<game>
+		<path>./Psychic World.zip</path>
+		<name>Psychic World</name>
+		<desc>Dr. Knavik needs you to use his special "ESP Booster" to rescue young Cecile. She and her sister, Lucia, were his assistants, and the monsters Dr. Knavik kept for experiments escaped with her! Venture out into this frightening, mystical, often beautiful world, fend off the many creatures and dangers, and save poor Cecile!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Psychic World-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20181022T234703</lastplayed>
+	</game>
 </gameList>

@@ -1037,4 +1037,28 @@ Darius II, or Sagaia as it is known in the West, is the second installment in Ta
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
 	</game>
+	<game>
+		<path>./Shinobi III - Return of the Ninja Master.zip</path>
+		<name>Shinobi III: Return of the Ninja Master</name>
+		<desc>Thought to have been vanquished two years ago, the evil crime syndicate Neo Zeed threatens the world once again with a new leader only known as the Shadow Master. The legendary Shinobi, Joe Musashi senses their presence and descends from the mountaintops to Japan to face Neo Zeed once again. Joe must get stronger than steel and faster than a whirlwind to ensure victory against the returning threat.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Shinobi III - Return of the Ninja Master-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19930722T000000</releasedate>
+		<developer>Sega, Overworks, Megasoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Super Shinobi, The.zip</path>
+		<name>The Super Shinobi</name>
+		<desc>The Super Shinobi (ザ・スーパー忍) released as The Revenge of Shinobi in Europe, is a 1989 Sega Mega Drive game, developed and published by Sega. Alongside Shadow Dancer, it is the first sequel to Shinobi, and the first game in the Shinobi series released for the Mega Drive. It should also not be confused with the 2002 game with the same name. It was later released on the Mega Drive based arcade platform the Mega-Tech.
+
+The game was also released in several compilations: Mega Games 2 and 6-Pak for the Mega Drive, Sega Classics Arcade Collection for the Sega Mega-CD, Sega Smash Pack for PCs, and Sega Smash Pack for the Sega Dreamcast. It was re-released for the Nintendo Wii's Virtual Console in 2009.</desc>
+		<image>~/.emulationstation/downloaded_images/megadrive/Super Shinobi, The-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19891202T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
 </gameList>
