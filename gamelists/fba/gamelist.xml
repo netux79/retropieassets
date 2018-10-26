@@ -555,4 +555,16 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<genre>Action</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./wb3.zip</path>
+		<name>Wonder Boy III: Monster Lair</name>
+		<desc>Wonder Boy III: Monster Lair is a side-scrolling action game developed by Westone Bit Entertainment that was originally released for the arcades by Sega in 1988. It is the third game in the Wonder Boy series and the last one released for the arcade. A console adaption was made by Hudson Soft, released in 1989 in Japan for the PC Engine CD and the subsequent North American release on the TurboGrafx-CD dropped the 'Wonder Boy III' title. It was also converted and released by Sega for the Mega Drive in Japan and Europe in 1991. Both the TurboGrafx-CD and Mega Drive versions have been re-released for the Wii Virtual Console.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/wb3-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19881116T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
 </gameList>

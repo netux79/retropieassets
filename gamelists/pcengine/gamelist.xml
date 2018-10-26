@@ -161,4 +161,62 @@ Son Son II is also one of the earliest Capcom games to use Zenny, their trademar
 		<publisher>Hudson</publisher>
 		<genre>Action</genre>
 	</game>
+	<game>
+		<path>./Barunba.zip</path>
+		<name>Barunba</name>
+		<desc>The Engine is hardly lacking in shooters, so to be successful, you have to stand out from the crowd. Barunba tries to add a hint of originality in its own subtle way. You control what is basically a floating globe (complete with little man inside) that has a weapons ring around it - this ring can be rotated right around the ship giving a fully controllable direction of fire, something obviously useful for those pesky critters approaching from behind. From the start, you are equipped with several different types of weapon, each of which can be temporarily boosted by collecting items that are dropped by exploding enemies. The levels are auto-scroll, moving around in all directions and contain mid-level as well as end-of-level bosses. Your ship has an energy bar, located at the bottom left of the screen, and once it is depleted it's 'Game Over'.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Barunba-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900427T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher></publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Dragon's Curse.zip</path>
+		<name>Dragon's Curse</name>
+		<desc>Poor Hu-Man! he just isn't his old self. Trying to escape from the evil dragon Mecha, he's transformed into the horrific Lizard Man! Get ready to kick some serious dragon tail, because 5 more are waiting to stop you. Each is more vicious than the last. And each turns Hu-Man into a different kind of total gross out! Slash 'em, burn 'em, and blow 'em away! Then capture the Salamander Cross to break the DRAGON'S CURSE.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Dragon's Curse-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Hudson Soft</developer>
+		<publisher>NEC</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./New Adventure Island.zip</path>
+		<name>New Adventure Island</name>
+		<desc>The adventure begins on peaceful Adventure Island. Today, Master Higgins weds Tina, the new 'Miss Island“. Everyone is assembled at the church to celebrate their wedding when, suddenly, the evil Baron Bronsky appears. He wants to marry Tina himself. The evil baron carries Tina off, along with six island children. To reach his castle and rescue Tina, Master Higgins must first rescue the six children, each of whom is hidden on a separate island. You are Master Higgins. Will you be able to save her?</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/New Adventure Island-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920626T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Legendary Axe, The.zip</path>
+		<name>The Legendary Axe</name>
+		<desc>You are Gogan, a muscular powerhouse with enough guts to enter the Pits of Madness. Your mission: rescue the beautiful red-haired Flare. You are strong, but you also have Sting, a sacred axe to help you battle strange creatures and the savage cult of Jagu, fighting through mountain, jungle and cave environments to reach the lovely maiden.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Legendary Axe, The-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Legendary Axe II, The.zip</path>
+		<name>The Legendary Axe II</name>
+		<desc>The Axe is back ... with twice the force and twice the fury of 1988's classic TurboGrafx-16 videogame. This time it's brother against brother, locked in deadly combat. Your older brother has summoned forces of unspeakable evil to take control of the kingdom. Treachery rules! Your only hope is the legendary royal sword. But will its power be enough to overcome the Cliffs of Chaos? The Skull Dungeon? And the treacherous Crypts of Slime? Only your courage, your fighting skill, and the Legendary Axe can answer that challenge!</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/Legendary Axe II, The-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
 </gameList>
