@@ -1809,10 +1809,10 @@ Levels range from the forest to a seaside setting.</desc>
 		<players />
 	</game>
 	<game>
-		<path>./Metroid_Rogue_Dawn.zip</path>
+		<path>./Metroid - Rogue Dawn.zip</path>
 		<name>Metroid: Rogue Dawn</name>
 		<desc>A rogue human agent trained and manipulated by Ridley from a young age. She was taken as a child from a Federation colony obliterated by Ridley’s faction where she was initially just another test subject slated to undergo horrific experiments. Ridley decided to instead manipulate and mold her into a weapon, his first human servant, and dark agent. Primed yet untested she is sent out on her “zero” mission to retrieve a newly discovered biological specimen in the possession of a Federation research crew orbiting planet SR388 and prove her worth. Her name is Dawn Aran.</desc>
-		<image>~/.emulationstation/downloaded_images/nes/Metroid_Rogue_Dawn-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/nes/Metroid - Rogue Dawn-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>20170114T000000</releasedate>
 		<developer>Grimlock Arts</developer>
