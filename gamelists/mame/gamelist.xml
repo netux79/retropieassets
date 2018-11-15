@@ -261,10 +261,10 @@ The games capture the spirit of the RoboCop film to some degree, as it involves 
 		<players />
 	</game>
 	<game>
-		<path>./moomesa.zip</path>
+		<path>./moo.zip</path>
 		<name>Wild West C.O.W.-Boys of Moo Mesa</name>
 		<desc>In the 1800's, a mysterious comet hits the U.S. southwest, transforming the local cattle and animals into their own version of the old west called Moo Mesa, complete with several lawmen dealing with bizarre outlaws.</desc>
-		<image>~/.emulationstation/downloaded_images/mame/moomesa-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/mame/moo-image.jpg</image>
 		<rating>0.5</rating>
 		<releasedate>19921119T000000</releasedate>
 		<developer>Konami</developer>
@@ -853,5 +853,382 @@ During the course of the game, players fight through hordes of attacking zombies
 		<publisher>Data East</publisher>
 		<genre>Action</genre>
 		<players>4+</players>
+	</game>
+	<game>
+		<path>./bayroute.zip</path>
+		<name>Bay Route</name>
+		<desc>Bay Route is a platform "Run and gun" arcade game developed by Sunsoft and published by Sega in 1989. Players control a soldier and shoot terrorists, collect power-ups, and defeat bosses to advance levels. Players can select one of four configurations on their gun.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/bayroute-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890301T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./boomrang.zip</path>
+		<name>Boomer Rang'r</name>
+		<desc>A caveman runs around tossing his boomerang at enemy cavemen and prehistoric creatures. Pick up potions to spell out BOOMER RANG'R to move to next level. For even more fun, kill a dinosaur rider and mount his dinosaur!</desc>
+		<image>~/.emulationstation/downloaded_images/mame/boomrang-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./calibr50.zip</path>
+		<name>Caliber .50</name>
+		<desc>Caliber .50 is a 1989 scrolling shooter arcade game developed by SETA Corporation.
+Players control a United States Air Force pilot who was taken as a prisoner of war in Vietnam in 1972. The pilot must escape the prison compound by battling enemy soldiers with guns and grenades. Various power-ups are available that give the player use of various other weapons including a machine gun and flamethrower. Enemy vehicles such as a plane can also be commandeered.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/calibr50-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Seta</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./deadconx.zip</path>
+		<name>Dead Connection</name>
+		<desc>Dead Connection is an arcade game released by Taito in 1992. The game takes place on September 5, 1953 "in a big city somewhere".
+
+It features a group of detectives who set out to fight a crime family. The game has a strong Film noir vibe, shown through the appearance of the detectives and the featuring of a female protagonist. Each stage is preceded by a short cinematic interlude that explains the transition between the game's different locales.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/deadconx-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./elevator.zip</path>
+		<name>Elevator Action</name>
+		<desc>The player assumes the role of a spy who infiltrates a building filled with elevators. He must collect secret documents from the building and traverse the 30 levels of the building using an increasingly complex series of elevators. The player is pursued by enemy agents who appear from behind closed doors. The player must outwit them via force or evasion. Successful completion of a level involves collecting all the secret documents and traversing the building from top to bottom. In the lower floors of the building, the elevator systems are so complex that some puzzle-solving skills are needed.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/elevator-image.jpg</image>
+		<rating>0.5</rating>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./fastlane.zip</path>
+		<name>Fast Lane</name>
+		<desc>In this driving/maze game, you control a vehicle who must drive through the entire maze to progress. There is another vehicle who tries to stop you so to aid your progress, you must drive through the beach ladies in order to gain power-ups which you can use on the other vehicle.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/fastlane-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ironhors.zip</path>
+		<name>Iron Horse</name>
+		<desc>Side scrolling platform cowboy train-robber game. Select between fists, pistols or a whip and then work your way down the steam train killing the bad guys and collecting money and special weapons. Cowboy music score.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/ironhors-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19861001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./junglek.zip</path>
+		<name>Jungle King</name>
+		<desc>The player controls a Tarzan-like jungle man who must swing across vines in the forest, swim through a crocodile-infested river, jump and duck rocks while climbing a hill and rescue his woman from a pair of barbaric cannibals.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/junglek-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kikikai.zip</path>
+		<name>KiKi KaiKai</name>
+		<desc>KiKi KaiKai is an overhead multi-directional shooter game that requires the player to move in four directions through various levels while attacking harmful enemies as they approach from off screen. As Sayo-chan, the player can attack by either throwing her special o-fuda scrolls in eight separate directions, or by swinging her purification rod directly in front of her. These techniques can be upgraded by finding special paper slips left by defeated enemies that will either enhance their power or improve their range. Sayo can be damaged by coming in contact with an enemy, and can only be hit once before she is knocked out and must resume the level from a preset continuation point. At the end of each level, the player must face a powerful boss monster that takes several attacks to defeat and is more difficult than normal enemies.
+
+Several hidden items can be found by attacking objects with Sayo's purification rod, and can be used to either enhance her attack or grant the player points. Once a certain number of points are gained, the player will gain another life and have an additional chance to complete a level. When all of the player's lives are exhausted, a "number match" screen appears with a random 3-digit number in 50-base increments (100, 150, 200, 250, and so on). If the last three digits of the player's total score match the number displayed, they are granted a free game; if not, the game ends.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/kikikai-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19861001T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kurikint.zip</path>
+		<name>Kuri Kinton</name>
+		<desc>El jugador controla a un policía chino que ha recibido la misión de infiltrarse en una base subterránea para rescatar a un oficial de policía de alto rango y a su hija, los cuales han sido secuestrados por una banda.1 El juego consiste en dar patadas y puñetazos a numerosos enemigos,2 pudiendo usar también barridos y patadas voladoras.1 El juego comienza en un corredor subterráneo poblado por soldados con armadura y luchadores que lanzan shurikens.3 El jugador debe seguir la flecha que indica hacia dónde hay que avanzar según se va adentrando en las cavernas y encuentra un mayor número de enemigos.3 Un jefe experto en artes marciales guarda el final de cada nivel y puede eliminar rápidamente al personaje jugador si no se lucha con cuidado.2
+
+El jugador tiene una única vida en el juego, representada por una barra de salud que se reduce según se reciben ataques de los enemigos en el personaje-jugador.2 Si la barra se vacía por completo, el juego termina y un querubín dorado se eleva desde el cuerpo del personaje. Si el jugador continúa la partida, el querubín desciende de nuevo y vuelve a entrar en el cuerpo del personaje, que se pondrá de un salto en pie.3</desc>
+		<image>~/.emulationstation/downloaded_images/mame/kurikint-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./valkyrie.zip</path>
+		<name>Legend Of Valkyrie</name>
+		<desc>Legend of Valkyrie is an Action game, developed and published by Namco, which was released in Japan in 1989.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/valkyrie-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19891220T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./madgear.zip</path>
+		<name>Mad Gear</name>
+		<desc>LED Storm, known as Mad Gear in Japan, is an arcade game released in 1989. The acronym "LED" stands for "Laser Enhanced Destruction". It is a vertical scrolling racing game. The player races across various courses, and can force other cars off the road or jump on top of them.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/madgear-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19891001T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./metamrph.zip</path>
+		<name>Metamorphic Force</name>
+		<desc>The Evil King has risen from the dead to rule the world once more. The Greek goddess Athena has summoned the souls of four ancient guardians and bestowed their power upon four heroes to stop the evil once again. These guardians wield the ability to shift into anthropomorphic beasts to fight their enemies.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/metamrph-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ninjemak.zip</path>
+		<name>Ninja emaki</name>
+		<desc>Ninja Emaki was produced by Nichibutsu in 1985.
+
+Nichibutsu released 80 different machines in our database under this trade name, starting in 1979.
+
+Other machines made by Nichibutsu during the time period Ninja Emaki was produced include Cop 01, Pastel Gal, MagMax, Dangar Ufo Robo, Youma Ninpou Chou, Roller Jammer, Tube Panic, Dacholer, Rug Rats, and Nichibutsu Hustler.
+
+Game Play
+
+A lot like Commando, but the game has a much more interesting landscape. Pick up scrolls that will give you a variety of high-powered weapons to fight your opponents. Boss stages are fairly challenging.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/ninjemak-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19850501T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pandoras.zip</path>
+		<name>Pandora's Palace</name>
+		<desc>Taking on the role of a Roman emperor, replete with white robe and olive leaf head ornament, the player must make his or her way from the top left of the screen to the bottom right, via careful navigation of a variety of poles and moving platforms. Enemies can push the player character into fires or over the edge of platforms if they are not carefully avoided.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/pandoras-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pirates.zip</path>
+		<name>Pirates</name>
+		<desc>Pirates was produced by NIX in 1994.
+
+In the early '90s there was this arcade game called "Blood Bros".
+This little fly-by-night company called Nix apparently decided to clone it, except to differentiate they gave it a pirate theme. So now, a male and female pirate get Engrishy orders from some pirate captain ("Treasure map is in pirate power! You brave and strong!"), and off they go to find pieces of this map that apparently leads to fabulous booty.
+
+Their approach in this is to simply blow the hell out of numerous small towns, stopping only when their thirst for devastation is slaked (you never actually see them pick up a map piece). The view is from behind your pirate warriors, and the joystick moves them left and right while simultaneously maneuvering the reticule you use to aim your shots. You also have a limited supply of bombs you can lob, and a slide that makes you briefly invincible.
+
+Since it clones a good game, the action here is actually reasonably fun, if a bit repetitive. The goal seems to be to blow up every possible structure on each screen, then kill enough pirates until your Bloodthirst Meter is satisfied. The thing that separates it from Wild Guns is the total zaniness of the design. Aside from blowing the crap out of whole town for no good reason, you see a lot of bizarre characters pop up, and everything in the field of play is fair game. In the first level, a barmaid randomly wanders out dispensing beers to everyone, then starts showing off her juggling skills for you ... shoot her down in cold blood and you get a 2000 point bonus. You get a similar bonus for brutally gunning down some society dame that wanders into the battle lost. Sometimes a cow will just wander across the screen at random - fill him full of lead for bonus weapons and bombs. Weapon upgrades include double automatic pistols and what appears to be a machine gun. And at the end of every three-level set you face bosses that include an airship, and even a Giant Enemy Crab.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/pirates-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Nix</developer>
+		<publisher>Nix</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./psychic5.zip</path>
+		<name>Psychic 5</name>
+		<desc>Excellent vertical maze type game. You can control five different characters, each with their own special powers. You need to change between them to complete each level. Features the ability to win a FREE game. If you hit the witch with the hammer you can fly through walls for a limited time.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/psychic5-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19871001T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rockrage.zip</path>
+		<name>Rock'n Rage</name>
+		<desc>It's another sold out show for one of the world's greatest rock bands - but this night is far from ordinary! A strange force from another dimension has eyes for the band's sexy lead singer Sheena, and has chosen this night to make its move. And to ensure that it has Sheena all to itself, it's taking Sheena through various periods in history. With Sheena gone, her band could be history! It's up to two of Sheena's bandmates, John and Rick, to save their singing eye candy before disaster strikes!
+
+Rock'n Rage is a 8-way scrolling fighter in which John and Rick must battle through five time periods to save the lead singer of their band from a cruel fate. During game play, our two intrepid rockers can break pots to find note guns that allow them to attack from a distance, and point items that increase players' current score. In addition to looking for a way out of the time period, John and Rick must also watch out for a special character (unique to each time period) that when found will give them a force field. At the exit to each time period, a boss awaits.
+
+Players can rock alone, or team up with a buddy to save Sheena.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/rockrage-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./stlforce.zip</path>
+		<name>Steel Force</name>
+		<desc>Steel Force is a 2D top down arcade shooter, similar in style to Alien Breed, but much more action-oriented. The main hero, a Federation soldier fights against space pirates - he must kill various enemies and find the exit in limited time. He can find ammunition, health packs and various power ups along the way.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/stlforce-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Ecogames S.L.</developer>
+		<publisher>Electronic Devices SRL Italy</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./s1945iii.zip</path>
+		<name>Strikers 1945 III</name>
+		<desc>Year 1999, fall. The countless super minimum machine group 'nano-machine', which came flying, invaded the principal weapon and military terminals of each country from outer space and began multiplication. This weapon group which is automated with the 'nano-machines' repeated attack with non discrimination and the metropoles of each country were in a devastating state. A fear of the extensive nuclear warfare with the strategy nuclear missile error morphism hit the world!!! Barely the unit of each country which prevents the invasion of the 'nano- machine' is summoned because of the unmanned weapon eradication maneuvers. So, fighting with the weapons of the entire world was not enough. The Strikers start the attack on the enemy center! By the way of the time of half a century, new legend of special force STRIKERS now starts!</desc>
+		<image>~/.emulationstation/downloaded_images/mame/s1945iii-image.jpg</image>
+		<rating>0.6</rating>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action</genre>
+		<players />
+	</game>
+	<game>
+		<path>./thedeep.zip</path>
+		<name>The Deep</name>
+		<desc>Similar to the classic Depthcharge, the player controls a profile view warship on the water surface, while most of the screen shows the depth of the sea, with elaborate backgrounds and populated by divers enemies. Two players can play simultaneously with two ships. As the screen scrolls continuously to the right, the ship can move back and forth and unclip lens depth charges from the bow or stern, that explode on contact. Ammunition are limited but are automatically recharged over time. The opponents include various types of submarines that arrive from both sides and firing missiles and mines to the surface; the bullets of the player and the enemy can destroy each other. They also face the end boss level in the form of huge underwater structures. The power-ups are capsules that go back to the surface.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/thedeep-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Wood Place</developer>
+		<publisher>Wood Place</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./thundfox.zip</path>
+		<name>Thunder Fox</name>
+		<desc>Thunder Fox is an arcade game created by Taito. It was released in arcades in 1990 and for the Sega Mega Drive/Genesis in 1991. It was later released on various consoles such as the Xbox and PlayStation 2 in Taito Legends, a compilation of Taito classics.
+
+The gameplay for Thunder Fox is similar to other popular side scrolling action games like Namco's Rolling Thunder, and Sega's Shinobi. There are three buttons for each player - Attack, which normally is used to make Thunder and Fox (the game's heroes) stab with their knives. Jump, and a Weapon button which fires or throws a weapon acquired by the heroes. What makes this game unique is that the game gives players the opportunity to allow players to use their obtained weapons (save for the hand grenades) as melee weapons which helps conserve ammunition for when it's needed.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/thundfox-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./tinklpit.zip</path>
+		<name>Tinkle Pit</name>
+		<desc>The player contols Pitt and Patti, who must walk around the mazes, collecting items and avoiding enemies. They have the power to drop their Tinker power balls, which are both invulnerable to the enemies, and move around by pressing the Line button, therefore creating a line between them and their power balls. Releasing the button makes their power balls come back to them; the enemies are killed by having the power balls slam into them. There are also pieces of popcorn which can be picked up around the mazes - and pressing the Popcorn button, Pitt and Patti can throw them at the enemies, and they shall bounce off the walls until they hit one (or evaporate if they have not done so by the end of the stage). 
+
+Killing all enemies in a maze advances the player to the next stage; however, in the event of one enemy remaining, he will make for the nearest corner of the maze, say "Bye-bye!", and disappear - which will detract from the "Pursuit Bonus" that the players will receive after they defeat Mao at the end of the game.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/tinklpit-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19940301T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nimco</publisher>
+		<genre>Puzzle</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./viostorm.zip</path>
+		<name>Violent Storm</name>
+		<desc>In The 1990s, World War III has at last expired. The people are left to pick up the pieces and rebuild their civilizations. However, vicious gangs that prey on these defenseless citizens are obstructing the reconstruction.
+
+The main protagonists are Boris, Wade and Kyle, vigilantes who protect the feared and helpless. Their largest problem is the corrupt, incorrigible, ruthless and lethal gang known as "The Geld Gang". They have commissioned every type of person imaginable. Purple-haired, leather-clad, chain-wielding, lead-pipe swinging, masked, martial art, orange-mohawked and men so strong and immune to pain they use manhole covers as shields.
+
+One day, when the trio is patrolling the streets, alert, ready and able to help those in need, they see a woman named Sheena (a friend of theirs) waving at them walking across the street out of a supermarket with groceries. A moment later, Lord Geld's right-hand man, Red Freddy, snatches her away while riding on his purple hog. Now, the three braves must save Sheena from the grips of Lord Geld.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/viostorm-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./viprp1.zip</path>
+		<name>Viper Phase 1</name>
+		<desc>By the year 2050, mankind begins the colonization of multiple solar systems in search for habitable planets. However, while the colonists establish original cultures and scientific studies, many of them began feuding with each other and battles broke out among them and the Earth. One rebel faction in particular rose to great power and made Earth their primary target. Earth's response was Operation Viper Phase 1: to combat the rebels using advanced space fighters built from downed enemy ships.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/viprp1-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19950511T000000</releasedate>
+		<developer>SEIBU KAIHATSU INC.</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./xybots.zip</path>
+		<name>Xybots</name>
+		<desc>Xybots is a 3-Dimensional, 3rd-person perspective shoot-em-up for 1 or 2 players. Taking on the role of either 'Major Rock Hardy' or 'Captain Ace Gunn' (in the 2-player game), players must shoot their way through a huge, multi-level underground city - made up of a series of mazes - and destroy the evil 'Xybot' robot warriors that have invaded the planet and established their underground fortress. The players' on-screen counterparts walk 'into' the screen and players must manually rotate the maze's viewpoint left and right when changing direction in order to be able to look in the direction they are moving. 
+
+Each level has at least one exit that must be reached in order to progress to the next (some levels have extra hidden exits that 'warp' players to later levels). Players can find energy pods to restore energy levels, keys to open doors, and golden coins. Some of the levels also feature transporters that connect different parts of the same level.
+
+At the end of each level, players can enter a shop where supplies and power-ups can be purchased with any coins they have collected. Some supplies, such as 'Shield' or 'Speed' are permanent, whereas others are only temporary and must be replenished.
+
+A map of each level is displayed at the top of the screen. For some levels, all enemies, objects and walls are shown. On later levels, however, the map may only display the enemy robots and/or objects; with the maze walls and layout only becoming visible once a player has 'looked' at a wall section. Xybots' gameplay feels highly reminiscent of a 3-Dimensional "Gauntlet" (with good reason, see TRIVIA for more details). The game also uses a split-screen display to allow for two-player simultaneous play; something of an innovation for 1987.
+
+Like the "Gauntlet" games on which Xybots is based; the game is endless and play will continue until all lives are lost and players no longer wish to use the 'Continue' option.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/xybots-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19871101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./noboranb.zip</path>
+		<name>Noboranka</name>
+		<desc>This game is a vertical scrolling shoot 'em up where the player controls a character that has to climb a tree and shoot bug-like enemies. The story is that the princess has been kidnapped by the villains of the Insect World, and Zippy Bug has to rescue her. After shooting the enemies, they drop fruits that the player can collect for extra points, and skulls that are deadly if touched. The player is able to fly for a short time, and every time this is done, one of the letters from the 'I Love You' at the bottom of the screen is used up. The letters regenerate over a small period of time.
+
+There are also other items, such as the key, which surrounds the player in a bubble and makes him invulnerable to 1 hit. Another item is a ring which seems to instantly replenish all of the used up 'I Love You' letters. One other item is the hammer, which allows the player to wipe out all the enemies off the screen. There is a boss at the end of each level.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/noboranb-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>Out Run</name>
+      <image>~/.emulationstation/downloaded_images/mame/outrun-image.jpg</image>
+		<rating>0</rating>
+	</game>
+	<game>
+		<path>./swcourt.zip</path>
+		<name>Super World Court</name>
+      <image>~/.emulationstation/downloaded_images/mame/swcourt-image.jpg</image>
+		<rating>0</rating>
 	</game>
 </gameList>

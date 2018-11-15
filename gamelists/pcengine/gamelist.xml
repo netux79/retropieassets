@@ -169,9 +169,9 @@ Son Son II is also one of the earliest Capcom games to use Zenny, their trademar
 		<rating>0</rating>
 		<releasedate>19900427T000000</releasedate>
 		<developer>Namco</developer>
-		<publisher></publisher>
+		<publisher />
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Dragon's Curse.zip</path>
@@ -205,7 +205,7 @@ Son Son II is also one of the earliest Capcom games to use Zenny, their trademar
 		<developer>Atlus</developer>
 		<publisher>NEC</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Legendary Axe II, The.zip</path>
@@ -217,6 +217,18 @@ Son Son II is also one of the earliest Capcom games to use Zenny, their trademar
 		<developer>Atlus</developer>
 		<publisher>NEC</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
+	</game>
+	<game>
+		<path>./World Court Tennis.zip</path>
+		<name>World Court Tennis</name>
+		<desc>It's your serve. WHOP! The ball clears the net at 100 MPH and raises a little dust just inside the chalkline. An ace? no. WHOP! Your opponent returns with a powerful backhand that kills your plan of charging the net. No matter how you play - with up to 3 friends, singles, doubles, or against the computer - World Court Tennis will tax your endurance and test your skill with action that's fast and furious. Just don't scream at the line judge. He's never wrong.</desc>
+		<image>~/.emulationstation/downloaded_images/pcengine/World Court Tennis-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Sports</genre>
+		<players>4+</players>
 	</game>
 </gameList>

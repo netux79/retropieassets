@@ -333,4 +333,61 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<playcount>1</playcount>
 		<lastplayed>20181022T234703</lastplayed>
 	</game>
+	<game>
+		<path>./Global Defense.zip</path>
+		<name>Global Defense</name>
+		<desc>Players control a satellite and must destroy enemies by moving a crosshair over them and firing the satellite's weapons.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Global Defense-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Kenseiden.zip</path>
+		<name>Kenseiden</name>
+		<desc>It was a land of peace and plenty... until the evil Warlocks returned in a storm of ruin and destruction! Now, they have struck the final blow by stealing your heritage... the Sword of the Dragon King and the Five Secret Scrolls. You are Hayato. The blood of the Dragon King runs in your veins. Armed only with a samurai sword, you must travel through the 16 provinces of ancient Japan, battling the Warlocks and their monstrous armies in nightmare caves and castles! If you defeat the Warlocks, you will learn the sword magic of the scrolls and... maybe... regain the Sword of the Dragon King. Fail, and your country is doomed to a thousand centuries of terror! It is a battle only you can win!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Kenseiden-image.jpg</image>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ninja, The.zip</path>
+		<name>The Ninja</name>
+		<desc>The time is Japan's colorful past. But right now you have your hands full of trouble and Ninja darts. The darts are your secret weapons. The trouble is caused by the arch-tyrant Gyokuro, a merciless warlord who holds a princess prisoner in the subterranean vaults of his Ohkami Castle. Can you save the princess? Defeat the cruel Gyokuro and his henchmen and bring peace to the Castle Country? You have your hands full. But you also have your darts, your Ninja combat skills, and your feeling that a Ninja is invincible. Remember, too, you are fighting for a beautiful princess!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Ninja, The-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./Time Soldiers.zip</path>
+		<name>Time Soldiers</name>
+		<desc>Team up with a friend and join a battle that crosses time and space. The evil space tyrant Gylend has attacked Earth and turned five of your friends into energy balls. As the leader of the Earth Command Troopers, your job is to track your friends down and get them back. The problem is, Gylend has scattered them across time in different parts of Earth's history. You have the D-Scanner... a device that can guide you through the river of time! You have shoulder-mounted cannons and access to even more powerful weapons. But Gylend has the might of the creatures of history turned against you! From cavemen to armored attack craft, all will fight you with everything they have. If you succeed in rescuing your friends, you will face the fiercest battle of all... Gylend. Only you stand between Earth and total defeat!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Time Soldiers-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Alpha Denshi</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Zillion.zip</path>
+		<name>Zillion</name>
+		<desc>The White Knights, a peacekeeping force within the Planetary System, are on a mission to destroy the evil Norsa Empire's base on Planet X. In order to do so, JJ, the main character from the anime, must infiltrate the base and acquire the five floppy disks that will enable him to input the self-destruct sequence into the base's mainframe computer. Mothership lands on the surface of the planet, and JJ must make his way through the labyrinthine base, fighting enemies, avoiding hazards and possibly rescuing two of his captured allies on his way to destroy the base.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Zillion-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19870527T000000</releasedate>
+		<developer>Tatsunoko Productions</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+	</game>
 </gameList>

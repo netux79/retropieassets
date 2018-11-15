@@ -633,4 +633,40 @@ This year there are 30 characters, 2 edit characters (Kyo Kusanagi and Iori Yaga
 		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./alpham2.zip</path>
+		<name>Alpha Mission II</name>
+		<desc>The lunar nightmare of a bloody 200-year space war was thought to be over in the "original" ALPHA MISSION. But now with the advent of more technically sophisticated weapons, the evil "Fulvar" and his "Seven Star Alliance" have returned to destroy all planets that stand in their way of the ultimate target... Earth! Now in the year of 2525! Your mission as pilot of the new SYD-FX fighter is to use every weapon at your disposal to rid the galaxy once and for all of the evil that now dominates and threatens Earth. So suit up, hold your breath, and stand ready for unbelievable graphics and stereo sound that'll suck you into the far reaches of deep, dark inner space. Be prepared... you may never come back!</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/alpham2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ironclad.zip</path>
+		<name>Iron Clad Brikin'ger</name>
+		<image>~/.emulationstation/downloaded_images/neogeo/ironclad-image.jpg</image>
+		<rating>0</rating>
+		<developer>Neo Geo</developer>
+		<publisher></publisher>
+		<genre></genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./viewpoin.zip</path>
+		<name>Viewpoint</name>
+		<desc>One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
+		<image>~/.emulationstation/downloaded_images/neogeo/viewpoin-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<playcount>1</playcount>
+		<lastplayed>20181110T171651</lastplayed>
+	</game>
 </gameList>

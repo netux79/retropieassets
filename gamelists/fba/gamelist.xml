@@ -556,15 +556,236 @@ Near the corners of the maze are four larger, flashing dots known as power pelle
 		<players>2</players>
 	</game>
 	<game>
-		<path>./wb3.zip</path>
-		<name>Wonder Boy III: Monster Lair</name>
-		<desc>Wonder Boy III: Monster Lair is a side-scrolling action game developed by Westone Bit Entertainment that was originally released for the arcades by Sega in 1988. It is the third game in the Wonder Boy series and the last one released for the arcade. A console adaption was made by Hudson Soft, released in 1989 in Japan for the PC Engine CD and the subsequent North American release on the TurboGrafx-CD dropped the 'Wonder Boy III' title. It was also converted and released by Sega for the Mega Drive in Japan and Europe in 1991. Both the TurboGrafx-CD and Mega Drive versions have been re-released for the Wii Virtual Console.</desc>
-		<image>~/.emulationstation/downloaded_images/fba/wb3-image.jpg</image>
-		<rating>0</rating>
-		<releasedate>19881116T000000</releasedate>
-		<developer>Westone</developer>
-		<publisher>Sega</publisher>
+		<path>./bchopper.zip</path>
+		<name>Battle Chopper</name>
+		<desc>Players control a wacky fighter chopper name Mr. Heli, while shooting enemies, collecting power-ups, and defeating bosses to advance levels.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/bchopper-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19871209T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./crimfght.zip</path>
+		<name>Crime Fighters</name>
+		<desc>Crime Fighters is a beat-em up arcade game where your job is to rescue several women that have been kidnapped by a crime boss and clean up the streets by pummeling as many gang members as possible with your bare hands, as well as anything else you might possibly discover. You will travel through eight levels throughout the city, in locations that range from subways to the docks. 
+
+At the end of every stage is a fight with a boss character, many of whom happen to be knockoffs of famous horror movie antagonists like Freddy Kruger and Jason Voorhees. Scoring is handled by a system wherein you simply get a point for every enemy you kill. Occasionally examples of cartoon physics pop up, such as when your character gets squashed flat by a moving steamroller or a falling billboard.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/crimfght-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19890401T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./fixeight.zip</path>
+		<name>Fixeight</name>
+		<desc>Fixeight is a run-and-gun arcade game made by Toaplan in 1992. It is the Spiritual Sequel to "Out Zone."
+
+The plot is rather simple: Your character is sent to the alien planet Fortune to destroy it, and with it the Gozzu invasion of our universe.
+
+As a follow-up to Out Zone, Fixeight fixes many of the problems that its predecessor had. The main gimmick of the game are the eight unique characters, each of which have different weapons in their arsenal.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/fixeight-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gbusters.zip</path>
+		<name>Gang Busters</name>
+		<desc>An overhead shoot'em up where you play as a green-haired dude.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/gbusters-image.jpg</image>
+		<rating>0.7</rating>
+		<releasedate>19880601T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gundhara.zip</path>
+		<name>Gundhara</name>
+		<desc>Gundhara is a 2D top-down shooter, similar to Commando, Ikari Warriors and Bloody Wolf. The game has two heroes: Jerry and Jinn. Gameplay is simple and dynamic - the chosen hero shoots various enemies (like soldiers and robots) and rescues hostages in various locations. The heroes have guns, but they can also kick and use special weapons. A big boss awaits at the end of each level.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/gundhara-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer></developer>
+		<publisher>Banpresto Co., Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./guwange.zip</path>
+		<name>Guwange</name>
+		<desc>The story of Guwange is set during the Muromachi period of Japan. During this time, increasing numbers of people suffer possession by shikigami. Although the shikigami grant great spiritual powers, the strain inflicted on the host causes them to die exactly one year after possession. However, a legend has sprung up regarding Guwange, the malevolent god trapped in Mt. Gokumon (i.e. Hell Gate). If one possessed by a shikigami can gather talismans of the five Chinese elements—wood, fire, earth, metal, water—from five demons serving Guwange, then infiltrate Gokumon and slay Guwange, the shikigami will be destroyed and the one possessed will not suffer a premature death.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/guwange-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>Cave</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./karatblz.zip</path>
+		<name>Karate Blazers</name>
+		<desc>Choose among 4 martial arts masters, each with his own distinct killing blow.
+
+Feel the excitement of real fighting as you fight to recover the secret scrolls and save the daughter of your slain master.
+
+Defend the honor of the old master as only you can do.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/karatblz-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19910201T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Video System</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+	</game>
+	<game>
+		<path>./macross2.zip</path>
+		<name>Macross II</name>
+		<desc>In 1999, an alien ship crashes on South Atalia Island and makes the human race aware of other life in space. Ten years later, the ship is reconstructed and christened as the SDF-1 Macross. However, on the day of its maiden voyage, an alien race called the Zentraedi make their appearance on Earth, beginning the UN Spacy/Zentraedi war that would change the history of both races forever.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/macross2-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19930112T000000</releasedate>
+		<developer>NMK</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Shooter</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./metrocrs.zip</path>
+		<name>Metro-Cross</name>
+		<desc>Metro-Cross is a platform arcade game that was released by Namco in 1985. It runs upon Namco Pac-Land hardware (but with a video system like that used in Dragon Buster, modified to support a 2048-color palette). It uses a Motorola M6809 microprocessor, with a Hitachi HD63701 sub-microprocessor (both running at 1.536 MHz) and Namco 8-channel waveform PSG for audio.
+
+The player must take control of a man known only as Runner, who is given a time limit to run through each of the game's thirty-two rounds while avoiding obstacles and collecting drink cans. The actual running happens automatically: the job of the player is to avoid the obstacles and collect the cans by moving the Runner with the stick and adjusting his speed accordingly.
+
+If the Runner finishes the round within the time limit, the remaining time will be awarded to him as bonus points and he will proceed to the next round. Every fourth round is special, using the remaining time from the three previous ones as additional time. However, if the Runner has not finished the round by the time the time limit runs out, he will be electrocuted and the game will immediately be over.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/metrocrs-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./riot.zip</path>
+		<name>Riot</name>
+		<image>~/.emulationstation/downloaded_images/fba/riot-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920507T000000</releasedate>
+		<developer>NMK</developer>
+		<publisher>NMK</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sbomber.zip</path>
+		<name>Space Bomber</name>
+		<desc>A cutesy vertical shooter with pigs and octopuses instead of airplanes or jets. The game was produced in Japan only.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/sbomber-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19981001T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./macross.zip</path>
+		<name>Super Spacefortress Macross</name>
+		<desc>A one or two player shooter game published and developed by Banpresto in 1992.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/macross-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./suratk.zip</path>
+		<name>Surprise Attack</name>
+		<desc>In this game, you attempt to collect bombs whithin the time limit while shooting at terrorists. The faster you complete the level, the better the rank you will have.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/suratk-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19901001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./teddybb.zip</path>
+		<name>Teddy Boy Blues</name>
+		<desc>Teddy Boy Blues – Yohko Ishino (テディボーイ・ブルース / 石野陽子 Tedibōi Burūzu / Ishino Yōko?) is a 1985 arcade game made by Sega. It stars a young boy who is armed with a gun. Each level is an infinitely-repeating maze with several dice. Each die is filled with monsters which hatch out and the player must shoot to shrink, then collect them. If the player does not collect each shrunken monster quickly, it turns into a time-eating bug which flies to the time limit bar and consumes a chunk of it. If you touch one monster or run out of time then you lose a life. The game ends if all lives are lost. There are 50 distinct levels, called "rounds" in the game, even though the counter goes to 99 (the 100th level does not show). The player can play through the levels loops infinitely, with no apparent end. There are also "bonus rounds" every so often where the player can shoot colored dice to reveal prizes and increase his or her score.
+
+The name of the arcade version was a reference to a 1985 hit song entitled "Teddy Boy Blues" by then-popular Japanese pop star Yōko Ishino, an instrumental version of which constantly played in the background during the game. An animated version of Ishino also appeared on the title screen and during the bonus rounds.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/teddybb-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./tengai.zip</path>
+		<name>Tengai</name>
+		<desc>Sengoku Blade: Sengoku Ace Episode II, originally released in Japan as Tengai, is a horizontally scrolling shoot 'em up video game released for arcade machines in 1996 by Psikyo as a sequel to the 1993 shooter Sengoku Ace. It was later released as a part of Psikyo Shooting Collection Vol. 2: Sengoku Ace &amp; Sengoku Blade for the PlayStation 2, and separately for iOS and Android devices. The game is set in a historical fantasy version of the Sengoku period of Japanese history, featuring demons, magic and steam-powered robotics.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/tengai-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./srumbler.zip</path>
+		<name>The Speed Rumbler</name>
+		<desc>Terrorists have taken Super Joe's family and a number of townspeople hostage. You must drive your gun-equipped car through dangerous streets to free the hostages and collect power-ups. If your vehicle is severely damaged, you may jump free and continue to fight on foot.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/srumbler-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19861001T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./thoop.zip</path>
+		<name>Thunder Hoop</name>
+		<desc>Get involved in the awesome and great fun Thunder Hoop by entering the world and taking on the might of the evil Dr. GenBrain! Help your angry-looking and powerful character as you battle through the hordes of enemies, big and small to defeat the nasty Dr. GenBrain and restore peace to your futuristic world, one level at a time! Jump hazards, climb ladders and launch deadly attacks in the awesome Thunder Hoop.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/thoop-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./vendetta.zip</path>
+		<name>Vendetta</name>
+		<desc>Vendetta is a 1991 side-scrolling beat-'em-up arcade game developed and published by Konami. It is the sequel to the 1989 Konami game Crime Fighters.
+
+The four men of the game's hero gang, The Cobras, fight through waves of enemies to rescue Kate, The Cobras' fifth member, who was kidnapped by the Dead End Gang. As with most beat-em-ups, the game features primarily side-scrolling action. Player score is based on number of opponents eliminated. The game uses 'punch' and 'kick' buttons rather than 'jump' and 'attack'. Pressing both buttons while walking performs an aerial attack.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/vendetta-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19910701T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>4+</players>
 	</game>
 </gameList>

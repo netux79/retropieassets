@@ -3699,5 +3699,31 @@ Both single player and multi player options are available; you can play with up 
 		<path>./SMW Hacks/SMW - Yoshi's Strange Quest Beta.zip</path>
 		<name>Yoshi's Strange Quest</name>
 		<image>~/.emulationstation/downloaded_images/snes/SMW Hack-image.jpg</image>
-   </game>
+	</game>
+	<game>
+		<path>./Nosferatu.zip</path>
+		<name>Nosferatu</name>
+		<desc>It's a race of time. Kyle must save his fair maiden Erin before the evil cutches of Nosferatu can sway her fate forever! Dungeons and graveyards are only a few obsticles in his path, littered with traps and beasts of unspeakable nature. Join Kyle's journey into darkness to return his love before her soul is lost for eternity!
+
+-16 megs of dramatic action and adventure at its best!
+-With 6 master stages, 14 sub-levels, and countless hidden rooms, Nosferatu will challenge you with fun and adventure!
+-Discover treasures and hidden secrets of every level!
+-Fluid play control for speed and maneuvering!
+-Multiple hit combinations including flying reverse kicks, roundhouse kicks, spinning back fists and many more!
+-Awesome movie like graphics, including more than 350 frames of character animations! Realistic arcade style action!
+-Battle creatures like Werewolves, Beholder Eyes, Stone Gholems, Gargoyles, and Vlad the Impaler (Nosferatu) himself!
+-Superb soundtrack and quality special effects!</desc>
+		<image>~/.emulationstation/downloaded_images/snes/Nosferatu-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19941018T000000</releasedate>
+		<developer>Seta</developer>
+		<publisher>Seta</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./SOS.zip</path>
+		<name>SOS</name>
+      <image>~/.emulationstation/downloaded_images/snes/SOS-image.jpg</image>
+		<rating>0</rating>
+	</game>
 </gameList>

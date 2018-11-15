@@ -264,4 +264,18 @@ In your attempt to overthrow the dark Lord, you will fight the strangest and str
 		<genre>Shooter</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./nemo.zip</path>
+		<name>Nemo</name>
+		<desc>One night, as Nemo sleeps, he is visited in a dream by the King of Slumberland, who invites Nemo to come and play with the King's daughter, the Princess. Nemo finds himself unable to find the Princess however, so he and 'Flip', a strange companion who also turns up in the dream, decide to explore Slumberland and find the king.
+
+Nemo is a colourful and abstract platform shoot-em-up set in the dream world of Slumberland, a surreal world in which childrens' toys are running amok and must be destroyed. Nemo is armed with a magical staff that emits a burst of magic to destroy the many enemies, some of which require multiple hits. A number of power-ups also appear at regular intervals to aid Nemo in his quest through seven tough stages.</desc>
+		<image>~/.emulationstation/downloaded_images/cps1/nemo-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19901201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
 </gameList>
