@@ -365,7 +365,7 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./Time Soldiers.zip</path>
@@ -389,5 +389,59 @@ Adol is informed that he must seek out the six Books of Ys. These books contain 
 		<developer>Tatsunoko Productions</developer>
 		<publisher>Sega</publisher>
 		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./Bank Panic.zip</path>
+		<name>Bank Panic</name>
+		<desc>Bandits are holding up a bank and have taken people hostage, and as a gunslinger, it's your job to shoot them. The bank has 12 doors, and the bandits are behind each one of them. When they pull a gun out at you when you open a door, you have only a few seconds to shoot them before they shoot you. If you shoot them too early (ie: before he sticks his gun out at you), it is considered unfair, and you won't score any points, but if you're too late, he'll shoot you and you lose one of your three lives.If you waste too much time, a bandit will come out from one of the doors and stick dynamite on it. You must then shoot the dynamite to get rid of it. 
+
+If you're lucky, either a man or a woman will throw you a bag of gold coins. If you shoot any of these people by accident, you also lose a life. More often than not, the person will throw his/her hands up, saying "I haven't got anything". That's when they will be replaced by bandits. 
+
+Some men will carry three to five pieces of gold on top of their heads, and shooting at all of the gold will award you with a bag of gold coins. Others will be tied up with rope. If you shoot the rope, there's more money for you, because not only will you receive one bag of gold coins, but you'll get three bags of gold coins.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Bank Panic-image.jpg</image>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Laser Ghost.zip</path>
+		<name>Laser Ghost</name>
+		<desc>Poor Katherine is scared stiff. Ghosts and goblins have stolen her soul and imprisoned her. "Help me... somebody please help me..."</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Laser Ghost-image.jpg</image>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Line of Fire.zip</path>
+		<name>Line of Fire</name>
+		<desc>Just as you stole the enemy's secret weapon and started back, the enemy spotted you! Now you must fight your way back to safety. But be careful! You're in the line of fire.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Line of Fire-image.jpg</image>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Sanritsu</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Operation Wolf.zip</path>
+		<name>Operation Wolf</name>
+		<desc>The object of the game is to rescue the five hostages in the concentration camp. The game is divided into six stages: Communication Setup, Jungle, Village, Powder Magazine, Concentration Camp, and Airport. Completion of each stage advances the story. For example, upon completing the Jungle stage, an enemy leader is interrogated and the location of the enemy's concentration camp is found. This was one of the first shooter games to feature a storyline, and it had some similarities to real special operations missions.</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Operation Wolf-image.jpg</image>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Taito Corporation</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Space Gun.zip</path>
+		<name>Space Gun</name>
+		<desc>From a crippled starship at the edge of the galaxy comes a cry for help. Alien monsters have taken over and it's up to you to save what human crew remains! Choose your own path down dark corridors and through deadly arenas in non-stop shooting action!</desc>
+		<image>~/.emulationstation/downloaded_images/mastersystem/Space Gun-image.jpg</image>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
 	</game>
 </gameList>

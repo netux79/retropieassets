@@ -3723,7 +3723,19 @@ Both single player and multi player options are available; you can play with up 
 	<game>
 		<path>./SOS.zip</path>
 		<name>SOS</name>
-      <image>~/.emulationstation/downloaded_images/snes/SOS-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/snes/SOS-image.jpg</image>
 		<rating>0</rating>
+	</game>
+	<game>
+		<path>./New Super Mario Land.zip</path>
+		<name>New Super Mario Land</name>
+		<desc>New Super Mario Land is a homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo.
+It combines the Game Boy original with New Super Mario Bros style graphics and adds gameplay features such as a four player simultaneous multiplayer mode.
+It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.
+</desc>
+		<image>~/.emulationstation/downloaded_images/snes/New Super Mario Land-image.jpg</image>
+		<releasedate>20190421T000000</releasedate>
+		<genre>Action, Adventure, Platform</genre>
+		<players>4</players>
 	</game>
 </gameList>
