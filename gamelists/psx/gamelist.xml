@@ -3236,4 +3236,14 @@ New world tour mode and other enhancements!
 		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./Nanotek Warrior.pbp</path>
+		<name>Nanotek Warrior</name>
+		<desc>Welcome to the 23rd century. The world has been at peace for the last 100 years. Nano-technology has become a reality and disease and hunger have been virtually wiped out by tiny Nano-robots created to serve every purpose known to man. Increasingly sophisticated, the Nano-robots have recently gained sentience and are systematically attempting to wipe out their creators, humankind.</desc>
+		<image>~/.emulationstation/downloaded_images/psx/Nanotek Warrior-image.jpg</image>
+		<releasedate>19970228T000000</releasedate>
+		<developer>Tetragon</developer>
+		<publisher>Virgin Interactive Entertainment, Inc.</publisher>
+		<genre>Action, Shooter</genre>
+	</game>
 </gameList>
