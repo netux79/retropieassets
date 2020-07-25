@@ -3563,4 +3563,16 @@ A top-down view is utilized in the game; similar to the method used in The Adven
 		<publisher>Konami</publisher>
 		<genre>Shooter</genre>
 	</game>
+	<game>
+		<path>./Jackal.zip</path>
+		<name>Jackal</name>
+		<desc>The Jackal squad, a four-man team composed of Colonel Decker, Lieutenant Bob, Sergeant Quint and Corporal Grey, is sent to rescue soldiers kept as hostages by the enemy. One or two players control the teams in an armed jeep, which must venture through several enemy strongholds to rescue comrades imprisoned by the enemy. In each of the six levels, the goal is to rescue POWs from various buildings and then transfer them to helicopter dust-off locations. Once the soldiers are secure, the player(s) must then proceed to defeat the boss at the end of each level. In the last level, there are two bosses that must be defeated.</desc>
+		<image>~/.emulationstation/downloaded_images/nes/Jackal-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19860627T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
 </gameList>

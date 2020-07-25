@@ -616,7 +616,7 @@ As a follow-up to Out Zone, Fixeight fixes many of the problems that its predece
 		<image>~/.emulationstation/downloaded_images/fba/gundhara-image.jpg</image>
 		<rating>0</rating>
 		<releasedate>19950101T000000</releasedate>
-		<developer></developer>
+		<developer />
 		<publisher>Banpresto Co., Ltd.</publisher>
 		<genre>Action</genre>
 		<players>2</players>
@@ -659,7 +659,7 @@ Defend the honor of the old master as only you can do.</desc>
 		<developer>NMK</developer>
 		<publisher>Banpresto</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./metrocrs.zip</path>
@@ -675,7 +675,7 @@ If the Runner finishes the round within the time limit, the remaining time will 
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Action</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./riot.zip</path>
@@ -787,5 +787,99 @@ The four men of the game's hero gang, The Cobras, fight through waves of enemies
 		<publisher>Konami</publisher>
 		<genre>Fighting</genre>
 		<players>4+</players>
+	</game>
+	<game>
+		<path>./blswhstl.zip</path>
+		<name>Bells &amp; Whistles</name>
+		<desc>Set several years after the events of the original TwinBee, TwinBee and WinBee are relaxing at their island when they receive an SOS signal from the distant planet of Meru. The signal contains a message sent by Queen Melora, who pleads for the salvation of her planet from the invading forces of the evil alien Iva. TwinBee and his friends decides to set off to outer space to defeat the forces of Iva and save Planet Meru.[5] Detana!! marks the first appearance of TwinBee's and WinBee's respective pilots, Light and Pastel, who became prominent characters in many subsequent TwinBee video games and related media, although they were originally unnamed in this game (the characters were given their names in the audio drama TwinBee Paradise).</desc>
+		<image>~/.emulationstation/downloaded_images/fba/blswhstl-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./lgtnfght.zip</path>
+		<name>Lightning Fighters</name>
+		<desc>Lightning Fighters, released in Japan as Trigon (トライゴン?), is a 1990 scrolling shooter arcade game by Konami. It is commonly compared to Raiden, though the two games were released very close to each other, and they were both meant to compete with the works of Toaplan.
+
+Though Lightning Fighters has become an obscure arcade-only title, Konami has referenced it multiple times over the years. Gradius Gaiden features a boss modeled after the ship and weapons from the game, and Yu-Gi-Oh! cards such as "Trigon", "Delta Tri" (based on the mentioned Gradius Gaiden boss), and "Dragon Laser" also represent the game.
+
+Stub icon	This scrolling shooter article is a stub. You can help Wikipedia by expanding it.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/lgtnfght-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19901001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mia.zip</path>
+		<name>M.I.A. Missing in Action</name>
+		<desc>The player takes on the role of a US Army special operations soldier infiltrating enemy POW camps in Vietnam to find prisoners of wars and lead them to freedom. Like its predecessor, there are a total of six levels in the game: war-torn field, jungle, airstrip, rail-yard, POW camp, and escaping POW camp. M.I.A. can be played by up to two players, with Player 1 in green and Player 2 in blue.
+
+Throughout most of the game, the player's main weapon is a knife, which is capable of destroying any enemy in the game. By killing the red enemy soldiers, the player can acquire additional weapons. The available weapons consist of an assault rifle (12 rounds), a flamethrower (2 rounds), a bazooka (3 rounds), and grenades (3 rounds). Unlike Green Beret, the player can carry more than one weapon and switch between them at will. If the player loses a life, then only their currently equipped weapon will be lost.
+
+At the end of each level, an assorted amount of troops on fixed machine gun positions (usually four) that must be eliminated. On the last mission of the game, the freed hostages are susceptible to being slain by enemies; if all the POW's get killed then "MISSION FAILED" flashes on the screen and the game is permanently over.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/mia-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19891001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pooyan.zip</path>
+		<name>Pooyan</name>
+		<desc>Pooyan (プーヤン) is an arcade game released by Konami in Japan in 1982. It was manufactured in North America by Stern Electronics. The player controls "Mama", a pig whose babies have been kidnapped by a group of wolves.
+
+Gameplay : Mama Pig defends her home and rescues her "Pooyan" (the kidnapped piglets) riding an elevator car moved by two "Buuyan" (controlled by the player with a Y-axis [up and down] joystick), and uses a bow and arrow with slabs of meat against the balloon-riding wolves and their boss (the latter being pink in color while the former are red).
+
+There are two stages. In the first, the wolves are riding to the bottom of the screen, and if Mama does not shoot them down, they will climb up the ladders and try to eat her. In the second (occurring after an "intermission" sequence), the wolves are riding to the top of screen, and if enough wolves get there, they will push a boulder on top of Mama, resulting in a life being lost. In both cases, the stage is cleared by shooting all the wolves, though in the second stage the boss must be shot down (which will take many shots unless the meat is used), otherwise the wolves will keep coming.
+
+After the second stage is cleared a bonus round begins. In one type, Mama must shoot all the wolves only using meat, while in the other she must use regular arrows on the fruits. Afterward, the game begins anew with higher difficulty.
+
+When the game starts, "The Other Day I Met a Bear" can be heard during the opening scene (in which the wolves kidnap Mama's babies). The first stage theme bears a very slight resemblance to the main theme music from Frogger, another Konami arcade game. The song is a part of the Desecration Rag (An operatic Nightmare) by Felix Arndt, the portion that mimics the beginning of Antonín Dvořák's Humoresque Opus 101 Number 7. After the second stage is cleared a second time, a part of "Oh! Susanna" can be heard.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/pooyan-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820331T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./scramble.zip</path>
+		<name>Scramble</name>
+		<desc>Player controls a spaceship that must infiltrate the enemy Scramble system in this side-view shooter/bomber classic. Player must destroy the Base at the end of the system.</desc>
+		<image>~/.emulationstation/downloaded_images/fba/scramble-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19811001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./scobra.zip</path>
+		<name>Super Cobra</name>
+		<desc>You're a helicopter gunship pilot on a daring and dangerous mission: air surveillance of enemy territory. Success depends on how far you can penetrate enemy airspace. Can you handle the pressure? Because the further you go, the more difficult the mission becomes. Show that you've got what it takes by maneuvering your chopper around craggy mountain peaks, through deep dark tunnels, and over tall city buildings. All while you face enemy tanks and missiles and weird sky-flying weapons. But you can fight back with high-flying, quick-thinking, fast-reaction moves. Good luck and good flying!</desc>
+		<image>~/.emulationstation/downloaded_images/fba/scobra-image.jpg</image>
+		<rating>0.8</rating>
+		<releasedate>19810622T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Stern</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./theend.zip</path>
+		<name>The End</name>
+      <image>~/.emulationstation/downloaded_images/fba/theend-image.jpg</image>
+		<rating>0</rating>
 	</game>
 </gameList>

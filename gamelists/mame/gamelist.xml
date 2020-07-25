@@ -1217,18 +1217,142 @@ There are also other items, such as the key, which surrounds the player in a bub
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Shooter</genre>
-		<players></players>
+		<players />
 	</game>
 	<game>
 		<path>./outrun.zip</path>
 		<name>Out Run</name>
-      <image>~/.emulationstation/downloaded_images/mame/outrun-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/mame/outrun-image.jpg</image>
 		<rating>0</rating>
 	</game>
 	<game>
 		<path>./swcourt.zip</path>
 		<name>Super World Court</name>
-      <image>~/.emulationstation/downloaded_images/mame/swcourt-image.jpg</image>
+		<image>~/.emulationstation/downloaded_images/mame/swcourt-image.jpg</image>
 		<rating>0</rating>
+	</game>
+	<game>
+		<path>./battlnts.zip</path>
+		<name>Battlantis</name>
+		<desc>A vertical shoot-em-up. Protect the castle by moving a bowman horizontally across the bottom of the screen, shooting upwards at the assorted fantasy warriors who are advancing in waves. The game includes boss waves and has nice music.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/battlnts-image.jpg</image>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./chqflag.zip</path>
+		<name>Chequered Flag</name>
+		<desc>An overhead-view racing game featuring rotational sprite scaling. The player races over a series of twisting courses, trying to reach the finish line before the timer expires.
+
+Chequered Flag includes a Pit-stop facility, a feature that had appeared a year earlier in Taito's 'Continental Circus'. Should the player's car sustain too much damage, a pit-stop must be made to implement repairs. A 'damage meter' at the bottom of the screen shows the severity of the damage; highlighting what car components are in need of repair; Engine, Front Tires, Rear Tires and Brakes.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/chqflag-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+	</game>
+	<game>
+		<path>./jackal.zip</path>
+		<name>Jackal</name>
+		<desc>The Jackal unit is an elite group of four soldiers that have undergone a harsh training regiment to survive in any environment. The team is composed of Colonel Decker, Lieutenant Bob, Sergeant Quint and Corporal Grey. They have been given a mission to drive two armed jeeps into hostile territory in order to rescue and extract POWs.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/jackal-image.jpg</image>
+		<rating>1</rating>
+		<releasedate>19860627T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./jailbrek.zip</path>
+		<name>Jail Break</name>
+		<desc>Move your character, a policeman, through the streets firing on escaped convicts.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/jailbrek-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./junofrst.zip</path>
+		<name>Juno First</name>
+		<desc>Juno First is a shoot 'em up originally developed and published by Konami Corporation for Arcades. The game was later published by Mylstar Electronics (US arcades), Datasoft Inc. (Atari 8-bit, PC Booter, and Commodore 64), and Sony Computer Entertainment Japan (MSX).
+
+Juno First is a top down, vertical scrolling shooter in which there is a limited amount of time to defeat the enemies in each wave.
+
+The players spaceship starts out with a laser that has a longer reach than the enemy weapons. The enemies start out firing a few bullets at the ship but the amount enemy fire rapidly increases as players progress through to the next waves.
+
+Certain enemies fire tracking missile-like projectiles that can shoot additional bullets.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/junofrst-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kicker.zip</path>
+		<name>Kicker</name>
+		<desc>Shao-lin's Road, released in certain markets as Kicker, is a 1985 beat 'em up video game released by Konami. The game was commercially successful, becoming a chart hit in the arcades. It was ported to several early home computers and has also been featured in classics compilations Konami Arcade Classics in 1998 and Konami Classics Series: Arcade Hits in 2007, and was released for Microsoft's Game Room in 2010.
+
+Players take control of Wanpyou (renamed Kicker in Kicker, renamed Lee in other ports), who has just mastered the secret of Chin-style Shaolin martial arts. He then encounters the triad Yamucha Gang, also responsible for the assassination of his master Raochuu, and is trapped within their Jaken Temple. He attempts to escape and enact revenge with his new-found skills.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/kicker-image.jpg</image>
+		<rating>0</rating>
+		<developer></developer>
+		<publisher></publisher>
+		<genre>Fighting</genre>
+		<players></players>
+	</game>
+	<game>
+		<path>./megazone.zip</path>
+		<name>Mega Zone</name>
+		<desc>This game has flavors of several different video games rolled into one. It is mostly like Xevious, being an overhead shooter against a plethora of enemies, each with a unique characteristic. Unlike Xevious, however, that only allowed you to travel in one straight path, Mega Zone periodically allows you to choose different paths. For most of the game, the player's ship flies along a river. When the river forks, the player has the option of following either fork.
+
+The game also has elements of Scramble, in that the player fights through numerous zones in the struggle to reach the end. Where Scramble has a progress bar at the top, Mega Zone gives the player a map, and shows the player the progress along the map between lives. The main enemies of Mega Zone are giant robot eyeballs. Easily enough destroyed, they still pose a menace. Smaller eyeballs leave teardrops when destroyed, which when picked up, give bonus points and wipe out all enemies on the screen.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/megazone-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19831001T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./timeplt.zip</path>
+		<name>Time Pilot</name>
+		<desc>Time Pilot is a multi-directional scrolling shooter and free-roaming aerial combat arcade game designed by Yoshiki Okamoto, released by Konami in 1982, and distributed in the United States by Centuri. Debuting in the golden age of video arcade games, it is a time travel themed game that allowed the player's plane to freely move across open air space that can scroll indefinitely in all directions.
+
+The Killer List of Videogames included Time Pilot in its list of top 100 arcade games of all time.
+
+The player assumes the role of a pilot of a futuristic fighter jet, trying to rescue fellow pilots trapped in different time eras. The player must fight off hordes of enemy craft and defeat the mother ship (or "boss") present in every level. The background moves in the opposite direction to the player's plane, rather than the other way around; the player's plane always remains in the center.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/timeplt-image.jpg</image>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./tp84.zip</path>
+		<name>Time Pilot '84</name>
+		<desc>Time Pilot '84: Further Into Unknown World is an eight-way scrolling shoot 'em up, released in 1984 by Konami. It is the sequel to Time Pilot. The player pilots a craft over many time periods. Unlike the original which told the year of each level, the new time periods are designated by new enemies and different colors.
+
+There are a large number of enemy types in the game. They each have varying movement patterns, difficulty, and point values. The first button is used to fire a standard shot, which can destroy green-colored enemies. The second button is used to fire missiles, which can destroy the silver-colored enemies. You need to lock on to a silver enemy to fire missiles at it. Destroying enough green enemies brings out a large silver "boss" enemy that must be dispatched before advancing to the next level.</desc>
+		<image>~/.emulationstation/downloaded_images/mame/tp84-image.jpg</image>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher></publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
 	</game>
 </gameList>
